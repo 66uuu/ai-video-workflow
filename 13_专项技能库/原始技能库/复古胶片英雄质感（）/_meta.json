@@ -1,0 +1,32 @@
+{
+  "name": "复古胶片英雄质感（）",
+  "templateUuid": "a8a3bf46a5bd47f5b603ac69964976eb",
+  "skillUuid": "7ead954dacf246b5978de68b5ac38a26",
+  "skillKey": "vintage-cinematic-film-aesthetic-ee4c98d9305047d3969436f1afd157d7",
+  "version": "1.0.2",
+  "namespace": "libtv-user-generated",
+  "description": "暗调电影感胶片质感，可出图也可叠用",
+  "author": "龚文棣李俊辉",
+  "ownerId": 8569448,
+  "tags": [],
+  "likeCount": null,
+  "usePv": 3,
+  "useUv": 2,
+  "publishAt": "2026-09-23 16:36:14",
+  "snapshotId": 49561,
+  "useScenario": "需要把画面统一成复古胶片电影质感时使用（暗部青绿墨绿、亮部暖黄橙、胶片颗粒、高对比暗调、剪影半剪影、轻微运动模糊）。既可单独出图，也可把风格关键词叠加到别的图片生成任务上。",
+  "inputType": "一句画面描述（主体＋场景＋动作＋氛围）；可选补充画幅比例。叠加用法下，直接给已有的图片提示词即可。",
+  "outputContent": "一张带该复古胶片质感的图片；或一段可直接粘贴到其他提示词末尾的风格关键词段落。",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/ee4c98d9305047d3969436f1afd157d7/4d779b79be9ce92a9546842b943b42e9cb07097b.png",
+  "resultType": 2,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=a8a3bf46a5bd47f5b603ac69964976eb",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/ee4c98d9305047d3969436f1afd157d7/4d779b79be9ce92a9546842b943b42e9cb07097b.png"
+  ],
+  "hasPublicSkillContent": true
+}

@@ -1,0 +1,32 @@
+{
+  "name": "狄金斯光影方法",
+  "templateUuid": "ffc114a90f524d00a5fa840b6350d995",
+  "skillUuid": "d3450087342343238f51b627bab1bc03",
+  "skillKey": "deakins-lighting-narrative-fc90127e45224b3dbc353ef70178b69b",
+  "version": "1.0.0",
+  "namespace": "libtv-user-generated",
+  "description": "用动机光、克制运镜和空间连续性，让每一束光都有叙事理由。",
+  "author": "小葵小丹",
+  "ownerId": 596837,
+  "tags": [],
+  "likeCount": 17,
+  "usePv": 19,
+  "useUv": 11,
+  "publishAt": "2026-07-15 19:11:53",
+  "snapshotId": 27447,
+  "useScenario": "适合剧情短片、商业广告、AI电影和分镜预演的摄影设计。重点解决光线没有来源、运镜没有动机、镜间光向跳变和只有风格词却无法执行的问题。方法研究｜非官方；不复制具体影片镜头，不使用未经授权的肖像、剧照、标识或文本。",
+  "inputType": "输入场景文本、人物目标、情绪转折与场地信息；可附门窗、实景灯、角色和相邻镜头参考，并指定画幅、时段和生成平台。",
+  "outputContent": "场景意图、真实光源地图、镜头与焦段规则、曝光层级、逐镜提示词、禁止项和连续性质检清单。",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/fc90127e45224b3dbc353ef70178b69b/4daeb44de61f9c6b6d479c1625ba2c16bb15bf88.png",
+  "resultType": 3,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=ffc114a90f524d00a5fa840b6350d995",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/fc90127e45224b3dbc353ef70178b69b/453a3048de9c7e57a1b84adc87fd8a6f6b17a47e.mp4"
+  ],
+  "hasPublicSkillContent": true
+}

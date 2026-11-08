@@ -1,0 +1,32 @@
+{
+  "name": "电影级夸张角色设计-丫一吧",
+  "templateUuid": "ec854d24b48f44bbb6b31a6b57468af6",
+  "skillUuid": "0d39fa3b74dc4f1592e9227c078fedc3",
+  "skillKey": "cinematic-exaggerated-character-designer-97732afae5b94b01974016375995e488",
+  "version": "1.0.1",
+  "namespace": "libtv-user-generated",
+  "description": "通过夸张比例、独特体态、性格外化和视觉符号，创造适用于任何时",
+  "author": "丫一吧",
+  "ownerId": 51974,
+  "tags": [],
+  "likeCount": 4,
+  "usePv": 6,
+  "useUv": 3,
+  "publishAt": "2026-09-10 12:01:30",
+  "snapshotId": 44914,
+  "useScenario": "一个通用型电影级角色设计 Skill，通过夸张比例、独特体态、性格外化和视觉符号，创造适用于任何时代、世界观和类型的高辨识度角色形象。",
+  "inputType": "1. 输入角色基础信息\n\n提供：\n\n角色名称\n年龄\n身份职业\n时代背景\n世界观类型\n性格特点\n能力特征\n参考风格（可选）\n2. Skill自动进行角色拆解\n\n根据输入内容生成：\n\n角色核心定位\n视觉关键词\n身体比例设计\n脸部特征\n体态语言\n服装设计\n装备道具\n色彩体系\n剪影特点\n表情动作设计",
+  "outputContent": "让文字中的人物变成具有灵魂、性格和视觉冲击力的电影级角色形象。",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/97732afae5b94b01974016375995e488/5ae5d3732b01a5b917dff121f17c336e580acc6b.png",
+  "resultType": 2,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=ec854d24b48f44bbb6b31a6b57468af6",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/97732afae5b94b01974016375995e488/5ae5d3732b01a5b917dff121f17c336e580acc6b.png"
+  ],
+  "hasPublicSkillContent": true
+}

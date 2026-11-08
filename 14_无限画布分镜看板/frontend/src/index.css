@@ -1,0 +1,284 @@
+html,
+body,
+#root {
+  height: 100%;
+  margin: 0;
+}
+
+.app {
+  display: flex;
+  height: 100%;
+  width: 100%;
+  font-family: -apple-system, "Segoe UI", "Microsoft YaHei", sans-serif;
+}
+
+/* ---------- 左侧面板 ---------- */
+.panel {
+  width: 300px;
+  min-width: 300px;
+  background: #0f172a;
+  color: #e2e8f0;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+
+.panel header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 12px 14px;
+  border-bottom: 1px solid #1e293b;
+}
+
+.panel h1 {
+  font-size: 15px;
+  margin: 0;
+  font-weight: 600;
+}
+
+.panel header button {
+  background: #2563eb;
+  color: #fff;
+  border: none;
+  border-radius: 6px;
+  padding: 5px 12px;
+  cursor: pointer;
+  font-size: 13px;
+}
+
+.panel header button:disabled {
+  opacity: 0.5;
+  cursor: default;
+}
+
+.panel .status {
+  margin: 0;
+  padding: 8px 14px;
+  font-size: 12px;
+  color: #94a3b8;
+  border-bottom: 1px solid #1e293b;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.file-list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  overflow-y: auto;
+  flex: 1;
+}
+
+.file-list li {
+  border-bottom: 1px solid #1e293b;
+}
+
+.file-list button {
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+  width: 100%;
+  text-align: left;
+  background: none;
+  border: none;
+  color: #e2e8f0;
+  padding: 9px 14px;
+  cursor: pointer;
+  font-size: 13px;
+}
+
+.file-list button:hover {
+  background: #1e293b;
+}
+
+.file-list .fname {
+  font-weight: 600;
+}
+
+.file-list .fdir {
+  font-size: 11px;
+  color: #64748b;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.panel .hint {
+  padding: 14px;
+  font-size: 12px;
+  color: #64748b;
+}
+
+.panel .tips {
+  padding: 12px 14px;
+  border-top: 1px solid #1e293b;
+  font-size: 11px;
+  color: #64748b;
+  line-height: 1.7;
+}
+
+.panel .tips p {
+  margin: 0;
+}
+
+/* ---------- 画布 ---------- */
+.canvas {
+  position: relative;
+  flex: 1;
+  min-width: 0;
+}
+
+.canvas .toggle {
+  position: absolute;
+  top: 10px;
+  left: 10px;
+  z-index: 200;
+  width: 28px;
+  height: 28px;
+  border-radius: 6px;
+  border: 1px solid #cbd5e1;
+  background: #fff;
+  cursor: pointer;
+  font-size: 16px;
+  line-height: 1;
+}
+
+/* ---------- 分镜卡片 ---------- */
+.shot-card {
+  box-sizing: border-box;
+  background: #ffffff;
+  border: 1px solid #dbe2ea;
+  border-radius: 10px;
+  box-shadow: 0 2px 10px rgba(15, 23, 42, 0.1);
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+  color: #0f172a;
+  font-family: -apple-system, "Segoe UI", "Microsoft YaHei", sans-serif;
+}
+
+.shot-card-head {
+  display: flex;
+  align-items: baseline;
+  gap: 8px;
+  padding: 8px 10px;
+  background: #f8fafc;
+  border-bottom: 1px solid #eef2f7;
+}
+
+.shot-card-head .shot-id {
+  font-weight: 700;
+  font-size: 15px;
+  color: #2563eb;
+}
+
+.shot-card-head .shot-size {
+  font-size: 12px;
+  color: #334155;
+}
+
+.shot-card-head .shot-dur {
+  margin-left: auto;
+  font-size: 11px;
+  color: #64748b;
+  font-variant-numeric: tabular-nums;
+}
+
+.shot-card-img {
+  height: 150px;
+  background: #f1f5f9;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  overflow: hidden;
+}
+
+.shot-card-img img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  -webkit-user-drag: none;
+  user-select: none;
+  pointer-events: none;
+}
+
+.shot-card-img-empty {
+  color: #94a3b8;
+  font-size: 12px;
+}
+
+.shot-card-body {
+  flex: 1;
+  padding: 8px 10px;
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  overflow: hidden;
+}
+
+.shot-row {
+  display: flex;
+  gap: 6px;
+  font-size: 12px;
+  align-items: baseline;
+}
+
+.shot-row .k {
+  color: #94a3b8;
+  flex-shrink: 0;
+}
+
+.shot-row .v {
+  color: #334155;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.shot-dialogue {
+  font-size: 12px;
+  line-height: 1.5;
+  color: #0f172a;
+  background: #fefce8;
+  border-left: 3px solid #facc15;
+  padding: 5px 8px;
+  border-radius: 4px;
+  display: -webkit-box;
+  -webkit-line-clamp: 3;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+
+.shot-dialogue .sp {
+  font-weight: 600;
+  color: #b45309;
+  margin-right: 4px;
+}
+
+.shot-card-foot {
+  padding: 6px 10px;
+  border-top: 1px solid #eef2f7;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 8px;
+}
+
+.shot-card-foot .beat {
+  font-size: 11px;
+  color: #64748b;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.qa-badge {
+  font-size: 11px;
+  font-weight: 700;
+  color: #fff;
+  padding: 2px 8px;
+  border-radius: 999px;
+  flex-shrink: 0;
+}

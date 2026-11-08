@@ -1,0 +1,32 @@
+{
+  "name": "视频复刻",
+  "templateUuid": "ce3ee16ce5c3428a8394e816981138c3",
+  "skillUuid": "5ada7defb3a14e6a979e4b5e9b5ab7e3",
+  "skillKey": "video-replicator-3b22c95132bd42e3b2fffe60ed965daf",
+  "version": "1.0.1",
+  "namespace": "libtv-user-generated",
+  "description": "精准拆解样片剧情结构，一键替换人物、环境与道具，生成同情节全",
+  "author": "微信用户ca25a6",
+  "ownerId": 9217750,
+  "tags": [],
+  "likeCount": 14,
+  "usePv": 21,
+  "useUv": 18,
+  "publishAt": "2026-09-01 15:18:51",
+  "snapshotId": 42596,
+  "useScenario": "适用于爆款短视频的二次创作、广告创意的低成本翻拍，以及IP内容的矩阵化裂变。帮助创作者跳过剧本构思阶段，利用已被验证的优秀剧情结构，快速产出差异化视觉的新内容。",
+  "inputType": "上传需要拆解的样片视频，并在文本框内明确描述您希望替换的具体元素。例如：“保留原视频剧情，将主角替换为赛博朋克风格的机器人，场景改为未来夜之城，原视频里的手机替换为全息投影仪。”",
+  "outputContent": "一段时长、叙事节奏与原片一致，但角色、道具和场景已按照您的要求完全替换的全新成片视频。",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/3b22c95132bd42e3b2fffe60ed965daf/5e478d87c8c6273633460519a39997b9dec2b84a.png",
+  "resultType": 2,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=ce3ee16ce5c3428a8394e816981138c3",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/3b22c95132bd42e3b2fffe60ed965daf/3692e1f93225b8ea967f250ef57cb622792c200a.jpg"
+  ],
+  "hasPublicSkillContent": true
+}

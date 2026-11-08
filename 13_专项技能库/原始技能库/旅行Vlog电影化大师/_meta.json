@@ -1,0 +1,32 @@
+{
+  "name": "旅行Vlog电影化大师",
+  "templateUuid": "a9d9dc45051c48d8b75d5a9ab537c324",
+  "skillUuid": "2a39acd6480c4d74a7c7a75ba2a8f6d5",
+  "skillKey": "cinematic-travel-storyboarder-f1cd68423b354abba991fe16eb70fb0a",
+  "version": "1.0.2",
+  "namespace": "libtv-user-generated",
+  "description": "输入旅行目的地与风格，生成电影级旅行短片分镜方案，含航拍、人",
+  "author": "Devilworld",
+  "ownerId": 610387,
+  "tags": [],
+  "likeCount": 14,
+  "usePv": 8,
+  "useUv": 7,
+  "publishAt": "2026-07-21 15:59:08",
+  "snapshotId": 29557,
+  "useScenario": "旅行博主vlog制作、城市宣传片策划、目的地种草短片、旅拍作品集、毕业旅行纪念视频、景点宣传素材",
+  "inputType": "输入旅行目的地或场景关键词，选择喜欢的风格调性，即可获得一套完整的电影级旅行短片制作方案。",
+  "outputContent": "旅行分镜脚本 + 每镜AI生成提示词 + 航拍地面多机位设计 + 调色配乐方案的电影级旅行Vlog完整制作文档",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/f1cd68423b354abba991fe16eb70fb0a/ea89e9c690517ad582a6d59a29eefc97370ec022.png",
+  "resultType": 3,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=a9d9dc45051c48d8b75d5a9ab537c324",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/f1cd68423b354abba991fe16eb70fb0a/63b7d5f9a5616b78bd2e387a7cae78bb2fe4849d.mp4"
+  ],
+  "hasPublicSkillContent": true
+}

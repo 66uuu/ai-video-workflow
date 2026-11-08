@@ -1,0 +1,32 @@
+{
+  "name": "古典东方胶片柔光人像",
+  "templateUuid": "d3d631025d624d01b6126566971c8fec",
+  "skillUuid": "d3c435007e9849798d223756ff6ddcde",
+  "skillKey": "classical-oriental-film-portrait-42a98d5f83a242568e1adfecc620ed3e",
+  "version": "1.0.0",
+  "namespace": "libtv-user-generated",
+  "description": "古典年轻女性、风吹碎发、烛火散景、奶油柔焦、橄榄黑背景、旧胶",
+  "author": "赛赛_Cecilia",
+  "ownerId": 4351068,
+  "tags": [],
+  "likeCount": 26,
+  "usePv": 13,
+  "useUv": 10,
+  "publishAt": "2026-08-03 21:13:41",
+  "snapshotId": 33022,
+  "useScenario": "用极浅景深、前景烛火和不断拂面的细发，把一个安静古典人物拍成仿佛记忆中失焦的瞬间。张力来自微小表情和光晕，而非剧情动作；画面要柔软但仍保留真实眼睛、皮肤和发丝。",
+  "inputType": "需要生成的人物形象，或一句话描述人物外表、梗概。",
+  "outputContent": "16秒东方古典美人静景特写镜头。",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/42a98d5f83a242568e1adfecc620ed3e/171493e703b5809d094630e1670c2544d26ecd63.png",
+  "resultType": 3,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=d3d631025d624d01b6126566971c8fec",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/42a98d5f83a242568e1adfecc620ed3e/771765c68a2482560d10dbe414356560a59bc059.mp4"
+  ],
+  "hasPublicSkillContent": true
+}

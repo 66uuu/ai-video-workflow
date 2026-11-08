@@ -1,0 +1,32 @@
+{
+  "name": "Y2K杂志美学时尚短片",
+  "templateUuid": "b6d800fdea004a1c80282296c40a3b1a",
+  "skillUuid": "f597fe1a3f394815addcac2652ce07e3",
+  "skillKey": "y2k-fashion-magazine-video-5866a894881b45a991a51b9cb7e80e7d",
+  "version": "1.0.2",
+  "namespace": "libtv-user-generated",
+  "description": "上传自己的模特与服装，自动生成Y2K杂志美学时尚短片",
+  "author": "JULY服装工作流",
+  "ownerId": 4051880,
+  "tags": [],
+  "likeCount": 4,
+  "usePv": 5,
+  "useUv": 4,
+  "publishAt": "2026-08-26 14:31:45",
+  "snapshotId": 40890,
+  "useScenario": "服装单品广告、品牌LOOKLOOK、上新短片、种草视频、时尚穿搭展示",
+  "inputType": "上传1张模特头像图、1-2张服装图、1张风格参考图即可生成",
+  "outputContent": "Y2K时尚杂志美学短片（视频）+ 封面图（图片）",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/5866a894881b45a991a51b9cb7e80e7d/cc9b157c7f30f86709670e62ea3175cd58908d8c.png",
+  "resultType": 3,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=b6d800fdea004a1c80282296c40a3b1a",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/5866a894881b45a991a51b9cb7e80e7d/17f7c6889a35468066de4309319c02bd38edc028.mp4"
+  ],
+  "hasPublicSkillContent": true
+}

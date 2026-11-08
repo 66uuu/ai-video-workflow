@@ -1,0 +1,33 @@
+{
+  "name": "全流程 AI 影视制作工具",
+  "templateUuid": "d73ff145db85494e9aec2145c2883824",
+  "skillUuid": "99b93811be944bb7b9171363b8429419",
+  "skillKey": "end-to-end-ai-film-production-11bc3e64e45c4de791f7addc03722825",
+  "version": "1.0.3",
+  "namespace": "libtv-user-generated",
+  "description": "混合风格分镜、双语提示词与跨集一致性方案",
+  "author": "微信用户5fa3fb",
+  "ownerId": 11933144,
+  "tags": [],
+  "likeCount": null,
+  "usePv": 2,
+  "useUv": 1,
+  "publishAt": "2026-09-22 16:59:56",
+  "snapshotId": 49177,
+  "useScenario": "当用户需要把构思、角色设定或剧本转化为 AI 短剧、电影或游戏画面方案，尤其是混合风格、武打编排，或需要跨集保持角色与剧情一致性时使用。",
+  "inputType": "角色或世界观设定、Character Bible（PDF/图片/文本）、系列状态档、创意文案或剧本、风格与画面参考，以及画幅、时长、是否对白等规格。",
+  "outputContent": "分镜列表、双语 Prompt、12 维风格分工表、角色 ID 锁定卡、QC 清单与退镜清单、后期规划，以及更新后的系列状态档。",
+  "coverUrl": null,
+  "resultType": 1,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=d73ff145db85494e9aec2145c2883824",
+  "files": [
+    "SKILL.md",
+    "references/series-state-template.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/11bc3e64e45c4de791f7addc03722825/8eccc3e364ac37b548d0316c2c61eb6916fbd4de.md"
+  ],
+  "hasPublicSkillContent": true
+}

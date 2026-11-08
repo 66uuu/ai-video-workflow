@@ -1,0 +1,32 @@
+{
+  "name": "场景卡",
+  "templateUuid": "f99aa004d4c6465e83b1212cc6faed61",
+  "skillUuid": "1471fdb63d454411a294e9584b19c5af",
+  "skillKey": "scene-perspective-layout-811fa7463ffb4aa988de383450f427db",
+  "version": "1.0.0",
+  "namespace": "libtv-user-generated",
+  "description": "制作一个场景的各个方位",
+  "author": "182****7332",
+  "ownerId": 10688139,
+  "tags": [],
+  "likeCount": 204,
+  "usePv": 380,
+  "useUv": 210,
+  "publishAt": "2026-07-22 02:01:55",
+  "snapshotId": 29673,
+  "useScenario": "1. 本指令用于生成 **单张 16:9 横版场景设定卡**，不是生成多张图片。\n2. 默认输出完整文字场景档案；只有用户明确要求 “提取绘图提示词” 时，才输出可直接复制的绘图词条。",
+  "inputType": "直接粘贴你要的场景提示词",
+  "outputContent": "输出场景各个角度画面以及场景道具",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/811fa7463ffb4aa988de383450f427db/0164fa9aaaf58be9ac8ca13cc917a7db7c5e592b.png",
+  "resultType": 2,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=f99aa004d4c6465e83b1212cc6faed61",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/811fa7463ffb4aa988de383450f427db/0164fa9aaaf58be9ac8ca13cc917a7db7c5e592b.png"
+  ],
+  "hasPublicSkillContent": true
+}

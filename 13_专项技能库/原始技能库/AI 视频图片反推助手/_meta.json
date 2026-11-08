@@ -1,0 +1,32 @@
+{
+  "name": "AI 视频图片反推助手",
+  "templateUuid": "77d32ea23823441eb8685cfe26e5d340",
+  "skillUuid": "8aa0b9dae18a43e09d5855dcbb6ac6af",
+  "skillKey": "reverse-prompt-engineer-8202932176ac485b9572011074a9f39c",
+  "version": "1.0.0",
+  "namespace": "libtv-user-generated",
+  "description": "看到喜欢的画面不会复刻？帮你拆解并生成 AI 提示词。",
+  "author": "LibTV",
+  "ownerId": 5924079,
+  "tags": [],
+  "likeCount": 25,
+  "usePv": 61,
+  "useUv": 34,
+  "publishAt": "2026-09-08 18:17:36",
+  "snapshotId": 44424,
+  "useScenario": "适合看到优秀图片、视频、电影片段、广告、MV、短视频等视觉内容，想复刻类似效果的用户。支持图片反推、视频快速反推和专业逐镜头拆解，分析主体、动作、场景、镜头、光影、风格等视觉元素，生成可直接用于 AI 绘图或视频生成的提示词。\n\n可结合《电影级 AI 视觉资产导演》制作角色、场景等参考资产，并进入《电影级 AI 视频提示词导演》继续生成视频。",
+  "inputType": "上传需要分析的图片或视频，并选择反推模式：\n1.图片反推：分析画面结构、主体、构图、摄影、光影、材质和风格，生成图片 Prompt。\n2.视频快速反推：适合短视频、Vlog、产品展示等场景，快速拆解主体、动作、场景、光影、运镜、风格和画质。\n3.视频专业反推：适合广告、MV、短剧、电影感视频，按真实时间轴逐镜头拆解，并生成对应视频 Prompt。\n如需替换视频中的人物，可提供自己的 @人物参考图",
+  "outputContent": "输出可直接用于 AI 创作的结构化提示词。\n\n图片反推：\n包含视觉概览、主体分析、构图与空间、摄影语言、光影与色彩、材质与风格，并生成完整图片 Prompt。\n\n视频快速反推：\n包含视频概览、主体分析、动作拆解、场景分析、光影设计、运镜语言、视觉风格，并生成完整视频 Prompt。\n\n视频专业反推：\n包含视频时间轴、逐镜头详细拆解、镜头级生成 Prompt、视频连续性防崩约束，以及全局视觉风格总结",
+  "coverUrl": null,
+  "resultType": 1,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=77d32ea23823441eb8685cfe26e5d340",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/8202932176ac485b9572011074a9f39c/7fd6a4dc2e92b6a2a883432c48149cf5763e161d.md"
+  ],
+  "hasPublicSkillContent": true
+}

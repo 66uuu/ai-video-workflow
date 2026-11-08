@@ -1,0 +1,37 @@
+{
+  "name": "对话戏分镜图生成器",
+  "templateUuid": "b4d7e62d6eca4971ada59bc2ecd4fae8",
+  "skillUuid": "aa0458284ee74297b584c7812e1a03ae",
+  "skillKey": "cinematic-storyboard-creator-431590b021c143a0b10d6988d3c3a50c",
+  "version": "1.0.8",
+  "namespace": "libtv-user-generated",
+  "description": "主要用于人物对话戏的分镜图片制作",
+  "author": "Zz",
+  "ownerId": 5927302,
+  "tags": [
+    "专业影视"
+  ],
+  "likeCount": 90,
+  "usePv": 82,
+  "useUv": 56,
+  "publishAt": "2026-07-30 13:13:17",
+  "snapshotId": 32034,
+  "useScenario": "主要用于人物对话戏的分镜图片制作",
+  "inputType": "输入剧情故事脚本，并可选上传角色图片、场景参考图或文字描述，然后查看skill给出的提示词是否可行，一般第一张图片会给出全景或者大全景的人物位置和环境位置的定稿图，然后再经过分析剧本来完成后续的分镜创作。",
+  "outputContent": "生成包含专业镜头语言解析（景别/构图/光影/轴线）、分镜卡片细节描述、承接逻辑说明，生成电影常用的对话戏分镜图。",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/431590b021c143a0b10d6988d3c3a50c/a78930eb11a9dea9552200d4686a6708499aa564.png",
+  "resultType": 2,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=b4d7e62d6eca4971ada59bc2ecd4fae8",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/431590b021c143a0b10d6988d3c3a50c/a78930eb11a9dea9552200d4686a6708499aa564.png",
+    "https://libtv-res.liblib.art/upload-images/431590b021c143a0b10d6988d3c3a50c/50a7a1b80b17e45ec3f8fbad250ab6ecf7bf03ae.png",
+    "https://libtv-res.liblib.art/upload-images/431590b021c143a0b10d6988d3c3a50c/d6fafef2b49f908309a1b116f78211fa0ded05f7.png",
+    "https://libtv-res.liblib.art/upload-images/431590b021c143a0b10d6988d3c3a50c/124babc2dac949245f76887fbd58c02465c73f25.png"
+  ],
+  "hasPublicSkillContent": true
+}

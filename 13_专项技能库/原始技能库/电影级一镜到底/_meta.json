@@ -1,0 +1,33 @@
+{
+  "name": "电影级一镜到底",
+  "templateUuid": "b6c9c040fe294ceeb91b11d7d95dc232",
+  "skillUuid": "13cfe1db512c457da65e5608bffca1af",
+  "skillKey": "cinematic-one-shot-video-e3be82ab48444c0ba33b2e45f3565ec4",
+  "version": "1.0.4",
+  "namespace": "libtv-user-generated",
+  "description": "根据分镜头参考图和人物三视图，生成一镜到底、无硬切、无虚化转",
+  "author": "180****4804",
+  "ownerId": 10277888,
+  "tags": [],
+  "likeCount": 22,
+  "usePv": 36,
+  "useUv": 21,
+  "publishAt": "2026-07-17 13:28:52",
+  "snapshotId": 28079,
+  "useScenario": "用户提供分镜拼接图和人物三视图，希望生成运镜连续流畅、无硬切、无虚化转场的一镜到底电影感短视频。",
+  "inputType": "分镜头参考图（多景别拼接）+ 人物三视图",
+  "outputContent": "基于 [@image:#1:分镜拼接图:用户上传的分镜参考] 和 [@image:#2:人物三视图:用户上传的角色参考],生成一个5秒一镜到底视频,使用连续运镜衔接各分镜,全程无硬切、无虚化转场。",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/e3be82ab48444c0ba33b2e45f3565ec4/bef8d59ed90598180e17832a4a89c46565250966.png",
+  "resultType": 3,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=b6c9c040fe294ceeb91b11d7d95dc232",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/e3be82ab48444c0ba33b2e45f3565ec4/8746683563c0cfef46e7e12cb63f39ff2439bda9.mp4",
+    "https://libtv-res.liblib.art/upload-images/e3be82ab48444c0ba33b2e45f3565ec4/3cde85e0dce73f9dc298c26a01ecc4144259bd95.mp4"
+  ],
+  "hasPublicSkillContent": true
+}

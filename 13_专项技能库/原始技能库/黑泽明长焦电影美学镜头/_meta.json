@@ -1,0 +1,35 @@
+{
+  "name": "黑泽明长焦电影美学镜头",
+  "templateUuid": "7c21d464b7d7424b997ee5186eeff907",
+  "skillUuid": "c7a24657cc064f4287326e17d5ea3d37",
+  "skillKey": "kurosawa-aesthetic-storyboard-0576e9b781574b6782f12182c8b82862",
+  "version": "1.0.13",
+  "namespace": "libtv-user-generated",
+  "description": "精确的远摄长焦电影镜头画面的空间光学法则生成器",
+  "author": "始判六天",
+  "ownerId": 4321848,
+  "tags": [],
+  "likeCount": 11,
+  "usePv": 3,
+  "useUv": 3,
+  "publishAt": "2026-07-28 12:21:04",
+  "snapshotId": 31317,
+  "useScenario": "▲优先使用景别：近景、特写、大特写、压缩式远景（人物 + 叠层背景）。\n▲叙事用法：\n1. 压缩空间制造对峙张力｜冲突戏\n2. 窥视视角｜悬疑、惊悚、监视戏\n3. 塑造人物孤立、宿命感｜文艺 / 剧情片\n4.弱化纵向运动，营造徒劳、焦虑感",
+  "inputType": "将简短的剧情/场景描述转换为具备电影美学的分镜图。\n写你的简单剧情/场景描述：\n（例1）黄昏时分，一排戴斗笠的浪人骑兵从金色的芦苇荡深处缓缓走过。\n（例2）荒野上，三个浪人站在破败的祠堂前对峙，天空阴沉。",
+  "outputContent": "300mm美学电影分镜（包含AI 提示词、视听语言解析以及 Unreal Engine 3D Blocking 参数）",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/0576e9b781574b6782f12182c8b82862/b19773ed5e2060aa8e4339961f253985e0d5a938.jpg",
+  "resultType": 2,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=7c21d464b7d7424b997ee5186eeff907",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/0576e9b781574b6782f12182c8b82862/289451b61228bfc880ade649812c2ab5cbca2d39.png",
+    "https://libtv-res.liblib.art/upload-images/0576e9b781574b6782f12182c8b82862/6546d99a3f34a89b28e832aa038c8dff2d3c807a.png",
+    "https://libtv-res.liblib.art/upload-images/0576e9b781574b6782f12182c8b82862/57bafb3c9fba4fd5f72c7bc95914dc80f70a5cee.png",
+    "https://libtv-res.liblib.art/upload-images/0576e9b781574b6782f12182c8b82862/b65f9377d6207c121f74cce685019d589faa024b.png"
+  ],
+  "hasPublicSkillContent": true
+}

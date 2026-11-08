@@ -1,0 +1,35 @@
+{
+  "name": "商业人像Lookbook",
+  "templateUuid": "942b6f60f3114a639c508748cbefd37c",
+  "skillUuid": "6d7c3746b25946e5b221983315b55a1c",
+  "skillKey": "commercial-portrait-lookbook-839348b666cd48deb16d629db04bf6ab",
+  "version": "1.0.2",
+  "namespace": "libtv-user-generated",
+  "description": "精品级电商大片模特~注重皮肤质感",
+  "author": "弥茶子",
+  "ownerId": 934434,
+  "tags": [],
+  "likeCount": 28,
+  "usePv": 110,
+  "useUv": 19,
+  "publishAt": "2026-08-12 14:09:27",
+  "snapshotId": 36183,
+  "useScenario": "电商服装品牌方、电商运营、小红书博主需要快速生成人物Lookbook提示词。覆盖封面主图/三视图/服装细节/外景街拍/电商白底图等15种场景。专为商业KV场景优化：干净editorial质感、零腮红、零痣、统一色温。",
+  "inputType": "自然语言直接描述需求，例如\"韩国女模 极简高级 夏季 小红书主图\"自动匹配参数。或回复\"开始\"进入选项交互。回复\"拆解+描述\"一键生成五官+手臂+腿部全套细节参考。回复\"批量+描述\"一次生成多场景。",
+  "outputContent": "三部分结构：①配置信息（人种/年龄/风格/场景/真实感等级/妆容自动匹配）；②英文Prompt（人物+穿搭+姿态+背景+光影质感+7层负面词）；③中文说明（场景用途）。",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/839348b666cd48deb16d629db04bf6ab/01e1acebaf1dc9246e85d37c2b6bc33ec4604e66.jpg",
+  "resultType": 2,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=942b6f60f3114a639c508748cbefd37c",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/839348b666cd48deb16d629db04bf6ab/01e1acebaf1dc9246e85d37c2b6bc33ec4604e66.jpg",
+    "https://libtv-res.liblib.art/upload-images/839348b666cd48deb16d629db04bf6ab/88bebb4903763c45607d0da45119bc350dc665d8.jpg",
+    "https://libtv-res.liblib.art/upload-images/839348b666cd48deb16d629db04bf6ab/51057571ee11913dc1477965316e1b4a1ab55664.jpg",
+    "https://libtv-res.liblib.art/upload-images/839348b666cd48deb16d629db04bf6ab/2bb97dab0910d8c1ce119e7ec663c0f7f2d546fb.jpg"
+  ],
+  "hasPublicSkillContent": true
+}

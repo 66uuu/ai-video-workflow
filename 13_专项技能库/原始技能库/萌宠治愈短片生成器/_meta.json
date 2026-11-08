@@ -1,0 +1,33 @@
+{
+  "name": "萌宠治愈短片生成器",
+  "templateUuid": "d816be9ae89f441a9e2aebf2131cb29b",
+  "skillUuid": "f78643697a1f46cc9cc905a7a5b1be0b",
+  "skillKey": "healing-pet-video-planner-f1cd68423b354abba991fe16eb70fb0a",
+  "version": "1.0.3",
+  "namespace": "libtv-user-generated",
+  "description": "输入宠物品种与场景，生成治愈系萌宠短视频方案，含可爱瞬间捕捉",
+  "author": "Devilworld",
+  "ownerId": 610387,
+  "tags": [],
+  "likeCount": 36,
+  "usePv": 20,
+  "useUv": 17,
+  "publishAt": "2026-07-17 15:59:14",
+  "snapshotId": 28125,
+  "useScenario": "萌宠账号内容创作、宠物品牌宣传、宠物用品广告、治愈系短视频、宠物纪念视频、宠物店引流素材",
+  "inputType": "输入宠物品种和核心场景，选择喜欢的风格，即可获得一套萌宠短视频的完整拍摄与生成方案。",
+  "outputContent": "萌宠分镜脚本 + 每镜AI提示词 + 拍摄角度指南 + 治愈配乐音效建议的完整萌宠短片制作文档",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/f1cd68423b354abba991fe16eb70fb0a/7fd41a38d9e3d1c4a178e03774c080c7b049d037.png",
+  "resultType": 3,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=d816be9ae89f441a9e2aebf2131cb29b",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/f1cd68423b354abba991fe16eb70fb0a/c56602d733e93888e23ac545a0779b7c989b9987.mp4",
+    "https://libtv-res.liblib.art/upload-images/f1cd68423b354abba991fe16eb70fb0a/0dcd08a8ae933abbb6e29ec00803970bb9ba7288.mp4"
+  ],
+  "hasPublicSkillContent": true
+}

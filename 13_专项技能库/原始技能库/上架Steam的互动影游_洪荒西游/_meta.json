@@ -1,0 +1,40 @@
+{
+  "name": "上架Steam的互动影游|洪荒西游",
+  "templateUuid": "b72bf2e8a73240888621dfd5ac278235",
+  "skillUuid": "3d16c44f5ba649ec8805a7c343c5c320",
+  "skillKey": "primordial-west-interactive-cinema-074be3667ece41bc8993cea11c99240e",
+  "version": "1.0.2",
+  "namespace": "libtv-user-generated",
+  "description": "专攻洪荒西游，一键生成真分支多结局的Steam级互动影游。",
+  "author": "杭州金包银批发总部",
+  "ownerId": 10465270,
+  "tags": [],
+  "likeCount": 1,
+  "usePv": 2,
+  "useUv": 2,
+  "publishAt": "2026-09-22 20:03:26",
+  "snapshotId": 49264,
+  "useScenario": "专攻洪荒西游、封神、西游、修仙玄幻等东方神话题材。适用于游戏工作室、短剧漫剧承制方、网文IP版权方及独立开发者。解决“假选项、剧情烂尾、互动逻辑不闭环”等痛点，低成本工业化量产可上架Steam、视频平台或互动小程序的Steam级互动影游大作。",
+  "inputType": "用户只需提供：一句话故事或完整剧本（如：匠人穿越洪荒，在斩仙台觉醒核心道具改写天命）、核心题材（洪荒西游）、主角与核心道具的自定义设定、目标平台。\n无需任何代码基础与人工连线，Skill自动加载父级16个MD、母级4个副文件及子级A的8个专属副文件，启动12步工业化流程，完成斩仙台/天庭/西方教场景排雷、因果值与天罚风险变量系统搭建、神佛博弈多线推演、防崩提示词撰写与JSON引擎数据生成。",
+  "outputContent": "用户使用后将获得完整的Steam级互动影游交付包：\n\n完整互动方案（斩仙台剧情树、核心变量字典、多结局路径）\n\n互动剧本（可演、可配置的逐节点版本）\n\n程序化 JSON 数据与 Adventure Creator 引擎对接配置说明\n\n分镜与图像提示词（含主角、配角、核心道具等锚点ID）\n\n互动完整性校验报告（零死循环、零孤立节点）\n\n承制能力页与短视频演示Demo",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/074be3667ece41bc8993cea11c99240e/06a1e9eb072ae0095ec065d2580e48b4262dea6a.png",
+  "resultType": 3,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=b72bf2e8a73240888621dfd5ac278235",
+  "files": [
+    "SKILL.md",
+    "A-副01【洪荒西游·东方神话美学视觉语法库.md】.md",
+    "A-副02【洪荒西游·角色锚点库.md】.md",
+    "A-副03【洪荒西游·场景资产锚点库.md】.md",
+    "A-副04【洪荒西游·变量与结局扩展.md】.md",
+    "A-副05【洪荒西游·分支剧情树模板.md】.md",
+    "A-副06【洪荒西游·配音台词与音效规范.md】.md",
+    "A-副07【洪荒西游·JSON数据与引擎对接.md】.md",
+    "A-副08【洪荒西游·完整性校验与交付规范.md】.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/074be3667ece41bc8993cea11c99240e/8464900d0c35b56969fa7083205e7b6d8fcb395b.mp4"
+  ],
+  "hasPublicSkillContent": true
+}

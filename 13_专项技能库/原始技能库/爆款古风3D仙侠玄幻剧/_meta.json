@@ -1,0 +1,32 @@
+{
+  "name": "爆款古风3D仙侠玄幻剧",
+  "templateUuid": "6076ee65e02f48fb96fae11fc35f0b9c",
+  "skillUuid": "c78212e4cb0242ccb025923f0adc0625",
+  "skillKey": "xianxia-drama-crafter-c18414452f144fb4b49219aa1dee2a30",
+  "version": "1.0.3",
+  "namespace": "libtv-user-generated",
+  "description": "生成爆款风格的古风玄幻剧",
+  "author": "青木家",
+  "ownerId": 3435944,
+  "tags": [],
+  "likeCount": 138,
+  "usePv": 292,
+  "useUv": 178,
+  "publishAt": "2026-07-21 10:28:28",
+  "snapshotId": 29431,
+  "useScenario": "内容创作者 营销/品牌方 教育/文化机构 个人爱好者",
+  "inputType": "直接输入剧本即可生成，也可上传人物设定故事或设定图来完善。",
+  "outputContent": "1分钟左右的仙侠玄幻风格的3D动画完整视频",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/c18414452f144fb4b49219aa1dee2a30/75ad44fa79c027fa94dcd2eb87c8fa5a3e64788c.png",
+  "resultType": 3,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=6076ee65e02f48fb96fae11fc35f0b9c",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/c18414452f144fb4b49219aa1dee2a30/7fa2660651a20a203818fc97916bf3ff08f2d6c4.mp4"
+  ],
+  "hasPublicSkillContent": true
+}

@@ -1,0 +1,32 @@
+{
+  "name": "煎食物极致微距美食短片",
+  "templateUuid": "d5c55d94be2943e1aff56cd113050403",
+  "skillUuid": "2fcc1516baee4a82bb3793e4054366f0",
+  "skillKey": "extreme-macro-frying-commercial-10f43772ef194fbda818c96f85af92b8",
+  "version": "1.0.2",
+  "namespace": "libtv-user-generated",
+  "description": "4秒煎类美食极致微距商业短片",
+  "author": "bkz不可知",
+  "ownerId": 60705,
+  "tags": [],
+  "likeCount": 2,
+  "usePv": 3,
+  "useUv": 1,
+  "publishAt": "2026-09-12 22:40:08",
+  "snapshotId": 45766,
+  "useScenario": "需要为任意煎类食物制作高端商业美食短视频时使用，适合餐厅宣传、食品品牌内容、美食自媒体等场景",
+  "inputType": "煎类食物名称（如煎饺、煎牛排、煎蛋等），可附加食材细节描述和视频总时长",
+  "outputContent": "一段完整的极致微距商业美食视频（默认6-8秒），慢动作展示煎类食物的酥脆表皮、蒸汽升腾与多汁内里",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/10f43772ef194fbda818c96f85af92b8/b465b99d250560ee41777e6751a6c3e0ea3d66e0.png",
+  "resultType": 3,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=d5c55d94be2943e1aff56cd113050403",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/10f43772ef194fbda818c96f85af92b8/6a101c3bfd2675e530f89e3dafbb04ddbc032a39.mp4"
+  ],
+  "hasPublicSkillContent": true
+}

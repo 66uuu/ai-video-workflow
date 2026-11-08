@@ -1,0 +1,32 @@
+{
+  "name": "梦核坠落幻觉视频工作流",
+  "templateUuid": "9f8ab962391f4d7298a9f5b76f1c9dac",
+  "skillUuid": "9a5d9f1dc4214b21a203ccd8a29a170a",
+  "skillKey": "dreamcore-hallucination-video-e5c05143074646b7ae70a88b81ec6c2a",
+  "version": "1.0.2",
+  "namespace": "libtv-user-generated",
+  "description": "MJ梦核超现实图片+视频生成流程",
+  "author": "星美Fine",
+  "ownerId": 773892,
+  "tags": [],
+  "likeCount": 1,
+  "usePv": 1,
+  "useUv": 1,
+  "publishAt": "2026-09-14 15:30:15",
+  "snapshotId": 46157,
+  "useScenario": "想要制作梦核（Dreamcore）风格的超现实坠落幻觉短视频，用于社交媒体发布或艺术创作",
+  "inputType": "用户提供的参考照片（建议11张，涵盖室内/街角/地铁/学校等场景）",
+  "outputContent": "10张梦核超现实场景图 + 封面海报 + 30秒一镜到底视频 & 3段分镜视频经智能剪辑合成的成片",
+  "coverUrl": "https://libtv-res.liblib.art/sd-gen-save-img/genius_playground/image/e5c05143074646b7ae70a88b81ec6c2a/908157765_5264a67e0d7144ed957465340eadcdde.png",
+  "resultType": 3,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=9f8ab962391f4d7298a9f5b76f1c9dac",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/e5c05143074646b7ae70a88b81ec6c2a/412d372525d2064f32942abcad4f1bbdd6cfc213.MP4"
+  ],
+  "hasPublicSkillContent": true
+}

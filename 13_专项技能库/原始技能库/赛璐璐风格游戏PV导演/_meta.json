@@ -1,0 +1,37 @@
+{
+  "name": "赛璐璐风格游戏PV导演",
+  "templateUuid": "d0947dd9ee5649278d3018e76365b34a",
+  "skillUuid": "e3412d8a75f64b7684552eb0557ce980",
+  "skillKey": "cel-shaded-pv-director-ef78b3807d1a48b7ab94eef5852bc286",
+  "version": "1.0.7",
+  "namespace": "libtv-user-generated",
+  "description": "一键生成赛璐璐风格的游戏pv",
+  "author": "消失的学府路",
+  "ownerId": 647268,
+  "tags": [
+    "动漫游戏"
+  ],
+  "likeCount": 120,
+  "usePv": 110,
+  "useUv": 88,
+  "publishAt": "2026-08-16 17:56:42",
+  "snapshotId": 37528,
+  "useScenario": "用于在 LibTV 内策划并生成纯二维日式硬边赛璐璐＋Editorial MG 风格宣传 PV，适合游戏角色PV、剧情短片、概念宣传片等。可完成创意梳理、分段视频提示词、核心角色／主体设定图及图片、视频生成，全程保持纯二维视觉表现。",
+  "inputType": "输入故事梗概、剧本、角色设定、世界观或参考素材，并尽量提供总时长、画幅、情绪色调、节奏与声音需求。Skill 会先补齐关键创意信息，再自动生成分段视频提示词、核心角色／主体设定图，并按参数确认、首段试跑、余段生成的流程完成制作。",
+  "outputContent": "输出完整的纯二维宣传PV制作方案，包括分段视频提示词、逐秒镜头设计、角色／主体设定、二维动效与转场、声音节奏及核心角色／主体图提示词。确认参数后，可继续生成设定图、首段视频及其余分段视频。",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/ef78b3807d1a48b7ab94eef5852bc286/fead9a8a4bbaf2ea868c276f5518f0e04573e73b.png",
+  "resultType": 3,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=d0947dd9ee5649278d3018e76365b34a",
+  "files": [
+    "SKILL.md",
+    "cel-shaded-pv-director/SKILL.md",
+    "cel-shaded-pv-director/references/libtv-generation.md",
+    "cel-shaded-pv-director/references/style-grammar.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/ef78b3807d1a48b7ab94eef5852bc286/4891a3b33ba2b9d72f5d9437814c38021172c7a2.mp4"
+  ],
+  "hasPublicSkillContent": true
+}

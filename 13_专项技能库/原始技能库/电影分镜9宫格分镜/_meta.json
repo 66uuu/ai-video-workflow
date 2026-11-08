@@ -1,0 +1,32 @@
+{
+  "name": "电影分镜9宫格分镜",
+  "templateUuid": "0ba812520f2e45d798945ccb96371afe",
+  "skillUuid": "daf54a3b6e48408f80ef4915930a5a0a",
+  "skillKey": "movie-storyboard-nine-grid-b85befd035a84c7d99b6927cfa3fa3c5",
+  "version": "1.0.0",
+  "namespace": "libtv-user-generated",
+  "description": "用户提供图片和文字描述生成9宫格",
+  "author": "星球的AI畅想",
+  "ownerId": 1619666,
+  "tags": [],
+  "likeCount": 16,
+  "usePv": 14,
+  "useUv": 10,
+  "publishAt": "2026-07-27 21:08:36",
+  "snapshotId": 31163,
+  "useScenario": "用于万物都可以生成专业级电影镜头分镜。",
+  "inputType": "放入参考图，大致剧情，最好能描述大致镜头最好",
+  "outputContent": "通用九宫格电影分镜生成器，整合电影基线分析、视觉DNA解构与提示词内核体系，自动生成3x3网格排版9宫图",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/b85befd035a84c7d99b6927cfa3fa3c5/0ee46fd19bb5ed55493d1ef7e6617cab4f5b83f7.png",
+  "resultType": 2,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=0ba812520f2e45d798945ccb96371afe",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/b85befd035a84c7d99b6927cfa3fa3c5/dce68197ba338dd0daefac188238c6cc1e4e44c0.png"
+  ],
+  "hasPublicSkillContent": true
+}

@@ -1,0 +1,33 @@
+{
+  "name": "商品带货宣传短片",
+  "templateUuid": "48c2df9bd9ff4da99a824f184669ee7f",
+  "skillUuid": "396cafeb64ba4fe18b6f0d3a1312b223",
+  "skillKey": "product-promo-video-a7e2f42e6c3e4593811bb43ddcf333c4",
+  "version": "1.0.2",
+  "namespace": "libtv-user-generated",
+  "description": "上传商品图片和商品描述制作商业带货宣传短片",
+  "author": "一帧一帧察细节",
+  "ownerId": 6286853,
+  "tags": [],
+  "likeCount": 14,
+  "usePv": 5,
+  "useUv": 4,
+  "publishAt": "2026-08-13 12:28:43",
+  "snapshotId": 36544,
+  "useScenario": "上传产品图片，制作商业带货宣传短片。适用于电商展示、品牌推广、功能演示，通过主角展示与辅助镜头交叉剪辑，突出产品优势与使用场景。",
+  "inputType": "上传产品图片1-3张，明确产品名称与核心卖点。可选：目标平台、时长、风格偏好、应用场景、旁白需求。",
+  "outputContent": "商业带货短片成片（480p），附故事板、分镜脚本、产品元素图与场景素材。支持导出用于电商与社媒投放。",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/a7e2f42e6c3e4593811bb43ddcf333c4/37b69811e02835bd079db24ee618246754144f31.png",
+  "resultType": 3,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=48c2df9bd9ff4da99a824f184669ee7f",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/a7e2f42e6c3e4593811bb43ddcf333c4/292738540cf45933835af4d816d1fc1525f2aa88.mp4",
+    "https://libtv-res.liblib.art/upload-images/a7e2f42e6c3e4593811bb43ddcf333c4/2115a0b7b3a51ae9e60b2742463663b4733423d5.mp4"
+  ],
+  "hasPublicSkillContent": true
+}

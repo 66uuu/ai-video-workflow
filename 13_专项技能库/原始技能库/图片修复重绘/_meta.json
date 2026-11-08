@@ -1,0 +1,34 @@
+{
+  "name": "图片修复重绘",
+  "templateUuid": "178c17fc9dc74b9288b980b3a7716314",
+  "skillUuid": "fa49a25a28c7475bb431049d41d8aa71",
+  "skillKey": "image-restoration-enhancer-668f991531fd4ed9a763d40c350995bc-fa49a25a",
+  "version": "1.0.1",
+  "namespace": "libtv-user-generated",
+  "description": "针对模糊/虚焦、油腻/过度磨皮、涂抹感/细节丢失等问题图片",
+  "author": "阿进的studio",
+  "ownerId": 9475833,
+  "tags": [],
+  "likeCount": 33,
+  "usePv": 39,
+  "useUv": 21,
+  "publishAt": "2026-07-24 22:11:40",
+  "snapshotId": 30517,
+  "useScenario": "用户上传一张存在模糊、油腻感或涂抹感的问题图片，需要对其进行清晰化重绘修复，得到一张干净高清的修复版图片。",
+  "inputType": "一张问题图片（支持模糊/虚焦、油腻/过度磨皮、涂抹感/细节丢失等各类画质问题，通用风格）",
+  "outputContent": "两步生成，最终输出一张干净高清的修复版图片：\n- 步骤一产物：白模结构参考图（Image2Image，生成前询问用户：长宽比、分辨率1K/2K/4K、画质档位低/标准/高，共三个问题）\n- 步骤二产物：最终修复图（Lib**** Pro，双参考图输入，长宽比继承步骤一，生成前只询问分辨率：1K/2K/4K）",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/668f991531fd4ed9a763d40c350995bc/3840bb779fd65883c87d8433b5b625896f2a222e.jpg",
+  "resultType": 2,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=178c17fc9dc74b9288b980b3a7716314",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/668f991531fd4ed9a763d40c350995bc/3840bb779fd65883c87d8433b5b625896f2a222e.jpg",
+    "https://libtv-res.liblib.art/upload-images/668f991531fd4ed9a763d40c350995bc/3f5d8e384b71be810a9a3ab0e32081dcc9627eba.jpg",
+    "https://libtv-res.liblib.art/upload-images/668f991531fd4ed9a763d40c350995bc/75f526b501a5302f9123d28b47245a07ae747044.jpg"
+  ],
+  "hasPublicSkillContent": true
+}

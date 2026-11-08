@@ -1,0 +1,39 @@
+{
+  "name": "图片提示词导演",
+  "templateUuid": "3254301da66f4630881abf32447ffe38",
+  "skillUuid": "d491af628b454ebc843354143a872e2d",
+  "skillKey": "image-prompt-director-65cee9822f864ac19966c47f3346ea49",
+  "version": "1.0.1",
+  "namespace": "libtv-user-generated",
+  "description": "支持写实摄影、电影、广告、幻想、灾难、动漫、CG等风格",
+  "author": "QQY",
+  "ownerId": 5380183,
+  "tags": [],
+  "likeCount": 25,
+  "usePv": 41,
+  "useUv": 24,
+  "publishAt": "2026-07-17 18:07:47",
+  "snapshotId": 28198,
+  "useScenario": "帮助不会写提示词的人写提示词",
+  "inputType": "上传一张想复刻的图片或者想要的图片的简单描述",
+  "outputContent": "输出适合image的中文提示词和英文提示词参数。也可一句话直接生成图片",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/65cee9822f864ac19966c47f3346ea49/f238412ca4411a1755273f0baa5945c77c5297cb.png",
+  "resultType": 2,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=3254301da66f4630881abf32447ffe38",
+  "files": [
+    "SKILL.md",
+    "references/directorial-relations.md",
+    "references/editorial-fashion.md",
+    "references/environment-concept-art.md",
+    "references/medium-routing.md",
+    "references/midjourney-output.md",
+    "references/photographic-craft.md",
+    "references/shot-family.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/65cee9822f864ac19966c47f3346ea49/f238412ca4411a1755273f0baa5945c77c5297cb.png"
+  ],
+  "hasPublicSkillContent": true
+}

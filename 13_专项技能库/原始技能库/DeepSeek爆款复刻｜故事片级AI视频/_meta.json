@@ -1,0 +1,32 @@
+{
+  "name": "DeepSeek爆款复刻｜故事片级AI视频",
+  "templateUuid": "2d898f97d7314e4fa08968dccc32bb30",
+  "skillUuid": "e9c569ffdf7c453582bd15050e6562d3",
+  "skillKey": "viral-story-cinematic-video-creator-9a768821e36443d99cbeb85cd4cfb8fe",
+  "version": "1.0.0",
+  "namespace": "libtv-user-generated",
+  "description": "爆款结构拆解→原创故事片级AI视频",
+  "author": "星拓AI导演",
+  "ownerId": 10268263,
+  "tags": [],
+  "likeCount": null,
+  "usePv": 0,
+  "useUv": 0,
+  "publishAt": "2026-09-24 19:59:25",
+  "snapshotId": 49913,
+  "useScenario": "实体商家广告、品牌片、剧情短视频、概念片的爆款结构重构；输入有权参考视频或逐镜笔记、品牌事实、受众和素材。",
+  "inputType": "先提交参考视频或逐镜笔记与品牌事实，再按 Skill 提示生成结构化分镜包；将输出接到 LibTV，先做单镜 canary，再扩展并做返回媒体 QC。",
+  "outputContent": "拉片功能表、原创分镜 JSON、替换矩阵、资产绑定、单镜 canary 清单与返回媒体 QC。",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/9a768821e36443d99cbeb85cd4cfb8fe/b0a1a8341f04ac3bd940763004ff810e2a5fc78f.png",
+  "resultType": 3,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=2d898f97d7314e4fa08968dccc32bb30",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/9a768821e36443d99cbeb85cd4cfb8fe/54b55e953082b1afb8d20b682bd88c9d89230af3.mp4"
+  ],
+  "hasPublicSkillContent": true
+}

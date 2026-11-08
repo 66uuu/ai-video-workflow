@@ -1,0 +1,32 @@
+{
+  "name": "品牌 Logo 设计师",
+  "templateUuid": "8afb2f16ec4c4d078adbfd2f87784f1b",
+  "skillUuid": "269f1976189c49dfb408d3aeb89d9f93",
+  "skillKey": "brand-logo-designer-f734739ebb014cc7aa259457f51f1dd9",
+  "version": "1.0.1",
+  "namespace": "libtv-user-generated",
+  "description": "输入品牌名称与核心理念，自动生成极简几何风格的专业品牌 Lo",
+  "author": "微信用户d25929",
+  "ownerId": 9147301,
+  "tags": [],
+  "likeCount": 3,
+  "usePv": 22,
+  "useUv": 18,
+  "publishAt": "2026-08-21 20:20:26",
+  "snapshotId": 39485,
+  "useScenario": "适用于品牌初创、产品上线、个人工作室等需要快速产出专业 Logo 的场景。用户只需提供品牌名称、所属行业或一句核心理念，Skill 自动完成创意提炼、图形设计、配色方案与多版本交付。",
+  "inputType": "品牌名称（必填）、所属行业或核心理念（选填）、偏好主色调（选填，默认黑白灰/暗色系）",
+  "outputContent": "① 品牌概念提炼卡（一句话品牌定位 + 设计关键词）\n② 纯图标版 Logo（Symbol Only，极简几何风，黑白/暗色系，1:1 正方形）\n③ 图文组合版 Logo（Symbol + Wordmark 横版排列，品牌名称字体清晰可读）\n④ 深色背景展示效果图（模拟真实使用场景）",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/f734739ebb014cc7aa259457f51f1dd9/0e8c6a2b9eb3778e3002a0e0cbfacc47d402b920.png",
+  "resultType": 2,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=8afb2f16ec4c4d078adbfd2f87784f1b",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/f734739ebb014cc7aa259457f51f1dd9/f2621ad864292e5ee924ec024386e2f88438a43d.png"
+  ],
+  "hasPublicSkillContent": true
+}

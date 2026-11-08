@@ -1,0 +1,35 @@
+{
+  "name": "电影感短视频生成大师",
+  "templateUuid": "f08ce6a5076d47e8817ecf96aada199b",
+  "skillUuid": "616420ab6d82429ba1daf95ab648337b",
+  "skillKey": "cinematic-video-creator-f1cd68423b354abba991fe16eb70fb0a",
+  "version": "1.0.1",
+  "namespace": "libtv-user-generated",
+  "description": "根据主题一键生成专业电影质感短视频，自动匹配镜头语言、光影氛",
+  "author": "Devilworld",
+  "ownerId": 610387,
+  "tags": [],
+  "likeCount": 62,
+  "usePv": 64,
+  "useUv": 48,
+  "publishAt": "2026-07-16 15:56:51",
+  "snapshotId": 27738,
+  "useScenario": "短视频创作者快速产出高质量电影感内容；品牌宣传片、产品广告的前期创意策划；个人 vlog 风格化升级；社交媒体爆款短片的快速迭代制作。",
+  "inputType": "描述用户如何使用该 Skill，需要输入什么信息：输入视频主题或想要表达的情绪氛围，选择偏好的电影风格，即可获得一套完整的电影级",
+  "outputContent": "描述用户使用该 Skill 后，预期输出的结果产物是什么：结构化分镜脚本 + 每镜提示词 + 光影色彩建议 + 配乐剪辑指引的完整制作文档。",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/f1cd68423b354abba991fe16eb70fb0a/33c4525708d40e49685958a7bf220a439fcf9c61.png",
+  "resultType": 3,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=f08ce6a5076d47e8817ecf96aada199b",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/f1cd68423b354abba991fe16eb70fb0a/ebd442d7ed3e025e5e6a20283d96c4f95c23ed08.mp4",
+    "https://www.liblib.tv/canvas/share?spaceId=2883262&projectId=34137eaa5b0c4cd5bdbc7e5aeb6d32cb",
+    "https://libtv-res.liblib.art/upload-images/f1cd68423b354abba991fe16eb70fb0a/7386b0a0880f6f83cd2337a748face3c3da90de0.mp4",
+    "https://www.liblib.tv/canvas/share?spaceId=2943818&projectId=10407850823346c4af78c5f68dc853c4"
+  ],
+  "hasPublicSkillContent": true
+}

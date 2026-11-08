@@ -1,0 +1,32 @@
+{
+  "name": "carbon-25d-parallax",
+  "templateUuid": "6d90fc0f4daf414198109a524b8147bb",
+  "skillUuid": "6d52b151f46347a6939229c1412cb3a4",
+  "skillKey": "carbon-25d-parallax-prompter-ea9da945be964b458dbe967e97e43289",
+  "version": "1.0.1",
+  "namespace": "libtv-user-generated",
+  "description": "碳素风2.5D视差视频提示词生成",
+  "author": "cycm",
+  "ownerId": 3004600,
+  "tags": [],
+  "likeCount": 1,
+  "usePv": 0,
+  "useUv": 0,
+  "publishAt": "2026-09-08 14:06:36",
+  "snapshotId": 44331,
+  "useScenario": "为碳素风2.5D多平面视差视频项目生成标准化提示词，确保每次生成都遵循正确的分层引用结构、视觉风格和视差镜头描述规范",
+  "inputType": "分镜信息：镜头编号、各层node_key（道具/场景/人物/首帧参考）、镜头动作描述",
+  "outputContent": "标准化的碳素风2.5D多平面视差视频提示词，含分层引用结构、视觉风格、视差镜头描述及generate_video参数",
+  "coverUrl": null,
+  "resultType": 1,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=6d90fc0f4daf414198109a524b8147bb",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/ea9da945be964b458dbe967e97e43289/f4d954a4aca7e07d2526ec75e93c31e1ac170abf.md"
+  ],
+  "hasPublicSkillContent": true
+}

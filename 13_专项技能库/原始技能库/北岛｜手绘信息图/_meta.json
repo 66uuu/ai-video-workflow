@@ -1,0 +1,32 @@
+{
+  "name": "北岛｜手绘信息图",
+  "templateUuid": "087e51dc234e45aba23c12ea8af44bff",
+  "skillUuid": "1ee5585a85f3447a962c0da2829753dd",
+  "skillKey": "hand-drawn-infographic-45a1d5568b8245c38aee608907a78959",
+  "version": "1.0.0",
+  "namespace": "libtv-user-generated",
+  "description": "把口播稿或字幕拆成连续手绘解释图",
+  "author": "北岛travis",
+  "ownerId": 8258415,
+  "tags": [],
+  "likeCount": 11,
+  "usePv": 6,
+  "useUv": 5,
+  "publishAt": "2026-08-10 20:42:34",
+  "snapshotId": 35589,
+  "useScenario": "适用于知识类、自媒体、课程、教程和人物口播视频。用户提供口播稿、SRT 或 VTT，并可附 1～5 张参考图；Skill 会把抽象、复杂或难讲清的内容拆成连续手绘分镜，生成解释图、章节转场、步骤图、透明叠加素材、结尾 CTA 和对应动态片段。",
+  "inputType": "粘贴完整口播稿或上传字幕文件，可再提供 1～5 张同风格参考图。说明画幅、是否需要人物、透明底或准确中文；未说明时默认 4:3。Skill 先给出分镜、图片提示词和视频提示词，确认后生成静帧；需要动态时自动选择单图或首尾帧模式，并用 Seedance 2.0 Mini 720p 生成。也可以直接说“先出图确认”“做前 4 张视频”“改成 8 秒、轻微真实音效、不要 BGM”。",
+  "outputContent": "输出分镜表、图片与视频提示词、4:3 或指定比例的 2K 静帧、透明 PNG、准确中文按钮或字幕、章节转场、步骤图、结尾 CTA，以及 Seedance 2.0 Mini 720p 动态片段。附 LibTV 项目链接、本地文件、镜头与口播对应清单和质检结果。",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/45a1d5568b8245c38aee608907a78959/48e1a1d740949e5feec79448a6897a6d3e6adec2.png",
+  "resultType": 2,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=087e51dc234e45aba23c12ea8af44bff",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/45a1d5568b8245c38aee608907a78959/48e1a1d740949e5feec79448a6897a6d3e6adec2.png"
+  ],
+  "hasPublicSkillContent": true
+}

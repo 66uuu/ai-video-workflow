@@ -1,0 +1,32 @@
+{
+  "name": "短视频分镜脚本生成器",
+  "templateUuid": "ab98368e5ca8476cb9fc4df2fe1f73aa",
+  "skillUuid": "3c3c205924774f959ec7b50123c625b2",
+  "skillKey": "short-video-storyboard-generator-f1cd68423b354abba991fe16eb70fb0a",
+  "version": "1.0.1",
+  "namespace": "libtv-user-generated",
+  "description": "输入话题，秒出可拍分镜脚本",
+  "author": "Devilworld",
+  "ownerId": 610387,
+  "tags": [],
+  "likeCount": 8,
+  "usePv": 16,
+  "useUv": 15,
+  "publishAt": "2026-09-08 13:02:55",
+  "snapshotId": 44320,
+  "useScenario": "个人创作者有了拍摄话题但不知道怎么拆分镜，需要快速生成一份可执行的分镜框架",
+  "inputType": "一个话题或关键词（如\"早晨咖啡仪式感\"、\"宠物搞笑日常\"）",
+  "outputContent": "包含 5-8 个分镜的脚本，每个分镜含画面描述、台词、时长建议",
+  "coverUrl": null,
+  "resultType": 1,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=ab98368e5ca8476cb9fc4df2fe1f73aa",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/f1cd68423b354abba991fe16eb70fb0a/af789119894a7ff857febdf6a5a1571a30e7029d.md"
+  ],
+  "hasPublicSkillContent": true
+}

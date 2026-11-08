@@ -1,0 +1,32 @@
+{
+  "name": "水墨国风广告生成器",
+  "templateUuid": "c89ec9e44cd542f9b1b59c7643183c40",
+  "skillUuid": "7a1768ed75064d149a04d1c302b74a70",
+  "skillKey": "ink-wash-ad-generator-f751f89354ef4287a32642591115eb66",
+  "version": "1.0.2",
+  "namespace": "libtv-user-generated",
+  "description": "输入产品信息，一键生成新中式水墨风格 30-90 秒广告视频",
+  "author": "水蒸汽",
+  "ownerId": 1741707,
+  "tags": [],
+  "likeCount": 20,
+  "usePv": 11,
+  "useUv": 10,
+  "publishAt": "2026-07-20 17:47:20",
+  "snapshotId": 29281,
+  "useScenario": "面向电商商家、自媒体博主、品牌运营人员，为茶饮、美妆、文创、汉服、食品、家居等品类制作新中式风格的产品种草视频、品牌宣传短片、账号片头、活动推广视频。无需专业美术与剪辑能力，低成本快速产出适配抖音、快手、小红书的国风短视频素材，可用于批量更新账号、制作商详页主图视频。",
+  "inputType": "必填项：产品 / 品牌名称、所属品类、1-3 个核心卖点\n可选项（不填自动使用默认配置）：视频时长（默认 60 秒，支持 30s",
+  "outputContent": "完整交付一套可直接发布的新中式水墨风种草广告物料：\n一支 30-90 秒、搭配国风 BGM 与旁白的完整竖屏广告成片\n配套制作物料：国风场景原画参考图、带时长与运镜标注的分镜脚本\n运营配套素材：3 条爆款标题、完整字幕文案、平台话题标签、视频封面图\n发布指南：适配抖音 / 小红书的发布建议、流量优化技巧、评论区引导话术",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/f751f89354ef4287a32642591115eb66/890584549edee5f63936d02b305359a67ca2b715.png",
+  "resultType": 3,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=c89ec9e44cd542f9b1b59c7643183c40",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/f751f89354ef4287a32642591115eb66/aaedc3e39a9ef6623a883ab9bec2468a43cddf19.mp4"
+  ],
+  "hasPublicSkillContent": true
+}

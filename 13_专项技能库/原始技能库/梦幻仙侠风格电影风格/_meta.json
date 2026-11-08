@@ -1,0 +1,38 @@
+{
+  "name": "梦幻仙侠风格电影风格",
+  "templateUuid": "3c8b48676ae64918bee70bebcb088138",
+  "skillUuid": "1f75bac752db4afdaf84837015e9d381",
+  "skillKey": "dreamy-immortal-fantasy-cinematics-b85befd035a84c7d99b6927cfa3fa3c5",
+  "version": "1.0.1",
+  "namespace": "libtv-user-generated",
+  "description": "仙侠风格",
+  "author": "星球的AI畅想",
+  "ownerId": 1619666,
+  "tags": [],
+  "likeCount": 3,
+  "usePv": 6,
+  "useUv": 3,
+  "publishAt": "2026-09-11 20:38:51",
+  "snapshotId": 45523,
+  "useScenario": "老画变成仙侠风格\n如果用MJ模型一定要给Agent+一句话：全部提示词需要在1000个字符数（计空格）以内。",
+  "inputType": "参考主体的人物特点和背景，变成仙侠中式风格图片，出图内容需要符合透视，真实质感等基本常理，出图比例9:16，写实风格，梦幻效果,颜色明亮，带着朦胧质感。背景是云海与山峦，色彩明亮。",
+  "outputContent": "梦幻的仙侠风格人物输出",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/b85befd035a84c7d99b6927cfa3fa3c5/4253888cc59517f1b12641cab5d1c6f586c90ae1.png",
+  "resultType": 2,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=3c8b48676ae64918bee70bebcb088138",
+  "files": [
+    "SKILL.md",
+    "baseline-profile.md",
+    "prompt-kernels.md",
+    "visual-dna.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/b85befd035a84c7d99b6927cfa3fa3c5/4253888cc59517f1b12641cab5d1c6f586c90ae1.png",
+    "https://libtv-res.liblib.art/upload-images/b85befd035a84c7d99b6927cfa3fa3c5/e95a9999d8c131c89ab9987c5452fb3916d1e427.png",
+    "https://libtv-res.liblib.art/upload-images/b85befd035a84c7d99b6927cfa3fa3c5/bf37156f06bcc6c7bb9e1a26d105d386dada7b07.png",
+    "https://libtv-res.liblib.art/upload-images/b85befd035a84c7d99b6927cfa3fa3c5/b1ec24cccf5861ab95d816a611b34fb606a4c47e.png"
+  ],
+  "hasPublicSkillContent": true
+}

@@ -1,0 +1,33 @@
+{
+  "name": "房地产户型图设计",
+  "templateUuid": "4d66290bf1614583a419b505a22cd0f9",
+  "skillUuid": "56d6dc77141248798ef1e94f1b14b013",
+  "skillKey": "real-estate-floor-plan-designer-6fe77fcad9614c799944a901d1cc568a",
+  "version": "1.0.1",
+  "namespace": "libtv-user-generated",
+  "description": "适用于房地产户型图设计",
+  "author": "JACKPOORS",
+  "ownerId": 1010805,
+  "tags": [],
+  "likeCount": 25,
+  "usePv": 13,
+  "useUv": 12,
+  "publishAt": "2026-07-24 16:13:23",
+  "snapshotId": 30424,
+  "useScenario": "适用于户型图设计",
+  "inputType": "平面图，实拍图",
+  "outputContent": "文字户型图简图",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/6fe77fcad9614c799944a901d1cc568a/0dff145848eab9c82b4a8bf57ad0997ee3e35130.png",
+  "resultType": 2,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=4d66290bf1614583a419b505a22cd0f9",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/6fe77fcad9614c799944a901d1cc568a/0dff145848eab9c82b4a8bf57ad0997ee3e35130.png",
+    "https://libtv-res.liblib.art/upload-images/6fe77fcad9614c799944a901d1cc568a/6ccca24ac3c91a65ae5836e7f486dbced59294ef.png"
+  ],
+  "hasPublicSkillContent": true
+}

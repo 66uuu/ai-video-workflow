@@ -1,0 +1,32 @@
+{
+  "name": "角色人设卡",
+  "templateUuid": "dafb9f4c93c54c1290680a32071fe129",
+  "skillUuid": "03068b8df3fc4ecfad234ed7dffbd1b8",
+  "skillKey": "character-persona-card-811fa7463ffb4aa988de383450f427db",
+  "version": "1.0.0",
+  "namespace": "libtv-user-generated",
+  "description": "角色人设卡布局锁定",
+  "author": "182****7332",
+  "ownerId": 10688139,
+  "tags": [],
+  "likeCount": 15,
+  "usePv": 12,
+  "useUv": 10,
+  "publishAt": "2026-07-22 19:14:19",
+  "snapshotId": 29882,
+  "useScenario": "角色人设卡布局锁定Skill（标准版式+分区标注引导版，可自由换装)",
+  "inputType": "启用【角色人设卡布局锁定Skill】，严格按照分区规则生成，人物脸型以左上特写为准，自由更换三套服装。\n【顶部标题】：\n【穿搭A（右上常服区）：】\n【穿搭B（左下礼服区）：】\n【穿搭C（右下居家区）：】\n【配饰选择：固定配饰 / 随穿搭更换配饰】",
+  "outputContent": "角色人设卡",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/811fa7463ffb4aa988de383450f427db/18fb7f6d7fe4793ad55729af51a64031e785fa5c.png",
+  "resultType": 2,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=dafb9f4c93c54c1290680a32071fe129",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/811fa7463ffb4aa988de383450f427db/18fb7f6d7fe4793ad55729af51a64031e785fa5c.png"
+  ],
+  "hasPublicSkillContent": true
+}

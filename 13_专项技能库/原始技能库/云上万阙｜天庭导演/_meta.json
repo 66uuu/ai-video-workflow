@@ -1,0 +1,32 @@
+{
+  "name": "云上万阙｜天庭导演",
+  "templateUuid": "95724abdf077439384d7ef3392d99a84",
+  "skillUuid": "9f95ce44e27649e6a5e5e2422bcfc6ba",
+  "skillKey": "chinese-celestial-palace-visualizer-622b49a745b0421b950ec4a2db34f244",
+  "version": "1.0.4",
+  "namespace": "libtv-user-generated",
+  "description": "上传人物、城市、风景参考图，或输入一句主题，一键生成明亮暖金",
+  "author": "杰瑞Chang",
+  "ownerId": 8353555,
+  "tags": [],
+  "likeCount": 25,
+  "usePv": 34,
+  "useUv": 26,
+  "publishAt": "2026-08-18 18:46:35",
+  "snapshotId": 38207,
+  "useScenario": "用户提出\"把我/这座城市/这张风景变成中式天庭、九重天宫、云上宫阙\"，或希望生成巨构微人、明亮暖金、浓雾光海风格的中式神话/仙侠/天庭题材关键画面与短视频时使用。",
+  "inputType": "必填二选一：一张人物/城市/风景参考图；或一句场景主题。可选：场景预设（自动/万丈云廊/檐下云台/琼树云台/垂天神榕/城市天宫化/人物入天宫）、人物数量与身份、服装、运镜、画幅、输出模式。缺省时自动选择最适合输入的方案。",
+  "outputContent": "默认直接产出：1张关键帧图片节点 + 对应5秒视频节点 + 所用简洁提示词 + 验收结论。可选4镜头短片模式。默认规格16:9，Seedream 5.0 Pro关键帧 + Seedance 2.5全能参考5秒视频。",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/622b49a745b0421b950ec4a2db34f244/2fe0e1f8741608bd7624de32a99c6439d9034add.png",
+  "resultType": 3,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=95724abdf077439384d7ef3392d99a84",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/622b49a745b0421b950ec4a2db34f244/f2b01e0c1165ab4786e1db3b93408fbf4da9f6b2.mp4"
+  ],
+  "hasPublicSkillContent": true
+}

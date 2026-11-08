@@ -1,0 +1,32 @@
+{
+  "name": "AI短剧制片人",
+  "templateUuid": "1a4c2fd858f2441d97f41c85718f80d4",
+  "skillUuid": "54d99cae11f746398f3c26db721a2291",
+  "skillKey": "short-drama-producer-3430103e677d4e539a4a9bac9d9e8c9a",
+  "version": "1.0.3",
+  "namespace": "libtv-user-generated",
+  "description": "AI短剧制片人",
+  "author": "栋1321",
+  "ownerId": 8051197,
+  "tags": [],
+  "likeCount": 21,
+  "usePv": 20,
+  "useUv": 10,
+  "publishAt": "2026-07-13 18:05:25",
+  "snapshotId": 26636,
+  "useScenario": "面向短剧工作室、短视频博主、短剧创作者制作 9:16 竖屏付费短剧；无论用户仅有故事梗概，还是已经完成剧本初稿均可使用；适配 60‑90 秒高频反转的短视频短剧创作，把文字创意转化为人设三视图、场景图、分镜脚本，最终落地 AI 成片，适配抖音、快手付费短剧项目前期筹备工作。",
+  "inputType": "启用本 Skill 后，配合完成三项信息确认即可使用：\n说明当前创作阶段：已有剧本 / 分镜可直接粘贴或上传文件，无成品剧本则提",
+  "outputContent": "主角正面‑侧面‑背面统一画风三视图、4 个维度短剧场景概念图、适配 9:16 竖屏短剧的分镜脚本、对应画面的 AI 绘图提示词、AI 成片参数配置以及成片落地执行方案。",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/3430103e677d4e539a4a9bac9d9e8c9a/ccd302004795d32bcb33f40eecdb7473832023e6.png",
+  "resultType": 3,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=1a4c2fd858f2441d97f41c85718f80d4",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/3430103e677d4e539a4a9bac9d9e8c9a/df29085e2335ff77fda201df2a9cbb10fe8e5bf6.mp4"
+  ],
+  "hasPublicSkillContent": true
+}

@@ -1,0 +1,32 @@
+{
+  "name": "古风仙侠电影级创作",
+  "templateUuid": "e87fc5ac99a64e7793bfe03f6933bb73",
+  "skillUuid": "c62f9344cb7b4a10a18b2d6af32aa9a7",
+  "skillKey": "xianxia-cinematic-creator-e5c05143074646b7ae70a88b81ec6c2a",
+  "version": "1.0.1",
+  "namespace": "libtv-user-generated",
+  "description": "整合情绪板分析、提示词生成、批量图片、色调统一、超现实融入、",
+  "author": "星美Fine",
+  "ownerId": 773892,
+  "tags": [],
+  "likeCount": 50,
+  "usePv": 116,
+  "useUv": 67,
+  "publishAt": "2026-08-29 00:35:05",
+  "snapshotId": 41787,
+  "useScenario": "古风仙侠全类型创作，从零开始或已有系列升级，覆盖写实与超现实全场景类型，支持短视频宣传片与仙侠场景集锦",
+  "inputType": "一键生成视觉图片",
+  "outputContent": "五维特征报告、系列图片提示词、色调诊断修正、超现实融入改造、视频提示词、30秒多场景成片",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/e5c05143074646b7ae70a88b81ec6c2a/f44c9156317e24ddcb26a440a772f2d05e5794dc.png",
+  "resultType": 3,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=e87fc5ac99a64e7793bfe03f6933bb73",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/e5c05143074646b7ae70a88b81ec6c2a/e2119de1fae212059ae56ed8d4af58cca8803f28.mp4"
+  ],
+  "hasPublicSkillContent": true
+}

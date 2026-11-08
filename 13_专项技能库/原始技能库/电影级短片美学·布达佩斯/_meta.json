@@ -1,0 +1,32 @@
+{
+  "name": "电影级短片美学·布达佩斯",
+  "templateUuid": "4454056f3b4a4d7f9c2ca471c966e7d9",
+  "skillUuid": "17478a59ccfe425d9bd377761096c7f4",
+  "skillKey": "wes-anderson-cinematic-producer-e5c05143074646b7ae70a88b81ec6c2a",
+  "version": "1.0.1",
+  "namespace": "libtv-user-generated",
+  "description": "从主题设定到成片交付的完整电影级短片制作工作流：涵盖韦斯·安",
+  "author": "星美Fine",
+  "ownerId": 773892,
+  "tags": [],
+  "likeCount": 5,
+  "usePv": 2,
+  "useUv": 2,
+  "publishAt": "2026-07-31 23:22:43",
+  "snapshotId": 32481,
+  "useScenario": "制作具有统一视觉风格的电影级叙事短片，适用于品牌宣传片、艺术短片、节日贺片、IP角色演绎等场景；尤其适合需要多角色一致性、跨场景色调统一、画幅隐喻叙事的创作项目",
+  "inputType": "主题描述（必选）+ 视觉风格参考导演/影片（可选）+ 主角外貌设定（可选）+ 配角列表（可选）+ 场景列表（可选）+ 目标时长（可选，默认40秒）",
+  "outputContent": "最终成片视频节点 + 全部角色锚点图片 + 全部场景锚点图片 + BGM音频节点 + 分镜表文件 + 锚点清单文件",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/e5c05143074646b7ae70a88b81ec6c2a/b71d1bade0a86cdb63f37f5e7ceda352ef3b8671.png",
+  "resultType": 3,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=4454056f3b4a4d7f9c2ca471c966e7d9",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/e5c05143074646b7ae70a88b81ec6c2a/3c77b9d0ab9636fdd5b53c5426738e8376079b4a.MP4"
+  ],
+  "hasPublicSkillContent": true
+}

@@ -1,0 +1,33 @@
+{
+  "name": "影视级剧本分镜拆分导演",
+  "templateUuid": "17ea398b5bdf4701858dd8c6963838a1",
+  "skillUuid": "7bff8f4f1d1c49bab77c459fdb4e98e1",
+  "skillKey": "cinematic-storyboard-splitter-5fb701673162478e9204228c2b8919c6",
+  "version": "1.0.0",
+  "namespace": "libtv-user-generated",
+  "description": "专业影视分镜导演智能体，可将剧本转为实拍级精细合规分镜脚本。",
+  "author": "AI导演王微婷",
+  "ownerId": 1278924,
+  "tags": [],
+  "likeCount": 56,
+  "usePv": 104,
+  "useUv": 59,
+  "publishAt": "2026-07-30 19:49:44",
+  "snapshotId": 32167,
+  "useScenario": "题材覆盖古风逆袭、现代都市、热血武打、科幻末世等全部影视类型，兼容性极强。既能线下给到剧组用于演员走位排练、美术置景参考、现场拍摄执行，也可直接提取镜头指令适配各类AI视频工具生成动态成片，同时自带人物精细化情绪表演设计、镜头节奏把控与剧情逻辑自检能力，大幅缩减前期分镜手绘、脚本二次改编的人力与时间成本，不管是个人短剧创作者、小型摄制团队还是影视项目前期策划，都能高效落地使用，全方位提升内容制作专",
+  "inputType": "只需上传剧本文本，无需额外繁琐调整，便能一键生成标准化院线级专业分镜脚本，题材覆盖古风逆袭、现代都市、热血武打、科幻末世等全部影视类型，兼容性极强。",
+  "outputContent": "输出产物为标准化专业分镜脚本，包含完整场次标注、精准运镜与错落搭配的景别、角色动作走位、精细化情绪刻画、角色台词及内心独白，附带场景氛围设定。脚本严格统一排版规范，镜头编号清晰独立拆分，区分单人情绪镜头与多人互动镜头，台词格式合规无多余符号，规避画面表述禁忌。可直接交付剧组实拍做走位、置景依据，也能拆解出镜头提示词适配AI生成剧情视频，同时自带剧情对峙张力设计，适配古风、现代、武打全题材短剧前期筹",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/5fb701673162478e9204228c2b8919c6/7eceaa2114e428ff0eb37cede6eb25ab891c1ee7.jpg",
+  "resultType": 2,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=17ea398b5bdf4701858dd8c6963838a1",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/5fb701673162478e9204228c2b8919c6/48759370b0f406cfce05cfbed2013974bf18e19c.png",
+    "https://libtv-res.liblib.art/upload-images/5fb701673162478e9204228c2b8919c6/253485ec5f1182706da7b6f42be249983f90b10f.png"
+  ],
+  "hasPublicSkillContent": true
+}

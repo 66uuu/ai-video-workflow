@@ -1,0 +1,32 @@
+{
+  "name": "一键生成真人武侠动作片",
+  "templateUuid": "218f4d8f000a4af5bac42aa2a816c3ac",
+  "skillUuid": "b62e0bfb55a34ad39ffc98db19d62269",
+  "skillKey": "wuxia-action-choreographer-1287c21da6b8489f960cfb43a626f85c",
+  "version": "1.0.1",
+  "namespace": "libtv-user-generated",
+  "description": "根据用户输入的角色场景以及希望出现的招式量身设计武侠动作",
+  "author": "Nine",
+  "ownerId": 1389704,
+  "tags": [],
+  "likeCount": 35,
+  "usePv": 63,
+  "useUv": 28,
+  "publishAt": "2026-07-24 12:08:45",
+  "snapshotId": 30331,
+  "useScenario": "## 根据用户提供的角色与场景文字描述或参考图片，以及希望出现的招式、兵器、胜负和节奏，为 LibTV 或同类图生视频/文生视频模型量身设计连贯的真人中式武侠打斗提示词。适用于古装或近代武侠、拳脚或冷兵器、单挑或多人交战、室内外追打、擂台比武、门派冲突和剧情动作片段；输出精确时间码分镜、运镜、动作物理、环境互动、现场声音、连续性规则与负面约束，可直接复制用于生成视频。",
+  "inputType": "输入文字或者图片，描述希望出现的招式、兵器、胜负和节奏，设计连贯的真人中式武侠打斗提示词，根据提示词内容再将角色和场景连接视频节点就可以生成视频",
+  "outputContent": "一段或者多段连贯的武侠打斗提示词，可以根据需要修改提示词后再生成视频",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/1287c21da6b8489f960cfb43a626f85c/a512d92d047e029fdfc700c0937cf46a2b6d464b.png",
+  "resultType": 3,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=218f4d8f000a4af5bac42aa2a816c3ac",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/1287c21da6b8489f960cfb43a626f85c/96b0145e85d22da1dd82f83f964992012ba4833f.mp4"
+  ],
+  "hasPublicSkillContent": true
+}

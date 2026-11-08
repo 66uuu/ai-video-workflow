@@ -1,0 +1,33 @@
+{
+  "name": "宫崎骏动画广告",
+  "templateUuid": "f7a068bc852e498fb2081d759ef83157",
+  "skillUuid": "12262c7ab4554e0e90aea4e293b794b7",
+  "skillKey": "ghibli-ad-animator-5de625e86d1143e6a4fd948ca25ec34b",
+  "version": "1.0.1",
+  "namespace": "libtv-user-generated",
+  "description": "用宫崎骏/吉卜力手绘水彩风格为任意品牌制作完整卡通动画广告视",
+  "author": "Jookei",
+  "ownerId": 8663873,
+  "tags": [],
+  "likeCount": 18,
+  "usePv": 12,
+  "useUv": 11,
+  "publishAt": "2026-07-23 21:17:34",
+  "snapshotId": 30196,
+  "useScenario": "品牌宣传片、产品推广广告、节日情感短片、治愈系内容营销、社媒短视频投放",
+  "inputType": "1.选品牌 → 从预设6个品牌选，或自定义输入\n2.选参数 → 视频比例、时长、分辨率（含积分消耗说明）\n3.设计角色 → 选主",
+  "outputContent": "🎨 角色立绘：吉卜力手绘水彩风格，32K超清，原创人物设计\n🖼️ 分镜草图：九宫格铅笔线稿，标准2K，含镜头号与运镜标注\n🎬 主广告视频：46 生成，480P/720P/1080P 可选，含物理动作音效\n🎵 背景音乐：吉卜力纯器乐风格，结尾自然淡出，久石让美学\n🎞️ 最终成片：视频+BGM混音合成，品牌Logo结尾定格，画面缓缓淡出",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/5de625e86d1143e6a4fd948ca25ec34b/e215a0cf69e6f9373193d03939ff77797e3e87d9.png",
+  "resultType": 3,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=f7a068bc852e498fb2081d759ef83157",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/5de625e86d1143e6a4fd948ca25ec34b/754aaabf5b9b6e6ed1d3cae9b1d9b387ea7fbd50.mp4",
+    "https://libtv-res.liblib.art/upload-images/5de625e86d1143e6a4fd948ca25ec34b/c0efc0e3b201cbe8f081b373363be6e844e8a64e.mp4"
+  ],
+  "hasPublicSkillContent": true
+}

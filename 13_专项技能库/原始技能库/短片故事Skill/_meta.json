@@ -1,0 +1,42 @@
+{
+  "name": "短片故事Skill",
+  "templateUuid": "0d902f99c974407a9ea29825ef7e772e",
+  "skillUuid": "d3d87a14dfbe406582b2612e66282bc4",
+  "skillKey": "social-media-video-story-fd15c9429f0140fea934660e8a1a181b",
+  "version": "1.0.2",
+  "namespace": "libtv-user-generated",
+  "description": "一张图，直接产出一条可以发布的社媒短片",
+  "author": "Starfan",
+  "ownerId": 852434,
+  "tags": [],
+  "likeCount": 18,
+  "usePv": 15,
+  "useUv": 15,
+  "publishAt": "2026-08-12 16:04:37",
+  "snapshotId": 36244,
+  "useScenario": "把一张或多张概念图转化为一条可直接交给 Seedance 2.5 的 30 秒社交短片提示词。优先建立可视化的情节、冲突、升级与回报；当图片不适合传统叙事时，改用视觉展示或故事—展示混合结构。始终保护输入图片最有价值的视觉特征，并适配抖音、小红书的短视频观看节奏。",
+  "inputType": "提供图片素材即可",
+  "outputContent": "故事梗概+Seedance 2.5 完整提示词",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/fd15c9429f0140fea934660e8a1a181b/e9856094293f25905b3fbc81e331b45b8a196fb5.png",
+  "resultType": 2,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=0d902f99c974407a9ea29825ef7e772e",
+  "files": [
+    "SKILL.md",
+    "references/storyboard-design.md",
+    "references/story-engine.md",
+    "references/platform-visual-retention.md",
+    "references/quality-checklist.md",
+    "references/anti-cliche-and-constraints.md",
+    "references/gold-examples.md",
+    "references/seedance25-prompt-compiler.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/fd15c9429f0140fea934660e8a1a181b/393ed2feb8b2155f7bf69a4bb40ea63502958e80.png",
+    "https://www.liblib.tv/canvas/chat-share?shareId=gnJucSXSQM",
+    "https://libtv-res.liblib.art/upload-images/fd15c9429f0140fea934660e8a1a181b/faa29ef2817c432d60f80db55997e634f2638491.png",
+    "https://www.liblib.tv/canvas/chat-share?shareId=SHHXfl6rKg"
+  ],
+  "hasPublicSkillContent": true
+}

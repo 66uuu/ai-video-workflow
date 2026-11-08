@@ -1,0 +1,35 @@
+{
+  "name": "东方古典写意仙宫场景",
+  "templateUuid": "1f1d6a8d706f4a92bbf420c4567513c4",
+  "skillUuid": "e5c2fcb18e1c469699cb2d985df1e5a1",
+  "skillKey": "oriental-celestial-palace-designer-c6c2e10b3efe4fd881c52b3eb403b2fa",
+  "version": "1.0.8",
+  "namespace": "libtv-user-generated",
+  "description": "生成清透东方天宫、云海宫阙、仙境园林的图片提示词与视频提示词",
+  "author": "微信用户3ddaf6",
+  "ownerId": 6384645,
+  "tags": [
+    "自媒体创作"
+  ],
+  "likeCount": 210,
+  "usePv": 283,
+  "useUv": 180,
+  "publishAt": "2026-08-17 15:38:46",
+  "snapshotId": 37780,
+  "useScenario": "用户想生成东方神话、天宫、云海宫阙、仙境园林、国风建筑、仙侠场景图片或图生视频提示词时使用。",
+  "inputType": "输入主题与配色气候后，自动生成 6-8 组东方神域天宫风格的图片提示词，并为每组配套一条图生视频提示词。若未指定配色，会先引导选择统一配色或混合配色；若选择混合配色，需明确说明“混合配色”。",
+  "outputContent": "输出 6-8 组可直接用于图像生成的中文图片提示词，每组包含标题、图片提示词和对应的视频提示词。提示词会保持统一东方神域审美，同时在空间、镜头、人物关系、前景锚点和运动逻辑上做差异化。",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/c6c2e10b3efe4fd881c52b3eb403b2fa/dcbe997168d890b6401c92c1da25e64afe0b320a.png",
+  "resultType": 2,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=1f1d6a8d706f4a92bbf420c4567513c4",
+  "files": [
+    "SKILL.md",
+    "openai.yaml.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/c6c2e10b3efe4fd881c52b3eb403b2fa/def8a77668fe0eb831a73868080ba2d025d181ca.png"
+  ],
+  "hasPublicSkillContent": true
+}

@@ -1,0 +1,32 @@
+{
+  "name": "无声人物传记",
+  "templateUuid": "e6cb82939590420d8f0d433859da6ab1",
+  "skillUuid": "f6036fd503254abab52c334bb27b7592",
+  "skillKey": "video-frame-extractor-a4acc35624de45548b811c8ceec8c4c6",
+  "version": "1.0.1",
+  "namespace": "libtv-user-generated",
+  "description": "任何人物都可",
+  "author": "张肆年",
+  "ownerId": 10852120,
+  "tags": [],
+  "likeCount": 2,
+  "usePv": 1,
+  "useUv": 1,
+  "publishAt": "2026-08-10 15:57:10",
+  "snapshotId": 35501,
+  "useScenario": "基于视频内容提取关键静帧,设计中式留白海报:\n\n标题:封狼居胥\n副标题:十七而侯\n横竖版:横版 16:9\n分辨率:1920x1080",
+  "inputType": "人物的主要功绩与称呼",
+  "outputContent": "基于视频内容提取关键静帧,设计中式留白海报:\n\n标题:封狼居胥\n副标题:十七而侯\n横竖版:横版 16:9\n分辨率:1920x1080",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/a4acc35624de45548b811c8ceec8c4c6/1b605cae2d0e6f68c559cd33fef07abc6e58e456.png",
+  "resultType": 2,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=e6cb82939590420d8f0d433859da6ab1",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/a4acc35624de45548b811c8ceec8c4c6/da15cdfbbd82a3a89a25df59c99c0c6236692d89.jpg"
+  ],
+  "hasPublicSkillContent": true
+}

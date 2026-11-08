@@ -1,0 +1,32 @@
+{
+  "name": "电商详情页生成器SKill",
+  "templateUuid": "2bb6f74cc2b74d3b87a9291e0537791f",
+  "skillUuid": "3ebd2e4bbd8144ef882a1255b4c65d77",
+  "skillKey": "ecommerce-detail-page-visualizer-aa3eede3b47a41fea48a08d6fc53de7f",
+  "version": "1.0.2",
+  "namespace": "libtv-user-generated",
+  "description": "电商详情页多模块图片生成",
+  "author": "橘子导演",
+  "ownerId": 11161493,
+  "tags": [],
+  "likeCount": null,
+  "usePv": 1,
+  "useUv": 1,
+  "publishAt": "2026-09-19 15:42:09",
+  "snapshotId": 47992,
+  "useScenario": "需要快速产出一套电商详情页图片素材，且希望对每个模块保留调整空间",
+  "inputType": "产品白底图 + 产品卖点（1~6条）+ 场景应用模特图（2~5张）",
+  "outputContent": "多张独立图片，每个模块一张分开交付，支持逐模块二次修改",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/aa3eede3b47a41fea48a08d6fc53de7f/6c6bb15969755f61bc5ac9186fcb9d8a088d7c6b.png",
+  "resultType": 2,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=2bb6f74cc2b74d3b87a9291e0537791f",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/aa3eede3b47a41fea48a08d6fc53de7f/6c6bb15969755f61bc5ac9186fcb9d8a088d7c6b.png"
+  ],
+  "hasPublicSkillContent": true
+}

@@ -1,0 +1,32 @@
+{
+  "name": "治愈系机车运动分镜导演",
+  "templateUuid": "4d64c7c83d8e406ba120ad349aee7173",
+  "skillUuid": "d3544f9ca62a4d8eabaf8116583a79a2",
+  "skillKey": "healing-motorcycle-anime-e9186a9713704a4fbf3cae524270b68b",
+  "version": "1.0.6",
+  "namespace": "libtv-user-generated",
+  "description": "为公路片故事设计路线驱动、空间连续、可直接制作的专业分镜。",
+  "author": "维生素E",
+  "ownerId": 2644865,
+  "tags": [],
+  "likeCount": 7,
+  "usePv": 2,
+  "useUv": 2,
+  "publishAt": "2026-07-15 18:57:40",
+  "snapshotId": 27437,
+  "useScenario": "用于把连续移动类故事转化为专业分镜，包括机车穿越、越野追逐、自行车竞速、滑板移动、骑马追踪和跑酷逃亡等内容。尤其适合需要路线规划、速度变化、电影镜头、动态环境和严格空间连续性的故事板任务。\n示例：\n一名短发少女驾驶红色越野摩托，从森林入口前往山顶信号塔。途中经过S弯、倒木、溪流和跳台。制作12镜日系动画电影故事板，保持从左向右前进。",
+  "inputType": "提供角色、载具或移动方式、场景、故事目标及期望镜头数量。还可以补充参考图片、路线障碍、视觉风格和结尾方式。Skill 将先建立完",
+  "outputContent": "输出故事主题、连续路线图、逐段速度曲线、空间与摄影轴线规则，以及逐镜故事板。每镜包含摄影机、动作、路线、环境互动、动态元素、高速前景流、动作锚点和下一镜衔接，并附完整连续性检查。",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/e9186a9713704a4fbf3cae524270b68b/c0ee50976853232e9efc625323fbfead1bb26982.png",
+  "resultType": 3,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=4d64c7c83d8e406ba120ad349aee7173",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/e9186a9713704a4fbf3cae524270b68b/452ee6c9a75da06d8ea9db96b7f9b3bc999bcf2f.mp4"
+  ],
+  "hasPublicSkillContent": true
+}

@@ -1,0 +1,33 @@
+{
+  "name": "仙侠高燃打斗分镜生成",
+  "templateUuid": "b93a16ba87234df6bea895c699ed0438",
+  "skillUuid": "7e305f84f0264eb8a8997d5c4806804a",
+  "skillKey": "xianxia-combat-storyboard-3ee293c725f3430d8b1eed53ef0a11b2",
+  "version": "1.0.1",
+  "namespace": "libtv-user-generated",
+  "description": "直出30秒炫酷战斗招式",
+  "author": "AIGC小鑫",
+  "ownerId": 2985270,
+  "tags": [],
+  "likeCount": 146,
+  "usePv": 271,
+  "useUv": 136,
+  "publishAt": "2026-08-09 21:51:54",
+  "snapshotId": 35208,
+  "useScenario": "本 Skill 专门用于生成具有史诗感、视觉冲击力的仙侠风格 3D 高燃打斗动画分镜脚本。它能根据用户输入的招式和场景，自动适配特效、音效、环境元素及大招表现，为 AI 视频创作提供高质量提示词方案。",
+  "inputType": "放入对战角色图片，描述武器武学即可",
+  "outputContent": "30秒高燃大招",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/3ee293c725f3430d8b1eed53ef0a11b2/ce729d37962e280ce1495b55d6b5456293bebc60.jpg",
+  "resultType": 3,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=b93a16ba87234df6bea895c699ed0438",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/3ee293c725f3430d8b1eed53ef0a11b2/701fb7f15c47be74f8a5ef1ac7e2554c9a70f59c.mp4",
+    "https://libtv-res.liblib.art/upload-images/3ee293c725f3430d8b1eed53ef0a11b2/88a2d96f7996cdf9e5feb71c441fa583460b692b.mp4"
+  ],
+  "hasPublicSkillContent": true
+}

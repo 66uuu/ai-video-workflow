@@ -1,0 +1,35 @@
+{
+  "name": "空镜设计skill",
+  "templateUuid": "33b56ec0cb144594b480adca6ef4ce3a",
+  "skillUuid": "78532cfd997a436e87180cde860ea19b",
+  "skillKey": "empty-shot-designer-020b92eb952140af9a99e594358a115b",
+  "version": "1.0.1",
+  "namespace": "libtv-user-generated",
+  "description": "一句话给出多张高质量空镜设计图",
+  "author": "微信用户",
+  "ownerId": 9924785,
+  "tags": [],
+  "likeCount": 13,
+  "usePv": 20,
+  "useUv": 4,
+  "publishAt": "2026-07-20 01:22:33",
+  "snapshotId": 28939,
+  "useScenario": "镜头设计、空镜构想实现、质感海报",
+  "inputType": "描述想要的画面、视觉风格、具体内容",
+  "outputContent": "4-5张高质量空镜头画面",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/020b92eb952140af9a99e594358a115b/76e881f1714d14a32c7266de80c3cfd11f8cfec5.png",
+  "resultType": 2,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=33b56ec0cb144594b480adca6ef4ce3a",
+  "files": [
+    "SKILL.md",
+    "b-roll-shot-planner.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/020b92eb952140af9a99e594358a115b/42897aea38002da74abe67635a37e526e59781aa.png",
+    "https://www.liblib.tv/canvas/chat-share?shareId=7vRH81Gl3J",
+    "https://libtv-res.liblib.art/upload-images/020b92eb952140af9a99e594358a115b/76e881f1714d14a32c7266de80c3cfd11f8cfec5.png"
+  ],
+  "hasPublicSkillContent": true
+}

@@ -1,0 +1,34 @@
+{
+  "name": "通用商品短片导演",
+  "templateUuid": "e6d35f6b55fe46ef9388b5c1458e610a",
+  "skillUuid": "1897d23085154e0bb2ca690e7bb67aed",
+  "skillKey": "product-video-director-8ca94a5320a54240be77717cd84a73dc",
+  "version": "1.0.0",
+  "namespace": "libtv-user-generated",
+  "description": "实拍商品图直出高级卖点短片",
+  "author": "北洛",
+  "ownerId": 1665701,
+  "tags": [],
+  "likeCount": 17,
+  "usePv": 9,
+  "useUv": 9,
+  "publishAt": "2026-07-20 10:20:39",
+  "snapshotId": 28984,
+  "useScenario": "适用于已有 1–6 张实拍商品图、需将已确认卖点转化为 15–30 秒竖版广告短片的小家电及其他消费品。默认输出 9:16，强调商品外观保真、卖点真实与统一商业质感。",
+  "inputType": "上传同一商品的 1–6 张实拍图，至少一张清晰呈现完整主体；并提供商品名称与品类、3 个核心卖点、目标人群或使用场景、禁用表达。",
+  "outputContent": "生成一条 9:16、1080×1920、15–30 秒的商品卖点短片，包含商品呈现、细节/功能镜头、可信场景与收束文案。",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/8ca94a5320a54240be77717cd84a73dc/c6ab5a636878f386040e3c9e7e671ecad5478790.png",
+  "resultType": 3,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=e6d35f6b55fe46ef9388b5c1458e610a",
+  "files": [
+    "SKILL.md",
+    "references/quality-check.md",
+    "references/shot-patterns.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/8ca94a5320a54240be77717cd84a73dc/35cee8a138c92cfa7ddcb35707b8199024f1a9a6.mp4"
+  ],
+  "hasPublicSkillContent": true
+}

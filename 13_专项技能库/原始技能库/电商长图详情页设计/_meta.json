@@ -1,0 +1,32 @@
+{
+  "name": "电商长图详情页设计",
+  "templateUuid": "8860c49faaf840ae84effd0a9e0a2e3d",
+  "skillUuid": "2180c31e659f4870bf87cce687153610",
+  "skillKey": "ecommerce-long-detail-designer-6fe77fcad9614c799944a901d1cc568a",
+  "version": "1.0.1",
+  "namespace": "libtv-user-generated",
+  "description": "适用于长图详情页设计",
+  "author": "JACKPOORS",
+  "ownerId": 1010805,
+  "tags": [],
+  "likeCount": 35,
+  "usePv": 30,
+  "useUv": 23,
+  "publishAt": "2026-07-24 18:58:25",
+  "snapshotId": 30482,
+  "useScenario": "小红书种草，朋友圈推广，电商平台产品推广",
+  "inputType": "上传文案，图片。",
+  "outputContent": "推广类图片，电商详情页",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/6fe77fcad9614c799944a901d1cc568a/09c7e273c8dbcdeea7fb18ac92d9a28e2ffd6936.png",
+  "resultType": 2,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=8860c49faaf840ae84effd0a9e0a2e3d",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/6fe77fcad9614c799944a901d1cc568a/09c7e273c8dbcdeea7fb18ac92d9a28e2ffd6936.png"
+  ],
+  "hasPublicSkillContent": true
+}

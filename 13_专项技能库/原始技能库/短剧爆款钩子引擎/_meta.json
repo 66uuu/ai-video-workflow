@@ -1,0 +1,32 @@
+{
+  "name": "短剧爆款钩子引擎",
+  "templateUuid": "fb44789a1ee84a5db924ef9c65e3275c",
+  "skillUuid": "4a9c9a5cf35f4ab5bda7af5fd96df732",
+  "skillKey": "skit-viral-hook-engine-3f04004128804c279b27eb0ea6781ed1",
+  "version": "1.0.0",
+  "namespace": "libtv-user-generated",
+  "description": "一句话故事核生成10集大纲+钩子+付费卡点",
+  "author": "JokerLL",
+  "ownerId": 10925824,
+  "tags": [],
+  "likeCount": 19,
+  "usePv": 32,
+  "useUv": 9,
+  "publishAt": "2026-07-24 23:38:19",
+  "snapshotId": 30530,
+  "useScenario": "有一句故事灵感或核心设定，需要快速展开成完整短剧分集大纲；已有粗略故事线，需要设计专业级付费钩子和卡点策略；想验证短剧创意是否具备爆款潜质后再投入制作；需要为多季短剧规划长期叙事弧线与钩子递进；不同平台（竖屏短剧/横屏短剧/小说改编）需要调整钩子密度和付费策略",
+  "inputType": "输入一句话故事核心（建议包含：主角身份+核心冲突+反转点），例如：\"外卖小哥送餐到豪门，被误认为是失踪多年的少爷，他将错就错混入豪门，发现真少爷的死因和这个家族的每个人都有关系。\"如果只有题材方向，会主动追问3个关键信息：主角核心身份、最大仇人/障碍、最爽的反转时刻。然后自动完成故事核诊断→角色动机设计→10集分集大纲+钩子→付费卡点策略→情绪节奏曲线的完整流程。",
+  "outputContent": "1. 故事核诊断报告（爽点定位、情绪锚点、核心矛盾、爆款标签、风险提示）\n2. 角色动机档案（每个关键角色的表层目标/深层欲望/核心恐惧/秘密武器/关系网/弧光方向）\n3. 10集分集大纲（每集含开场钩子、核心事件、情绪曲线、关键对白、结尾钩子类型与内容、付费卡点位置与理由）\n4. 付费卡点策略（按竖屏/横屏/小说改编三种平台类型分别输出卡点方案）\n5. 情绪节奏曲线（文字版曲线图+节奏说明，第6",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/3f04004128804c279b27eb0ea6781ed1/9e87040d4fc53bd2d8c6e372585f47b11e155e89.jpg",
+  "resultType": 3,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=fb44789a1ee84a5db924ef9c65e3275c",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/3f04004128804c279b27eb0ea6781ed1/97f5a1317427503108e64bbd8307d1fe6677b0e5.mp4"
+  ],
+  "hasPublicSkillContent": true
+}

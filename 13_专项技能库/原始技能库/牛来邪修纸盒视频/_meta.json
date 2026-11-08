@@ -1,0 +1,32 @@
+{
+  "name": "牛来邪修纸盒视频",
+  "templateUuid": "be4c1f4933cc438cafd5578b509e05b3",
+  "skillUuid": "6a1dd2d636cf470fb859b334ff6bdd5f",
+  "skillKey": "product-creative-video-e5c05143074646b7ae70a88b81ec6c2a",
+  "version": "1.0.1",
+  "namespace": "libtv-user-generated",
+  "description": "输入产品图，生成产品创意视频",
+  "author": "星美Fine",
+  "ownerId": 773892,
+  "tags": [],
+  "likeCount": 3,
+  "usePv": 1,
+  "useUv": 1,
+  "publishAt": "2026-08-22 14:13:55",
+  "snapshotId": 39665,
+  "useScenario": "有产品图片，想快速生成一组产品创意展示视频时使用",
+  "inputType": "产品原图（必须）+ 参考风格图（必须）",
+  "outputContent": "2条产品创意视频，以及中间生成的产品设定图",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/e5c05143074646b7ae70a88b81ec6c2a/48560ca56ee7faf43d3e0458dc72af4793923b15.png",
+  "resultType": 3,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=be4c1f4933cc438cafd5578b509e05b3",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/e5c05143074646b7ae70a88b81ec6c2a/5ebb31245e572162edb47000e930af0850cfb7f3.MP4"
+  ],
+  "hasPublicSkillContent": true
+}

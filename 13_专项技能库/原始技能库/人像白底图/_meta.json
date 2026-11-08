@@ -1,0 +1,32 @@
+{
+  "name": "人像白底图",
+  "templateUuid": "dd2f39ab8fc14d188e3c90e00e48582d",
+  "skillUuid": "6248d7e741124a8cb8dc28d3eb8add2a",
+  "skillKey": "white-background-id-photo-d0ba79af1a52449dbb44497c9ce5c92a",
+  "version": "1.0.1",
+  "namespace": "libtv-user-generated",
+  "description": "在原有白底证件照生成技能基础上，新增服装约束：所有生成的模特",
+  "author": "微信用户836c5f",
+  "ownerId": 7482838,
+  "tags": [],
+  "likeCount": 12,
+  "usePv": 18,
+  "useUv": 4,
+  "publishAt": "2026-08-03 15:21:28",
+  "snapshotId": 32897,
+  "useScenario": "搭建人脸资源库",
+  "inputType": "反推参考图生成白底人像固定发型",
+  "outputContent": "产出白底图",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/d0ba79af1a52449dbb44497c9ce5c92a/28d6c251d30ddace4b6a9e8de59c0cb439ccc45c.png",
+  "resultType": 2,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=dd2f39ab8fc14d188e3c90e00e48582d",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/d0ba79af1a52449dbb44497c9ce5c92a/28d6c251d30ddace4b6a9e8de59c0cb439ccc45c.png"
+  ],
+  "hasPublicSkillContent": true
+}

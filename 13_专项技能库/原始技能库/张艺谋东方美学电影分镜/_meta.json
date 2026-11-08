@@ -1,0 +1,33 @@
+{
+  "name": "张艺谋东方美学电影分镜",
+  "templateUuid": "f152278954464ce1a425f74791763846",
+  "skillUuid": "eda4bebef35b4957933c9f2cedd1f804",
+  "skillKey": "oriental-ritual-storyboard-949e10ec37d74ca9aa728145429a64fd",
+  "version": "1.0.2",
+  "namespace": "libtv-user-generated",
+  "description": "一键生成具有东方仪式感、强烈色彩与电影构图的原创电影分镜",
+  "author": "金宝KINGBOW",
+  "ownerId": 8595777,
+  "tags": [],
+  "likeCount": 61,
+  "usePv": 99,
+  "useUv": 35,
+  "publishAt": "2026-07-24 09:34:56",
+  "snapshotId": 30241,
+  "useScenario": "适用于武侠、古装、神话、战争、悬疑、舞台感剧情的电影预演、短片分镜和海报创意。",
+  "inputType": "输入你想呈现的单个电影画面：包括人物、地点、正在发生的动作、情绪和希望强调的色彩或镜头感。\n例如：一名女将军独自站在朱红宫门前，漫天大雪，远处军阵隐没在雾中，悲壮、压抑，红黑白主色，横向远景。\n也可以上传参考图，并说明希望保留的构图、色彩或氛围。每次将生成一张完整、无文字的单个电影分镜关键帧。",
+  "outputContent": "输出一张横向 16:9、无文字、具有明确镜头语言和戏剧张力的原创电影分镜关键帧图。",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/949e10ec37d74ca9aa728145429a64fd/001b54585ce9ef0f67afaa1e9d4fb87045d724cc.png",
+  "resultType": 2,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=f152278954464ce1a425f74791763846",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/949e10ec37d74ca9aa728145429a64fd/001b54585ce9ef0f67afaa1e9d4fb87045d724cc.png",
+    "https://libtv-res.liblib.art/upload-images/949e10ec37d74ca9aa728145429a64fd/7e6016542d17879bbde0645fbe8a68c42b5d4b48.png"
+  ],
+  "hasPublicSkillContent": true
+}

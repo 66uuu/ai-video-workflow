@@ -1,0 +1,32 @@
+{
+  "name": "非遗/传统文化主题微电影",
+  "templateUuid": "91cdaea783504157aea30f7e900411bd",
+  "skillUuid": "be36fa0c83ca435db4fa7058823388ee",
+  "skillKey": "heritage-culture-film-generator-1880886b42cc43ddb951847092928422",
+  "version": "1.0.1",
+  "namespace": "libtv-user-generated",
+  "description": "适用于非遗 / 传统文化微电影创作，一键呈现纪录片微电影",
+  "author": "TTyears万年",
+  "ownerId": 224634,
+  "tags": [],
+  "likeCount": 65,
+  "usePv": 47,
+  "useUv": 31,
+  "publishAt": "2026-07-17 13:03:44",
+  "snapshotId": 28073,
+  "useScenario": "适用于非遗/传统文化微电影制作，高品质一键产出。视觉呈现具有纪录片实景美学和叙事感。",
+  "inputType": "输入一个传统节日或民俗文化创意概要、剧本、简要故事梗慨。",
+  "outputContent": "输出脚本、角色/场景资产包、音乐/配音、分镜图、分镜视频、视频成片。可生成独立微电影。",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/1880886b42cc43ddb951847092928422/322c9763258728f36535e664eca47c32ed3853cc.png",
+  "resultType": 3,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=91cdaea783504157aea30f7e900411bd",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/1880886b42cc43ddb951847092928422/52c0ea65f4d7cd9b337d1f30f0dc8034320b3c38.mp4"
+  ],
+  "hasPublicSkillContent": true
+}

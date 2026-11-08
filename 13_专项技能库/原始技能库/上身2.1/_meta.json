@@ -1,0 +1,32 @@
+{
+  "name": "上身2.1",
+  "templateUuid": "7afec6bf9f53472fb86192e67062d2b9",
+  "skillUuid": "573fcbf6c68a4f9f915aa63e81f82d85",
+  "skillKey": "upper-body-portrait-fc5320b9356041d194d957403db3d079",
+  "version": "1.0.0",
+  "namespace": "libtv-user-generated",
+  "description": "上身2.1",
+  "author": "新",
+  "ownerId": 1227923,
+  "tags": [],
+  "likeCount": 2,
+  "usePv": 0,
+  "useUv": 0,
+  "publishAt": "2026-09-09 17:02:03",
+  "snapshotId": 44686,
+  "useScenario": "上身2.1",
+  "inputType": "上身2.1",
+  "outputContent": "上身2.1",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/fc5320b9356041d194d957403db3d079/dd8b4d808a4e2aa6c70bcd27944f257260f935bd.jpg",
+  "resultType": 2,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=7afec6bf9f53472fb86192e67062d2b9",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/fc5320b9356041d194d957403db3d079/a2ccb0264c96a6cca56eb2a9d4d64441b868c859.jpg"
+  ],
+  "hasPublicSkillContent": true
+}

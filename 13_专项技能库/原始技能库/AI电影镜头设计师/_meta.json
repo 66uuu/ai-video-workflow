@@ -1,0 +1,36 @@
+{
+  "name": "AI电影镜头设计师",
+  "templateUuid": "574f2608cf4a430eb5b1546dd60bcb29",
+  "skillUuid": "f0315ca7144c46f2b397411e96f96195",
+  "skillKey": "cinematic-shot-designer-cca409ade58949f1ac4e6dae6d804d3d",
+  "version": "1.0.0",
+  "namespace": "libtv-user-generated",
+  "description": "把简单的场景设计成专业电影级镜头语言",
+  "author": "AIGC肖学长",
+  "ownerId": 498532,
+  "tags": [
+    "专业影视"
+  ],
+  "likeCount": 958,
+  "usePv": 2476,
+  "useUv": 1075,
+  "publishAt": "2026-08-23 18:53:29",
+  "snapshotId": 39943,
+  "useScenario": "适用于AI电影、短片、广告、MV及分镜创作。可根据剧情和情绪设计镜头角度、机位高度、焦段、景别、构图、运镜节拍与镜头衔接，也可诊断并修复运镜冲突、穿轴、空间混乱和动作不可见等问题。",
+  "inputType": "输入场景内容、人物动作、情绪目标和期望时长，即可生成镜头方案。还可补充画幅、参考图片、视频模型、镜头数量、单镜头或多镜头、是否一镜到底等要求。若已有提示词，可直接提交并要求诊断、优化或改写。\n示例：\n“雨夜车站，失散多年的两个人重新相遇。设计3个连续镜头，总时长18秒，16:9，无对白，输出可直接生成视频的中文提示词。”",
+  "outputContent": "输出具有明确叙事目的、摄影机位置和时间节拍的AI电影镜头提示词，包括镜头角度、机位距离、焦段、景别、前中后景、人物调度、运镜起止状态、动作触发点、切镜方式及连续性约束。支持静态关键帧、单个动态镜头、多镜头场景和提示词诊断。",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/cca409ade58949f1ac4e6dae6d804d3d/a6201f629d4aea1039c7e24af946ba2807f7fa70.png",
+  "resultType": 3,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=574f2608cf4a430eb5b1546dd60bcb29",
+  "files": [
+    "SKILL.md",
+    "camera-language.md",
+    "output-formats.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/cca409ade58949f1ac4e6dae6d804d3d/703c2045c5cc751dfa85950c94068c8cff57dc1e.mp4"
+  ],
+  "hasPublicSkillContent": true
+}

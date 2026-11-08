@@ -1,0 +1,32 @@
+{
+  "name": "无人机视角【线控运镜】-玄黄-V1.0",
+  "templateUuid": "bf927e90b83143a89c0e2ba13cf1ad4c",
+  "skillUuid": "c899225191a84d90a36bdc77ca261078",
+  "skillKey": "fpv-one-take-cinematography-44b0716e9f7e4c5c9627d87a893c5212",
+  "version": "1.0.2",
+  "namespace": "libtv-user-generated",
+  "description": "FPV穿越机一镜到底视频创作",
+  "author": "玄黄AIGC",
+  "ownerId": 924375,
+  "tags": [],
+  "likeCount": 9,
+  "usePv": 25,
+  "useUv": 13,
+  "publishAt": "2026-09-03 14:12:06",
+  "snapshotId": 43133,
+  "useScenario": "用户上传场景图或路线图，需要生成第一人称FPV穿越机一镜到底视频时",
+  "inputType": "单张场景图或已标注飞行路线的参考图",
+  "outputContent": "一镜到底FPV穿越机视频，含飞行路线分析与视频提示词",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/44b0716e9f7e4c5c9627d87a893c5212/e495b62e960019776771818673634f63c1704525.png",
+  "resultType": 3,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=bf927e90b83143a89c0e2ba13cf1ad4c",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/44b0716e9f7e4c5c9627d87a893c5212/9c96ce05936d40fd5f31a87ec4c4d9e179cd3e23.mp4"
+  ],
+  "hasPublicSkillContent": true
+}

@@ -1,0 +1,37 @@
+{
+  "name": "电影感分镜生成器",
+  "templateUuid": "8e88b7397abd4ec8b0cbaec5ed06d849",
+  "skillUuid": "3ede2c3da7ad453dbbc765a2aa0f05a0",
+  "skillKey": "cinematic-film-creator-431590b021c143a0b10d6988d3c3a50c",
+  "version": "1.0.13",
+  "namespace": "libtv-user-generated",
+  "description": "能够尽量减少ai制作分镜时候的人物位置关系的错误",
+  "author": "Zz",
+  "ownerId": 5927302,
+  "tags": [],
+  "likeCount": 17,
+  "usePv": 7,
+  "useUv": 7,
+  "publishAt": "2026-08-07 14:12:36",
+  "snapshotId": 34457,
+  "useScenario": "影视感一键成片，主要用于在人物多人平行站位以及面对面站位等复杂的人物位置关系的情景下进行没有错误的分镜图的创作。",
+  "inputType": "需要给出人设图，剧情，以及环境的空镜然后交给skill就行，重点（一定要看）：【如果出现多人的情况下，一定要在开头的时候直接和智能体说明每一次分镜的创作需要链接最开始的人物全景站位图参考以及上一张刚生成的分镜图来确立人物的位置关系不要出现错误，注意：如果剧情里人物的位置关系发生了变化，请重新让智能体制作一个全新的人物位置关系全景图，然后再次进行创作】如果出现不对的分镜，需要及时跟只能提说明",
+  "outputContent": "一键生成剧情中会出现的所有分镜图。",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/431590b021c143a0b10d6988d3c3a50c/77398b6811a11308c0bee9008c011f019237a929.png",
+  "resultType": 2,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=8e88b7397abd4ec8b0cbaec5ed06d849",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/431590b021c143a0b10d6988d3c3a50c/7907293d29fe789628061eea8a01c36fe5fc9167.png",
+    "https://libtv-res.liblib.art/upload-images/431590b021c143a0b10d6988d3c3a50c/8f4e0824c6bbf96b8660e0b2ef30007dad92211a.png",
+    "https://www.liblib.tv/canvas/chat-share?shareId=CmvCcaPOeM",
+    "https://libtv-res.liblib.art/upload-images/431590b021c143a0b10d6988d3c3a50c/4e33dd226b91bb192969a4d1ee56194859e95924.png",
+    "https://libtv-res.liblib.art/upload-images/431590b021c143a0b10d6988d3c3a50c/e755f1f56dd615e4530d6b7b74013b4fd2014522.png",
+    "https://www.liblib.tv/canvas/chat-share?shareId=CmvCcaPOeM"
+  ],
+  "hasPublicSkillContent": true
+}

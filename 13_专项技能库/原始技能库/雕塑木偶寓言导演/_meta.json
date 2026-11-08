@@ -1,0 +1,32 @@
+{
+  "name": "雕塑木偶寓言导演",
+  "templateUuid": "82e89fa3c0cc41cb813da9429fb394a8",
+  "skillUuid": "d4e5c4ec8fc0422cae993b43a9a9c68d",
+  "skillKey": "sculpted-puppet-fable-cfa586f337044d23aa96ecb6f7f44c99",
+  "version": "1.0.1",
+  "namespace": "libtv-user-generated",
+  "description": "把一句故事变成固定面具、剧场侧光与手工雕塑质感的原创木偶定格",
+  "author": "奶冻不耐冻",
+  "ownerId": 9735373,
+  "tags": [],
+  "likeCount": 5,
+  "usePv": 0,
+  "useUv": 0,
+  "publishAt": "2026-08-09 11:09:09",
+  "snapshotId": 35032,
+  "useScenario": "适合暗黑童话、历史寓言、社会讽喻、悲剧故事、文化品牌和无对白音乐短片。尤其适合需要固定面具表演、象征物叙事、剧场舞台构图、低饱和手工材质、硬质侧光和定格动作的30至90秒视频项目。不适合明亮萌系卡通、写实真人口型和高速MV式剪辑。",
+  "inputType": "最低只需输入一句主题或故事。也可以补充主角、人物欲望、阻力、象征物、片长、画幅、对白模式、结局倾向、品牌资料或参考图。Skill会自动提炼寓言结构，锁定木偶、场景和光影，生成三阶段表演测试、完整分镜、关键帧提示词、图生视频动作指令、声音方案和连续性检查。",
+  "outputContent": "输出项目卡、原创木偶设定、材料与固定面具说明、舞台色彩光影规则、服从/怀疑/反抗三阶段测试板、完整分镜表、逐镜关键帧提示词、图生视频动作指令、统一负面约束、声音设计、连续性评分，以及可继续生成和剪辑的木偶定格短片方案。",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/cfa586f337044d23aa96ecb6f7f44c99/6bf59d74678ef4652bac4a6f18a57b1c73016258.png",
+  "resultType": 3,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=82e89fa3c0cc41cb813da9429fb394a8",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/cfa586f337044d23aa96ecb6f7f44c99/904e1c74cc921506c2021230006a3b47385ad797.mp4"
+  ],
+  "hasPublicSkillContent": true
+}

@@ -1,0 +1,34 @@
+{
+  "name": "图片提示词反推-玄黄-Single V1.0",
+  "templateUuid": "5ff078acfee9463c8e62f459e27de6b7",
+  "skillUuid": "5f1d31adcdef470cb813d50486e5c238",
+  "skillKey": "image-prompt-reverse-44b0716e9f7e4c5c9627d87a893c5212",
+  "version": "1.0.2",
+  "namespace": "libtv-user-generated",
+  "description": "将一张参考图转化为可直接用于 AI 绘图的中文提示词",
+  "author": "玄黄AIGC",
+  "ownerId": 924375,
+  "tags": [
+    "通用技能"
+  ],
+  "likeCount": 161,
+  "usePv": 165,
+  "useUv": 118,
+  "publishAt": "2026-08-31 16:15:00",
+  "snapshotId": 42316,
+  "useScenario": "当用户上传一张参考图片，并希望反推 AI 绘画提示词、分析画面风格、拆解构图光影、提取视觉元素或复刻图片效果时使用。适用于人像、产品、电商图、风景、美食、建筑室内、海报和艺术图等单图分析场景。",
+  "inputType": "上传一张清晰完整的参考图，并说明希望“反推提示词”或“拆解画面”。Skill 会根据图片中的主体、环境、构图、光影、镜头、色彩、材质、文字和情绪进行分析。一次仅处理一张图片。",
+  "outputContent": "生成一份中文结构化 AI 绘画提示词，包含场景结构、画面风格、主体特征、构图、光影、镜头参数、情绪氛围、色彩系统、细节文字和反向提示词，并保存为 UTF-8 with BOM 编码的 TXT 文件。",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/44b0716e9f7e4c5c9627d87a893c5212/1b06a50192075fc2599b54f52734143f10907f3d.png",
+  "resultType": 2,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=5ff078acfee9463c8e62f459e27de6b7",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/44b0716e9f7e4c5c9627d87a893c5212/1b06a50192075fc2599b54f52734143f10907f3d.png"
+  ],
+  "hasPublicSkillContent": true
+}

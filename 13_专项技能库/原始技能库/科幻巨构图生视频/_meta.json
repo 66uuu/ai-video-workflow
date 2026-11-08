@@ -1,0 +1,32 @@
+{
+  "name": "科幻巨构图生视频",
+  "templateUuid": "ddffc5bea9fd4136ac6efba6257e42c9",
+  "skillUuid": "cb4e62cbcd754b3ab5c5c5aae323e409",
+  "skillKey": "megastructure-handheld-camera-e5c05143074646b7ae70a88b81ec6c2a",
+  "version": "1.0.3",
+  "namespace": "libtv-user-generated",
+  "description": "MJ8.2科幻巨构图片生成缓慢下压推近视频",
+  "author": "星美Fine",
+  "ownerId": 773892,
+  "tags": [],
+  "likeCount": 22,
+  "usePv": 54,
+  "useUv": 33,
+  "publishAt": "2026-09-01 09:37:27",
+  "snapshotId": 42488,
+  "useScenario": "以科幻工业巨构图片为首帧，生成带有手持抖动+急速变焦冲击感的短视频时使用",
+  "inputType": "一张科幻工业巨构风格图片（作为视频首帧）",
+  "outputContent": "30秒手持拍摄氛围的科幻巨构短视频，含snap zoom急速放大等运镜效果",
+  "coverUrl": "https://libtv-res.liblib.art/sd-gen-save-img/genius_playground/image/e5c05143074646b7ae70a88b81ec6c2a/892071187_2a329f1d02904501aa33d917f7362b75.png",
+  "resultType": 3,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=ddffc5bea9fd4136ac6efba6257e42c9",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/e5c05143074646b7ae70a88b81ec6c2a/5a448b240e6ae018032fc13f57910db4a38bf484.MP4"
+  ],
+  "hasPublicSkillContent": true
+}

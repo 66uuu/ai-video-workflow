@@ -1,0 +1,41 @@
+{
+  "1": {
+    "inputs": { "ckpt_name": "majicmixRealistic_v7.safetensors" },
+    "class_type": "CheckpointLoaderSimple"
+  },
+  "3": {
+    "inputs": { "width": 512, "height": 768, "batch_size": 1 },
+    "class_type": "EmptyLatentImage"
+  },
+  "4": {
+    "inputs": { "clip": ["1", 1], "text": "PROMPT_HERE" },
+    "class_type": "CLIPTextEncode"
+  },
+  "5": {
+    "inputs": { "clip": ["1", 1], "text": "NEG_HERE" },
+    "class_type": "CLIPTextEncode"
+  },
+  "6": {
+    "inputs": {
+      "seed": 42,
+      "steps": 28,
+      "cfg": 7.0,
+      "sampler_name": "dpmpp_2m",
+      "scheduler": "karras",
+      "denoise": 1.0,
+      "model": ["1", 0],
+      "positive": ["4", 0],
+      "negative": ["5", 0],
+      "latent_image": ["3", 0]
+    },
+    "class_type": "KSampler"
+  },
+  "8": {
+    "inputs": { "samples": ["6", 0], "vae": ["1", 2] },
+    "class_type": "VAEDecode"
+  },
+  "9": {
+    "inputs": { "images": ["8", 0], "filename_prefix": "SD15_vs_FLUX" },
+    "class_type": "SaveImage"
+  }
+}

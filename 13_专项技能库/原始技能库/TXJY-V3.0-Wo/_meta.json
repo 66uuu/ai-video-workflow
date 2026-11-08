@@ -1,0 +1,32 @@
+{
+  "name": "TXJY-V3.0-Wo",
+  "templateUuid": "c96b775b652e4423a4979905d2074c2f",
+  "skillUuid": "3ac9f0d9236b42729076599c6a78b106",
+  "skillKey": "micro-movie-world-engine-7a93bf941de54b4c983bf5194c4328ec",
+  "version": "1.0.2",
+  "namespace": "libtv-user-generated",
+  "description": "TXJY-V3.0 · 微电影全链路制作·世界规则引擎·终极",
+  "author": "九霄凌云",
+  "ownerId": 10579722,
+  "tags": [],
+  "likeCount": 3,
+  "usePv": 5,
+  "useUv": 1,
+  "publishAt": "2026-09-03 00:57:14",
+  "snapshotId": 43008,
+  "useScenario": "用户启动微电影/短剧项目制作时调用，尤其适用于多角色、多场景、含车辆/装备/生活场景的复杂剧本。执行完整的19类前置检测+世界规则引擎校验+外科手术验证流程，保证成片无违和感。",
+  "inputType": "给出小说/剧本，自动化",
+  "outputContent": "剧本内容：\n[在此粘贴完整剧本，包含场景、角色、对话、动作描述]\n\n角色列表：\n[角色名 - 服装 - 装备描述]\n示例：陈天行 - 黑色战术服 - 潜水镜/战术背心\n\n场景列表：\n[场景名 - 空间布局描述]\n示例：九友公寓客厅 - 落地窗/茶台/沙发/厨房中岛\n\n车辆场景（如有）：\n[车辆停靠位置 - 各座位角色分配]\n示例：地下车库A区 - 主驾:陈天行/副驾:霍北/后排左:刑烈\n\n系统",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/7a93bf941de54b4c983bf5194c4328ec/2bd857087c803d291f2f79c539b6d2299eef7e1d.png",
+  "resultType": 3,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=c96b775b652e4423a4979905d2074c2f",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/7a93bf941de54b4c983bf5194c4328ec/88b7447ee8348d6764800f74907b81c258277450.mp4"
+  ],
+  "hasPublicSkillContent": true
+}

@@ -1,0 +1,36 @@
+{
+  "name": "金包银短剧漫剧电影级TVC|爆款拉片复刻",
+  "templateUuid": "9e64a829bfe54ef4a6a372aeb2195d2f",
+  "skillUuid": "6b840b2de00a4bfa9f93cadf2b881dd6",
+  "skillKey": "viral-video-replicator-074be3667ece41bc8993cea11c99240e",
+  "version": "1.0.4",
+  "namespace": "libtv-user-generated",
+  "description": "精准拆解爆款情绪，一键复刻你的金包银电影级短剧漫剧TVC！",
+  "author": "杭州金包银批发总部",
+  "ownerId": 10465270,
+  "tags": [],
+  "likeCount": 4,
+  "usePv": 9,
+  "useUv": 6,
+  "publishAt": "2026-09-22 20:03:00",
+  "snapshotId": 49263,
+  "useScenario": "适用于短视频账号矩阵运营、品牌TVC批量化生产、短剧/漫剧快速试水，以及各类商业营销大赛的参赛素材快速制作。\n\n核心优势： 依托【顶级大导演思维】底层引擎，精准拆解全网爆款情绪，以“电影级”标准实现“工业级”批量复刻产出，真正实现“AI拍大片，品牌接订单”。",
+  "inputType": "三步极简操作：\n\n描述爆款：在对话框中用文字描述目标爆款的核心风格与情绪节奏（例：“一个先抑后扬的反转情感短剧”）。\n\n定故事：输入你的金包银产品卖点或品牌故事。\n\n一键复刻：系统自动调用【顶级大导演思维】底层规则，精准拆解情绪骨架，严格执行【金包银防崩绝密】（锁死#D4AF37暗金色，杜绝银白与塑料感），生成成品。",
+  "outputContent": "一部精准复刻爆款逻辑、且带有顶级导演审美的【金包银电影级短剧漫剧/TVC】成片（MP4格式），无AI乱码、无穿模、无塑料感。\n\n附赠： 完整分镜脚本 + 全套金包银专属防崩工业素材包（含暗金Logo模板、纯物理金属音效）。",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/074be3667ece41bc8993cea11c99240e/156ff2b7171f059b79f9d77f3546dda1c2d4ea21.png",
+  "resultType": 3,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=9e64a829bfe54ef4a6a372aeb2195d2f",
+  "files": [
+    "SKILL.md",
+    "【金包银_材质防崩与视觉语法库_核心禁则】（爆款拉片复刻专属版）.md",
+    "金包银_爆款剥皮术与情绪解剖.md",
+    "【金包银_神话非遗场景_资产锚点库】.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/074be3667ece41bc8993cea11c99240e/93eb1a1c3fd611d6174b7d3bf3526617ed0ecf01.mp4",
+    "https://libtv-res.liblib.art/upload-images/074be3667ece41bc8993cea11c99240e/883df7a7b87d9a540da1fd0b1794554c7af6f281.mp4"
+  ],
+  "hasPublicSkillContent": true
+}

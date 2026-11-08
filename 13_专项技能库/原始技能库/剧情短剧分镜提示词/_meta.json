@@ -1,0 +1,34 @@
+{
+  "name": "剧情短剧分镜提示词",
+  "templateUuid": "cb28d634cb324508bf8fbc1b83fc1db4",
+  "skillUuid": "019a4db3e3c94c68af9454d4c74d1994",
+  "skillKey": "period-drama-storyboard-prompter-67faca94d6ce40208a2af73292002879",
+  "version": "1.0.2",
+  "namespace": "libtv-user-generated",
+  "description": "剧情短剧视频生成提示词写作规范",
+  "author": "微信用户1d6320",
+  "ownerId": 10670684,
+  "tags": [
+    "短剧漫剧"
+  ],
+  "likeCount": 136,
+  "usePv": 265,
+  "useUv": 181,
+  "publishAt": "2026-09-10 09:17:11",
+  "snapshotId": 44845,
+  "useScenario": "为剧情短剧（如盛唐背景）撰写分镜视频生成提示词，需要多镜头连续性、角色一致性、表演边界控制时使用",
+  "inputType": "分镜场次名称、角色资产节点key、场景/道具节点key、剧情衔接说明、本场核心戏剧目标、台词文本",
+  "outputContent": "符合规范的视频生成提示词全文，可直接用于剧情短剧分镜视频生成节点",
+  "coverUrl": null,
+  "resultType": 1,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=cb28d634cb324508bf8fbc1b83fc1db4",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/67faca94d6ce40208a2af73292002879/af5780242f112f4e5f22fedf51ef8237f246f085.md"
+  ],
+  "hasPublicSkillContent": true
+}

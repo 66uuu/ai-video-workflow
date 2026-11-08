@@ -1,0 +1,32 @@
+{
+  "name": "关于“错过”的60秒电影",
+  "templateUuid": "b8dfb5ebd3b74be6a8406523a70cd204",
+  "skillUuid": "9064e5a3a99a45f1b659bae1e4f65976",
+  "skillKey": "missed-connection-film-director-ea795b48e859446ea0ac5169a1d245be",
+  "version": "1.0.1",
+  "namespace": "libtv-user-generated",
+  "description": "这是一个专门创作 60秒“错过”主题电影短片 的导演型 Sk",
+  "author": "阿勇AI创作",
+  "ownerId": 346578,
+  "tags": [],
+  "likeCount": 2,
+  "usePv": 0,
+  "useUv": 0,
+  "publishAt": "2026-08-12 02:13:35",
+  "snapshotId": 36034,
+  "useScenario": "本Skill适合创作以 “错过、遗憾、时间差、未曾相遇、擦肩而过” 为核心情绪的60秒电影感短片。",
+  "inputType": "使用本Skill时，只需要输入一句简单需求。最简单的使用方式：“帮我拍一支60秒关于‘错过’的电影，不要俗套。”Skill将自动完成创作。",
+  "outputContent": "调用本Skill后，应输出一套完整的60秒导演成片方案。",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/ea795b48e859446ea0ac5169a1d245be/a5fbdb29533ff13acfa6032edf5ecb4f052665b2.png",
+  "resultType": 3,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=b8dfb5ebd3b74be6a8406523a70cd204",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/ea795b48e859446ea0ac5169a1d245be/07f68cff38e3af2de069bfae5ee91d952ac5b675.mp4"
+  ],
+  "hasPublicSkillContent": true
+}

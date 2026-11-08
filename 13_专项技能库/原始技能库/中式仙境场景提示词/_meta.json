@@ -1,0 +1,32 @@
+{
+  "name": "中式仙境场景提示词",
+  "templateUuid": "aecb8455a16f45979d43470edb0c194b",
+  "skillUuid": "5d7b9bf55ea44524bf8efc85d4db7958",
+  "skillKey": "chinese-wonderland-prompt-crafter-f3749359c70a40b1a53b78d7f95b91a4",
+  "version": "1.0.1",
+  "namespace": "libtv-user-generated",
+  "description": "中式仙境图片/视频提示词生成",
+  "author": "132****5705",
+  "ownerId": 10776883,
+  "tags": [],
+  "likeCount": 4,
+  "usePv": 8,
+  "useUv": 8,
+  "publishAt": "2026-08-24 19:33:43",
+  "snapshotId": 40281,
+  "useScenario": "用户说\"帮我出10张中式仙境风格画面提示词\"、\"想几个不同场景\"、\"一句话生成场景\"、\"中式仙境\"、\"巨型中式建筑\"，或要求任意数量的相关图片提示词时使用；用户上传图片并说\"出视频提示词\"、\"这个怎么动\"时进入视频提示词模式。",
+  "inputType": "一句话文字需求（如\"帮我出10张中式仙境场景\"），或上传已生成的图片并说明要出视频提示词。",
+  "outputContent": "可直接复制到 Midjourney V8.2 的英文图片提示词（批量），或可直接复制到 Seedance 2.5 的中文图生视频提示词（单张/多张）。",
+  "coverUrl": null,
+  "resultType": 1,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=aecb8455a16f45979d43470edb0c194b",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/f3749359c70a40b1a53b78d7f95b91a4/e9c9b57668f17da139c17441cefada2d960128ea.md"
+  ],
+  "hasPublicSkillContent": true
+}

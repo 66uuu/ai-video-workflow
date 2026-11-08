@@ -1,0 +1,32 @@
+{
+  "name": "情绪电影画面",
+  "templateUuid": "cbee859b1fbd406289b89609ae1d082e",
+  "skillUuid": "e18823c6d80e4543a4a1ddde47b47b2b",
+  "skillKey": "restrained-cinematic-stills-4cbb9119e654432da6d857c2241f1627",
+  "version": "1.0.1",
+  "namespace": "libtv-user-generated",
+  "description": "把画面构想直接生成克制的真人电影静帧",
+  "author": "HP天理",
+  "ownerId": 9470638,
+  "tags": [],
+  "likeCount": 5,
+  "usePv": 17,
+  "useUv": 4,
+  "publishAt": "2026-08-18 03:45:47",
+  "snapshotId": 37949,
+  "useScenario": "适合电影静帧、人物图、场景图、封面、分镜、参考图重制与改图。尤其适合需要真实机位、空间透视、自然光、低饱和、克制情绪和1990—2000年代东亚生活流电影质感的画面。",
+  "inputType": "可只写文字、只上传参考图，或图片+文字、多图组合。说明主体、场景、动作、构图、光线及每张参考图的用途即可；缺失的非核心参数由Skill按真实摄影逻辑补全。默认直接生成，不需要确认。",
+  "outputContent": "默认输出真人实拍电影静帧。Skill会内部处理机位、焦段、人物占比、空间透视、前中后景、光源、电影美术和35mm颗粒，并检查透视冲突、广告感、AI塑料感及无依据日式元素等问题。",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/4cbb9119e654432da6d857c2241f1627/e89777756fe8d53d87883a098464a2a6a4a06209.png",
+  "resultType": 2,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=cbee859b1fbd406289b89609ae1d082e",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/4cbb9119e654432da6d857c2241f1627/9cdd2f942f16c91b67490c531113753ddcc39fd7.png"
+  ],
+  "hasPublicSkillContent": true
+}

@@ -1,0 +1,32 @@
+{
+  "name": "迪士尼3D趣味动画短片",
+  "templateUuid": "b9a17cc1597141929682b344b3a9d711",
+  "skillUuid": "9a94955ece2f42e3b31b392738714c45",
+  "skillKey": "disney-3d-short-animator-c18414452f144fb4b49219aa1dee2a30",
+  "version": "1.0.1",
+  "namespace": "libtv-user-generated",
+  "description": "一键生成爆款风格的迪士尼3D趣味动画短片",
+  "author": "青木家",
+  "ownerId": 3435944,
+  "tags": [],
+  "likeCount": 47,
+  "usePv": 40,
+  "useUv": 35,
+  "publishAt": "2026-07-21 11:19:16",
+  "snapshotId": 29456,
+  "useScenario": "内容创作者 营销/品牌方 教育/文化机构 个人爱好者",
+  "inputType": "直接输入剧本即可生成，也可上传人物设定故事设定图来完善。如果有详细的剧情设定也可输入",
+  "outputContent": "1分钟左右的爆款风格的迪士尼3D趣味动画短片完整视频，完整成片。",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/c18414452f144fb4b49219aa1dee2a30/8782d025f8e07e6c1621157f9ed649f16c2c9f2a.png",
+  "resultType": 3,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=b9a17cc1597141929682b344b3a9d711",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/c18414452f144fb4b49219aa1dee2a30/8351ee9d844e86a2f22240fdcb89cdde84378028.mp4"
+  ],
+  "hasPublicSkillContent": true
+}

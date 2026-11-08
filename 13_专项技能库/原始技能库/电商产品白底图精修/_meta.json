@@ -1,0 +1,32 @@
+{
+  "name": "电商产品白底图精修",
+  "templateUuid": "3145303e53f1482ea9403195a0f25480",
+  "skillUuid": "426478162c3d479e8da09a00e31173a1",
+  "skillKey": "ecommerce-product-retoucher-af632e59db98477780a3210641a51348",
+  "version": "1.0.0",
+  "namespace": "libtv-user-generated",
+  "description": "重塑产品的质感和光影",
+  "author": "菜本人",
+  "ownerId": 3124112,
+  "tags": [],
+  "likeCount": 118,
+  "usePv": 141,
+  "useUv": 73,
+  "publishAt": "2026-07-17 14:15:28",
+  "snapshotId": 28100,
+  "useScenario": "电商产品白底图",
+  "inputType": "选择skill 在选择想要精修的实拍图片即可",
+  "outputContent": "精修完的白底图",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/af632e59db98477780a3210641a51348/270b4e2f85f3a7087f8c901600dd8f3f2ebc331f.jpg",
+  "resultType": 2,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=3145303e53f1482ea9403195a0f25480",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/af632e59db98477780a3210641a51348/270b4e2f85f3a7087f8c901600dd8f3f2ebc331f.jpg"
+  ],
+  "hasPublicSkillContent": true
+}

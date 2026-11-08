@@ -1,0 +1,32 @@
+{
+  "name": "剧本生成AI视频一键流",
+  "templateUuid": "4b83bffd5d6b4edf9be095e33373aaef",
+  "skillUuid": "ff7d75e3c9a64c04afcfb0f6efd28957",
+  "skillKey": "short-drama-scene-builder-8d012fbe5b224c7bab64318012900756",
+  "version": "1.0.5",
+  "namespace": "libtv-user-generated",
+  "description": "根据短剧剧本片段，自动扩写成完整可拍摄场景，并生成视频",
+  "author": "蛋白",
+  "ownerId": 10721429,
+  "tags": [],
+  "likeCount": 147,
+  "usePv": 279,
+  "useUv": 202,
+  "publishAt": "2026-09-14 09:45:06",
+  "snapshotId": 46022,
+  "useScenario": "```text\n适用于短剧剧本场景扩写、分镜设计、AI绘图提示词生成、AI视频提示词生成、导演拍摄方案、美术场景设计、玄幻/都市/悬疑/情感/末世/暗黑幻想等类型短剧的场景可视化制作。\n```",
+  "inputType": "```text\n用户只需要输入一段短剧剧本、对白、剧情梗概或简单场景需求，并可选择补充风格、人物、时代背景、画幅、镜头数量等信息",
+  "outputContent": "```text\n输出一套完整的影视场景方案，包括：\n\n1. 场景标题\n2. 场景定位\n3. 300-800字完整场景描述\n4. 人物状态表\n5. 场景环境与道具设计\n6. 至少6个镜头的分镜表\n7. 光影与色彩方案\n8. 美术风格关键词\n9. 中文AI绘图提示词\n10. 英文AI绘图提示词，可选\n11. AI视频生成提示词\n12. 负面提示词\n13. 可拍摄执行建议\n14. 连续性提醒",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/8d012fbe5b224c7bab64318012900756/2314255c436d1da2b8020a0bc90db0b47ba8a899.png",
+  "resultType": 2,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=4b83bffd5d6b4edf9be095e33373aaef",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/8d012fbe5b224c7bab64318012900756/2314255c436d1da2b8020a0bc90db0b47ba8a899.png"
+  ],
+  "hasPublicSkillContent": true
+}

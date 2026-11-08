@@ -1,0 +1,38 @@
+{
+  "name": "口播导演台",
+  "templateUuid": "7b4b7d1d1d6946b3a5a9b7b6083f8e93",
+  "skillUuid": "7ae3eca261bd405296c12720239117b7",
+  "skillKey": "talking-head-video-director-9af597fe769f44f4b3ae8ecdda92552d",
+  "version": "1.0.0",
+  "namespace": "libtv-user-generated",
+  "description": "把文案变成可执行的Seedance视频方案",
+  "author": "陪宝贝磨耳朵",
+  "ownerId": 9167756,
+  "tags": [],
+  "likeCount": 45,
+  "usePv": 84,
+  "useUv": 30,
+  "publishAt": "2026-07-23 20:41:04",
+  "snapshotId": 30187,
+  "useScenario": "适用于产品口播、生活化种草、门店探访、超市、夜市、美食与闺蜜聊天类短视频。用户提供文案、角色、场景、产品和音色后，Skill自动分析传播方式、人物关系与镜头节奏，按Seedance时长拆段，检查手部与道具支撑、产品比例、场景连续性、视线和环境声。默认逐段生成并质检，再决定尾帧续接、硬切或新首帧，减少穿帮、返工和积分浪费。",
+  "inputType": "先提交完整口播文案，并说明视频比例、单段时长和目标风格。再按提示提供或生成角色、场景、产品、尺寸、音色及表演参考。Skill会自动分析传播方式、人物关系、场景逻辑和文案分段；每次先确认当前段方案，再逐段生成、质检并规划下一段衔接。",
+  "outputContent": "输出文案时长与拆段方案、资产需求清单、人物关系和场景设计、每段可直接执行的Seedance提示词、产品比例与道具逻辑检查、场景连续性和环境声方案，以及生成后的分级质检报告、尾帧续接、硬切或新首帧建议。",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/9af597fe769f44f4b3ae8ecdda92552d/d2883a193067aa8f37f7994f2c0fc5531a4dd06e.png",
+  "resultType": 3,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=7b4b7d1d1d6946b3a5a9b7b6083f8e93",
+  "files": [
+    "SKILL.md",
+    "CHANGELOG.md",
+    "README.md",
+    "references/project-state-template.md",
+    "references/prompt-template.md",
+    "references/qc-checklist.md",
+    "references/scene-participation-framework.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/9af597fe769f44f4b3ae8ecdda92552d/c255e056227f53ebc1299d8a037a487992c063fb.mp4"
+  ],
+  "hasPublicSkillContent": true
+}

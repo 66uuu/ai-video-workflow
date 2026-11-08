@@ -1,0 +1,32 @@
+{
+  "name": "电影级 AI 视频提示词导演",
+  "templateUuid": "7327ce6c6f4c430ea9bc014d42b554e2",
+  "skillUuid": "5af7f138324b4e84b9bf2ccfddcf44ee",
+  "skillKey": "cinematic-video-prompt-builder-8202932176ac485b9572011074a9f39c",
+  "version": "1.0.0",
+  "namespace": "libtv-user-generated",
+  "description": "复杂镜头不会写？把素材、动作、运镜变成可执行视频提示词。",
+  "author": "LibTV",
+  "ownerId": 5924079,
+  "tags": [],
+  "likeCount": 48,
+  "usePv": 317,
+  "useUv": 87,
+  "publishAt": "2026-09-07 17:39:29",
+  "snapshotId": 44138,
+  "useScenario": "适合已有创意、分镜、参考图、参考视频、首尾帧或失败生成结果的用户。建议先用《电影级 AI 视觉资产导演》Skill准备角色、场景、道具、状态图与关键帧资产，再进入本 Skill 绑定 @参考素材、设计动作、运镜、物理、表演、灯光与连续性，减少无效反复生成。",
+  "inputType": "输入你的创意、分镜脚本或已有视频 Prompt，并按需上传角色、场景、道具、关键帧、动作参考或运镜参考。若已有素材，请保留原项目真实命名，Skill 会自动识别并使用 @素材名称 引用。也可直接描述上次生成失败的问题，Skill 会定位失败模块并定向修改。",
+  "outputContent": "输出可直接用于视频生成的结构化 Prompt，自动组织 @参考素材、第一帧、空间站位、镜头、时间轴动作、物理、表演、灯光、音频、状态与连续性锁定。复杂任务会先提示生成风险；已有失败结果时，仅修改出错模块，必要时建议补资产、拆镜、参考视频或 3D 工作流。",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/8202932176ac485b9572011074a9f39c/4cfe3bb79384001ca43ecd213e239cdbd030c7bf.png",
+  "resultType": 3,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=7327ce6c6f4c430ea9bc014d42b554e2",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/8202932176ac485b9572011074a9f39c/c984aac752da2608bb8407fb4a7ff0ec6d368011.mp4"
+  ],
+  "hasPublicSkillContent": true
+}

@@ -1,0 +1,34 @@
+{
+  "name": "投影仪电商渲染动画",
+  "templateUuid": "8c8db429341947cd976cd7459a318a11",
+  "skillUuid": "ba58f3db38694354b97d39c653b15496",
+  "skillKey": "projector-c4d-ecommerce-video-e5c05143074646b7ae70a88b81ec6c2a-ba58f3db",
+  "version": "1.0.1",
+  "namespace": "libtv-user-generated",
+  "description": "投影仪产品图一键生成完整C4D渲染电商视频全套资产。统一未来",
+  "author": "星美Fine",
+  "ownerId": 773892,
+  "tags": [
+    "商业广告"
+  ],
+  "likeCount": 25,
+  "usePv": 44,
+  "useUv": 34,
+  "publishAt": "2026-08-02 19:28:23",
+  "snapshotId": 32764,
+  "useScenario": "用户上传投影仪产品图，需要一站式生成完整的未来科技风C4D渲染电商视频全套资产，包括视频成片、分镜图、导演台文档、品牌Logo、视频封面等，全程锁定赛博轻奢风格，可用于电商平台、品牌宣传、社交媒体投放。",
+  "inputType": "投影仪产品图（白底或场景图均可），可选：侧重卖点、应用场景、交互功能、模式偏好、设备生态偏好、封面文案标题",
+  "outputContent": "完整60秒C4D渲染电商视频成片（含BGM）、9个风格锚点图片节点、8段主分镜+S05延伸段视频节点、各场景独立分镜图（每场景2张）、导演台分镜文件、品牌Logo锚点、视频封面（含文案标题版，支持从产品图生成或已有封面重绘优化）",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/e5c05143074646b7ae70a88b81ec6c2a/a251239a5a0789550edc2c9c01acaac80ac4846f.png",
+  "resultType": 3,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=8c8db429341947cd976cd7459a318a11",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/e5c05143074646b7ae70a88b81ec6c2a/e8291c0ecab0558b31b7ff94b1f2e4b724087a06.MP4"
+  ],
+  "hasPublicSkillContent": true
+}

@@ -1,0 +1,32 @@
+{
+  "name": "徐州众汇短剧skill",
+  "templateUuid": "65f92cad13dc43c781d2d1855785e211",
+  "skillUuid": "cf60658e06e54ec1876dcbe95bcf74d6",
+  "skillKey": "short-drama-workflow-9bf48a22280c45d6bd66853954e98638",
+  "version": "1.0.0",
+  "namespace": "libtv-user-generated",
+  "description": "智能工作流智能体",
+  "author": "徐州众汇AIGC",
+  "ownerId": 9644157,
+  "tags": [],
+  "likeCount": 2,
+  "usePv": 1,
+  "useUv": 1,
+  "publishAt": "2026-08-26 10:43:52",
+  "snapshotId": 40796,
+  "useScenario": "短剧工业化生产场景，面向 LibTV 平台内容创作者。输入故事创意后自动产出符合平台审核规则与短视频流量逻辑的全套短剧文本物料，产出内容可直接交付剪辑、AI 漫剧制作人员使用。",
+  "inputType": "用户输入必填项：故事主线 / 剧情梗概；\n可选补充信息：总集数、单集时长、题材、主角人设、世界观、爽文节奏、美术风格、剧情限制。信息缺失将自动启用 LibTV 标准短剧配置。",
+  "outputContent": "完整分集短剧剧本、逐集文字分镜脚本、角色设定档案、核心场景描述、10 条适配 LibTV 信息流引流标题。严格遵循单集强钩子 + 结尾留悬念的流量结构，文本格式整洁可直接复制投入后期制作。",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/9bf48a22280c45d6bd66853954e98638/6d3da02dff794ad7941818fdcd96866247fcbdc8.png",
+  "resultType": 3,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=65f92cad13dc43c781d2d1855785e211",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/9bf48a22280c45d6bd66853954e98638/39f35c0ce9ee6e92947e5afb158259cdd38d85f6.mp4"
+  ],
+  "hasPublicSkillContent": true
+}

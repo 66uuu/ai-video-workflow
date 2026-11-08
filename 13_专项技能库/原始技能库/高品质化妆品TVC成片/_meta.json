@@ -1,0 +1,32 @@
+{
+  "name": "高品质化妆品TVC成片",
+  "templateUuid": "af9b73c4499845e29322e64739ed47a5",
+  "skillUuid": "25073b4199d04376b7d5e489693d91a7",
+  "skillKey": "cosmetic-tvc-generator-c18414452f144fb4b49219aa1dee2a30",
+  "version": "1.0.3",
+  "namespace": "libtv-user-generated",
+  "description": "一键生成对应产品的模特和产品的高级TVC风格的卖点诠释",
+  "author": "青木家",
+  "ownerId": 3435944,
+  "tags": [],
+  "likeCount": 13,
+  "usePv": 3,
+  "useUv": 3,
+  "publishAt": "2026-07-15 16:54:39",
+  "snapshotId": 27373,
+  "useScenario": "90秒左右的完整成片视频，生成对应产品的模特和产品的高级TVC风格的卖点诠释",
+  "inputType": "90秒左右完整化妆品TVC一键成片，根据用户上传的【产品三视图】（正面、侧面、背面/俯视）以及用户【可选填的卖点】，生成一套完整",
+  "outputContent": "90秒对应产品风格和调性的高品质化妆品TVC成片",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/c18414452f144fb4b49219aa1dee2a30/d04ae4bad6edc9fa7e502270c2871ab0c3253b57.jpg",
+  "resultType": 3,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=af9b73c4499845e29322e64739ed47a5",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/c18414452f144fb4b49219aa1dee2a30/b6e31ec362cbc1a99500366ee63a17d8c7252936.mp4"
+  ],
+  "hasPublicSkillContent": true
+}

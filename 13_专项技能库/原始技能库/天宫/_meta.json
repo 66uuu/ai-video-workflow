@@ -1,0 +1,36 @@
+{
+  "name": "天宫",
+  "templateUuid": "be9e0df01a3f47e28332f4aca16af0d2",
+  "skillUuid": "bd2dae75fca24c5aac8405e10c2f0cae",
+  "skillKey": "celestial-myth-visualizer-2c8a3e355a254e9e86ada0406d226752",
+  "version": "1.0.0",
+  "namespace": "libtv-user-generated",
+  "description": "输入想要的内容例如巨大月球+宫殿，巨大异兽，山海经",
+  "author": "胡小绿",
+  "ownerId": 9434443,
+  "tags": [],
+  "likeCount": 48,
+  "usePv": 45,
+  "useUv": 27,
+  "publishAt": "2026-08-11 18:29:32",
+  "snapshotId": 35928,
+  "useScenario": "天宫skill提示词",
+  "inputType": "输入想要的内容例如巨大月球+宫殿，异兽，然后加上描述有多少角色，例如：使用skill，生成5个宏大中式沙漠场景，建筑不一定是天宫，可以使用门阙、祭殿和楼阁，画面中只有一至三位女性角色。",
+  "outputContent": "天宫提示词",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/2c8a3e355a254e9e86ada0406d226752/2c2460238523ede5489c5bd80e6a33e9bd700c69.png",
+  "resultType": 2,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=be9e0df01a3f47e28332f4aca16af0d2",
+  "files": [
+    "SKILL.md",
+    "胡小绿1,0天宫SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/2c8a3e355a254e9e86ada0406d226752/2c2460238523ede5489c5bd80e6a33e9bd700c69.png",
+    "https://libtv-res.liblib.art/upload-images/2c8a3e355a254e9e86ada0406d226752/5d6abc59bcd71672240a7bddb5857fb1abc007cb.png",
+    "https://libtv-res.liblib.art/upload-images/2c8a3e355a254e9e86ada0406d226752/0e4ed004a69d82589c98852f4fe600fe9ec89ad0.png",
+    "https://libtv-res.liblib.art/upload-images/2c8a3e355a254e9e86ada0406d226752/532c2f0b64ae8ceb4c45a2a230e77ea8fac14e06.png"
+  ],
+  "hasPublicSkillContent": true
+}

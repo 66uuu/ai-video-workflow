@@ -1,0 +1,33 @@
+{
+  "name": "【来虎喵】高能漫剧先导片",
+  "templateUuid": "f021afd4530a4d2e9efc2a88ce904a59",
+  "skillUuid": "9c516d49aefb4e06a0b221f6b32ee161",
+  "skillKey": "cinematic-manhua-trailer-416d6cdd045b4f12847ae44333f41e89",
+  "version": "1.0.7",
+  "namespace": "libtv-user-generated",
+  "description": "对标短视频爆款逻辑，全链路生成20秒高能抓眼漫剧先导片",
+  "author": "来虎喵",
+  "ownerId": 5512246,
+  "tags": [],
+  "likeCount": 8,
+  "usePv": 6,
+  "useUv": 1,
+  "publishAt": "2026-08-11 09:59:34",
+  "snapshotId": 35671,
+  "useScenario": "适用于零基础创作者，需在抖音/快手等平台制作20秒漫剧先导片。严格遵循“3秒锁眼、10秒入场、17秒高能、20秒骤停”的工业级爆款框架，提供全链路生成与剪辑方案。",
+  "inputType": "输入文本：1.剧本大纲或现成分镜；2.期望画风；3.主角核心特征。系统将先输出BGM生成指令，确认音乐后输出8-12镜高密度分镜表与硬核卡点剪辑指导。",
+  "outputContent": "输出《20秒爆款先导片执行手册》。含：BGM生成提示词、8-12镜分镜表（强制景别交替与视线匹配）、极简字幕规范、硬切卡点与音频预接指导表。",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/416d6cdd045b4f12847ae44333f41e89/760d307bc91ac08ae002cd8577a4fae846cfc790.png",
+  "resultType": 3,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=f021afd4530a4d2e9efc2a88ce904a59",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/416d6cdd045b4f12847ae44333f41e89/82034aeac4304f612178a27d682ddc1b0ce3ae41.mp4",
+    "https://www.liblib.tv/canvas/chat-share?shareId=6WvLOj7l6H"
+  ],
+  "hasPublicSkillContent": true
+}

@@ -1,0 +1,32 @@
+{
+  "name": "阿桃分镜·工作流",
+  "templateUuid": "08a4b56995c64f3899da5c2f0b1b9610",
+  "skillUuid": "e769ef3454df4dcc916636c37adeb738",
+  "skillKey": "short-drama-storyboard-workflow-7618d74b46c6441ab86093323f1404f5",
+  "version": "1.0.3",
+  "namespace": "libtv-user-generated",
+  "description": "阿桃短剧分镜执行层工作流规范",
+  "author": "微信用户691d0b",
+  "ownerId": 10302396,
+  "tags": [],
+  "likeCount": null,
+  "usePv": 24,
+  "useUv": 1,
+  "publishAt": "2026-09-21 04:37:27",
+  "snapshotId": 48652,
+  "useScenario": "生成阿桃短剧视频时，与视觉参考库配合调用，覆盖工作流程和提示词写作规范",
+  "inputType": "剧本段落、场景描述、台词内容",
+  "outputContent": "视频提示词、分镜规划、检查清单、提示词写作规范",
+  "coverUrl": null,
+  "resultType": 1,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=08a4b56995c64f3899da5c2f0b1b9610",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/7618d74b46c6441ab86093323f1404f5/87b0bc4c79f7b8427c7f8a8829d70f09506f175c.md"
+  ],
+  "hasPublicSkillContent": true
+}

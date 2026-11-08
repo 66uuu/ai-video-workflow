@@ -1,0 +1,33 @@
+{
+  "name": "胡金铨｜写意武侠一键成片",
+  "templateUuid": "751c809adf794a1c8746c15434150b0a",
+  "skillUuid": "fbe9dedd6d3b4b45badd5633a3233763",
+  "skillKey": "king-hu-wuxia-stylizer-074be3667ece41bc8993cea11c99240e",
+  "version": "1.0.3",
+  "namespace": "libtv-user-generated",
+  "description": "用写意武侠美学，一键还原胡金铨经典《侠女》般的禅意留白大片。",
+  "author": "杭州金包银批发总部",
+  "ownerId": 10465270,
+  "tags": [],
+  "likeCount": 7,
+  "usePv": 25,
+  "useUv": 13,
+  "publishAt": "2026-09-22 20:00:59",
+  "snapshotId": 49258,
+  "useScenario": "面向影视创作者、AIGC参赛者及国潮品牌方，用于快速生成胡金铨式写实武侠AI短片。场景精准锁定北宋皇家金包银工坊、大雨竹林、油灯古宅等宿命空间。深度融合“竹影身法、衣袂成势、刀光剪影、一秒死寂”等8大AI动态诗意动作。适配“数字新国风”AIGC赛事申报，以及非遗金包银传承、国潮IP宣发等商业视觉制作。",
+  "inputType": "直接输入“一句话武侠创意”，格式需包含：核心人物/身份、所处时代（如北宋庆历年间）、具体场景地点（如皇家金包银工坊/城外竹林）、是否包含打斗剧情。若已完成角色三视图或场景参考图，可一并提供。本Skill将强制调用父级【顶级大导演思维】底层16个MD规则体系，锁定胡金铨写实基调，严格执行12步标准化流程，输出120秒内逐镜头分镜表、全套画面与首帧锁定提示词，以及剪映音效铺设与剪辑节奏指南。",
+  "outputContent": "120秒以内的胡金铨写意武侠逐镜头分镜表、全套画面与视频生成提示词（附带首帧锁定与防崩禁则）、剪映物理音效铺设方案及剪辑节奏指南，以及最终成片演示。",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/074be3667ece41bc8993cea11c99240e/ea326d06fbab50f4534ded0ed3731cad9124a4ec.png",
+  "resultType": 3,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=751c809adf794a1c8746c15434150b0a",
+  "files": [
+    "SKILL.md",
+    "【胡金铨_写意武侠视觉语法与防崩禁则.md】.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/074be3667ece41bc8993cea11c99240e/d0fa52e7062df99b4939c00cdc40b8beead7adf9.mp4"
+  ],
+  "hasPublicSkillContent": true
+}

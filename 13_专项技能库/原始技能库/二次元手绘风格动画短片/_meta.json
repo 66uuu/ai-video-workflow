@@ -1,0 +1,33 @@
+{
+  "name": "二次元手绘风格动画短片",
+  "templateUuid": "a285bc19be004aaea4b20cc842366263",
+  "skillUuid": "11657d1d25b74262871fc896a2c6f594",
+  "skillKey": "yuasa-style-anime-creator-605c133411b74a8b8092650ab2a83808",
+  "version": "1.0.0",
+  "namespace": "libtv-user-generated",
+  "description": "根据剧本或创意，一键生成汤浅政明风格的手绘动画短片",
+  "author": "像素农夫DESIGN",
+  "ownerId": 1249552,
+  "tags": [],
+  "likeCount": 32,
+  "usePv": 29,
+  "useUv": 22,
+  "publishAt": "2026-07-14 11:43:44",
+  "snapshotId": 26804,
+  "useScenario": "适合想快速将故事创意变成动画短片的创作者。用户只需提供剧本、故事大纲或角色设定，系统会自动完成角色设计、场景构建、分镜规划和视频生成，省去手绘动画复杂的制作流程。适用于想尝试汤浅政明式视觉风格的个人项目、概念演示或内容创作，尤其适合没有专业动画背景但想实现此类画面效果的用户",
+  "inputType": "简单的大致想法或者准备故事内容，形式可以是：完整剧本、故事大纲、角色描述、场景设定，或几句核心台词。若已有角色参考图或场景草图也",
+  "outputContent": "用户将获得一部完整的汤浅政明手绘风格表现主义动画短片（视频），画幅锁定16:9，默认分辨率720p，可选择超分至1080p高帧率。成片包含动态分镜演绎、角色生动表演、口型同步对白、怪诞迷幻背景音乐、高潮歌舞段落的原创歌曲以及高强度蒙太奇剪辑，所有视觉元素均贯彻手绘线条抖动、蜡笔纹理、剪纸拼贴与空间畸变等标志性美学，最终交付可直接发布的视频文件",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/605c133411b74a8b8092650ab2a83808/b7c56780b6ce42df078922b91a90f68093e5b686.png",
+  "resultType": 3,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=a285bc19be004aaea4b20cc842366263",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/605c133411b74a8b8092650ab2a83808/d67fa0cd4b8fb92f93248b9a640efb8190a31aba.mp4",
+    "https://libtv-res.liblib.art/upload-images/605c133411b74a8b8092650ab2a83808/c5b1812e763c695d14ca7d5bb432c930fb16bfd9.mp4"
+  ],
+  "hasPublicSkillContent": true
+}

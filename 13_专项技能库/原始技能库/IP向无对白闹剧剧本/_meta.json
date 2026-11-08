@@ -1,0 +1,32 @@
+{
+  "name": "IP向无对白闹剧剧本",
+  "templateUuid": "d42fa88c6a7141289f4cd7dd8d3072bc",
+  "skillUuid": "b5ae5c978aa048a98f9d548872b1b5bd",
+  "skillKey": "slapstick-comedy-generator-61f15e75ad4c464b9f125f80275633df",
+  "version": "1.0.1",
+  "namespace": "libtv-user-generated",
+  "description": "复刻《猫和老鼠、倒霉熊》经典故事，轻松产出IP创意故事",
+  "author": "妤妤妤",
+  "ownerId": 553068,
+  "tags": [],
+  "likeCount": 1,
+  "usePv": 6,
+  "useUv": 4,
+  "publishAt": "2026-08-24 17:44:52",
+  "snapshotId": 40238,
+  "useScenario": "短视频动画创作：需要制作无对白、纯靠动作搞笑的竖屏动画（如抖音/快手爆款段子）。\nIP角色衍生：已有虚拟形象（如萌宠、玩偶），想为其开发类似《倒霉熊》或《爆笑虫子》风格的日常搞笑短剧。\n全球分发内容：希望内容跨越语言障碍，通过纯肢体喜剧实现全球观众无障碍观看。\n儿童/家庭娱乐：寻找适合低龄儿童或全年龄段观看的、无复杂台词的轻松娱乐内容创意。",
+  "inputType": "描述主角特征（如“贪吃胖猫”）；\n指定场景或道具（如“失控跑步机”）；\n可选风格倾向（如“**美学”或“呆萌日常”）。示例：“怕水鸭子+公共浴室，生成30秒搞笑剧本”。",
+  "outputContent": "分镜式剧本大纲：含动作、表情、音效提示，无对话；\n笑点序列：3-5个递进式肢体冲突或反转；\n动作指导：详述夸张变形、碰撞效果与拟声词配合；\n时长预估：标注适配的短视频时长（15s/30s/60s）。",
+  "coverUrl": null,
+  "resultType": 1,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=d42fa88c6a7141289f4cd7dd8d3072bc",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/61f15e75ad4c464b9f125f80275633df/760608bd85abd8b85cca0db5a822bca0bf61ced7.md"
+  ],
+  "hasPublicSkillContent": true
+}

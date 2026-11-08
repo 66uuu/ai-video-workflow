@@ -1,0 +1,32 @@
+{
+  "name": "纪实风格微短片创作",
+  "templateUuid": "efde24b727c243159e431601eae62133",
+  "skillUuid": "e0e4d5661af84235b3da1120c9008b04",
+  "skillKey": "documentary-minidrama-creator-a4acc35624de45548b811c8ceec8c4c6",
+  "version": "1.0.1",
+  "namespace": "libtv-user-generated",
+  "description": "基于真实人物故事创作纪实风格微短片的完整工作流。适用于以普通",
+  "author": "张肆年",
+  "ownerId": 10852120,
+  "tags": [],
+  "likeCount": 8,
+  "usePv": 3,
+  "useUv": 3,
+  "publishAt": "2026-08-07 14:17:35",
+  "snapshotId": 34459,
+  "useScenario": "用户提供真实人物故事或纪实素材，希望制作成具有电影质感的纪实风格微短片，包含角色参考图、场景道具锚点、分镜视频和最终成片合成。",
+  "inputType": "真实人物故事文本（含人物背景、核心事件、台词/对白、场景描述）",
+  "outputContent": "纪实风格微短片成片，包含：角色参考图锚点、场景/道具参考图锚点、完整分镜视频序列、最终合成视频",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/a4acc35624de45548b811c8ceec8c4c6/5569c6db2120d182ddd0936453c1b3ce594041e5.jpg",
+  "resultType": 3,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=efde24b727c243159e431601eae62133",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/a4acc35624de45548b811c8ceec8c4c6/5fe3b948c868fc3927cd639cc727efa40f52888e.mp4"
+  ],
+  "hasPublicSkillContent": true
+}

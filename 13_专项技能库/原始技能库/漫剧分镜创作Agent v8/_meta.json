@@ -1,0 +1,33 @@
+{
+  "name": "漫剧分镜创作Agent v8",
+  "templateUuid": "800b242e25d7447db2b65e3b3dcf3510",
+  "skillUuid": "e07bb29db88649a89ac23aa622ea5ec9",
+  "skillKey": "manga-storyboard-agent-c50c5fffc979423f9674c92c77c3800d",
+  "version": "1.0.3",
+  "namespace": "libtv-user-generated",
+  "description": "画风确认→锚点集+分镜总表双文档输出",
+  "author": "微信号<已脱敏>",
+  "ownerId": 10220278,
+  "tags": [],
+  "likeCount": 1,
+  "usePv": 2,
+  "useUv": 2,
+  "publishAt": "2026-09-20 17:38:28",
+  "snapshotId": 48481,
+  "useScenario": "需要将故事一键拆解为影视级漫剧分镜，并生成全片锚点集和可直接复制的视频提示词时使用；创作前必须确认画风与画幅；不适合纯文字创作或非视频生成场景",
+  "inputType": "小说原文、故事大纲、剧本片段、人物设定或一句话创意（创作前需确认画风与画幅）",
+  "outputContent": "两份可下载MD文档：《锚点集》（角色/场景/道具详细描述+生图提示词）+《分镜总表》（每镜含完整自洽视频提示词，可直接复制用于LibTV/Seedance生成）",
+  "coverUrl": null,
+  "resultType": 1,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=800b242e25d7447db2b65e3b3dcf3510",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/c50c5fffc979423f9674c92c77c3800d/706c89c68873456365a8ed24e294f01b36a4c41c.md",
+    "https://libtv-res.liblib.art/upload-images/c50c5fffc979423f9674c92c77c3800d/5944f28c83d64a0af6bd29673941ff856c1e1ed4.md"
+  ],
+  "hasPublicSkillContent": true
+}

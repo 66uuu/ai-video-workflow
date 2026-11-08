@@ -1,0 +1,32 @@
+{
+  "name": "【三行诗】AI 人物资产",
+  "templateUuid": "62d468a925eb4132a1bfeea6c5c65517",
+  "skillUuid": "f6012715cdcb4ce3b70cf90655863840",
+  "skillKey": "ai-character-asset-designer-fef65164d7474a4eae92ac710509db7b",
+  "version": "1.0.5",
+  "namespace": "libtv-user-generated",
+  "description": "从人物小传到 AI 人物资产",
+  "author": "ai的三行诗",
+  "ownerId": 6748892,
+  "tags": [],
+  "likeCount": 35,
+  "usePv": 48,
+  "useUv": 27,
+  "publishAt": "2026-07-22 12:58:20",
+  "snapshotId": 29755,
+  "useScenario": "适合用于短剧、漫剧、广告、MV、小说人物、虚拟偶像等角色资产的前期设计。尤其适合只有一个简单人物设定，但还没有确定角色长相、性格、穿搭和视觉风格的情况。",
+  "inputType": "直接输入一句人物设定，例如：\n\n20岁的韩国清冷系爱豆，这次回归主题是Y2K，不要甜妹感。\n\n也可以补充人物的年龄、身份、职业、",
+  "outputContent": "Skill会自动输出：\n\n人物小传与性格分析\n有记忆点的五官、发型与妆容设定\n服装、色彩板、材质与配饰设计\n可直接使用的人物资产提示词\n3:4全身人物资产图\n\n同时锁定人物的核心特征，方便后续继续换装、调整表情或更换场景。",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/fef65164d7474a4eae92ac710509db7b/bd98fd32917e84516f3d51f854114eef94a952df.png",
+  "resultType": 2,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=62d468a925eb4132a1bfeea6c5c65517",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/fef65164d7474a4eae92ac710509db7b/12591ca27c3b23a2b32a68639c5b96d481afdc7b.png"
+  ],
+  "hasPublicSkillContent": true
+}

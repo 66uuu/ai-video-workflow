@@ -1,0 +1,32 @@
+{
+  "name": "Z-图像生成提示词",
+  "templateUuid": "7d73b1972a6744449041e4b1eafcf207",
+  "skillUuid": "b16bb98abfeb433e8aa1a2b101313984",
+  "skillKey": "luxury-bar-corridor-scene-renderer-c26ac9a5ce584f5fb7dc5221e7fb4d8f",
+  "version": "1.0.0",
+  "namespace": "libtv-user-generated",
+  "description": "效果图转真实摄影+人物融入全流程",
+  "author": "三水局",
+  "ownerId": 8326583,
+  "tags": [],
+  "likeCount": 1,
+  "usePv": 2,
+  "useUv": 1,
+  "publishAt": "2026-09-10 14:03:49",
+  "snapshotId": 44954,
+  "useScenario": "需要将室内设计效果图转换为真实摄影质感，并将人物资产融入极暗奢华场景，生成名利场氛围走廊图",
+  "inputType": "走廊场景效果图、人物参考图（女子1正面/背面、女子2三视图）、空间结构参考图（SU截图）、站位标注图",
+  "outputContent": "奢华酒吧走廊真实摄影图：双女子融入极暗场景，女子1中景慢门动态模糊，女子2远端转角消失",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/c26ac9a5ce584f5fb7dc5221e7fb4d8f/6d722a1ec15da88088b72604566a9183a932c220.png",
+  "resultType": 2,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=7d73b1972a6744449041e4b1eafcf207",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/c26ac9a5ce584f5fb7dc5221e7fb4d8f/6d722a1ec15da88088b72604566a9183a932c220.png"
+  ],
+  "hasPublicSkillContent": true
+}

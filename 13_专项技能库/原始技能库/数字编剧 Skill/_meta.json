@@ -1,0 +1,32 @@
+{
+  "name": "数字编剧 Skill",
+  "templateUuid": "7ed0ec434f2e49c797a482479ac0c9ab",
+  "skillUuid": "d3e89ad3013d4877956b9b9109ce3148",
+  "skillKey": "cinematic-storyboard-planner-17dea9a52c8c46b6aa8f19aadab311e1",
+  "version": "1.0.0",
+  "namespace": "libtv-user-generated",
+  "description": "过视觉一致性锚定和电影化分镜设计，提高 AI 视频生成质量",
+  "author": "。。",
+  "ownerId": 11244678,
+  "tags": [],
+  "likeCount": 1,
+  "usePv": 5,
+  "useUv": 4,
+  "publishAt": "2026-08-13 16:42:23",
+  "snapshotId": 36645,
+  "useScenario": "本 Skill 通过自动分析用户创意，快速生成结构化视频脚本、镜头规划和 AI 视频生成提示词，帮助用户缩短从创意到成片方案的制作流程。",
+  "inputType": "用户只需输入视频主题、内容方向、目标平台、视频风格、时长等基础信息，也可以直接提供一个简单创意或故事梗概。Skill 会自动分析内容类型，完成主题优化、剧情结构设计、镜头拆解、画面描述以及 AI 视频 Prompt 生成。用户无需具备专业编导经验，即可获得可直接用于 AI 视频工具制作的视频方案。",
+  "outputContent": "输出完整的 AI 视频生产方案，包括视频创意优化、故事结构、分镜脚本、镜头语言、画面描述、角色与场景设定，以及适配 AI 视频生成模型的 Prompt 内容，帮助用户快速生成具有统一视觉风格和较高完成度的视频作品。",
+  "coverUrl": null,
+  "resultType": 1,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=7ed0ec434f2e49c797a482479ac0c9ab",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/17dea9a52c8c46b6aa8f19aadab311e1/c785baff6fb178fced36e08aee1db5c140b47507.md"
+  ],
+  "hasPublicSkillContent": true
+}

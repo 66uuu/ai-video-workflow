@@ -1,0 +1,36 @@
+{
+  "name": "图片生成导演（平衡版）",
+  "templateUuid": "e470a6125e0742d18724dcdc4fde3e54",
+  "skillUuid": "6588ebef20124c7092da93f73ec1a5e1",
+  "skillKey": "cinematic-image-director-ef78b3807d1a48b7ab94eef5852bc286",
+  "version": "1.0.8",
+  "namespace": "libtv-user-generated",
+  "description": "生成电影级静帧图片，中幅降低image脏乱、有噪点的问题",
+  "author": "消失的学府路",
+  "ownerId": 647268,
+  "tags": [],
+  "likeCount": 65,
+  "usePv": 78,
+  "useUv": 38,
+  "publishAt": "2026-07-16 00:10:29",
+  "snapshotId": 27527,
+  "useScenario": "将简短描述、参考图、人物或场景设定整理为专业生图提示词。适用于电影感真人、动漫插画、商品展示、人物与场景设定板、参考图复刻、局部修改及生图问题修复。",
+  "inputType": "上传参考图，或描述想要的主体、动作、场景、风格、画幅、景别、光线和情绪。信息不完整时，Skill 会询问必要的缺失项；确认整理后",
+  "outputContent": "输出自然、清晰、可直接生成的图片提示词，包含画幅、景别、构图、主体动作、环境、光影、色调和成像质感。\n根据任务类型，还可输出人物三视图、场景四视图、参考图复刻方案、商品展示提示词，以及针对人物不一致、画面太灰、背景杂乱、质感太假等问题的修复版本。\n用户确认后，生成对应图片。",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/ef78b3807d1a48b7ab94eef5852bc286/7a2396ace2a3f6d511681802fb32086d3d793069.png",
+  "resultType": 2,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=e470a6125e0742d18724dcdc4fde3e54",
+  "files": [
+    "SKILL.md",
+    "image-generation-director/SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/ef78b3807d1a48b7ab94eef5852bc286/8c7a1af27c162feb66f199430ab6c1a6fa51669a.png",
+    "https://libtv-res.liblib.art/upload-images/ef78b3807d1a48b7ab94eef5852bc286/3e7490bdb17934fbcf98f49528ae13cd1883b481.png",
+    "https://libtv-res.liblib.art/upload-images/ef78b3807d1a48b7ab94eef5852bc286/7a2396ace2a3f6d511681802fb32086d3d793069.png",
+    "https://libtv-res.liblib.art/upload-images/ef78b3807d1a48b7ab94eef5852bc286/485aec7346d373ec314bb26aa569fcc5892b736c.png"
+  ],
+  "hasPublicSkillContent": true
+}

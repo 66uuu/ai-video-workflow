@@ -1,0 +1,42 @@
+{
+  "name": "对分镜脚本进行强化",
+  "templateUuid": "178b02e06b544f2da59e19c9a0a40287",
+  "skillUuid": "4ed9168a302943339fbfb5d49d32c169",
+  "skillKey": "storyboard-script-enhancer-0ddb5f49fac9434a8d6023435a231e90",
+  "version": "1.0.1",
+  "namespace": "libtv-user-generated",
+  "description": "把导演分镜一键变成更会运镜、更会表演、更有电影感的提示词",
+  "author": "乔克AIGC",
+  "ownerId": 9107145,
+  "tags": [],
+  "likeCount": 9,
+  "usePv": 28,
+  "useUv": 19,
+  "publishAt": "2026-08-22 11:13:09",
+  "snapshotId": 39640,
+  "useScenario": "适合制作AI动画、短剧、动作戏、人物对白和情绪戏。它会在不改变原剧情的情况下，让人物表演更自然、动作更有力量、镜头更丰富、画面更有冲击力。",
+  "inputType": "上传或粘贴你的导演分镜，告诉 Skill 视频时长和想加强的效果，例如：\n\n“保持剧情和台词不变，加强人物表演、动作冲击力和电影感运镜。”\n\nSkill 会自动完成提示词优化，无需学习复杂的镜头术语。",
+  "outputContent": "输出一份可以直接复制到 Seedance 使用的完整视频提示词，包含每段画面的时间、镜头运动、人物动作、表演、光影和声音。",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/0ddb5f49fac9434a8d6023435a231e90/c20bab64dc17bdecb107d8d63d408a378dd1b021.png",
+  "resultType": 3,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=178b02e06b544f2da59e19c9a0a40287",
+  "files": [
+    "SKILL.md",
+    "references/acting-under-pressure.md",
+    "references/camera-move-tags.md",
+    "references/cinedance-production-control.md",
+    "references/cinematic-depth-and-shot-diagnosis.md",
+    "references/director-source-ingestion.md",
+    "references/jimeng-wording-optimization.md",
+    "references/prompt-structure-contract.md",
+    "references/reference-scope-mapping.md",
+    "references/risk-terms.md",
+    "references/seedance-2-5-mode-router.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/0ddb5f49fac9434a8d6023435a231e90/f3223c9d4b3a8554b13600592c4d04d540397d28.mp4"
+  ],
+  "hasPublicSkillContent": true
+}

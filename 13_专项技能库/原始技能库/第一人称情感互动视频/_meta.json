@@ -1,0 +1,32 @@
+{
+  "name": "第一人称情感互动视频",
+  "templateUuid": "4ea0742a37074158894fc8e6c1a22223",
+  "skillUuid": "9b3aa51a2efa47edba0ec41b91c29089",
+  "skillKey": "pov-emotional-interaction-video-83da3787d75b4f1f96c6ecbb3cc74b42",
+  "version": "1.0.7",
+  "namespace": "libtv-user-generated",
+  "description": "采取第一人称视角生成沉浸式情感互动视频",
+  "author": "姜丝菌",
+  "ownerId": 9471694,
+  "tags": [],
+  "likeCount": 32,
+  "usePv": 30,
+  "useUv": 20,
+  "publishAt": "2026-07-19 23:10:30",
+  "snapshotId": 28890,
+  "useScenario": "用于情感互动视频创作；乙游视频制作",
+  "inputType": "输入生成的互动角色形象；互动角色形象的音色；互动的场景；互动的内容；自选是否要bgm",
+  "outputContent": "生成完整的包含要求内容的情感互动视频",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/83da3787d75b4f1f96c6ecbb3cc74b42/1c291cd32dbce7bd84e00b3b89361f6a24c57c8d.png",
+  "resultType": 3,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=4ea0742a37074158894fc8e6c1a22223",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/83da3787d75b4f1f96c6ecbb3cc74b42/dd8da5352f5c362e9db3883ffd5501fa41101b6f.mp4"
+  ],
+  "hasPublicSkillContent": true
+}

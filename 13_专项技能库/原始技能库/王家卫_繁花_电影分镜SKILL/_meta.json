@@ -1,0 +1,37 @@
+{
+  "name": "王家卫<繁花>电影分镜SKILL",
+  "templateUuid": "56e54c3545d4463b8cc5ccec46434abb",
+  "skillUuid": "a36c980e71e641eb95b29b15a72e36ab",
+  "skillKey": "wong-kar-wai-storyboard-b85befd035a84c7d99b6927cfa3fa3c5",
+  "version": "1.0.7",
+  "namespace": "libtv-user-generated",
+  "description": "王家卫电影效果",
+  "author": "星球的AI畅想",
+  "ownerId": 1619666,
+  "tags": [
+    "专业影视"
+  ],
+  "likeCount": 38,
+  "usePv": 39,
+  "useUv": 24,
+  "publishAt": "2026-09-11 20:39:25",
+  "snapshotId": 45525,
+  "useScenario": "需要特殊的电影风格\n如果用MJ模型一定要给Agent+一句话：全部提示词需要在1000个字符数（计空格）以内。",
+  "inputType": "写入【主体】+【物品】+【环境】+【背景】，变成王家卫电影风格分镜，建议使用MJ V8.2模型",
+  "outputContent": "王家卫经典电影分镜",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/b85befd035a84c7d99b6927cfa3fa3c5/c628936efefa8936531166dd93ab1bbd77f9e70f.png",
+  "resultType": 2,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=56e54c3545d4463b8cc5ccec46434abb",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/b85befd035a84c7d99b6927cfa3fa3c5/0d8716f69794f21a61fde877ac451eeb6e9dcf08.png",
+    "https://libtv-res.liblib.art/upload-images/b85befd035a84c7d99b6927cfa3fa3c5/e5e90eeca33e3e995508465e9024ea4b6ac84365.png",
+    "https://libtv-res.liblib.art/upload-images/b85befd035a84c7d99b6927cfa3fa3c5/eea41d0c92281a24f7c4ef7b58d163a592cb8757.png",
+    "https://libtv-res.liblib.art/upload-images/b85befd035a84c7d99b6927cfa3fa3c5/d3ab58f73af9fc8c551f6d9f5bdb56fbdacb598b.png"
+  ],
+  "hasPublicSkillContent": true
+}

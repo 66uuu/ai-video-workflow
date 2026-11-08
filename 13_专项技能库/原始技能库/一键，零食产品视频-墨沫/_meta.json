@@ -1,0 +1,32 @@
+{
+  "name": "一键，零食产品视频-墨沫",
+  "templateUuid": "1953634132c5477d8f3ed0d43d43426c",
+  "skillUuid": "5dc02a0395b84809b6b43cc1d4ac39be",
+  "skillKey": "snack-product-cinematic-builder-eae344d03ae6440cb34c5471de6bb287",
+  "version": "1.0.2",
+  "namespace": "libtv-user-generated",
+  "description": "零食/食品包装产品展示大片的完整制作工作流，涵盖剧本确认",
+  "author": "墨沫",
+  "ownerId": 277872,
+  "tags": [],
+  "likeCount": null,
+  "usePv": 0,
+  "useUv": 0,
+  "publishAt": "2026-08-20 21:53:15",
+  "snapshotId": 39198,
+  "useScenario": "用户提**品包装参考图，需要制作30–60秒的产品展示大片，风格为赛博暗调×极致对冲×频闪切割，适合B站、抖音、品牌官方宣传等平台投放。",
+  "inputType": "产品包装参考图（image节点）+ 用户对时长、风格、画幅、主推款的需求描述",
+  "outputContent": "完整产品展示视频（60s，16:9，1080p），含四大篇章结构、20个分镜、BGM配乐，最终合成为一个视频节点",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/eae344d03ae6440cb34c5471de6bb287/8ece8b77df05ad42d6bfdbbb5c1c06e500bb731e.png",
+  "resultType": 3,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=1953634132c5477d8f3ed0d43d43426c",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/eae344d03ae6440cb34c5471de6bb287/15d7f4554f94f586d2a20221ece0853509b0948a.mp4"
+  ],
+  "hasPublicSkillContent": true
+}

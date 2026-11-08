@@ -1,0 +1,33 @@
+{
+  "name": "一键日系复古弹唱MV",
+  "templateUuid": "f38c2ea16c254a0f928631900fb4d893",
+  "skillUuid": "c69ca84eb260410381c651d7536a1587",
+  "skillKey": "atmospheric-sing-and-play-visuals-c05df640db594cc4872800d99ea6e00d",
+  "version": "1.0.10",
+  "namespace": "libtv-user-generated",
+  "description": "一键生成日系早期岩井俊二画面氛围感AI弹唱视频",
+  "author": "SansEverthing",
+  "ownerId": 1137723,
+  "tags": [],
+  "likeCount": 14,
+  "usePv": 18,
+  "useUv": 14,
+  "publishAt": "2026-08-20 13:47:14",
+  "snapshotId": 38985,
+  "useScenario": "制作AI人物氛围感弹唱歌曲视频",
+  "inputType": "需要利用画面节点制作场景以及分镜，最后用自己上传的音频结合画面生成人物氛围弹唱视频。",
+  "outputContent": "输出为日系一键古早岩井俊二风格弹唱氛围视频",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/c05df640db594cc4872800d99ea6e00d/37a5e20dbe82c4a3a8d1429bc8f3f2cf29085852.png",
+  "resultType": 3,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=f38c2ea16c254a0f928631900fb4d893",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/c05df640db594cc4872800d99ea6e00d/8ec2c2e6baa59f060c4f4037a618a14676b686b4.mp4",
+    "https://www.liblib.tv/canvas/chat-share?shareId=0xopxjyI46"
+  ],
+  "hasPublicSkillContent": true
+}

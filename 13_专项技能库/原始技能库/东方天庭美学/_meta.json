@@ -1,0 +1,32 @@
+{
+  "name": "东方天庭美学",
+  "templateUuid": "d3f1d847e9b54d07a0ed5c61e74ccc0a",
+  "skillUuid": "a7692a499347436ea7374fb65d0ffa2a",
+  "skillKey": "oriental-celestial-animator-862c0323f6a740f886a5b4685e7c8b45",
+  "version": "1.0.0",
+  "namespace": "libtv-user-generated",
+  "description": "一句话生成新中式东方仙境图片提示词，并自动将画面转成视频",
+  "author": "175****6871",
+  "ownerId": 6946414,
+  "tags": [],
+  "likeCount": 16,
+  "usePv": 13,
+  "useUv": 10,
+  "publishAt": "2026-08-15 17:44:23",
+  "snapshotId": 37317,
+  "useScenario": "输入一句话生成图片和视频",
+  "inputType": "先用一句话描述想要的画面\nSkill 自动生成这种新中式东方仙境美学的图片提示词\n图片生成后，用户只需要再说一句 “生成视频”\nSkill 自动基于这个画面写好视频提示词，默认加入希区柯克变焦、人物动作、云雾动态、衣袍飘动、环境运动",
+  "outputContent": "1. 图片提示词\n用户输入：\n\n云海天宫，古松白鹤，一个白衣人走向远方\n\n输出：\n\n新中式东方仙境，白玉天宫悬浮在云海之上，古松白鹤点缀前景，白衣人物背对镜头走向远方，暖金色晨曦、体积光、薄雾、大气透视，空灵神圣、史诗电影感。\n\n2. 视频提示词\n用户输入：\n\n生成视频\n\n输出：\n\n以参考图为首帧，保持构图和建筑稳定。镜头缓慢推进并加入明显希区柯克变焦，人物缓慢向前走，衣袍随风飘动；云海持续流动翻",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/862c0323f6a740f886a5b4685e7c8b45/623c96b59a64457b6fa8eb9b859e7e11fe18eced.png",
+  "resultType": 2,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=d3f1d847e9b54d07a0ed5c61e74ccc0a",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/862c0323f6a740f886a5b4685e7c8b45/623c96b59a64457b6fa8eb9b859e7e11fe18eced.png"
+  ],
+  "hasPublicSkillContent": true
+}

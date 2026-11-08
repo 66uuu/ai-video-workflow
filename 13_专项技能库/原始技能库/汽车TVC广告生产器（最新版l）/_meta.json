@@ -1,0 +1,32 @@
+{
+  "name": "汽车TVC广告生产器（最新版l）",
+  "templateUuid": "f5b494c0803a44b7b86515008cb0eafb",
+  "skillUuid": "d96734c73ae3419bbbdaa494d4bb90eb",
+  "skillKey": "automotive-tvc-producer-18536546704044e084a6f18c8b7a6c5d",
+  "version": "1.0.17",
+  "namespace": "libtv-user-generated",
+  "description": "从脚本到成片的汽车TVC完整生产链路",
+  "author": "156****3563",
+  "ownerId": 11350216,
+  "tags": [],
+  "likeCount": 13,
+  "usePv": 39,
+  "useUv": 13,
+  "publishAt": "2026-08-31 16:29:52",
+  "snapshotId": 42324,
+  "useScenario": "用户有汽车TVC脚本初稿和风格参考图，需要完整走完从脚本优化、分镜图生成、背景音乐到视频合成的全流程",
+  "inputType": "品牌、车型、核心卖点、广告时长、脚本初稿、多张风格参考图",
+  "outputContent": "完整的汽车TVC广告视频，附优化后脚本、分镜图列表、背景音乐文件的素材清单",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/18536546704044e084a6f18c8b7a6c5d/7473be0762c997cd55dd9e531d038b90e14cba16.jpg",
+  "resultType": 3,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=f5b494c0803a44b7b86515008cb0eafb",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/18536546704044e084a6f18c8b7a6c5d/562bd833ba57e805f3db671b1ec6bbc4ba913135.mp4"
+  ],
+  "hasPublicSkillContent": true
+}

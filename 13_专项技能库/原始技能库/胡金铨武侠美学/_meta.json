@@ -1,0 +1,32 @@
+{
+  "name": "胡金铨武侠美学",
+  "templateUuid": "714b34a0a8494372b56955eb456b21ea",
+  "skillUuid": "bff033a12185408681e77205932bff6b",
+  "skillKey": "king-hu-wuxia-aesthetics-2601421edc3a433283d8c1b11cf81f1e",
+  "version": "1.0.0",
+  "namespace": "libtv-user-generated",
+  "description": "生成古典武侠电影美学提示词",
+  "author": "AIGC作业本",
+  "ownerId": 1565799,
+  "tags": [],
+  "likeCount": 175,
+  "usePv": 265,
+  "useUv": 138,
+  "publishAt": "2026-07-15 09:44:43",
+  "snapshotId": 27184,
+  "useScenario": "适合想生成胡金铨式古典武侠画面、MJ V8图片提示词、首帧图转视频提示词时使用。强调山水留白、点景人物、戏曲化站位、复古胶片、克制打斗与禅意江湖气氛。",
+  "inputType": "输入场景、人物、情绪或上传首帧图。可说明要“图片提示词”“环境氛围视频”或“打斗视频”。若信息不足，Skill 会先询问场景、人",
+  "outputContent": "输出中文图片提示词、英文 MJ V8 提示词，或图片转视频提示词。视频提示词会按画面类型自动分为环境氛围版或克制打斗版，并保留胡金铨式构图、光影与节奏。",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/2601421edc3a433283d8c1b11cf81f1e/85c4b03b7be879028cd403312140b7aca5a24e9f.png",
+  "resultType": 2,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=714b34a0a8494372b56955eb456b21ea",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/2601421edc3a433283d8c1b11cf81f1e/d096e2aecccdb05d44cf472543eaac1911163b01.png"
+  ],
+  "hasPublicSkillContent": true
+}

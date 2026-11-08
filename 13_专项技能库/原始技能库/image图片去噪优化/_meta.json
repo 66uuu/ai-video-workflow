@@ -1,0 +1,32 @@
+{
+  "name": "image图片去噪优化",
+  "templateUuid": "537b2e5d46ff41d489bc524de11daca5",
+  "skillUuid": "89afb0b2e13444209e1e474f3dca91d8",
+  "skillKey": "image-denoise-optimizer-cb00e901705c4b43acd77a04f090481c-89afb0b2",
+  "version": "1.0.2",
+  "namespace": "libtv-user-generated",
+  "description": "去噪简化图片细节，保留构图色调",
+  "author": "Dillan同学",
+  "ownerId": 829172,
+  "tags": [],
+  "likeCount": null,
+  "usePv": 2,
+  "useUv": 2,
+  "publishAt": "2026-09-23 16:02:27",
+  "snapshotId": 49541,
+  "useScenario": "对 Image2 / Image2.5 输出图进行二次去噪优化，去除噪点和繁杂细节，让画面更干净清爽",
+  "inputType": "一张由 Image2 或 Image2.5 生成的图片，无需任何提示词",
+  "outputContent": "去噪优化后的干净图片，构图、色调、画面设定完全保留",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/cb00e901705c4b43acd77a04f090481c/793c863cd926ee28afcbd03e026e8bd570f95c79.png",
+  "resultType": 2,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=537b2e5d46ff41d489bc524de11daca5",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/cb00e901705c4b43acd77a04f090481c/793c863cd926ee28afcbd03e026e8bd570f95c79.png"
+  ],
+  "hasPublicSkillContent": true
+}

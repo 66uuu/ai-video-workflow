@@ -1,0 +1,32 @@
+{
+  "name": "邵氏港风胶片武侠提示词",
+  "templateUuid": "e28ffc9be38a4fd093b4e55933800b8e",
+  "skillUuid": "99031de482e64b01be0f077793279ae5",
+  "skillKey": "shaw-brothers-kungfu-visual-prompter-331731ca6c8d4ceeb650b8832bd51eac",
+  "version": "1.0.13",
+  "namespace": "libtv-user-generated",
+  "description": "按邵氏港风胶片武侠美学生成人物或场景提示词",
+  "author": "丛光",
+  "ownerId": 10979301,
+  "tags": [],
+  "likeCount": null,
+  "usePv": 10,
+  "useUv": 4,
+  "publishAt": "2026-09-24 16:19:36",
+  "snapshotId": 49849,
+  "useScenario": "需要以邵氏港风胶片武侠的视觉审美出人物或场景图，并想先拿到可直接投喂给指定模型、指定比例、1000 字符以内的提示词时使用。",
+  "inputType": "主体类型（人物或场景）与主体描述、目标模型名、画面比例。例如：女侠林青霞式按剑而立 + Midjourney V8.2 + 16:9。",
+  "outputContent": "一段 1000 字符以内的邵氏港风提示词，含主体、光影、胶片质感、配色与模型参数，并在画布上建好对应图像节点。",
+  "coverUrl": null,
+  "resultType": 2,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=e28ffc9be38a4fd093b4e55933800b8e",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/331731ca6c8d4ceeb650b8832bd51eac/646c66c42813edc2d4c9f947e8744303eb9c69d0.png"
+  ],
+  "hasPublicSkillContent": true
+}

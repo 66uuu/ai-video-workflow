@@ -1,0 +1,33 @@
+{
+  "name": "服装带货网红风格视频直出",
+  "templateUuid": "96885fef075a497ca7b58505be0800b2",
+  "skillUuid": "017965d40cda4b05a5a1aea6c558d879",
+  "skillKey": "womenswear-sales-promoter-c18414452f144fb4b49219aa1dee2a30",
+  "version": "1.0.1",
+  "namespace": "libtv-user-generated",
+  "description": "用于服装的电商视频生成，上传服装图片生成。可编辑人种和风格",
+  "author": "青木家",
+  "ownerId": 3435944,
+  "tags": [],
+  "likeCount": 48,
+  "usePv": 21,
+  "useUv": 19,
+  "publishAt": "2026-07-27 11:39:59",
+  "snapshotId": 30965,
+  "useScenario": "全能的服装风格类视频，男女老少皆可。电商商家，带货主播",
+  "inputType": "上传服装图片（最好是三视图）确实视频比例和横屏竖屏例（16：9横屏 720P ）输入人种年龄和风格（亚洲女生24岁）输入视频风格（高端轻奢，活泼可爱，元气达人，商业街拍）卖点可选择上传",
+  "outputContent": "完整的服装产品视频全片，真实感强，风格多样，完整不用剪辑",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/c18414452f144fb4b49219aa1dee2a30/69174e8236b839f1199c6ce2d97863e771f19eba.png",
+  "resultType": 3,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=96885fef075a497ca7b58505be0800b2",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/c18414452f144fb4b49219aa1dee2a30/b8396e1fd93fdb52e75ed59079e2c6ee335a411b.mp4",
+    "https://libtv-res.liblib.art/upload-images/c18414452f144fb4b49219aa1dee2a30/31aee6038b58e4d8d1bc5549ad39e8c93543b90d.mp4"
+  ],
+  "hasPublicSkillContent": true
+}

@@ -1,0 +1,38 @@
+{
+  "name": "中式美学短剧导演",
+  "templateUuid": "31ec9f885fa8465e90e13e95422f831f",
+  "skillUuid": "35238479b96a47099acf972b8b57bafe",
+  "skillKey": "chinese-aesthetic-drama-director-605c133411b74a8b8092650ab2a83808",
+  "version": "1.0.0",
+  "namespace": "libtv-user-generated",
+  "description": "从创意到成片，输出中式美学短剧的画风、分镜与视频导演方案",
+  "author": "像素农夫DESIGN",
+  "ownerId": 1249552,
+  "tags": [],
+  "likeCount": 46,
+  "usePv": 39,
+  "useUv": 31,
+  "publishAt": "2026-09-06 22:20:35",
+  "snapshotId": 43913,
+  "useScenario": "适用于打造中式历史、武侠、诗意、人文、神话及当代东方叙事类短片的创作场景。当你仅有模糊灵感、一句诗词、人物设定、场景概念或情绪氛围时，可通过本工具逐步梳理成型；也适用于已有成熟故事梗概，需要统一项目画风、批量生成风格一致的资产图与分镜图，以及配套视频生成导演指令的场景。可支撑短视频国风剧情片、文创宣传短片、诗词意象可视化等需求，不支持单张无叙事的纯图片生成。",
+  "inputType": "你无需具备专业影视知识，只需输入任意形式的创意起点即可启动：可以是一句随口的想法、一句古典诗词、一个人物设定、一个场景画面，或是一种想要的情绪氛围；也可直接输入成熟的故事梗概、剧本片段。工具会分阶段循序推进，先确认故事方向，再锁定统一项目画风，接着选择图片生成路线，逐批产出合规图片提示词，最终输出视频导演提示词与成片规划，全程支持局部调整修改。",
+  "outputContent": "最终输出完整的中式美学短剧导演包，包含项目状态卡、画风锁定卡、故事节拍表、资产索引与分镜表；配套输出符合规范的图片提示词，覆盖人物、场景、道具、分镜四类，每条均带固定生成参数与字符校验；同时输出对应分段的视频导演提示词，明确首帧状态、人物走位、镜头运动、动作节拍与光影延续逻辑，可直接对接 AI 生图与视频生成工具执行落地",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/605c133411b74a8b8092650ab2a83808/6b7bb23dfe87fb9c07be8b0f5042cf8b3d4caa31.png",
+  "resultType": 3,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=31ec9f885fa8465e90e13e95422f831f",
+  "files": [
+    "SKILL.md",
+    "references/story-and-shot-design.md",
+    "references/video-direction.md",
+    "references/visual-lock-and-images.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/605c133411b74a8b8092650ab2a83808/375dc5b37eb2080fa89eedbcbd47b44bc681ddfd.mp4",
+    "https://libtv-res.liblib.art/upload-images/605c133411b74a8b8092650ab2a83808/64a54f38e26d02b9dff7127b223b0f7aaccc0b98.mp4",
+    "https://libtv-res.liblib.art/upload-images/605c133411b74a8b8092650ab2a83808/3bd71af5529f67d03fe6c10676e4623dc1714c26.mp4",
+    "https://libtv-res.liblib.art/upload-images/605c133411b74a8b8092650ab2a83808/5e7a8090914da3bb1ff90ac05a993ec2cfbbb65d.mp4"
+  ],
+  "hasPublicSkillContent": true
+}

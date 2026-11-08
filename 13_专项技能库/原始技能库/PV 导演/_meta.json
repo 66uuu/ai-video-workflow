@@ -1,0 +1,34 @@
+{
+  "name": "PV 导演",
+  "templateUuid": "2c49f61bcd3e413888b6bcb2a6f6a768",
+  "skillUuid": "4c7f3208ec954cb9b21ceccb57111367",
+  "skillKey": "game-trailer-director-0cc340743505455c83e7fdc56141894d",
+  "version": "1.0.2",
+  "namespace": "libtv-user-generated",
+  "description": "将概念转为可生成、可剪辑、可传播的游戏宣传预告片工作流",
+  "author": "天然水",
+  "ownerId": 6736426,
+  "tags": [
+    "动漫游戏"
+  ],
+  "likeCount": 63,
+  "usePv": 70,
+  "useUv": 47,
+  "publishAt": "2026-08-03 10:08:42",
+  "snapshotId": 32831,
+  "useScenario": "它专门用于游戏/动画/影视 PV：从剧情钩子、场景因果、导演调度、计时分镜，到生成单元拆分、声音设计与连续性 QA。",
+  "inputType": "输入你的剧本，或者一个点子",
+  "outputContent": "将概念转为可生成、可剪辑、可传播的游戏宣传预告片工作流，整理为可生成的游戏宣传 PV 剧本与分镜。",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/0cc340743505455c83e7fdc56141894d/a0bc810f3080d2a8b6a1eebe72d5e8d2a9c39c33.png",
+  "resultType": 3,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=2c49f61bcd3e413888b6bcb2a6f6a768",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/0cc340743505455c83e7fdc56141894d/e06de85dd8f315d48311e120ac76c8079e10cadf.mp4"
+  ],
+  "hasPublicSkillContent": true
+}

@@ -1,0 +1,32 @@
+{
+  "name": "15秒高端TVC广告",
+  "templateUuid": "93abe84ef21949d5937f96560d910736",
+  "skillUuid": "227c1d4b23bf477eb741109eaa5a1839",
+  "skillKey": "tvc-ad-generator-e20ffb9f022d4ac5bf7b5494a9c4fb38",
+  "version": "1.0.8",
+  "namespace": "libtv-user-generated",
+  "description": "一套标准化 15 秒高端 TVC 商业广告全自动生成工作流",
+  "author": "JARVA_AI",
+  "ownerId": 275361,
+  "tags": [],
+  "likeCount": 21,
+  "usePv": 16,
+  "useUv": 13,
+  "publishAt": "2026-07-23 00:13:30",
+  "snapshotId": 29940,
+  "useScenario": "品牌新品上市短广告、产品功能宣传 TVC\n电商产品种草视频、品牌短视频引流片\n企业宣传短片、高端质感商业种草物料\n需统一标准化产出的 15 秒商业短视频内容",
+  "inputType": "输入产品图片、品牌卖点、产品调性\n系统自动按固定流程执行：先写专业广告脚本 → 再生成 9 宫格分镜图 → 最后输出 15 秒成片\n全程无需手动干预，等待完整交付即可",
+  "outputContent": "1 份：15s 完整分秒级 TVC 广告脚本（运镜 + 旁白 + 字幕 + 音效）\n1 张：9 宫格专业广告分镜总图（带精准绘图提示词）\n1 条：16:9 横屏、标准 15 秒高端质感成品视频",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/e20ffb9f022d4ac5bf7b5494a9c4fb38/09a1811a156c73a506208d5740505d2647fe97d2.png",
+  "resultType": 3,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=93abe84ef21949d5937f96560d910736",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/e20ffb9f022d4ac5bf7b5494a9c4fb38/305b06b596fbd7d22dce92556f3a401941c0a71d.mp4"
+  ],
+  "hasPublicSkillContent": true
+}

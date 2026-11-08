@@ -1,0 +1,32 @@
+{
+  "name": "VidApp Icon生成器",
+  "templateUuid": "b9a218e733d34f36a2975289dc2b0103",
+  "skillUuid": "8bd13e1eb6be4cc98b4065fc34a4b7c0",
+  "skillKey": "vidapp-icon-generator-1afc5ed11e21495290ac0162791f19f0",
+  "version": "1.0.9",
+  "namespace": "libtv-user-generated",
+  "description": "输入App名称和功能，生成3种icon方案",
+  "author": "微信用户f43dd1",
+  "ownerId": 9467190,
+  "tags": [],
+  "likeCount": 5,
+  "usePv": 14,
+  "useUv": 7,
+  "publishAt": "2026-08-25 18:58:28",
+  "snapshotId": 40631,
+  "useScenario": "需要为一款 App 快速产出多个 icon 设计方案，供选择和参考",
+  "inputType": "App 名称 + 核心功能描述（一两句话）",
+  "outputContent": "3 张 512×512 方形直角 icon 图片，每张附风格名称，支持选一种继续优化",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/1afc5ed11e21495290ac0162791f19f0/8fdb5e44f46f2997c102a341cc14f95b5be8806b.png",
+  "resultType": 2,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=b9a218e733d34f36a2975289dc2b0103",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/1afc5ed11e21495290ac0162791f19f0/b827d771b1f5322c3536a5ce65734973a4b244b3.png"
+  ],
+  "hasPublicSkillContent": true
+}

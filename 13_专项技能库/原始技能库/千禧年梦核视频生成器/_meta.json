@@ -1,0 +1,33 @@
+{
+  "name": "千禧年梦核视频生成器",
+  "templateUuid": "34aa498734674a8099bc74923a48c61f",
+  "skillUuid": "33dbd8f9c2324f8fac55b6d7965fb3b3",
+  "skillKey": "y2k-dreamcore-video-generator-06322d1409bb49b9a6c78ddb33cf5003",
+  "version": "1.0.1",
+  "namespace": "libtv-user-generated",
+  "description": "一套完整的千禧年梦核风格视频交互式生成工作流。用户输入风格指",
+  "author": "摸鱼的AI笔记",
+  "ownerId": 2696946,
+  "tags": [],
+  "likeCount": 32,
+  "usePv": 23,
+  "useUv": 15,
+  "publishAt": "2026-07-14 16:25:15",
+  "snapshotId": 26947,
+  "useScenario": "用户想生成千禧年梦核风格的短视频，包含城市/校园/家庭场景，无人、白天、第一视角探索，带有回忆感和代入感的主线故事情节。",
+  "inputType": "用户输入风格指令（梦核 / 夏日梦核 / 学校梦核），或直接描述想要的千禧年场景和故事情节。",
+  "outputContent": "一段带主线剧本的千禧年梦核风格短视频成片，含锚点图片资产、分镜视频、BGM、字幕时间轴。",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/06322d1409bb49b9a6c78ddb33cf5003/1ff1f480e909aa176e06581fb62d9a5014696941.png",
+  "resultType": 3,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=34aa498734674a8099bc74923a48c61f",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/06322d1409bb49b9a6c78ddb33cf5003/b342516df1ca022386ba9db270ecef0141bad557.mp4",
+    "https://www.liblib.tv/canvas/chat-share?shareId=TyhCqSHHMw"
+  ],
+  "hasPublicSkillContent": true
+}

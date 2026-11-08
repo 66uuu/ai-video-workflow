@@ -1,0 +1,36 @@
+{
+  "name": "公益影像一站式导演",
+  "templateUuid": "d3d9327cceab41218551bdf2a1967f13",
+  "skillUuid": "c5ded1b331f54111a1140065c88b3bf7",
+  "skillKey": "public-welfare-film-director-c05df640db594cc4872800d99ea6e00d",
+  "version": "1.0.1",
+  "namespace": "libtv-user-generated",
+  "description": "从成熟公益剧本或一个初步想法出发，完成剧本打磨、视觉资产规划",
+  "author": "SansEverthing",
+  "ownerId": 1137723,
+  "tags": [],
+  "likeCount": 23,
+  "usePv": 22,
+  "useUv": 5,
+  "publishAt": "2026-07-21 11:35:15",
+  "snapshotId": 29461,
+  "useScenario": "适用于公益广告、社会议题短片、公益微电影及各类倡导型影像，\n最适合已经准备好成熟剧本，希望将剧本转化为统一角色、服装、场景、道具资产和连续视频提示词的用户。如果只有一个公益主题、故事大纲或模糊想法，也可以通过逐步沟通完善创意和剧本，再进入视觉制作阶段。\n整个流程会兼顾人物尊严、隐私保护、事实核验、行动号召和镜头连续性，避免把公益",
+  "inputType": "建议优先提供一版相对成熟的公益剧本，以获得更准确的资产规划和视频提示词。没有剧本时，也可以直接输入公益主题或初步想法。",
+  "outputContent": "输出为可直接复制使用的结构化文本或 Markdown 文件，包括：\n公益创意卡，适用于尚未确定故事的用户。\n完整公益短片剧本或现有剧本检查建议。\n角色、服装、场景、道具和风格资产清单。\n对应每项资产的图片生成提示词。\n具有前后承接关系的连续视频生成提示词。\n资产引用关系与人物、服装、场景连续性检查。\n事实、隐私、伦理、授权及后期文字信息清单。",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/c05df640db594cc4872800d99ea6e00d/beb0c97d3cb54fdd18c9a34b45758990512801b3.png",
+  "resultType": 3,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=d3d9327cceab41218551bdf2a1967f13",
+  "files": [
+    "SKILL.md",
+    "references/delivery-qa.md",
+    "references/idea-dialogue.md",
+    "references/visual-production.md",
+    "references/public-service-story.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/c05df640db594cc4872800d99ea6e00d/b43ff79d2e834f8aceded2da3da24588268ce366.mp4"
+  ],
+  "hasPublicSkillContent": true
+}

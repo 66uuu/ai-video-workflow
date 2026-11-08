@@ -1,0 +1,32 @@
+{
+  "name": "国风毛绒风格",
+  "templateUuid": "b4231c38cbbd460985250715c5887ae9",
+  "skillUuid": "de565577f06d4cb981c7d0905379bc0c",
+  "skillKey": "chinese-plush-style-966b1cc694f549aab5799c85c60598ca",
+  "version": "1.0.0",
+  "namespace": "libtv-user-generated",
+  "description": "毛绒IP的skill",
+  "author": "Dominik",
+  "ownerId": 1301462,
+  "tags": [],
+  "likeCount": 2,
+  "usePv": 1,
+  "useUv": 1,
+  "publishAt": "2026-08-13 20:48:44",
+  "snapshotId": 36733,
+  "useScenario": "用于多米你可麟龙瑞兽国风 IP 素材生产，产出抖音 10s 美学短片、小红书 3:4 竖版封面图，打造云端仙宫东方仙侠视觉内容，服务国风 TVC 剪辑、短视频发布、文创宣传物料制作。",
+  "inputType": "输入场景描述；可选补充画面比例、时长、氛围、是否为小红书封面；智能体将按照统一麟龙毛绒瑞兽国风仙侠画风生成素材。",
+  "outputContent": "高清国风图像 / 10 秒氛围感运镜短视频，附带标准化正向、反向 AI 绘图提示词，画面保持麟龙毛绒 IP 统一美术规范。",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/966b1cc694f549aab5799c85c60598ca/467ba084c4ff77240db4f5bcc18369b384edbfe7.png",
+  "resultType": 3,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=b4231c38cbbd460985250715c5887ae9",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/966b1cc694f549aab5799c85c60598ca/40f589084a27f1232cbbddb0a2011dd406a01885.mp4"
+  ],
+  "hasPublicSkillContent": true
+}

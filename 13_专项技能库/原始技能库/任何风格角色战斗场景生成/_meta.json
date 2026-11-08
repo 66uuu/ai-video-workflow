@@ -1,0 +1,33 @@
+{
+  "name": "任何风格角色战斗场景生成",
+  "templateUuid": "da829665419f4842bf1acdb746ff2b36",
+  "skillUuid": "c086e8b700ae41ba87a90c464d5ca8ab",
+  "skillKey": "combat-scene-visualizer-b85befd035a84c7d99b6927cfa3fa3c5",
+  "version": "1.0.3",
+  "namespace": "libtv-user-generated",
+  "description": "打斗视效生成",
+  "author": "星球的AI畅想",
+  "ownerId": 1619666,
+  "tags": [],
+  "likeCount": 2,
+  "usePv": 7,
+  "useUv": 6,
+  "publishAt": "2026-08-24 02:22:56",
+  "snapshotId": 40030,
+  "useScenario": "无从下手的打斗场景提示词，可以使用SKILL解决烦恼",
+  "inputType": "描述角色1、角色2……，景别（中景、近景、特写……），发生XXX秒的战斗、镜头方式（环绕、一镜到底、XXX个切镜）",
+  "outputContent": "不超过15秒的战斗场景",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/b85befd035a84c7d99b6927cfa3fa3c5/991ac5f65141d8a87c779dd9db7b851e9f37f4ce.png",
+  "resultType": 3,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=da829665419f4842bf1acdb746ff2b36",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/b85befd035a84c7d99b6927cfa3fa3c5/fe7c43ef30e32c9f94c83158f7c76b51ecabebd0.mp4",
+    "https://libtv-res.liblib.art/upload-images/b85befd035a84c7d99b6927cfa3fa3c5/eebd93006d37415a2f62581fc7e07830fd09030a.mp4"
+  ],
+  "hasPublicSkillContent": true
+}

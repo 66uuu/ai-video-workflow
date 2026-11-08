@@ -1,0 +1,32 @@
+{
+  "name": "电商图片复刻V3",
+  "templateUuid": "27d9319c941941f9a4f3b771ce357560",
+  "skillUuid": "0601e9ef323a48688bad704a3fccbfbd",
+  "skillKey": "ecommerce-product-replicator-f2ac4a9f25064cac9bf96e98b6f75ed7",
+  "version": "1.0.1",
+  "namespace": "libtv-user-generated",
+  "description": "电商产品图复刻V3",
+  "author": "87",
+  "ownerId": 644223,
+  "tags": [],
+  "likeCount": 17,
+  "usePv": 16,
+  "useUv": 7,
+  "publishAt": "2026-08-12 18:40:43",
+  "snapshotId": 36302,
+  "useScenario": "用户有产品主图，想参考一张或多张风格图（含人物场景图、细节特写图）生成电商展示图，需要对比不同模型效果，或批量生成不同尺寸的电商图片。支持人物替换、细节特写复刻、多图融合或独立复刻等多种场景。",
+  "inputType": "产品白底图（必须）+ 参考风格图（必须，支持多张，可含人物）",
+  "outputContent": "按用户选择的模型并行生成电商展示图，每个模型输出一张；多张参考图时按融合或独立模式分别处理；细节特写类参考图只学习构图形式，严格保持产品原始材质特征；含人物参考图按用户选择处理人物；比例、文案、场景风格均按用户确认结果执行。",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/f2ac4a9f25064cac9bf96e98b6f75ed7/a65f99edd07059739840f7c0a9504444388cab5f.png",
+  "resultType": 2,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=27d9319c941941f9a4f3b771ce357560",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/f2ac4a9f25064cac9bf96e98b6f75ed7/dd8082032ee17c112c94c902b54cb4457289b24c.png"
+  ],
+  "hasPublicSkillContent": true
+}

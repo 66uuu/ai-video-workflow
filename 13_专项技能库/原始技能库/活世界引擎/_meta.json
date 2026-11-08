@@ -1,0 +1,33 @@
+{
+  "name": "活世界引擎",
+  "templateUuid": "745df4f500e04d2ea1e977268d6675a3",
+  "skillUuid": "32b538c36ec24584b436219ebd7645e6",
+  "skillKey": "living-world-engine-7d55343fe47049e49dba5bb31afb1938",
+  "version": "1.0.2",
+  "namespace": "libtv-user-generated",
+  "description": "让AI视频中的背景世界拥有真实NPC行为、人物多样性和环境动",
+  "author": "喵斯基MEOWSKI",
+  "ownerId": 9816912,
+  "tags": [],
+  "likeCount": 6,
+  "usePv": 1,
+  "useUv": 1,
+  "publishAt": "2026-08-04 22:34:58",
+  "snapshotId": 33381,
+  "useScenario": "适用于AI视频创作、AI电影制作、短剧生成、广告视频、游戏CG预演、科幻世界构建、城市环境生成等场景。\n\n当用户需要生成包含城市、人群、未来世界、公共空间、自然环境等复杂场景时，该Skill可以增强背景世界的真实感，让NPC、环境和空间具有持续自然运动。\n\n适合解决AI视频中常见的背景人物站桩、重复角色、环境静止、世界缺乏生命感等问题。",
+  "inputType": "输入任意视频生成提示词或场景描述。\n\n提供：\n1. 场景类型（城市、街道、机场、港口、餐厅、办公室、自然环境等）\n2. 主角设定（可选）\n3. 故事内容或镜头需求（可选）\n\nSkill会自动分析场景，并添加：\n- NPC人物多样性\n- 真实人类行为逻辑\n- 环境动态变化\n- 场景互动规则\n- 电影级真实感约束\n\n无需修改原始剧情，只需将生成后的提示词用于AI视频模型。",
+  "outputContent": "输出增强后的AI视频生成提示词。\n\n包含：\n\n- 不重复的NPC人物设计\n- 不同年龄、外貌、发型、服装的人物群体\n- 符合场景逻辑的NPC行为\n- 自然的人体动作与微表情\n- 环境持续运动描述\n- 真实物理互动规则\n\n最终生成的视频拥有更加真实、动态、有生命感的电影级世界。",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/7d55343fe47049e49dba5bb31afb1938/1e8d3b8ccb3e3c1ceb0b7428dc5b2ee6c32c2dca.png",
+  "resultType": 3,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=745df4f500e04d2ea1e977268d6675a3",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/7d55343fe47049e49dba5bb31afb1938/69321d5af378188a17ac2acd7172697b7443da11.mp4",
+    "https://libtv-res.liblib.art/upload-images/7d55343fe47049e49dba5bb31afb1938/dce1acc6b3697d84a0f7f3a6eb6c9a16160fd8a4.mp4"
+  ],
+  "hasPublicSkillContent": true
+}

@@ -1,0 +1,32 @@
+{
+  "name": "libtv-参考视频复刻",
+  "templateUuid": "1be747b153af43988fb4e0da1b56a638",
+  "skillUuid": "9c8be0ea710c479588a572357b46ebc1",
+  "skillKey": "video-reference-replicator-e005bce3d57d491fba5d1b0d5b68a048",
+  "version": "1.0.4",
+  "namespace": "libtv-user-generated",
+  "description": "上传参考视频，自动搭建阶梯抽帧与图生视频复刻工作流。",
+  "author": "166****2796",
+  "ownerId": 10765257,
+  "tags": [],
+  "likeCount": 79,
+  "usePv": 266,
+  "useUv": 94,
+  "publishAt": "2026-07-28 18:10:07",
+  "snapshotId": 31472,
+  "useScenario": "短剧素材翻新、短视频二创、镜头风格迁移、IP 形象替换复用。创作者上传参考视频，想要保留原始镜头运镜、构图；工作流严格执行阶梯抽帧标准，按视频时长自动调整采样密度，均匀拆分视频分段生成视频，解决采样不合理、画面割裂问题，无需手动拖拽搭建节点。",
+  "inputType": "1.上传一段参考视频；\n2.可选补充：目标画面风格、角色 / 场景修改要求、负面提示词；\n3.发送指令启用 Skill，系统自动按照阶梯采样规则抽取关键帧，搭建完整流水线。",
+  "outputContent": "LibTV 画布完整连通节点工程；视频抽帧模块严格执行阶梯采样规则均匀提取关键帧，逐帧进行提示词反推、垫图图生视频；附带逐帧正负提示词清单，搭建完成后由用户手动发起渲染。",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/e005bce3d57d491fba5d1b0d5b68a048/082fb890a2f1477d1baa7c280c09410a81f684b5.png",
+  "resultType": 2,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=1be747b153af43988fb4e0da1b56a638",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/e005bce3d57d491fba5d1b0d5b68a048/082fb890a2f1477d1baa7c280c09410a81f684b5.png"
+  ],
+  "hasPublicSkillContent": true
+}

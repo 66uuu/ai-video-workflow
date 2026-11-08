@@ -1,0 +1,32 @@
+{
+  "name": "WorkBuddy爆款复刻｜故事片级AI视频",
+  "templateUuid": "60c41dd2f0d14ad8959e995fa1fac776",
+  "skillUuid": "af22085cf37449a59b489323f3fa3e85",
+  "skillKey": "cinematic-viral-video-remaker-9a768821e36443d99cbeb85cd4cfb8fe",
+  "version": "1.0.0",
+  "namespace": "libtv-user-generated",
+  "description": "WorkBuddy组织爆款复刻→故事片级AI视频",
+  "author": "星拓AI导演",
+  "ownerId": 10268263,
+  "tags": [],
+  "likeCount": null,
+  "usePv": 0,
+  "useUv": 0,
+  "publishAt": "2026-09-24 19:55:08",
+  "snapshotId": 49912,
+  "useScenario": "实体商家广告、品牌片、剧情短视频和未来城市概念片；输入参考片功能笔记、商家或产品事实、世界观设定和素材。",
+  "inputType": "先在 WorkBuddy 整理项目卡、因果链和镜头任务，再将结构化方案接到 LibTV；先跑单镜 canary，通过主体、动作、因果、事实检查后再扩展。",
+  "outputContent": "原创世界观项目卡、六格因果链、8-12镜 shot list、资产绑定、单镜 canary 清单与返回媒体 QC。",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/9a768821e36443d99cbeb85cd4cfb8fe/3589cd19b457a8d2f76afa5f7b6b504fff317721.png",
+  "resultType": 3,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=60c41dd2f0d14ad8959e995fa1fac776",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/9a768821e36443d99cbeb85cd4cfb8fe/4e1bd4f6a75896e8dbe620e1282ceda983578eaa.mp4"
+  ],
+  "hasPublicSkillContent": true
+}

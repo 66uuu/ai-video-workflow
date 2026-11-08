@@ -1,0 +1,33 @@
+{
+  "name": "电商产品图文套图、详情页",
+  "templateUuid": "2373ac9872484687b1aab088a160fe32",
+  "skillUuid": "6e4fc50af7b4499eb12de81f2930c98d",
+  "skillKey": "ecommerce-product-graphic-suite-6fe77fcad9614c799944a901d1cc568a",
+  "version": "1.0.4",
+  "namespace": "libtv-user-generated",
+  "description": "电商产品图文整套（主图套组或详情页）",
+  "author": "JACKPOORS",
+  "ownerId": 1010805,
+  "tags": [],
+  "likeCount": 103,
+  "usePv": 213,
+  "useUv": 120,
+  "publishAt": "2026-07-22 12:47:23",
+  "snapshotId": 29754,
+  "useScenario": "适用于电商（淘宝、天猫、拼多多、抖音、小红书等）商品主图套组及详情页的设计。",
+  "inputType": "产品基础资料（图片+文字），核心卖点与利益点文案",
+  "outputContent": "主图套组（总共5张），详情页",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/6fe77fcad9614c799944a901d1cc568a/10fd8908adbcd5f02722a84f0e6e5a9edff40790.png",
+  "resultType": 2,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=2373ac9872484687b1aab088a160fe32",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/6fe77fcad9614c799944a901d1cc568a/f942c0e77dffddee78603ab0d30e032d726897f2.png",
+    "https://libtv-res.liblib.art/upload-images/6fe77fcad9614c799944a901d1cc568a/10fd8908adbcd5f02722a84f0e6e5a9edff40790.png"
+  ],
+  "hasPublicSkillContent": true
+}

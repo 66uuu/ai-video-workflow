@@ -1,0 +1,32 @@
+{
+  "name": "音画同步节奏引擎",
+  "templateUuid": "66f9a6b4f90a4715b38bff9896394cbe",
+  "skillUuid": "68091f9f924341b79f0475f1db4ef17d",
+  "skillKey": "bpm-beat-sync-blueprint-3f04004128804c279b27eb0ea6781ed1",
+  "version": "1.0.0",
+  "namespace": "libtv-user-generated",
+  "description": "BPM一键生成帧级音画同步踩点蓝图",
+  "author": "JokerLL",
+  "ownerId": 10925824,
+  "tags": [],
+  "likeCount": 6,
+  "usePv": 6,
+  "useUv": 3,
+  "publishAt": "2026-07-25 02:34:38",
+  "snapshotId": 30547,
+  "useScenario": "短剧配乐踩点、AI音乐MV视觉编排、广告片节奏卡点等需要画面跟随音乐节奏的AI视频创作",
+  "inputType": "输入音频信息或BPM+风格+时长，引擎自动拆解节拍结构（强拍/弱拍/细分拍），将每一拍映射到镜头切换、角色动作、特效触发的精确时间码，输出帧级同步蓝图",
+  "outputContent": "节拍地图+镜头清单+动作卡点表+特效触发表+能量曲线图+冲突检测与调优建议",
+  "coverUrl": null,
+  "resultType": 1,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=66f9a6b4f90a4715b38bff9896394cbe",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/3f04004128804c279b27eb0ea6781ed1/1532d5ae987a898d722bba3a9df18476fdd41aa0.md"
+  ],
+  "hasPublicSkillContent": true
+}

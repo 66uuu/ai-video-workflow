@@ -1,0 +1,32 @@
+{
+  "name": "电影级科幻连续短剧导演",
+  "templateUuid": "709c09b991a84bb18de41d287754ba4a",
+  "skillUuid": "0f4daec68b4047fb95426a70e15aea53",
+  "skillKey": "scifi-episodic-drama-director-3015fd16ff03461aaebaf1179440195e",
+  "version": "1.0.1",
+  "namespace": "libtv-user-generated",
+  "description": "持续创作成多集电影级科幻短剧",
+  "author": "186****1204",
+  "ownerId": 10654006,
+  "tags": [],
+  "likeCount": 51,
+  "usePv": 92,
+  "useUv": 58,
+  "publishAt": "2026-07-14 05:36:07",
+  "snapshotId": 26740,
+  "useScenario": "适合制作3-10集或更长系列的科幻连续短剧，支持每集自定义时长。尤其适合异星生态、人与巨兽、机甲救援、云海追逐和电影预告片式内容。",
+  "inputType": "首次使用时输入系列名称、故事设定、集数、当前集时长、主角和巨兽，并上传参考图。制作续集时，上传上一集连续性档案、成片或结尾关键帧",
+  "outputContent": "创作三集科幻短剧《星兽纪元》，第一集45秒。女救援员林岚与巨型光翼兽共同关闭失控采集舰。突出异星生态、人与巨兽同框和空中追逐。先完成第一集，并输出连续性档案。",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/3015fd16ff03461aaebaf1179440195e/db352000d5c53abb5d075919cf4af067aadc50f5.png",
+  "resultType": 2,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=709c09b991a84bb18de41d287754ba4a",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/3015fd16ff03461aaebaf1179440195e/db352000d5c53abb5d075919cf4af067aadc50f5.png"
+  ],
+  "hasPublicSkillContent": true
+}

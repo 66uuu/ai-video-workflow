@@ -1,0 +1,32 @@
+{
+  "name": "领带造型转换",
+  "templateUuid": "15bf645e79f04cb586e35bfc219cebbf",
+  "skillUuid": "6c665e038d384576ada6f56bdf35169a",
+  "skillKey": "tie-style-transformer-b1c6770db97347fcb5731aa1a2b8c4dd",
+  "version": "1.0.0",
+  "namespace": "libtv-user-generated",
+  "description": "提供一张参考图领带图片，根据上传的模版图改变参考图的领带造型",
+  "author": "135****0969",
+  "ownerId": 10237280,
+  "tags": [],
+  "likeCount": 1,
+  "usePv": 2,
+  "useUv": 1,
+  "publishAt": "2026-08-20 14:51:46",
+  "snapshotId": 39022,
+  "useScenario": "专门完成领带造型迁移任务",
+  "inputType": "接收2张图片，1张“领带模版图”、1张\"领带参考图\",最后输出成品领带电商图",
+  "outputContent": "输出画质为2k标准画质，图片比例1:1",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/b1c6770db97347fcb5731aa1a2b8c4dd/4a91e31e581f16210e61e0a53a818c98d91914d9.jpg",
+  "resultType": 2,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=15bf645e79f04cb586e35bfc219cebbf",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/b1c6770db97347fcb5731aa1a2b8c4dd/ebf479c07f78479ee92499958209bf04d85d27f1.png"
+  ],
+  "hasPublicSkillContent": true
+}

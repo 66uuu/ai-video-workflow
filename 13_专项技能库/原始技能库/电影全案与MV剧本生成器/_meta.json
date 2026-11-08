@@ -1,0 +1,32 @@
+{
+  "name": "电影全案与MV剧本生成器",
+  "templateUuid": "28663a1863ec4c839fad0137c9df384a",
+  "skillUuid": "8fd0ae0cf2e74e7d894a21ed7a289cf7",
+  "skillKey": "film-mv-proposal-generator-e5c01acc4e7149f8b17794d98262d068",
+  "version": "1.0.1",
+  "namespace": "libtv-user-generated",
+  "description": "电影全案/MV剧本一键生成",
+  "author": "微信用户82f192",
+  "ownerId": 11425802,
+  "tags": [],
+  "likeCount": 4,
+  "usePv": 6,
+  "useUv": 4,
+  "publishAt": "2026-09-05 23:02:20",
+  "snapshotId": 43736,
+  "useScenario": "需要生成完整电影制作全案或歌曲MV剧本时使用，支持导演/摄影风格模仿和视频批量生成",
+  "inputType": "故事需求或歌曲，可选：片型、时长、导演/摄影风格、MV类型等",
+  "outputContent": "电影全案文档（剧情/分镜/角色/场景/道具）或MV剧本，含配图及视频",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/e5c01acc4e7149f8b17794d98262d068/8514da32782059ae850db6a0b5370ea6a4fa20e0.jpeg",
+  "resultType": 3,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=28663a1863ec4c839fad0137c9df384a",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/e5c01acc4e7149f8b17794d98262d068/e7946f67a92dde438911452b4368f788f58ce907.mp4"
+  ],
+  "hasPublicSkillContent": true
+}

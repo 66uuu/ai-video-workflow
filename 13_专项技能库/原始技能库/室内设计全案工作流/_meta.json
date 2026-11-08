@@ -1,0 +1,32 @@
+{
+  "name": "室内设计全案工作流",
+  "templateUuid": "6c2ff837af0149bb99e1a77c5bbd6cc2",
+  "skillUuid": "f12214abf4c2441eb479494655f0fd74",
+  "skillKey": "interior-design-full-case-f6cd5fe95d5d459e94994d91112ed206",
+  "version": "1.0.7",
+  "namespace": "libtv-user-generated",
+  "description": "户型图+参考图，自动生成轴测、效果图、质检、分镜及视频。",
+  "author": "云顶小屋",
+  "ownerId": 10678485,
+  "tags": [],
+  "likeCount": 2,
+  "usePv": 6,
+  "useUv": 6,
+  "publishAt": "2026-09-20 03:18:33",
+  "snapshotId": 48263,
+  "useScenario": "适用于住宅、公寓、大平层、别墅、样板房等室内设计项目。根据户型平面图和参考图，依次完成功能分析图、流线分析图、轴测、主要空间效果图、选型参考图、质检、9宫格及10秒视频。",
+  "inputType": "上传原始户型平面图及参考图，严格按“户型识别→功能分析图→流线分析图→分析图QA→轴测母版→空间效果图→选型参考图→质检→9宫格→10秒视频”执行。功能分析图、流线分析图必须先实际生成并通过QA，未通过前禁止生成轴测图。",
+  "outputContent": "输出户型识别、功能分析图、流线分析图、STYLE_DNA、MATERIAL_BIBLE、室内轴测图、主要空间效果图、各空间材质/物料/家具/小品/灯具选型参考图、质检结果、9宫格分镜及10秒视频。",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/f6cd5fe95d5d459e94994d91112ed206/f8c111804de632020d215849397d58faddaf9180.png",
+  "resultType": 2,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=6c2ff837af0149bb99e1a77c5bbd6cc2",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/f6cd5fe95d5d459e94994d91112ed206/bba15280b1906a52485cf20c8606ec5959251c5e.jpg"
+  ],
+  "hasPublicSkillContent": true
+}

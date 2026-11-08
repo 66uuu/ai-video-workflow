@@ -1,0 +1,32 @@
+{
+  "name": "POV手绘变形动画",
+  "templateUuid": "43cd8da878e842d98ce5e4ce2f3dcbb1",
+  "skillUuid": "c1402c2eb41b4c0b8c8dfbe10482ecd5",
+  "skillKey": "pov-morph-animator-e5c05143074646b7ae70a88b81ec6c2a",
+  "version": "1.0.1",
+  "namespace": "libtv-user-generated",
+  "description": "上传任意场景图，自由描述变形动画序列，一键生成15秒第一人称",
+  "author": "星美Fine",
+  "ownerId": 773892,
+  "tags": [],
+  "likeCount": 4,
+  "usePv": 3,
+  "useUv": 2,
+  "publishAt": "2026-08-05 23:48:12",
+  "snapshotId": 33746,
+  "useScenario": "用户上传任意场景照片（厨房、客厅、办公室、街道等），描述希望物体如何变形为2D卡通角色，系统自动生成15秒第一人称手持POV的2D手绘变形动画视频，适用于品牌广告、创意短片、社交媒体内容等场景。",
+  "inputType": "可选场景图（任意室内外环境）+ 可选自定义变形动画序列描述 + 可选画风偏好",
+  "outputContent": "生成15秒第一人称手持POV的2D手绘变形动画短片。",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/e5c05143074646b7ae70a88b81ec6c2a/a2ccb699396b62985a82a2fac914a53b1733bee4.png",
+  "resultType": 3,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=43cd8da878e842d98ce5e4ce2f3dcbb1",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/e5c05143074646b7ae70a88b81ec6c2a/db2eb3f5a0fc6922504ab9ddae7cd894f0376b8d.mp4"
+  ],
+  "hasPublicSkillContent": true
+}

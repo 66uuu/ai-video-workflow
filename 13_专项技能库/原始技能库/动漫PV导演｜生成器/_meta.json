@@ -1,0 +1,41 @@
+{
+  "name": "动漫PV导演｜生成器",
+  "templateUuid": "13654df078b24b288afc28c308eff118",
+  "skillUuid": "f1005f9e48274878b49c380917ae6d31",
+  "skillKey": "anime-pv-director-6fc0978574fc42009792ba8b00fa0464",
+  "version": "1.0.13",
+  "namespace": "libtv-user-generated",
+  "description": "生成角色设定图和高质量原创动漫PV",
+  "author": "曾小寻",
+  "ownerId": 1283942,
+  "tags": [],
+  "likeCount": 14,
+  "usePv": 12,
+  "useUv": 8,
+  "publishAt": "2026-08-18 16:33:13",
+  "snapshotId": 38145,
+  "useScenario": "适用于原创动画预告、角色宣传片、世界观先导片、二次元短片、OP/ED 风格影像、IP 概念 PV、游戏角色 PV、音乐动画视频、动漫风格广告。",
+  "inputType": "上传自己的角色图，然后根据引导推荐操作即可，从创意开局开始，先确认创作起点、主风格和核心记忆点；再补齐 PV 类型、必需内容和声音文字；随后选择生图模型、画幅、时长、清晰度和配乐方向。所有关键项确认后生成制作单。用户确认生成后，进入导演方案、关键帧、镜头视频、声音、合成与质检流程。",
+  "outputContent": "输出一套完整的动漫 PV 制作方案，包含创意方向、制作单、角色一致性卡、色彩光影圣经、节拍表、分镜表、基准图、关键帧、镜头视频方案、配乐方案、音效方案、成片和质检报告。",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/6fc0978574fc42009792ba8b00fa0464/7af117dd983fa8e05716ea3c7f751c9110eb7cf2.png",
+  "resultType": 3,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=13654df078b24b288afc28c308eff118",
+  "files": [
+    "SKILL.md",
+    "references/creative-playbook.md",
+    "references/libtv-production.md",
+    "references/reference-video-style.md",
+    "references/character-asset-template.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/6fc0978574fc42009792ba8b00fa0464/006fc6af343c5239271a2d47c9f8f9b2d9eb6599.mp4",
+    "https://www.liblib.tv/canvas/chat-share?shareId=hq0ALcae5G",
+    "https://libtv-res.liblib.art/upload-images/6fc0978574fc42009792ba8b00fa0464/3e6cf835539ddaa97e4c397449adf242e6734d07.mp4",
+    "https://www.liblib.tv/canvas/chat-share?shareId=clYoRnET6U",
+    "https://libtv-res.liblib.art/upload-images/6fc0978574fc42009792ba8b00fa0464/ad96ece96ee1f1065ac296a64a55852161dd4f18.mp4",
+    "https://www.liblib.tv/canvas/chat-share?shareId=YHgaP1luFO"
+  ],
+  "hasPublicSkillContent": true
+}

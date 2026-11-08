@@ -1,0 +1,32 @@
+{
+  "name": "脚本",
+  "templateUuid": "8180f5ae3a4b46ed8a1f50a6063bb871",
+  "skillUuid": "4d19c007574348bb875dc7a09899ef33",
+  "skillKey": "script-writer-544bf9d72ad740bc9dcfc74aa5503112",
+  "version": "1.0.2",
+  "namespace": "libtv-user-generated",
+  "description": "用于写脚本",
+  "author": "微信用户c80c76",
+  "ownerId": 5439303,
+  "tags": [],
+  "likeCount": 4,
+  "usePv": 3,
+  "useUv": 3,
+  "publishAt": "2026-08-06 11:53:34",
+  "snapshotId": 33899,
+  "useScenario": "编写脚本",
+  "inputType": "输入核心故事点子/主题",
+  "outputContent": "一段脚本",
+  "coverUrl": null,
+  "resultType": 1,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=8180f5ae3a4b46ed8a1f50a6063bb871",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/544bf9d72ad740bc9dcfc74aa5503112/06199c9bce20d97b16cffecb35dd64c963bc920f.md"
+  ],
+  "hasPublicSkillContent": true
+}

@@ -1,0 +1,34 @@
+{
+  "name": "AI导演-剧本诊断改稿",
+  "templateUuid": "be4ab1ef415146ef9eeb0111c789bf42",
+  "skillUuid": "820c8be702f04c638bf8562c377b9dab",
+  "skillKey": "script-diagnosis-polisher-a2d8eb2fd4984b249b57a71943ff8aee",
+  "version": "1.0.2",
+  "namespace": "libtv-user-generated",
+  "description": "为你的剧本进行逐场解析、导演诊断、授权修订、版本锁定",
+  "author": "F易",
+  "ownerId": 10340223,
+  "tags": [],
+  "likeCount": 236,
+  "usePv": 560,
+  "useUv": 293,
+  "publishAt": "2026-07-14 16:25:23",
+  "snapshotId": 26948,
+  "useScenario": "适用于短片、电影、剧集、广告叙事片及 AI 影视项目前期，用于完整解析剧本、排查逻辑与连续性问题、形成导演分析、按授权修改剧本并锁定最终母版。",
+  "inputType": "支持 DOCX、PDF、FDX、Markdown、TXT及完整粘贴文本",
+  "outputContent": "输出内容包括：\n\n剧本解析：逐场事实、角色、道具、动作对白节拍、信息释放、情绪变化与连续性。\n导演分析：观众体验、因果链、人物弧、时长节奏、逻辑矛盾、制作风险、艺术机会与待决策项。\n新版剧本文件：仅修改用户明确授权的内容，原稿不覆盖。",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/a2d8eb2fd4984b249b57a71943ff8aee/8d1d374ada19694c91b7bcd1e5151aeee120376a.png",
+  "resultType": 2,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=be4ab1ef415146ef9eeb0111c789bf42",
+  "files": [
+    "SKILL.md",
+    "references/REPORT_MODEL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/a2d8eb2fd4984b249b57a71943ff8aee/8d1d374ada19694c91b7bcd1e5151aeee120376a.png",
+    "https://www.liblib.tv/canvas/chat-share?shareId=mgFZwppjBn"
+  ],
+  "hasPublicSkillContent": true
+}

@@ -1,0 +1,42 @@
+{
+  "name": "日系暗黑华丽诡谲志",
+  "templateUuid": "e7063eff2a0842b3b8c5e551fc503328",
+  "skillUuid": "c15172076f274576801f814f2b4e1524",
+  "skillKey": "amano-90s-ethereal-stylizer-a73e48dac2d141e39855dde34e21c14f",
+  "version": "1.0.5",
+  "namespace": "libtv-user-generated",
+  "description": "把任意角色化作天野喜孝1990s黑金空灵的梦幻成片。",
+  "author": "姜姜姜酱",
+  "ownerId": 2345202,
+  "tags": [
+    "动漫游戏"
+  ],
+  "likeCount": 17,
+  "usePv": 7,
+  "useUv": 5,
+  "publishAt": "2026-08-01 00:55:22",
+  "snapshotId": 32491,
+  "useScenario": "适用于需要天野喜孝 1990s 成熟期独特美学气质的视频/图片创作场景：空灵古典女性、神性角色、梦幻 MV、概念短片、艺术片头、氛围广告、VJ 视觉、音乐封面、角色氛围设定等。尤其适合追求“非写实、去 AI 网红脸、克制高级感”的东方奇幻/冷 fantasy 项目。",
+  "inputType": "用户提供：①主题/角色描述，如\"古典神性女性\"\"月下妖精\"；②渲染模式：线稿（白底墨线）或完成彩稿（黑底金线金色系）；③情绪关键词，如\"冷傲疏离\"\"空灵神性\"；④视频时长与画幅，默认 2.39:1、20–40 秒。Skill 据此输出：对应风格的中英双语成片 prompt、8 列分镜脚本（含每镜动画提示词）、音乐风格建议（默认空灵 Ambient）、视频工程参数（seed/关键帧/循环/反闪烁）。",
+  "outputContent": "1. 可直接用于 AI 图生图/文生图的高质量中英双语 prompt（线稿或彩稿模式）；\n2. 8 列分镜脚本：含每镜画面、运镜、动画提示词、符号呼应；\n3. 视频生成工程参数：seed 一致性、图生视频关键帧、循环呼吸节奏、反闪烁设置；\n4. 音乐风格建议：默认空灵 Ambient，附段落映射；\n5. 若用户需要，可输出静态首帧图或连续关键帧描述。",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/a73e48dac2d141e39855dde34e21c14f/3c0f1c2f2c5964aa8c14d384d2962543fd906a85.png",
+  "resultType": 3,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=e7063eff2a0842b3b8c5e551fc503328",
+  "files": [
+    "SKILL.md",
+    "references/show-cases.md",
+    "references/分镜与prompt模板.md",
+    "references/垂类适配-风格美学.md",
+    "references/情绪曲线与镜头逻辑.md",
+    "references/版权规避.md",
+    "references/视觉语法双模式.md",
+    "references/视频生成方法.md",
+    "references/资产锚点库.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/a73e48dac2d141e39855dde34e21c14f/6b654465dc27cdad710735954eb605add7d8eb76.mp4"
+  ],
+  "hasPublicSkillContent": true
+}

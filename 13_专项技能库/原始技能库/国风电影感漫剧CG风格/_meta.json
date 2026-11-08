@@ -1,0 +1,32 @@
+{
+  "name": "国风电影感漫剧CG风格",
+  "templateUuid": "07c819d225de4cce9304b7c0c09838c5",
+  "skillUuid": "5d2bb5a99e464566b3fd77e93ac0b7e2",
+  "skillKey": "cinematic-xianxia-cg-creator-3ef97170db8c4858b821e2586d8e9ea4",
+  "version": "1.0.3",
+  "namespace": "libtv-user-generated",
+  "description": "根据用户描述的题材方向，自动扩写为国风玄幻剧本，并生成风格统",
+  "author": "188****8221",
+  "ownerId": 11043041,
+  "tags": [],
+  "likeCount": 59,
+  "usePv": 101,
+  "useUv": 68,
+  "publishAt": "2026-08-06 20:13:03",
+  "snapshotId": 34073,
+  "useScenario": "角色定妆照锁定形象，场景空镜作为背景底图，构图参考图模仿站位景别，风格参考图提取色调光影，多人场景图确定互动关系。（以上均为可选，无图时AI自动生成）",
+  "inputType": "直接告诉我：“用国风玄幻Skill，帮我做一个【题材方向】的漫剧视频。”例如：“用国风玄幻Skill，帮我做一个‘仙门女弟子与魔尊宿命纠缠’的漫剧视频。”",
+  "outputContent": "题材确认 + 完整剧本 + 分镜头提示词 + 拼接后的视频文件 + 生成参数记录 + 优化建议（如有）",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/3ef97170db8c4858b821e2586d8e9ea4/cdf3d819c43c6592bbd84650653f2a7f43a34a00.png",
+  "resultType": 3,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=07c819d225de4cce9304b7c0c09838c5",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/3ef97170db8c4858b821e2586d8e9ea4/ec66f81f368ebcb5264abdb3525bc2f83218e970.mp4"
+  ],
+  "hasPublicSkillContent": true
+}

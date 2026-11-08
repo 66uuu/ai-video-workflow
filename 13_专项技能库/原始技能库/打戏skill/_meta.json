@@ -1,0 +1,33 @@
+{
+  "name": "打戏skill",
+  "templateUuid": "837a9d3557e74f88b3c2037862608e92",
+  "skillUuid": "aa74397454884708b6012610d97c4240",
+  "skillKey": "combat-action-cinematography-6ae69ce2b7274216b6736965da94fd28",
+  "version": "1.0.1",
+  "namespace": "libtv-user-generated",
+  "description": "流畅运镜，流畅动作，战斗画面skill",
+  "author": "195****7016",
+  "ownerId": 10513672,
+  "tags": [],
+  "likeCount": 21,
+  "usePv": 57,
+  "useUv": 36,
+  "publishAt": "2026-09-10 17:02:29",
+  "snapshotId": 45072,
+  "useScenario": "制作打戏使用",
+  "inputType": "先输入大致的故事或想要的打戏场面。",
+  "outputContent": "30秒Seedance2.5的视频片段。",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/6ae69ce2b7274216b6736965da94fd28/d62f7cc0c00315bbfb8cc3be15e491732ba6e5e8.png",
+  "resultType": 3,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=837a9d3557e74f88b3c2037862608e92",
+  "files": [
+    "SKILL.md",
+    "Seedance2.5_Fight_Scene_Director_SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/6ae69ce2b7274216b6736965da94fd28/60d49119f267e93ea2715b85ab3109574d2a481a.mp4"
+  ],
+  "hasPublicSkillContent": true
+}

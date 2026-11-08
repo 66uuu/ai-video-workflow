@@ -1,0 +1,34 @@
+{
+  "name": "千禧年｜ 复古 CCD Vlog`",
+  "templateUuid": "d03afce73f804549b981dda488dedbf3",
+  "skillUuid": "de5c0571379c478b925815c9a7608ba1",
+  "skillKey": "y2k-retro-ccd-vlog-31f9e0b6321a43f6af8c480108ab0c0b",
+  "version": "1.0.1",
+  "namespace": "libtv-user-generated",
+  "description": "复古ccd风格美学，细腻呈现 直闪、卡片机、2000",
+  "author": "zz",
+  "ownerId": 11391286,
+  "tags": [],
+  "likeCount": 3,
+  "usePv": 4,
+  "useUv": 2,
+  "publishAt": "2026-08-31 14:37:39",
+  "snapshotId": 42271,
+  "useScenario": "超级适用发布在社交平台上的vlog 的skill。包含的题材有 日常 Vlog、旅游vlog （去日本 欧洲，等等国家）探店、旅行、朋友互动、自拍、才艺或颜值展示等媒体内容\n风格有闪光灯直闪快照型风格和抒情叙事型两条路线，制作具有早期 CCD 数码相机质感的完整短视频。`",
+  "inputType": "输入一句话想法（生活片段、故事），简短脚本或人物/场景参考图；可自行diy组合补充以下元素 人物、地点、动作、情绪、画幅、音乐方向",
+  "outputContent": "大于30秒以上的完整 Vlog 成片，以及以下素材包括：输出 CCD 情绪板、人物/场景/道具锚点、连续故事板或关键帧、逐镜视频、音乐与声音轨、字幕  发布封面、标题、发布文案，以及逐镜图像和视频 Prompt",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/31f9e0b6321a43f6af8c480108ab0c0b/f1dc6ef43c28bca5bbe2d69e8669d4a339f12572.png",
+  "resultType": 3,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=d03afce73f804549b981dda488dedbf3",
+  "files": [
+    "SKILL.md",
+    "REFERENCE.md",
+    "QUALITY_RUBRIC.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/31f9e0b6321a43f6af8c480108ab0c0b/3ed1f7a709e1b69968bfd99114a1f1bdb3dd1f6a.mp4"
+  ],
+  "hasPublicSkillContent": true
+}

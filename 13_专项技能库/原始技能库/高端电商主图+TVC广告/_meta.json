@@ -1,0 +1,32 @@
+{
+  "name": "高端电商主图+TVC广告",
+  "templateUuid": "8b887939982d47abbed444c79e671135",
+  "skillUuid": "6ded583820b346329fdd827e3d99b86e",
+  "skillKey": "ecommerce-tvc-generator-10f43772ef194fbda818c96f85af92b8",
+  "version": "1.0.2",
+  "namespace": "libtv-user-generated",
+  "description": "任意产品主图生成并制成TVC视频",
+  "author": "bkz不可知",
+  "ownerId": 60705,
+  "tags": [],
+  "likeCount": 1,
+  "usePv": 7,
+  "useUv": 4,
+  "publishAt": "2026-09-12 22:05:59",
+  "snapshotId": 45757,
+  "useScenario": "需要为任意产品快速生成高端电商主图，并将其制作成TVC广告视频用于电商/社交媒体投放时",
+  "inputType": "产品名称或描述（如：无线耳机、护肤精华瓶、香水瓶等任意物品）",
+  "outputContent": "高端电商产品主图（8K商业摄影质感）+ TVC广告视频展示",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/10f43772ef194fbda818c96f85af92b8/e5c11a80b774a26458b8dedfc317fd4d96074d3a.png",
+  "resultType": 3,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=8b887939982d47abbed444c79e671135",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/10f43772ef194fbda818c96f85af92b8/b77d052d32e45a7f42948029b6a33b41d47ea712.mp4"
+  ],
+  "hasPublicSkillContent": true
+}

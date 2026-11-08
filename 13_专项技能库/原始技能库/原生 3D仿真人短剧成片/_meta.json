@@ -1,0 +1,32 @@
+{
+  "name": "原生 3D仿真人短剧成片",
+  "templateUuid": "adeca7447fe54b5ab9a7ba008afc3e91",
+  "skillUuid": "c8f7fe0897c646148eb39bb6f21905cc",
+  "skillKey": "realistic-3d-human-drama-011124d1198e4c7891a98528a5630994",
+  "version": "1.0.5",
+  "namespace": "libtv-user-generated",
+  "description": "角色全程不变脸、无抽卡，一键生成高度贴近真人的仿真人短剧",
+  "author": "AI短剧3D智造官",
+  "ownerId": 10565897,
+  "tags": [],
+  "likeCount": 23,
+  "usePv": 60,
+  "useUv": 43,
+  "publishAt": "2026-07-22 20:22:13",
+  "snapshotId": 29896,
+  "useScenario": "面向AI短剧工作室、MCN矩阵运营、仿真人短剧创作者批量生产竖屏信息流短剧。主打现代豪门、都市情感、科幻写实仿真人题材。区别于传统2D三视图锁脸方案，依托原生3D仿真人模型实现大角度镜头自由调度，打造差异化仿真人短剧素材，适合长期孵化可复用写实虚拟数字人IP。同时兼容横屏短剧、短视频宣传片制作需求。",
+  "inputType": "选中本Skill，在顶部输入框粘贴短剧剧情梗概；可额外补充题材、成片时长、仿真人物形象、渲染风格、画面比例（9:16竖屏/16:9横屏），无指定比例默认输出9:16竖屏，发送指令后全自动运行全链路生成3D仿真人短剧全部内容。",
+  "outputContent": "支持9:16竖屏 / 16:9横屏高清3D仿真人短剧成片、完整文字对话剧本、图文分镜方案、配套字幕文本。",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/011124d1198e4c7891a98528a5630994/b6b81ba2a564b7a51c470adf6dd4fc479ba7cfbf.jpg",
+  "resultType": 3,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=adeca7447fe54b5ab9a7ba008afc3e91",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/011124d1198e4c7891a98528a5630994/be0eea889819840f9a461b8080a90417e4b8c843.mp4"
+  ],
+  "hasPublicSkillContent": true
+}

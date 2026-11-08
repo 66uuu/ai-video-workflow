@@ -1,0 +1,32 @@
+{
+  "name": "多宇宙动漫3D风格",
+  "templateUuid": "60fd1e76ab294b10ab66984691bc03c6",
+  "skillUuid": "c0769564b6c743499cf87be41d37da9a",
+  "skillKey": "multiverse-anime-3d-style-42a98d5f83a242568e1adfecc620ed3e",
+  "version": "1.0.1",
+  "namespace": "libtv-user-generated",
+  "description": "让任意影片跃入霓虹多维漫画宇宙——每一帧都以网点、错位色彩和",
+  "author": "赛赛_Cecilia",
+  "ownerId": 4351068,
+  "tags": [],
+  "likeCount": 32,
+  "usePv": 38,
+  "useUv": 28,
+  "publishAt": "2026-07-23 14:17:22",
+  "snapshotId": 30064,
+  "useScenario": "适用于实拍、动画、跑酷、舞蹈、音乐视频、品牌短片和预告片的三维漫画化处理。强化动作、色彩、镜头动势与图形特效，同时保留人物、道具、故事和剪辑节奏",
+  "inputType": "上传视频或文字描述，并可补充剧本、梗概、分镜、对白或一句故事描述；说明需保留的人物/场景、目标情绪、风格强度、色彩偏好、时长、画幅、分辨率、字幕及音频要求。",
+  "outputContent": "输出原创多维漫画三维风格视频，保留原素材的叙事与关键动作；包含赛璐璐光影、网点、墨线与动态冲击效果。同步提供风格方案、镜头摘要、风险提示及导出参数。",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/42a98d5f83a242568e1adfecc620ed3e/378b7ab912fa39472b3dfb56dfa941462d87d02d.png",
+  "resultType": 3,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=60fd1e76ab294b10ab66984691bc03c6",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/42a98d5f83a242568e1adfecc620ed3e/a5c795f901b85d3f06582402f6e3ded5b0703f7d.mp4"
+  ],
+  "hasPublicSkillContent": true
+}

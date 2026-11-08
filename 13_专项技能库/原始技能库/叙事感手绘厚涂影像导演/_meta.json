@@ -1,0 +1,41 @@
+{
+  "name": "叙事感手绘厚涂影像导演",
+  "templateUuid": "41208a9b56f848bf803fa91c5b178bce",
+  "skillUuid": "56a4594fe3714984b728b2d780ccf7db",
+  "skillKey": "narrative-impasto-director-c72457fe2a0e465fa5bd964f85108238-56a4594f",
+  "version": "1.0.6",
+  "namespace": "libtv-user-generated",
+  "description": "输入创意、故事、产品信息，生成手绘厚涂/叙事绘本风分镜或短片",
+  "author": "xaoy",
+  "ownerId": 1428724,
+  "tags": [],
+  "likeCount": 14,
+  "usePv": 3,
+  "useUv": 3,
+  "publishAt": "2026-07-23 20:30:29",
+  "snapshotId": 30180,
+  "useScenario": "具有传统动画手绘感和厚涂绘本感，适用于主视觉、系列分镜、动画短片、剧情短片、TVC广告、品牌广告、电商展示等场合的制作；保持故事分镜、角色与场景设定、概念图、海报主视觉及已有画面的风格统一。把模糊想法变成角色统一、产品准确的手绘厚涂影像成片，尤其适合需要电影级镜头语言、连续叙事和低饱和手绘厚涂美学的项目。",
+  "inputType": "输入想法、基础构思、故事、剧本或产品信息，可上传已有的角色、产品、场景和风格参考。按引导确认成品类型、画幅、平台与时长；资料不足",
+  "outputContent": "根据用户需求，对应输出厚涂绘本风单张主视觉、角色/道具/场景资产、连续分镜图、动画短片或TVC广告等；可包含创意概念、视觉设定、镜头表、关键帧、运镜与转场、色彩脚本、旁白、字幕、音乐音效方案及最终图片或成片。",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/c72457fe2a0e465fa5bd964f85108238/a0a1959e2a1ceaee5166507d524f09ad71d4935a.png",
+  "resultType": 3,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=41208a9b56f848bf803fa91c5b178bce",
+  "files": [
+    "SKILL.md",
+    "cinematography.md",
+    "continuity-qc.md",
+    "preproduction.md",
+    "production-modes.md",
+    "reference.md",
+    "storyboard-script.md",
+    "directing-language.md",
+    "video-gates.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/c72457fe2a0e465fa5bd964f85108238/cea6007fa5620c9434c4a74fd689797f8cc65bac.mp4",
+    "https://libtv-res.liblib.art/upload-images/c72457fe2a0e465fa5bd964f85108238/02a0733bd80ede09f787ffcb1cba7e89a02b79da.mp4"
+  ],
+  "hasPublicSkillContent": true
+}

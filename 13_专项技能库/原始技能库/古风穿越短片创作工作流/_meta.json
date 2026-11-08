@@ -1,0 +1,34 @@
+{
+  "name": "古风穿越短片创作工作流",
+  "templateUuid": "2fe131fada1e4a1ebee05f07fa126c61",
+  "skillUuid": "cd44b593e9364c62a99a37a92a6186e9",
+  "skillKey": "ancient-time-travel-film-creator-eae344d03ae6440cb34c5471de6bb287",
+  "version": "1.0.1",
+  "namespace": "libtv-user-generated",
+  "description": "基于剧本自动拆解分镜、生成角色设定、场景锚点、分镜图片、视频",
+  "author": "墨沫",
+  "ownerId": 277872,
+  "tags": [
+    "短剧漫剧"
+  ],
+  "likeCount": 85,
+  "usePv": 121,
+  "useUv": 95,
+  "publishAt": "2026-08-20 21:56:49",
+  "snapshotId": 39199,
+  "useScenario": "用户提供完整剧本（含场次、人物、台词、特效描述），需要从零生成一部30-60s短片成片，包含角色设定、分镜图、视频节点、BGM合成。",
+  "inputType": "剧本文本（含场次/人物/台词/特效说明）+ 可选人脸参考图片",
+  "outputContent": "完整短片视频节点（含BGM），附锚点清单文件与分镜表文件",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/eae344d03ae6440cb34c5471de6bb287/61a77b2b5151133b723b14a5d6d074a6cc2f1810.jpg",
+  "resultType": 3,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=2fe131fada1e4a1ebee05f07fa126c61",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/eae344d03ae6440cb34c5471de6bb287/9701191dfd9090c5e4eb4a44d44cab28d0453c7c.mp4"
+  ],
+  "hasPublicSkillContent": true
+}

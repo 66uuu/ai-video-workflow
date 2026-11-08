@@ -1,0 +1,35 @@
+{
+  "name": "人物故事版呈现SKILL",
+  "templateUuid": "def901bee98e4861a4654936df5cfdaa",
+  "skillUuid": "d3629d7e459743b0b8a98cfe8e4098c9",
+  "skillKey": "character-storyboard-generator-b85befd035a84c7d99b6927cfa3fa3c5",
+  "version": "1.0.0",
+  "namespace": "libtv-user-generated",
+  "description": "自动定义角色变成分析故事版",
+  "author": "星球的AI畅想",
+  "ownerId": 1619666,
+  "tags": [],
+  "likeCount": 7,
+  "usePv": 3,
+  "useUv": 1,
+  "publishAt": "2026-09-11 00:10:55",
+  "snapshotId": 45212,
+  "useScenario": "人物变成角色展示板",
+  "inputType": "XXXX角色变成人物故事版",
+  "outputContent": "故事版图片",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/b85befd035a84c7d99b6927cfa3fa3c5/7dca4459f3b8e504113fbbacb6e137abbc781925.png",
+  "resultType": 2,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=def901bee98e4861a4654936df5cfdaa",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/b85befd035a84c7d99b6927cfa3fa3c5/a2ff9e0b498e077db2fb17fe42f0f84066c23de2.png",
+    "https://libtv-res.liblib.art/upload-images/b85befd035a84c7d99b6927cfa3fa3c5/f02bd51f7071183bd03533250e447a7cc41a0e62.png",
+    "https://libtv-res.liblib.art/upload-images/b85befd035a84c7d99b6927cfa3fa3c5/073e5c6660e3873aaf<手机号-已脱敏>e6f169d418a.png",
+    "https://libtv-res.liblib.art/upload-images/b85befd035a84c7d99b6927cfa3fa3c5/638963c2aa1d02f7d8e26228a19582eea8b10ba5.png"
+  ],
+  "hasPublicSkillContent": true
+}

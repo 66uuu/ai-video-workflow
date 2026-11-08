@@ -1,0 +1,33 @@
+{
+  "name": "电商模特选角",
+  "templateUuid": "709353520cbb4c22a70d22142b9959d1",
+  "skillUuid": "0077650bf26047008bbee6b8560cb2af",
+  "skillKey": "ecommerce-model-casting-839348b666cd48deb16d629db04bf6ab",
+  "version": "1.0.0",
+  "namespace": "libtv-user-generated",
+  "description": "电商服装Lookbook人物提示词生成专家",
+  "author": "弥茶子",
+  "ownerId": 934434,
+  "tags": [],
+  "likeCount": 30,
+  "usePv": 46,
+  "useUv": 13,
+  "publishAt": "2026-08-06 10:24:18",
+  "snapshotId": 33838,
+  "useScenario": "适用于电商服装展示图生成，包括：商品白底主图、品牌Lookbook封面、人物三视图（正/侧/背）、服装细节6宫格、街拍风格图、表情变化6宫格、身材比例5宫格等。支持淘宝/天猫/京东/小红书店铺运营，覆盖7人种×4年龄段×16风格×4季节自由组合，内置品牌模板和13种妆容自动匹配。",
+  "inputType": "直接用自然语言描述需求，如\"韩国青年女模，甜系清新风，夏季，封面主图\"，系统自动识别人种/年龄/性别/身材/风格/季节/场景/妆容8个维度。也可指定品牌（xxx风格）、妆容（欧美修容妆）、批量生成（批量 韩国女模 甜系 夏季）、自定义追加（+粉色头发+游乐园背景）。回复\"开始\"进入选项式交互。",
+  "outputContent": "输出三部分内容：1.英文Prompt（含人物基底+妆容+穿搭+姿态+背景+光影+真实感关键词+构图，可直接复制到MJ/SD/Flux使用）；2.负面提示词（Negative Prompt，含反动画/反3D/反塑料感词汇）；3.中文配置说明（人种/年龄段/风格/季节/场景/妆容/比例等参数摘要）。",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/839348b666cd48deb16d629db04bf6ab/d8cc2593f3878d560c12c6d2114b55b13045b848.jpg",
+  "resultType": 2,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=709353520cbb4c22a70d22142b9959d1",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/839348b666cd48deb16d629db04bf6ab/c589c9f27542b832a013ec95da480c0eb94721ad.png",
+    "https://libtv-res.liblib.art/upload-images/839348b666cd48deb16d629db04bf6ab/6063ca89bac35789ff7c64f3815db548aa3dcea4.png"
+  ],
+  "hasPublicSkillContent": true
+}

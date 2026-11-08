@@ -1,0 +1,36 @@
+{
+  "name": "IP短片工坊",
+  "templateUuid": "334b2ce400a64313b0e49a4635cd75b1",
+  "skillUuid": "ef67cd3444214d4f88ad9a62fbe2bd0c",
+  "skillKey": "paper-character-video-maker-629217cc70824286bd9b76a799f8345b",
+  "version": "1.0.7",
+  "namespace": "libtv-user-generated",
+  "description": "| 把用户形象变成IP短片。",
+  "author": "KIRA",
+  "ownerId": 2590798,
+  "tags": [],
+  "likeCount": 12,
+  "usePv": 5,
+  "useUv": 5,
+  "publishAt": "2026-08-12 09:51:55",
+  "snapshotId": 36069,
+  "useScenario": "| 将原创角色做成统一的IP短片+真实场景，并快速产出有故事、有分镜、可直接生成的15秒竖屏短片。",
+  "inputType": "上传角色图，或描述角色外观、场景和想要的动作；可补充场景图、道具、声音和结尾偏好。未说明时默认15秒竖屏轻喜剧短片。",
+  "outputContent": "| 输出角色锁定卡、素材锚点、时间码分镜、完整成片提示词、结尾与自检限制；可直接用于图像或视频生成。",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/629217cc70824286bd9b76a799f8345b/d23350123d735a85b58457afedab089c98eb2446.png",
+  "resultType": 3,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=334b2ce400a64313b0e49a4635cd75b1",
+  "files": [
+    "SKILL.md",
+    "纸片人规范/openai.yaml.md",
+    "纸片人规范/prompt-templates.md",
+    "纸片人规范/libtv-publish.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/629217cc70824286bd9b76a799f8345b/6e76ce66338a65e957b6ed999a196f7855fe7ee8.mp4",
+    "https://libtv-res.liblib.art/upload-images/629217cc70824286bd9b76a799f8345b/6a6f1c93a970c3ea53987c3511ce5de0e961d84e.mp4"
+  ],
+  "hasPublicSkillContent": true
+}

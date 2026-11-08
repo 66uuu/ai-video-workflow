@@ -1,0 +1,32 @@
+{
+  "name": "wan3.0专用",
+  "templateUuid": "1e446be102884668950d93f80dba0ff9",
+  "skillUuid": "c0365f5682a148c48b03f0762fa3bfec",
+  "skillKey": "numeric-sequence-processor-2d44398589004d8da70dd10bad656a96",
+  "version": "1.0.7",
+  "namespace": "libtv-user-generated",
+  "description": "输入分镜脚本自动生成对应节点",
+  "author": "何必",
+  "ownerId": 10859804,
+  "tags": [],
+  "likeCount": 10,
+  "usePv": 10,
+  "useUv": 7,
+  "publishAt": "2026-09-01 11:55:16",
+  "snapshotId": 42535,
+  "useScenario": "自动生成视频，图片节点",
+  "inputType": "输入已经分镜好的分镜脚本与指定参数",
+  "outputContent": "输出对应的图片，视频节点，建议打开手动生成模式",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/2d44398589004d8da70dd10bad656a96/f839de706191e4e29cd43868d690542339be84da.png",
+  "resultType": 3,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=1e446be102884668950d93f80dba0ff9",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/2d44398589004d8da70dd10bad656a96/95e62e24f1a74f86c15fef5e388c68e9f2e23dbf.mp4"
+  ],
+  "hasPublicSkillContent": true
+}

@@ -1,0 +1,35 @@
+{
+  "name": "万物皆可宝矿力！",
+  "templateUuid": "5c371240763941d78f76a6e9da2f60cb",
+  "skillUuid": "ab72576cd9a24c24922b9e0b395854e0",
+  "skillKey": "pocari-style-tvc-prompter-c4a454ceb6f14d35b15017796be4ee6f",
+  "version": "1.0.11",
+  "namespace": "libtv-user-generated",
+  "description": "生成日系胶片风格夏日青春氛围短片＆TVC",
+  "author": "Skye_aigc",
+  "ownerId": 8777100,
+  "tags": [],
+  "likeCount": 10,
+  "usePv": 36,
+  "useUv": 5,
+  "publishAt": "2026-08-14 18:06:45",
+  "snapshotId": 37049,
+  "useScenario": "用于生成日系高感官商业广告提示词，重点覆盖饮品、运动、美食、美妆等品类。适合校园、海边、运动场、餐厅、室内等场景，强化真实手持、自然光、人物互动、产品特写、材质反馈、音乐节奏与动态慢动作。",
+  "inputType": "输入一句创意、剧情或产品需求即可，也可补充人物、场景、时长、画幅、产品、BPM、音乐和镜头要求。Skill会先判断品类与核心卖点，再设计动作、产品特写、人物关系、运镜、节奏和视觉质感；",
+  "outputContent": "输出可直接用于AI视频生成模型的完整中文提示词，包含人物、产品、场景、动作、互动、产品特写、音乐节奏、真实手持运镜、镜头衔接、Speed Ramp、动态慢动作、自然光、白柔胶片质感及商业广告画质。",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/c4a454ceb6f14d35b15017796be4ee6f/071b5a4107132e730f2202afee039b83c171ecb1.png",
+  "resultType": 3,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=5c371240763941d78f76a6e9da2f60cb",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/c4a454ceb6f14d35b15017796be4ee6f/6cc0ceb4197d90874a627f52b869be5fb51ce1f9.mp4",
+    "https://libtv-res.liblib.art/upload-images/c4a454ceb6f14d35b15017796be4ee6f/7f0a6b4438eecb86a906e261b4f45a191856b80a.mp4",
+    "https://libtv-res.liblib.art/upload-images/c4a454ceb6f14d35b15017796be4ee6f/fa872fb43079614f6b6214debd7b5dc072dc1443.mp4",
+    "https://libtv-res.liblib.art/upload-images/c4a454ceb6f14d35b15017796be4ee6f/e10be838bd5a3f0c8b209eac596005491116d3dd.mp4"
+  ],
+  "hasPublicSkillContent": true
+}

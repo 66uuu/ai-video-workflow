@@ -1,0 +1,32 @@
+{
+  "name": "Seedance视频提示词优化器",
+  "templateUuid": "7dccee374a8b4d54986347ed74900611",
+  "skillUuid": "39d68afdbcd74bb1889ee15a8f6882f7",
+  "skillKey": "seedance-prompt-optimizer-c26ac9a5ce584f5fb7dc5221e7fb4d8f",
+  "version": "1.0.3",
+  "namespace": "libtv-user-generated",
+  "description": "优化Seedance 2.5视频生成提示词",
+  "author": "三水局",
+  "ownerId": 8326583,
+  "tags": [],
+  "likeCount": 6,
+  "usePv": 52,
+  "useUv": 20,
+  "publishAt": "2026-09-03 16:16:44",
+  "snapshotId": 43188,
+  "useScenario": "需要将创意转化为Seedance 2.5可执行的视频提示词时；正式生成前需要验证提示词准确性时",
+  "inputType": "用户提供简短、模糊或口语化的视频创意描述，以及可选的参考图片/视频素材",
+  "outputContent": "适合Seedance 2.5执行的详细、可稳定生成的视频提示词",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/c26ac9a5ce584f5fb7dc5221e7fb4d8f/3b84abf896b44521d1be3782b77919fa037da127.png",
+  "resultType": 2,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=7dccee374a8b4d54986347ed74900611",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/c26ac9a5ce584f5fb7dc5221e7fb4d8f/f2faa25479271d34d1e4582989d569fc24e7b360.png"
+  ],
+  "hasPublicSkillContent": true
+}

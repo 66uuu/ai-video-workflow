@@ -1,0 +1,32 @@
+{
+  "name": "护肤香水电商产品质感短片",
+  "templateUuid": "46cae52592c542b8bdd46d01ab62e49b",
+  "skillUuid": "54414e9bcade4b02a0658fea9d1f68c6",
+  "skillKey": "product-video-generator-e5c05143074646b7ae70a88b81ec6c2a",
+  "version": "1.0.1",
+  "namespace": "libtv-user-generated",
+  "description": "根据参考视频分析提示词、运镜和风格，结合用户上传的产品图",
+  "author": "星美Fine",
+  "ownerId": 773892,
+  "tags": [],
+  "likeCount": 13,
+  "usePv": 9,
+  "useUv": 8,
+  "publishAt": "2026-08-03 00:33:24",
+  "snapshotId": 32803,
+  "useScenario": "自然木质陈设高端风格产品宣传短片",
+  "inputType": "上传产品图片生成视频",
+  "outputContent": "一段15秒高端产品质感短片视频，包含通用提示词模板，支持替换产品名称、品牌字样、道具等占位符复用",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/e5c05143074646b7ae70a88b81ec6c2a/9072af080f1770d92d3af6b95c3c468416f72388.png",
+  "resultType": 3,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=46cae52592c542b8bdd46d01ab62e49b",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/e5c05143074646b7ae70a88b81ec6c2a/71e830c44849dff667411006e22046ceb168fcda.mp4"
+  ],
+  "hasPublicSkillContent": true
+}

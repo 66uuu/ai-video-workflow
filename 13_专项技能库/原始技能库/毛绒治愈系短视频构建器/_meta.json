@@ -1,0 +1,33 @@
+{
+  "name": "毛绒治愈系短视频构建器",
+  "templateUuid": "6006dc18e5e54c4e82f5a8fa58e9a4ff",
+  "skillUuid": "908681f5386a47158c042549fc85bf10",
+  "skillKey": "plush-healing-video-creator-f671413d592f482381c81d6955c8e873",
+  "version": "1.0.2",
+  "namespace": "libtv-user-generated",
+  "description": "一键生成“现实场景 + 毛绒萌系 IP 角色\"的治愈短视频",
+  "author": "蒜苗",
+  "ownerId": 3067024,
+  "tags": [],
+  "likeCount": 4,
+  "usePv": 5,
+  "useUv": 4,
+  "publishAt": "2026-09-09 19:49:18",
+  "snapshotId": 44751,
+  "useScenario": "为抖音 / 视频号 / 小红书的毛绒治愈系萌宠 IP 账号生产竖屏短视频的中文分镜与视频提示词。画风固定成\"现实生活场景 + 毛绒 / 针织 / 羊毛毡 / 软胶等萌系 IP 角色\"，慢节奏、象声词表演、低饱和暖调。覆盖从挑题材、生成三视图、空间调度、到分镜与可灵 / Seedance 提示词的全流程。适合账号日常更新、节日节气发布、系列内容产出。",
+  "inputType": "用户需要提供：① 题材或剧情方向（可选，可从剧情库或节气日历里挑）；② 角色三视图与材质微距（已有或现设计）；③ 场景与道具参考图；④ 画幅（默认 9:16 竖屏，少数 16:9 横屏）；⑤ 单条时长（默认 5-10 秒）；⑥ 视频生成模型（可灵 / Seedance / MiniMax 等）。最少输入只要一句话方向，其他按\"固定治愈风格底座\"和内置剧情库自动决定，不需要反复反问。",
+  "outputContent": "一份按提示词条数分段的中文分镜脚本，每段含：时间段 / 画幅 / 象声词 / 四段风格控制 / 素材句柄 / 画面构图 / 机位 / 动作 / 象声词 / 音效 / 字数统计。可选两种交付形式：① 选\"只要文字提示词\"——在对话中按顺序输出，可直接粘贴到视频生成工具；② 选\"生成网页\"——保存为 FluffyShotlist_<题材>_v1_0.html 分镜提示词表，自带复制按钮、分段资产对照表",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/f671413d592f482381c81d6955c8e873/b0c410ca12f9ea1048864fc8680450a75a3938d2.png",
+  "resultType": 3,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=6006dc18e5e54c4e82f5a8fa58e9a4ff",
+  "files": [
+    "SKILL.md",
+    "毛绒治愈系短视频构建器_最终版_SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/f671413d592f482381c81d6955c8e873/c5c5081348a31660212c4c46fd931badfc091da8.mp4"
+  ],
+  "hasPublicSkillContent": true
+}

@@ -1,0 +1,32 @@
+{
+  "name": "电影级导演短剧工作流",
+  "templateUuid": "58ff998c354c42b9b8f343f73ddf388c",
+  "skillUuid": "96d6d4ac9e174be5a253990241a0683c",
+  "skillKey": "cinematic-skit-workflow-007729744a654b19a5b2f58ba34bcb8c",
+  "version": "1.0.0",
+  "namespace": "libtv-user-generated",
+  "description": "全自动生成短剧",
+  "author": "微信用户cb531f",
+  "ownerId": 10505040,
+  "tags": [],
+  "likeCount": 17,
+  "usePv": 36,
+  "useUv": 13,
+  "publishAt": "2026-08-07 19:14:46",
+  "snapshotId": 34649,
+  "useScenario": "用于AI真人短剧与漫剧的视频制作，从剧本、角色与场景资产，到分集拆解、分镜设计、图片提示词、电影级视频提示词及连续性检查，辅助完成完整短剧视觉生产。",
+  "inputType": "输入短剧剧本、故事梗概或单场戏内容，可补充角色参考图、场景图及平台要求。Skill会分析剧情与场景类型，自动完成角色/场景资产、分镜、镜头时间轴、图片提示词和电影级视频提示词，并进行人物、场景、动作和镜头连续性检查。",
+  "outputContent": "输出完整的短剧制作方案，包括剧本分析、角色与场景资产、分集结构、分镜表、图片生成提示词、FULL电影级视频生成提示词、对白与声音设计、镜头调度、人物表演、连续性约束及最终检查清单。",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/007729744a654b19a5b2f58ba34bcb8c/1d265f1a3f0eefc0a7681ec8e9880acfc4973e4b.jpg",
+  "resultType": 3,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=58ff998c354c42b9b8f343f73ddf388c",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/007729744a654b19a5b2f58ba34bcb8c/989ada7dee53e336ad877d5ba345f9a35480fd4b.mp4"
+  ],
+  "hasPublicSkillContent": true
+}

@@ -1,0 +1,32 @@
+{
+  "name": "超强剧本创作skill",
+  "templateUuid": "6c0ca02082e74b8ca21bae2cf74e7bf0",
+  "skillUuid": "e66cf66144ef4f97b8c2c1188cd87397",
+  "skillKey": "creative-script-writer-1fabd7e3958345a893d8d7e4a37868f0",
+  "version": "1.0.1",
+  "namespace": "libtv-user-generated",
+  "description": "个性化原创剧本落地，解决立项难，留存崩，原创焦虑，直出提示词",
+  "author": "AIGC佬猫",
+  "ownerId": 1096368,
+  "tags": [],
+  "likeCount": 27,
+  "usePv": 47,
+  "useUv": 26,
+  "publishAt": "2026-07-18 00:55:37",
+  "snapshotId": 28306,
+  "useScenario": "剧本立项难，留存崩，原创焦虑，落地难，伏笔收不回来，不知道如何创作剧本，剧情结构，没有思路，不会写对话的时候。",
+  "inputType": "使用后输入创意，然后按指引步骤操作。",
+  "outputContent": "这个Skill把从一个“凭感觉写故事的创作者”，武装成了“拥有制片人脑、编剧心、法务眼、工程师手”的漫剧工业化特种兵。它不保证一夜爆火，但能防止项目死得快，（早期排雷）、长得稳（结构扎实）、卖得广。",
+  "coverUrl": null,
+  "resultType": 1,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=6c0ca02082e74b8ca21bae2cf74e7bf0",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/1fabd7e3958345a893d8d7e4a37868f0/31b9988eee8c155bc67827f91105f7908fdfc56b.md"
+  ],
+  "hasPublicSkillContent": true
+}

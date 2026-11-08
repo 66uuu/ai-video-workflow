@@ -1,0 +1,34 @@
+{
+  "name": "热血打斗让人物打斗燃起来",
+  "templateUuid": "2248e8aab1bd4d14ad22a0ca1b5cb3fc",
+  "skillUuid": "e461c352a31b49e5a902d3c859476b6a",
+  "skillKey": "intense-combat-choreographer-e584cbab13014447a0cd9027762f8392",
+  "version": "1.0.5",
+  "namespace": "libtv-user-generated",
+  "description": "把人物和场景，关键道具给到可以完成超燃打斗，90秒",
+  "author": "188****2448",
+  "ownerId": 10858993,
+  "tags": [],
+  "likeCount": 54,
+  "usePv": 77,
+  "useUv": 51,
+  "publishAt": "2026-07-30 15:28:32",
+  "snapshotId": 32078,
+  "useScenario": "将短剧剧本快速转化为可生成、可拍摄、可剪辑的导演执行分镜。适用于AI真人短剧、轻写实3D漫剧、女频甜宠、复仇逆袭、男频爽剧、玄幻动作及欧美短剧。重点解决镜头单一、动作不可生成、人物状态跳变、轴线混乱、台词超时和镜头衔接困难等问题。",
+  "inputType": "上传剧本或粘贴指定场次，并提供画幅、成片类型、视觉风格、口型语言、人物场景参考、必须保留内容及禁用项。Skill会分析剧情功能和人物关系，调用对应分镜模块生成完整执行分镜；遇到影响分镜成立的歧义会先提问，不擅自修改原剧情。",
+  "outputContent": "超热打斗片段",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/e584cbab13014447a0cd9027762f8392/e91a4b0a0260e36b11f44e2c32e8522665f45e77.png",
+  "resultType": 3,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=2248e8aab1bd4d14ad22a0ca1b5cb3fc",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/e584cbab13014447a0cd9027762f8392/f9d8636bcff86041acd9b72d1bad2f58a0a681ab.mp4",
+    "https://libtv-res.liblib.art/upload-images/e584cbab13014447a0cd9027762f8392/e83a31f3950d3fcdb7a244643e699b168e6179c9.mp4",
+    "https://libtv-res.liblib.art/upload-images/e584cbab13014447a0cd9027762f8392/c08b0331d613bdd972f4f620d8105aac94ed264d.mp4"
+  ],
+  "hasPublicSkillContent": true
+}

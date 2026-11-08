@@ -1,0 +1,32 @@
+{
+  "name": "短剧全角色视觉生成器3",
+  "templateUuid": "fbcf6c5d30dc411fab9deedd3920d843",
+  "skillUuid": "becabb143f084e14801bdff60b9c2174",
+  "skillKey": "drama-character-visual-designer-8d012fbe5b224c7bab64318012900756",
+  "version": "1.0.1",
+  "namespace": "libtv-user-generated",
+  "description": "根据短剧剧本自动识别所有出场角色，人写实角色图生成的形象设定",
+  "author": "蛋白",
+  "ownerId": 10721429,
+  "tags": [],
+  "likeCount": 11,
+  "usePv": 5,
+  "useUv": 5,
+  "publishAt": "2026-09-14 09:52:51",
+  "snapshotId": 46031,
+  "useScenario": "1. 根据完整短剧剧本生成所有出场角色的形象设定。\n2. 根据分集剧本提取新增角色，并补充角色生图 Prompt。\n3. 为短剧前期筹备生成角色视觉参考。\n4. 为 AI 生图工具生成真人写实角色三视图 Prompt。\n5. 为导演、美术、服化道、选角团队提供角色造型方向。\n6. 为同一部剧统一人物视觉风格，避免角色造型混乱。\n7. 将剧本文字转化为可视化角色资产，包括主角、反派、配角、长辈、路人",
+  "inputType": "“风格定调 + 主体角色（核心对象 + 属性） + 年龄 + 性别 + 当前短剧流行妆容 + 服装 + 搭配符合服装的鞋 + 视觉要素（色彩光影 + 氛围 + 细节） + 画质要求 + 固定姿态构图要求\n画面左侧是人物全身三视图，右侧是面部正面特写，背景无接缝，纯灰背景，16:9。\n默认姿态为：双手自然下垂放在身侧，正面图，全身图，自然站立，无影子，正常肤色，皮肤通透自然，超高画质，手上不要",
+  "outputContent": "1. 角色总览表：角色名、性别、年龄、身份职业、剧情定位、视觉关键词。\n2. 角色关系简表。\n3. 每个角色的完整形象设定：\n   - 风格定调\n   - 主体角色：核心对象 + 属性\n   - 年龄 + 性别\n   - 当前短剧流行妆容\n   - 服装\n   - 搭配符合服装的鞋\n   - 视觉要素：色彩光影 + 氛围 + 细节\n   - 画质要求\n   - 固定构图与姿态要求",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/8d012fbe5b224c7bab64318012900756/b1cc12fa0dda943310b8191d3f35dcc6281e1dd8.png",
+  "resultType": 2,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=fbcf6c5d30dc411fab9deedd3920d843",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/8d012fbe5b224c7bab64318012900756/bff592982b935f14a7e2cf0d8683818f1b472fd7.png"
+  ],
+  "hasPublicSkillContent": true
+}

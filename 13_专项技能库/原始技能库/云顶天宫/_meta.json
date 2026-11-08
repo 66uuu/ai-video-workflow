@@ -1,0 +1,36 @@
+{
+  "name": "云顶天宫",
+  "templateUuid": "6bb68f702805425dae89543b8a6975ff",
+  "skillUuid": "898020345dd5465585d8c5bee81e4ddf",
+  "skillKey": "oriental-cloud-palace-82a712f49696400cb9d3e28007f73b40",
+  "version": "1.0.7",
+  "namespace": "libtv-user-generated",
+  "description": "制作东方巨构美学云顶天宫风格视频",
+  "author": "平行羊",
+  "ownerId": 9144695,
+  "tags": [],
+  "likeCount": 27,
+  "usePv": 47,
+  "useUv": 27,
+  "publishAt": "2026-08-15 17:08:06",
+  "snapshotId": 37299,
+  "useScenario": "制作东方美学巨构云顶天宫类型的ai短片",
+  "inputType": "调用skill，只需要输入简单提示词，skill自动补全图片提示词和视频提示词，如：白衣女子在走廊观赏巨大的花/红衣男子走在巨大的南天门走廊",
+  "outputContent": "东方美学云顶天宫风格的图片提示词和视频提示词",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/82a712f49696400cb9d3e28007f73b40/f41bd19f7f84d99a2ec2c1282959b4b5e72d92c9.png",
+  "resultType": 3,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=6bb68f702805425dae89543b8a6975ff",
+  "files": [
+    "SKILL.md",
+    "references/single-shot-prompting.md",
+    "references/style-blueprint.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/82a712f49696400cb9d3e28007f73b40/8e692da811709a931558c3832b82b168cb7d2457.mp4",
+    "https://libtv-res.liblib.art/upload-images/82a712f49696400cb9d3e28007f73b40/72fc2a236468e27aeeb6e0c7f059d648a2d0772a.mp4",
+    "https://libtv-res.liblib.art/upload-images/82a712f49696400cb9d3e28007f73b40/c8c85b7f30c8aa9524ca51fd3cb9e9d51e723902.mp4"
+  ],
+  "hasPublicSkillContent": true
+}

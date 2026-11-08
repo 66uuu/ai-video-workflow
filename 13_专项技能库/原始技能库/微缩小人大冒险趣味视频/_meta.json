@@ -1,0 +1,38 @@
+{
+  "name": "微缩小人大冒险趣味视频",
+  "templateUuid": "78a299df18324fc886da8a02c9cf1a10",
+  "skillUuid": "b625c12565e9497495959dbb69f80ee4",
+  "skillKey": "miniature-adventure-video-5e17f63c20b64ca1a5571efe67cc2d04",
+  "version": "1.0.2",
+  "namespace": "libtv-user-generated",
+  "description": "上传角色图，自动生成微缩特效闯关短片，支持产品植入。",
+  "author": "刘不住Wander",
+  "ownerId": 759898,
+  "tags": [],
+  "likeCount": 36,
+  "usePv": 28,
+  "useUv": 15,
+  "publishAt": "2026-07-18 08:30:14",
+  "snapshotId": 28334,
+  "useScenario": "适合把角色卡变成巴掌大的微缩冒险者，在浴室、厨房、教室或书房完成高能闯关。可用于角色展示、创意短视频、产品植入、社媒内容和特效世界观素材。",
+  "inputType": "上传角色卡，选择写实、3D 或 2D 画风，以及浴室、厨房、教室或书房场景。可选上传产品图或 logo；系统会自动处理角色与产品",
+  "outputContent": "输出角色/产品资产处理结果、随机关卡链、微缩预览图、自然产品露出方案，以及一条 15 秒微缩闯关视频提示词。默认同步生成匹配场景的无歌词 BGM 与环境动作音。",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/5e17f63c20b64ca1a5571efe67cc2d04/dd3f112d7c64172ea323b50cded9c374b2132580.png",
+  "resultType": 3,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=78a299df18324fc886da8a02c9cf1a10",
+  "files": [
+    "SKILL.md",
+    "references/character-and-product-asset-policy.md",
+    "references/image-generation-fallback-policy.md",
+    "references/tiny-fx-action-engine.md",
+    "references/tiny-world-scene-library.md",
+    "references/video-reference-policy.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/5e17f63c20b64ca1a5571efe67cc2d04/83fdc04023f60666b354aa91d62a6eb9712f18ff.mp4",
+    "https://libtv-res.liblib.art/upload-images/5e17f63c20b64ca1a5571efe67cc2d04/3f742d0f1c5f47857d3c909c02e8aea453658b08.mp4"
+  ],
+  "hasPublicSkillContent": true
+}

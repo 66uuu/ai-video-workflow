@@ -1,0 +1,32 @@
+{
+  "name": "神级转场时尚短片",
+  "templateUuid": "93c24c8bdb8b4cfd9a0629426b886a31",
+  "skillUuid": "dfc4e371a5a64561bf4442a2bf33f363",
+  "skillKey": "fashion-seamless-transition-db6d8d12186d4d91b34069c21a82965b",
+  "version": "1.0.1",
+  "namespace": "libtv-user-generated",
+  "description": "深度还原《穿普拉达的女王》式神级转场。",
+  "author": "倪好",
+  "ownerId": 674502,
+  "tags": [],
+  "likeCount": 16,
+  "usePv": 11,
+  "useUv": 6,
+  "publishAt": "2026-07-18 10:04:42",
+  "snapshotId": 28354,
+  "useScenario": "创意短片、品牌故事、MV 片段、时尚广告与社媒种草；尤其适合需要多造型 / 多场景快速切换的时尚、美妆、假发内容。旗舰玩法：漂亮自信的女性模特连换多套假发造型的变装大片。",
+  "inputType": "给一段剧本或故事文本，Skill 按它排场景、情绪与转场节点；没有剧本时，一句话或几个关键词（题材 + 风格 + 时长）也能跑，",
+  "outputContent": "人物造型三视图（锁一致性）、场景图、BGM、分镜 prompt（逐镜可直接生成）、完整成片（竖屏 9:16 或横屏，15s–5min）。",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/db6d8d12186d4d91b34069c21a82965b/73d41236f5b74df25202397582208e23455f30e0.png",
+  "resultType": 3,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=93c24c8bdb8b4cfd9a0629426b886a31",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/db6d8d12186d4d91b34069c21a82965b/3ef11439437ab831d71a3b8fa2497fcf1cebbaea.mp4"
+  ],
+  "hasPublicSkillContent": true
+}

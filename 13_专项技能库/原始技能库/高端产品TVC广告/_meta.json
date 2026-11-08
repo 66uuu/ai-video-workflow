@@ -1,0 +1,32 @@
+{
+  "name": "高端产品TVC广告",
+  "templateUuid": "09b8ce45f11543c29331cf5cdbd2600b",
+  "skillUuid": "8f6bf4edbdc14982a5afb26497338f55",
+  "skillKey": "luxury-tvc-creator-d7991b159966402487750d25eb39e410",
+  "version": "1.0.2",
+  "namespace": "libtv-user-generated",
+  "description": "一句话生成高端TVC大片",
+  "author": "野生失真集",
+  "ownerId": 9671825,
+  "tags": [],
+  "likeCount": 2,
+  "usePv": 1,
+  "useUv": 1,
+  "publishAt": "2026-09-03 10:46:21",
+  "snapshotId": 43065,
+  "useScenario": "需要为高端消费品（腕表/香水/服装/皮具/汽车/珠宝/高端电子产品等）从零创作并直接生成具有电影质感的完整TVC广告视频时使用",
+  "inputType": "产品名称、品牌调性关键词（2-3个）、目标人群画像、视频时长（秒）；可选上传产品实物图",
+  "outputContent": "完整TVC视频成片：分镜脚本+人物四视图锚点+场景/道具锚点+分镜图+视频片段+拼接成片",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/d7991b159966402487750d25eb39e410/b87383867c72afbea2b3535c034fad4768eb11a2.JPG",
+  "resultType": 3,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=09b8ce45f11543c29331cf5cdbd2600b",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/d7991b159966402487750d25eb39e410/3e48e4ee06be1eb6f36d6131f8851d4613221892.mp4"
+  ],
+  "hasPublicSkillContent": true
+}

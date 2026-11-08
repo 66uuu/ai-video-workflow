@@ -1,0 +1,32 @@
+{
+  "name": "文旅海报动态视频生成器",
+  "templateUuid": "966ba28736114660ace3dc90e73db716",
+  "skillUuid": "d75f9bd85f3547cab96398562a5d05bc",
+  "skillKey": "tourism-poster-video-generator-e5c05143074646b7ae70a88b81ec6c2a",
+  "version": "1.0.11",
+  "namespace": "libtv-user-generated",
+  "description": "素材图一键生成文旅海报与动态视频",
+  "author": "星美Fine",
+  "ownerId": 773892,
+  "tags": [],
+  "likeCount": 2,
+  "usePv": 1,
+  "useUv": 1,
+  "publishAt": "2026-09-09 09:49:21",
+  "snapshotId": 44520,
+  "useScenario": "文旅宣传、朋友圈、自媒体发布、线下物料制作，需要将建筑/风景/室内素材快速转化为高质感海报和动态视频时使用",
+  "inputType": "建筑/风景/室内素材图（1张或多张）+ 可选文案（手动输入或AI自动生成）",
+  "outputContent": "多张文旅宣传海报（多排版风格）+ 九宫格动态宣传视频（5~10秒）",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/e5c05143074646b7ae70a88b81ec6c2a/3139d832fd31fdb4515bb79d3e7effe11be421b2.png",
+  "resultType": 3,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=966ba28736114660ace3dc90e73db716",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/e5c05143074646b7ae70a88b81ec6c2a/6e24e9393bb969d58fff850feb9047b22a6826d7.mp4"
+  ],
+  "hasPublicSkillContent": true
+}

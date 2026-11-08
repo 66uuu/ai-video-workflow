@@ -1,0 +1,37 @@
+{
+  "name": "国漫终极特效生成",
+  "templateUuid": "570e015a420a41ac815db77cee50d69d",
+  "skillUuid": "2d0cb209b2704758aede8d349ac49efd",
+  "skillKey": "donghua-vfx-styler-baf2e419ce1cb06812314957efd2e067",
+  "version": "1.0.0",
+  "namespace": "libtv-user-generated",
+  "description": "快速为你的角色添加炫酷特效",
+  "author": "Mango",
+  "ownerId": 15034,
+  "tags": [
+    "动漫游戏"
+  ],
+  "likeCount": 127,
+  "usePv": 188,
+  "useUv": 96,
+  "publishAt": "2026-07-16 11:46:41",
+  "snapshotId": 27630,
+  "useScenario": "国漫玄幻竖版 / 横版动画短片创作、武侠玄幻打斗片段制作、功法特效镜头素材生成、短视频国漫特效剪辑、国风玄幻剧情预告片制作，适配中式玄幻世界观，主打华丽炫酷国漫粒子光效打斗画面。",
+  "inputType": "输入玄幻故事剧情、角色设定、功法招式名称、画幅规格、特效风格偏好、时长要求，可额外指定国风色调、特效类型（剑气 / 法阵 / 流",
+  "outputContent": "炫酷的国风特效国漫短片、国漫打斗分镜脚本、中式玄幻粒子光效 AI 特效 prompt、镜头运镜指引与剪辑文案，全程保持高质量国漫影视动画质感。",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/baf2e419ce1cb06812314957efd2e067/78ec903b43260aeaa1bf7b967bf0c0b6541497ad.png",
+  "resultType": 3,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=570e015a420a41ac815db77cee50d69d",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/baf2e419ce1cb06812314957efd2e067/6097dc0881824981d1ee633eb65972b249059781.mp4",
+    "https://www.liblib.tv/canvas/share?spaceId=2892086&projectId=d7a466dc12de435c9d41add633548f06",
+    "https://libtv-res.liblib.art/upload-images/baf2e419ce1cb06812314957efd2e067/a9c801367b21bc51d8c517a0dc100ac023b00d10.mp4",
+    "https://libtv-res.liblib.art/upload-images/baf2e419ce1cb06812314957efd2e067/24283e2e45fab89e7fd78983c19a1c80c52a1fcb.mp4"
+  ],
+  "hasPublicSkillContent": true
+}

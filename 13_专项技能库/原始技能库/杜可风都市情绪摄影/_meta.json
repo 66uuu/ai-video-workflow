@@ -1,0 +1,32 @@
+{
+  "name": "杜可风都市情绪摄影",
+  "templateUuid": "67ace747e33e47f6b54b899f8b364c98",
+  "skillUuid": "3212dbf1b48c42c580d969e39dff1a0b",
+  "skillKey": "urban-mood-cinematography-fc90127e45224b3dbc353ef70178b69b",
+  "version": "1.0.0",
+  "namespace": "libtv-user-generated",
+  "description": "用主观机位、手持节奏、广角近距和城市色彩，把空间拍成人物情绪",
+  "author": "小葵小丹",
+  "ownerId": 596837,
+  "tags": [],
+  "likeCount": 12,
+  "usePv": 14,
+  "useUv": 8,
+  "publishAt": "2026-07-15 19:26:00",
+  "snapshotId": 27453,
+  "useScenario": "适合都市剧情、夜景广告、MV、时尚片和AI视频，重点解决随机手持、霓虹堆砌、反射身份错误和城市背景与人物情绪脱节。 方法研究｜非官方；不复制具体影片镜头，不使用未经授权的肖像、剧照、标识或文本。",
+  "inputType": "输入人物当下感受、关系距离、城市地点、时间天气、实景光源、音乐节奏和相邻镜头；可附服装、街景与角色参考。",
+  "outputContent": "情绪视点、人物城市距离表、身体化运动语法、混合光与反射地图、剪辑节奏、生成提示词和身份空间质检。",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/fc90127e45224b3dbc353ef70178b69b/ac203e03b599ee5a871269151843a225152a9d3f.png",
+  "resultType": 3,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=67ace747e33e47f6b54b899f8b364c98",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/fc90127e45224b3dbc353ef70178b69b/516ab684eca441d070b8600c46f27197e57b491b.mp4"
+  ],
+  "hasPublicSkillContent": true
+}

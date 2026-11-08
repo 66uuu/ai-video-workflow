@@ -1,0 +1,32 @@
+{
+  "name": "角色四视图生成",
+  "templateUuid": "7b1579cc7ba747928cd6b58fe74546bb",
+  "skillUuid": "daee8547885343b786fda23fde7f3b51",
+  "skillKey": "character-four-view-generator-b16deefadc2a4861bef95675b91f33be",
+  "version": "1.0.7",
+  "namespace": "libtv-user-generated",
+  "description": "输入立绘参考图，生成角色四视图",
+  "author": "千寻",
+  "ownerId": 8861394,
+  "tags": [],
+  "likeCount": 6,
+  "usePv": 30,
+  "useUv": 13,
+  "publishAt": "2026-09-06 14:11:53",
+  "snapshotId": 43828,
+  "useScenario": "需要为原创角色生成标准四视图，用于角色设定、游戏/动漫/插画角色建档等场景",
+  "inputType": "角色全身立绘参考图（任意风格/性别均可）",
+  "outputContent": "包含正面头像特写 + 正面/侧面/背面全身立绘的四视图一张",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/b16deefadc2a4861bef95675b91f33be/ce2694328370fb95b4f4cc0e031770821144c1ab.png",
+  "resultType": 2,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=7b1579cc7ba747928cd6b58fe74546bb",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/b16deefadc2a4861bef95675b91f33be/ce2694328370fb95b4f4cc0e031770821144c1ab.png"
+  ],
+  "hasPublicSkillContent": true
+}

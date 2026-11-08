@@ -1,0 +1,39 @@
+{
+  "name": "北岛口播视觉包装",
+  "templateUuid": "d1cda26caa5946dfad6a752ce4ba227a",
+  "skillUuid": "b58544ea711c4cccb28ab7a0905ab22f",
+  "skillKey": "spoken-video-visual-packaging-45a1d5568b8245c38aee608907a78959",
+  "version": "1.0.0",
+  "namespace": "libtv-user-generated",
+  "description": "提供 1～5 张风格参考图和一份口播稿，生成统一的视频包装。",
+  "author": "北岛travis",
+  "ownerId": 8258415,
+  "tags": [],
+  "likeCount": 24,
+  "usePv": 24,
+  "useUv": 19,
+  "publishAt": "2026-08-04 12:48:42",
+  "snapshotId": 33165,
+  "useScenario": "适用于知识类、自媒体及人物口播视频制作。用户提供少量风格参考图与口播稿后，快速生成统一的背景、标题、章节转场、字幕、信息卡片、插画和动态包装；也适合继续修改已有包装素材。",
+  "inputType": "上传1～5张同一视觉风格的参考图和一份完整口播稿，推荐提供3～5张图片。可选补充字幕时间轴、画面比例、人物位置、品牌颜色和禁用元素。Skill会自动分析风格、拆分章节并生成合适的包装元素。",
+  "outputContent": "输出一套统一的视频视觉包装，包括干净背景、开场标题、章节转场、小标题、字幕及关键词强调、步骤卡、清单卡、对比卡、数据卡、图标插画和短动态片段，并保留可继续编辑的LibTV项目与可下载素材。",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/45a1d5568b8245c38aee608907a78959/65720fe7017a68b5322a660d68c19d75c3b13bdb.png",
+  "resultType": 3,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=d1cda26caa5946dfad6a752ce4ba227a",
+  "files": [
+    "SKILL.md",
+    "references/element-routing.md",
+    "references/input-contract.md",
+    "references/libtv-execution.md",
+    "references/model-policy.md",
+    "references/output-contract.md",
+    "references/quality-control.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/45a1d5568b8245c38aee608907a78959/a923015a15716ee9dbe9813d6de08d3bf97f10bd.mp4",
+    "https://libtv-res.liblib.art/upload-images/45a1d5568b8245c38aee608907a78959/9fcb9a3dc386f908a65d20c33beb1c935951ef13.mp4"
+  ],
+  "hasPublicSkillContent": true
+}

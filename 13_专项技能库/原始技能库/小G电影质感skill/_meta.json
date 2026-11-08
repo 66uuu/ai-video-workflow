@@ -1,0 +1,33 @@
+{
+  "name": "小G电影质感skill",
+  "templateUuid": "6aa8d11ce3d544f38bde1e65d7ef601e",
+  "skillUuid": "15c0f03c41ad46ecbb0c989921ee25d3",
+  "skillKey": "cinematic-visual-generator-c377fd4867b24c2dab84dab8d98b7f6c",
+  "version": "1.0.0",
+  "namespace": "libtv-user-generated",
+  "description": "用简单的描述，绘制电影感画面",
+  "author": "小G0202",
+  "ownerId": 8875708,
+  "tags": [],
+  "likeCount": 24,
+  "usePv": 17,
+  "useUv": 14,
+  "publishAt": "2026-07-18 00:31:07",
+  "snapshotId": 28297,
+  "useScenario": "专注于生成具有克制美学、主次清晰、光影写实的电影剧照。它能够修复画面杂乱、主体不突出、光线虚假、色彩过于艳丽等常见 AI 生图问题，让图像更接近真实摄影效果。",
+  "inputType": "这个 Skill 的最低输入门槛不高。最少提供：\n谁，在什么环境里，处于什么状态或瞬间。\n\n例如：\n一位戴着皇冠的绝美女子看向镜",
+  "outputContent": "电影画面质感的图片",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/c377fd4867b24c2dab84dab8d98b7f6c/78c71c17a6d5714682b4bf5400652653342e1050.jpg",
+  "resultType": 2,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=6aa8d11ce3d544f38bde1e65d7ef601e",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/c377fd4867b24c2dab84dab8d98b7f6c/78c71c17a6d5714682b4bf5400652653342e1050.jpg",
+    "https://www.liblib.tv/canvas/chat-share?shareId=52oZFAvnPw"
+  ],
+  "hasPublicSkillContent": true
+}

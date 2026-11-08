@@ -1,0 +1,32 @@
+{
+  "name": "卢贝兹基长镜头美学",
+  "templateUuid": "96997bb7da1f4078989041e94009a3cb",
+  "skillUuid": "5d1d0d7c7f2945aa88d4509ca14c4c3b",
+  "skillKey": "lubezki-cinematic-long-take-fc90127e45224b3dbc353ef70178b69b",
+  "version": "1.0.0",
+  "namespace": "libtv-user-generated",
+  "description": "用自然光、广角关系和有呼吸的长镜头，把观众带进事件现场。",
+  "author": "小葵小丹",
+  "ownerId": 596837,
+  "tags": [],
+  "likeCount": 5,
+  "usePv": 5,
+  "useUv": 5,
+  "publishAt": "2026-07-15 19:17:01",
+  "snapshotId": 27449,
+  "useScenario": "适合需要真实时间压力、复杂走位、环境参与和沉浸式视点的剧情、广告与AI视频，尤其适合连续镜头路线、曝光过渡和排练风险设计。 方法研究｜非官方；不复制具体影片镜头，不使用未经授权的肖像、剧照、标识或文本。",
+  "inputType": "输入场景节拍、地点平面、人物走位、对白时长、太阳方向和可拍时段；说明目标镜头长度、画幅与可用设备或AI平台。",
+  "outputContent": "长镜头理由、带时间码路线图、自然光时钟、人物与摄影机调度、曝光和对焦交接、备用切口、排练表与生成提示词。",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/fc90127e45224b3dbc353ef70178b69b/adbce166ba397a65c44351668361e79f9029c657.png",
+  "resultType": 3,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=96997bb7da1f4078989041e94009a3cb",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/fc90127e45224b3dbc353ef70178b69b/183161f6bfa97de171392d9c6f0c77bf7b197eac.mp4"
+  ],
+  "hasPublicSkillContent": true
+}

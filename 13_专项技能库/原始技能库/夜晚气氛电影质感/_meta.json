@@ -1,0 +1,32 @@
+{
+  "name": "夜晚气氛电影质感",
+  "templateUuid": "eda1bda8ce8d4bd4925da329a0173892",
+  "skillUuid": "92f860ff8bea464696b98736112559df",
+  "skillKey": "cinematic-night-atmosphere-9394788930814e37b937bc9f3104e45f",
+  "version": "1.0.1",
+  "namespace": "libtv-user-generated",
+  "description": "电影夜晚气氛",
+  "author": "可乐灬不加冰",
+  "ownerId": 87728,
+  "tags": [],
+  "likeCount": 5,
+  "usePv": 1,
+  "useUv": 1,
+  "publishAt": "2026-07-24 21:17:18",
+  "snapshotId": 30509,
+  "useScenario": "电影夜晚气氛",
+  "inputType": "电影夜晚气氛",
+  "outputContent": "电影夜晚气氛",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/9394788930814e37b937bc9f3104e45f/d2a320a1e0780c794664ab612a99def04ef683d2.png",
+  "resultType": 2,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=eda1bda8ce8d4bd4925da329a0173892",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/9394788930814e37b937bc9f3104e45f/f43fdc34b2d34fc6fd306431ce59a77da6cae773.jpg"
+  ],
+  "hasPublicSkillContent": true
+}

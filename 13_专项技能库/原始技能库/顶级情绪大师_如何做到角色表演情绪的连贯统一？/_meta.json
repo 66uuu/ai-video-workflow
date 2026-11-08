@@ -1,0 +1,43 @@
+{
+  "name": "顶级情绪大师|如何做到角色表演情绪的连贯统一？",
+  "templateUuid": "07a340d7dffe45d4885ec9202d86fc6b",
+  "skillUuid": "2f304f9bb3734942bd70d87c419da1d6",
+  "skillKey": "character-emotion-continuity-074be3667ece41bc8993cea11c99240e",
+  "version": "1.0.6",
+  "namespace": "libtv-user-generated",
+  "description": "彻底解决AI制作长剧最大的痛点：文戏角色表演情绪的连贯统一。",
+  "author": "杭州金包银批发总部",
+  "ownerId": 10465270,
+  "tags": [],
+  "likeCount": 13,
+  "usePv": 12,
+  "useUv": 10,
+  "publishAt": "2026-09-22 19:54:01",
+  "snapshotId": 49249,
+  "useScenario": "专治AI短剧“单帧绝美、连起来像精神分裂”。适用于所有需要“长剧集情绪连贯统一”的场景：互动影游、连载短剧、AI电影、多集漫剧。尤其适合双人博弈、带台词文戏、高难度空间反转、极限生理动作、哲学升华等高危镜头。输入完整剧本或分集大纲，自动产出全片情绪锚点ID、过渡帧清单、七层微表情提示词、音画同步指南与哲学升华台词。",
+  "inputType": "用户只需提供：完整剧本、故事大纲或分集梗概，加上主要角色设定。\n\n可选提供：角色参考图（三视图/定妆照）、核心情绪转折点、目标集数或单集时长、特定场景参考图。\n\n无需任何代码基础与人工连线。Skill自动加载父级16个MD、母级4个副文件，并激活【50_03至50_10】全量工业级LOCK指令，自动执行情绪弧线设计、七层微表情拆解、双人同框防崩、带台词音画同步、高难度空间动作审查、镜头透视平滑过渡",
+  "outputContent": "1. 完整互动/剧集情绪弧线图（含所有情绪锚点ID与过渡帧清单）。\n2. 全片情绪连续性施工图（逐秒拆解情绪节奏与微表情）。\n3. 标准七层微表情提示词集（可直接输入给生图/生视频模型）。\n4. 口型同步与音轨匹配剪辑指南（含配音、画面、合成节点）。\n5. 哲学升华与元叙事彩蛋台词。",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/074be3667ece41bc8993cea11c99240e/c427e21eb51f34831d1947f2737a5b480aee1b64.png",
+  "resultType": 3,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=07a340d7dffe45d4885ec9202d86fc6b",
+  "files": [
+    "SKILL.md",
+    "附01_50_03_情绪连续性五层闭环系统.md",
+    "附02_50_04_顶级微表情七层拆解铁律.md",
+    "附03_50_05_双人同框博弈与越轴防崩铁律.md",
+    "附04_50_06_带台词文戏音画同步与口型防崩铁律.md",
+    "附05_50_07_高难度空间动作前置审查与三人同框防崩铁律.md",
+    "附06_50_08_镜头透视平滑过渡与人物重心物理拆解铁律.md",
+    "附07_50_09_极限生理动作物理锁死与防崩死命令铁律.md",
+    "附08_50_10_抽象哲学情感物理外化与反向表演铁律.md",
+    "附09_50_11_视觉光影连续性、空间资产锚定与空镜-B-roll建构铁律.md",
+    "附10_50_12_3-5秒子镜切分与视觉缝合铁律.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/074be3667ece41bc8993cea11c99240e/381c44d6c09ffdbf77b017363bb579e06ba27812.mp4",
+    "https://libtv-res.liblib.art/upload-images/074be3667ece41bc8993cea11c99240e/b0fa74734ae5e760a29430111f41357e08a6a5c5.mp4"
+  ],
+  "hasPublicSkillContent": true
+}

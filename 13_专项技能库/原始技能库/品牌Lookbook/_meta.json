@@ -1,0 +1,33 @@
+{
+  "name": "品牌Lookbook",
+  "templateUuid": "dc412fcce7cc46ddb7fb60423d6c691f",
+  "skillUuid": "ef6922c807fd4f44b1b94f0972b28d6c",
+  "skillKey": "brand-lookbook-designer-839348b666cd48deb16d629db04bf6ab",
+  "version": "1.0.2",
+  "namespace": "libtv-user-generated",
+  "description": "生成合规品牌Lookbook方案、AI模特图、场景图与时尚大",
+  "author": "弥茶子",
+  "ownerId": 934434,
+  "tags": [],
+  "likeCount": 8,
+  "usePv": 32,
+  "useUv": 5,
+  "publishAt": "2026-08-17 10:54:41",
+  "snapshotId": 37647,
+  "useScenario": "适用于服装、鞋履、配饰及生活方式品牌的Lookbook制作全流程。涵盖品牌Lookbook规划、AI模特与场景图提示词生成、参考图复刻审核、构图与姿态物理校验、风格烟雾测试，以及公开发布版的合规打包与分发。",
+  "inputType": "输入品牌DNA信息（品类、受众、色彩、材质、场景、光线等），从A–N十四种方向中选择视觉风格，上传自有产品参考图。系统依次完成风格路由、参考图审核、正负向提示词分离构建、风格测试与四级质量评分（参考保真度/风格保真度/编辑品质/商业品质），通过后输出可发布的Lookbook成片与提示词文件。",
+  "outputContent": "使用该Skill后输出：品牌Lookbook视觉方案、AI模特图与场景图、产品主视觉、参考图复刻审核报告、正负向提示词分离的完整提示词组（含参数卡与质量指纹）、四级质量评分结果，以及经合规审计的可公开发布版Skill压缩包。",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/839348b666cd48deb16d629db04bf6ab/0089a8a7895a04fef172acfbe4df47bbb8b16d9d.png",
+  "resultType": 2,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=dc412fcce7cc46ddb7fb60423d6c691f",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/839348b666cd48deb16d629db04bf6ab/875c4f8d24c0efc91ff257eb896146f218f04dca.png",
+    "https://libtv-res.liblib.art/upload-images/839348b666cd48deb16d629db04bf6ab/75d8711a40d8ab7e7ecc5ef04e2a1ca29c319cb6.png"
+  ],
+  "hasPublicSkillContent": true
+}

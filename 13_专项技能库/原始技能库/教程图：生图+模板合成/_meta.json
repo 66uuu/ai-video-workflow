@@ -1,0 +1,32 @@
+{
+  "name": "教程图：生图+模板合成",
+  "templateUuid": "d886bf832c39479faef544b050373ade",
+  "skillUuid": "820110dc038b453e8c4795c5f8cfbf34",
+  "skillKey": "tutorial-layout-composer-1afc5ed11e21495290ac0162791f19f0",
+  "version": "1.0.8",
+  "namespace": "libtv-user-generated",
+  "description": "生成左右排版教程步骤图",
+  "author": "微信用户f43dd1",
+  "ownerId": 9467190,
+  "tags": [],
+  "likeCount": 3,
+  "usePv": 4,
+  "useUv": 4,
+  "publishAt": "2026-08-25 18:55:02",
+  "snapshotId": 40630,
+  "useScenario": "需要制作产品/功能教程图，包含步骤序号、标题、说明文字和右侧 UI 截图，适合多步骤教程系列图的批量生产",
+  "inputType": "多步骤文案（带序号的标题+描述）、UI 素材描述（可选）、背景色调（可选，默认深紫蓝）",
+  "outputContent": "一张 16:9 横版教程图，左侧渐变大序号+标题+说明，右侧 1:1 UI 截图卡片，含 Step 标签和四角透光渐变背景",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/1afc5ed11e21495290ac0162791f19f0/7874114c14be3db7d0e37a9c533ab6c33c0709b6.png",
+  "resultType": 2,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=d886bf832c39479faef544b050373ade",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/1afc5ed11e21495290ac0162791f19f0/61e781405faf5f05dfbf2b1ac47a4f472372352e.png"
+  ],
+  "hasPublicSkillContent": true
+}

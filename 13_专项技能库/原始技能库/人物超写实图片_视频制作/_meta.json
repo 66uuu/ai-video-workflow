@@ -1,0 +1,33 @@
+{
+  "name": "人物超写实图片/视频制作",
+  "templateUuid": "ec8b494d93e440469b775caa7d713207",
+  "skillUuid": "a6b15ba40c7c44a1977f8134577d0782",
+  "skillKey": "hyper-realistic-character-video-06aa453778924a3d9e7665f25354468f",
+  "version": "1.0.0",
+  "namespace": "libtv-user-generated",
+  "description": "一键直出人物超写实图片和情绪化演技视频",
+  "author": "陈平安77",
+  "ownerId": 1028944,
+  "tags": [],
+  "likeCount": 235,
+  "usePv": 363,
+  "useUv": 147,
+  "publishAt": "2026-07-31 17:21:48",
+  "snapshotId": 32411,
+  "useScenario": "在写实视频和演技展示的时候使用，包括模特宣传和产品都能灵活搭配",
+  "inputType": "用户对人物进行描述如：（东方女性，黑长发）\n视频效果描述如：（委屈落泪，遗憾）",
+  "outputContent": "15s超写实人物情绪",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/06aa453778924a3d9e7665f25354468f/ea6f85a7a17b1672948a6b46c88088e6f43a07b4.png",
+  "resultType": 3,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=ec8b494d93e440469b775caa7d713207",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/06aa453778924a3d9e7665f25354468f/03c0d749e7765615945bf96eb170b9afe07cac0d.mp4",
+    "https://libtv-res.liblib.art/upload-images/06aa453778924a3d9e7665f25354468f/8aee46a47e501c3bbc54d91f028979b8773fa563.mp4"
+  ],
+  "hasPublicSkillContent": true
+}

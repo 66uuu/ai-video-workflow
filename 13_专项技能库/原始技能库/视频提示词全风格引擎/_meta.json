@@ -1,0 +1,33 @@
+{
+  "name": "视频提示词全风格引擎",
+  "templateUuid": "c0abb9a6e5e243519246c845b3b42586",
+  "skillUuid": "0a7d30b794134ca49e19bef6cea384b8",
+  "skillKey": "video-prompt-builder-77686116b044498da29008909e3a123c",
+  "version": "1.0.1",
+  "namespace": "libtv-user-generated",
+  "description": "大白话就能出专业生成视频提示词，覆盖15种风格与主流AI工具",
+  "author": "六岁爱吃大西瓜",
+  "ownerId": 10439684,
+  "tags": [],
+  "likeCount": 16,
+  "usePv": 8,
+  "useUv": 8,
+  "publishAt": "2026-07-19 11:43:24",
+  "snapshotId": 28678,
+  "useScenario": "面向所有 AI 视频创作者。不管是古装漫剧的黄昏对话镜头，\n还是赛博朋克雨夜追逐戏，创作者只需用大白话说出想要的画面，\nSkill 自动分析视觉风格、选定景别与焦段、设计运镜与光线方案，\n并将模糊的情绪描述（\"孤独\"\"紧张\"）转化为 AI 可执行的物理表演指令\n（肩膀微塌、呼吸浅慢、手指搓衣角……）。\n\n零门槛——不需要懂镜头语言。\n全适配——主流 AI 视频工具，各有一套输出模板",
+  "inputType": "输入：直接对 Skill 说大白话描述你想看到的画面。\n例如\"雨天的窗边，一个女孩在发呆\"、\"清晨山里大雾\"。\n必填：画面内容（",
+  "outputContent": "输出：一条可直接复制到可灵/即梦/Runway/Sora/Pika 等AI 视频工具的完整专业提示词。包含：景别、焦段型号、运镜方式、光线方案、主体动作的物理化描述（情绪不写\"悲伤\"而是\"肩膀微塌/视线低垂\"）、环境氛围、色调风格、工具专属负面提示词。拿过来就能用。",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/77686116b044498da29008909e3a123c/1ab9b8915b5287fdae2a14662768a1d9d61540b3.png",
+  "resultType": 2,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=c0abb9a6e5e243519246c845b3b42586",
+  "files": [
+    "SKILL.md",
+    "Video Prompt Pro Skill.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/77686116b044498da29008909e3a123c/8b0cfb6ac784f20276a56500d1cc33be0c834784.jpg"
+  ],
+  "hasPublicSkillContent": true
+}

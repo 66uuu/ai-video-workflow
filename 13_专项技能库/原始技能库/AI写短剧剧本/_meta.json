@@ -1,0 +1,32 @@
+{
+  "name": "AI写短剧剧本",
+  "templateUuid": "0ff2a6a7079043629bb896119b1c6775",
+  "skillUuid": "79e65a2a3a9b46d29bea1e99401df190",
+  "skillKey": "short-drama-scriptwriter-3a3116ffddaf4a00bca52ba208076734",
+  "version": "1.0.0",
+  "namespace": "libtv-user-generated",
+  "description": "只需提供一个想法，AI就可以写出一集2分钟左右的短剧剧本",
+  "author": "千寻AI部落",
+  "ownerId": 10241743,
+  "tags": [],
+  "likeCount": 98,
+  "usePv": 162,
+  "useUv": 109,
+  "publishAt": "2026-07-13 21:11:53",
+  "snapshotId": 26675,
+  "useScenario": "如果你不会写剧本，但心中有一个想法，可以用这个Skill将自己的想法扩展成一集短剧剧本",
+  "inputType": "1、在Agent中添加该Skill\n2、输入一句话的想法或者故事梗概",
+  "outputContent": "2分钟左右的短剧剧本",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/3a3116ffddaf4a00bca52ba208076734/c986c3ad870c4cb53fb2e3ea571dc7deaa085323.png",
+  "resultType": 2,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=0ff2a6a7079043629bb896119b1c6775",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/3a3116ffddaf4a00bca52ba208076734/a6771b9298947558ae7a308620bc4c31a5af1396.png"
+  ],
+  "hasPublicSkillContent": true
+}

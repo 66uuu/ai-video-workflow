@@ -1,0 +1,35 @@
+{
+  "name": "电影视觉终极生成器",
+  "templateUuid": "b1cd250becd84920b0ad5fbb91d83f2b",
+  "skillUuid": "d99776af49964a31ba31f675ccedf661",
+  "skillKey": "cinematic-video-generator-e5c05143074646b7ae70a88b81ec6c2a",
+  "version": "1.0.1",
+  "namespace": "libtv-user-generated",
+  "description": "场景描述→分镜→视频全链路",
+  "author": "星美Fine",
+  "ownerId": 773892,
+  "tags": [],
+  "likeCount": 3,
+  "usePv": 6,
+  "useUv": 4,
+  "publishAt": "2026-09-01 00:39:15",
+  "snapshotId": 42456,
+  "useScenario": "想将场景创意按特定导演/地区/视觉风格，从生图Prompt推进到电影分镜图片和视频短片",
+  "inputType": "导演名/国家地区风格/视觉灵感/场景描述/构图光效色彩指令（可任意组合）",
+  "outputContent": "视觉语法解析卡+英文Prompt+电影视觉图+分镜图片+宫格图+竖版截图+分镜视频+完整短片",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/e5c05143074646b7ae70a88b81ec6c2a/b055e7a1c6df52c3da486cf73ad0391ecba90369.png",
+  "resultType": 2,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=b1cd250becd84920b0ad5fbb91d83f2b",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/e5c05143074646b7ae70a88b81ec6c2a/a824d497443f2f7e2497882e3ea9d8bf2a7c03c2.png",
+    "https://libtv-res.liblib.art/upload-images/e5c05143074646b7ae70a88b81ec6c2a/a34074e79a3a29a66f0e306de77c2609537e60b7.png",
+    "https://libtv-res.liblib.art/upload-images/e5c05143074646b7ae70a88b81ec6c2a/c32e2860c35cd6fcaa369bf459546822d3a29cc6.png",
+    "https://libtv-res.liblib.art/upload-images/e5c05143074646b7ae70a88b81ec6c2a/b055e7a1c6df52c3da486cf73ad0391ecba90369.png"
+  ],
+  "hasPublicSkillContent": true
+}

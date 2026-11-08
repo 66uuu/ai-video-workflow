@@ -1,0 +1,34 @@
+{
+  "name": "404真人娃娃换装",
+  "templateUuid": "c4c038787aff4f1499bb61f64141404c",
+  "skillUuid": "173c7e18e13a46db95fd7506f460cb16",
+  "skillKey": "numeric-identifier-123-4078a729478147e9a393ea6d06cb4598",
+  "version": "1.0.1",
+  "namespace": "libtv-user-generated",
+  "description": "一键式生成真人娃娃换装",
+  "author": "404星球实验室",
+  "ownerId": 2983613,
+  "tags": [],
+  "likeCount": 19,
+  "usePv": 26,
+  "useUv": 17,
+  "publishAt": "2026-08-26 13:25:07",
+  "snapshotId": 40864,
+  "useScenario": "生成全网爆火的ai真人娃娃换装视频",
+  "inputType": "上传三张图，生成AI真人娃娃换装视频",
+  "outputContent": "视频",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/4078a729478147e9a393ea6d06cb4598/6e285efed41faeca98055e8aaea196105ecd938c.png",
+  "resultType": 3,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=c4c038787aff4f1499bb61f64141404c",
+  "files": [
+    "SKILL.md",
+    "换装效果提示词生成_SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/4078a729478147e9a393ea6d06cb4598/529765111e905e0ebd56fcda0931e346b6b7bc2c.mp4",
+    "https://libtv-res.liblib.art/upload-images/4078a729478147e9a393ea6d06cb4598/d6d4deaa3c0db4dbc931e6227185b0feffcb4bea.mp4"
+  ],
+  "hasPublicSkillContent": true
+}

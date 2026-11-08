@@ -1,0 +1,32 @@
+{
+  "name": "上身实拍、固定模特、参考背景姿势",
+  "templateUuid": "c1d0f76b2573458e87b7a340487be919",
+  "skillUuid": "4999c52643f846578d744b3d0aec6604",
+  "skillKey": "upper-body-apparel-tryon-ace1ece8e44b49cab8dd74013cd9d1bb",
+  "version": "1.0.0",
+  "namespace": "libtv-user-generated",
+  "description": "根据真实的产品上身图、模特脸、参考背景及背景中模特姿势",
+  "author": "177****3109",
+  "ownerId": 11232851,
+  "tags": [],
+  "likeCount": 2,
+  "usePv": 2,
+  "useUv": 2,
+  "publishAt": "2026-09-09 11:08:01",
+  "snapshotId": 44564,
+  "useScenario": "根据真实的产品上身图、模特脸、参考背景及背景中模特姿势，来分别控制生成图",
+  "inputType": "用户只上传 真实服装上身图，模特脸，以及参考背景图即可",
+  "outputContent": "预期生成一组 电商服装模特图",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/ace1ece8e44b49cab8dd74013cd9d1bb/4837ca5404bf5875cafc0f2503c3f6bad082ace4.jpg",
+  "resultType": 2,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=c1d0f76b2573458e87b7a340487be919",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/ace1ece8e44b49cab8dd74013cd9d1bb/07de5a85c494eef9e977c90cf4ae009973147a54.jpg"
+  ],
+  "hasPublicSkillContent": true
+}

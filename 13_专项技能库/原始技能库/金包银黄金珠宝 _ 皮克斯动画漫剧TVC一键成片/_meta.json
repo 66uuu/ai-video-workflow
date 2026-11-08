@@ -1,0 +1,36 @@
+{
+  "name": "金包银黄金珠宝 | 皮克斯动画漫剧TVC一键成片",
+  "templateUuid": "1c47e08e1b8b4f7e93521b940c8bab85",
+  "skillUuid": "c53b1a4967d44c40ac716b1bfa11d78c",
+  "skillKey": "jewelry-tvc-generator-074be3667ece41bc8993cea11c99240e",
+  "version": "1.0.9",
+  "namespace": "libtv-user-generated",
+  "description": "用皮克斯3D画风，一键生成能带货的金包银爆款漫剧与TVC！",
+  "author": "杭州金包银批发总部",
+  "ownerId": 10465270,
+  "tags": [],
+  "likeCount": 3,
+  "usePv": 5,
+  "useUv": 4,
+  "publishAt": "2026-09-22 20:03:52",
+  "snapshotId": 49266,
+  "useScenario": "适用于金包银、黄金珠宝批发零售商、实体打金店、黄金回收店、寄卖行、非遗手作商家、国潮品牌。可一键批量产出：高质感漫剧、精品短剧、院线级电影TVC、品牌招商大片、非遗文化宣传片。\n\n依托【顶级大导演思维】底层引擎，不仅拍出高级感，更能用“皮克斯3D质感”直接打造属于品牌的超级IP宇宙。",
+  "inputType": "只需3步，生成你的专属皮克斯爆款短剧：\n\n给故事：输入一句产品卖点或品牌理念（例：“非遗古法金包银手镯，千年匠心，代代相传”）。\n\n选风格：系统已默认加载【顶级大导演思维】底层引擎，自动匹配“皮克斯3D软萌高级动画”画风，并严格执行金包银防崩铁律（防银白色、防塑料感、锁定#D4AF37高级暗金）。\n\n一键生成：点击生成按钮，系统自动产出完整的漫剧/短剧/TVC成片（无AI乱码、无穿模）。",
+  "outputContent": "一部完整的【皮克斯3D动画】漫剧/短剧/TVC成片（MP4格式），全程无AI乱码、无穿模、无崩坏。\n\n附赠全套工业化交付素材包：\n\n完整分镜脚本与顶级导演思维逻辑复盘\n\n专属金包银防崩视觉锚点库\n\n纯物理金属音效及无版权商业背景音乐",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/074be3667ece41bc8993cea11c99240e/3de5e944e587985e7e8d67ebc640be53d66b1b36.png",
+  "resultType": 3,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=1c47e08e1b8b4f7e93521b940c8bab85",
+  "files": [
+    "SKILL.md",
+    "【金包银_材质防崩与视觉语法库_核心禁则.md】.md",
+    "【金包银/_皮克斯动画专属视觉语法库】.md",
+    "【金包银_神话非遗场景_资产锚点库.md】.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/074be3667ece41bc8993cea11c99240e/9c73824f86009cca3aed9eea868071fce3fe6ee6.mp4",
+    "https://libtv-res.liblib.art/upload-images/074be3667ece41bc8993cea11c99240e/860398ac0d588816810b7706978fd9a5e746033c.mp4"
+  ],
+  "hasPublicSkillContent": true
+}

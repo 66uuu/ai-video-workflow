@@ -1,0 +1,33 @@
+{
+  "name": "科幻电影（诺兰写实科幻）",
+  "templateUuid": "bd88f63373d64cd2a077b6093ca8e553",
+  "skillUuid": "bdc134266a0f4120a6d119e6b34acf6b",
+  "skillKey": "nolan-realistic-scifi-creator-1880886b42cc43ddb951847092928422",
+  "version": "1.0.0",
+  "namespace": "libtv-user-generated",
+  "description": "适用于原创科幻微电影创作，诺兰式写实纪实风格。",
+  "author": "TTyears万年",
+  "ownerId": 224634,
+  "tags": [],
+  "likeCount": 113,
+  "usePv": 224,
+  "useUv": 138,
+  "publishAt": "2026-08-31 13:56:56",
+  "snapshotId": 42248,
+  "useScenario": "原创科幻微电影 / 短剧创作，诺兰式写实纪实风格。",
+  "inputType": "输入剧本、简要故事梗概或任何科幻叙事素材",
+  "outputContent": "脚本、角色/场景资产包、音乐/配音、分镜图、分镜视频、视频成片。可生成独立微电影或者短剧。",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/1880886b42cc43ddb951847092928422/7f68853a8dbec251c8c7ab831bf3e739c54fe9b6.png",
+  "resultType": 3,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=bd88f63373d64cd2a077b6093ca8e553",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/1880886b42cc43ddb951847092928422/ed0574a334c3c1b90d96acff787ea2a84e388294.mp4",
+    "https://libtv-res.liblib.art/upload-images/1880886b42cc43ddb951847092928422/9ab4cbe6b7c85136332779dfb4f91e47ebb0b056.mp4"
+  ],
+  "hasPublicSkillContent": true
+}

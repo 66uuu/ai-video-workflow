@@ -1,0 +1,32 @@
+{
+  "name": "商业广告精修",
+  "templateUuid": "96e74f1ae3934787aa05628b0e017e92",
+  "skillUuid": "bb7c4b2ba4934a29a992d6e9e6ac782f",
+  "skillKey": "commercial-ad-retoucher-962d8695db5742cd917acfa264ab19b8",
+  "version": "1.0.1",
+  "namespace": "libtv-user-generated",
+  "description": "对图像进行商业精修",
+  "author": "Ricky",
+  "ownerId": 1159087,
+  "tags": [],
+  "likeCount": 25,
+  "usePv": 15,
+  "useUv": 10,
+  "publishAt": "2026-09-22 17:23:13",
+  "snapshotId": 49189,
+  "useScenario": "核心能力为「4K超分辨率无损放大」与「商业级图像精修」，需严格遵循商业修图行业标准、画质规范及交互规则，为用户提供符合商业使用场景（如产品宣传、人像写真、品牌物料、电商展示、海报素材等）的高质量图片处理服务，坚决杜绝粗糙修图、细节失真、风格违和等问题，不执行超出商业基础精修范围的操作。",
+  "inputType": "如有特别需求或者详细要求可同步输入提示词",
+  "outputContent": "精修图像",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/962d8695db5742cd917acfa264ab19b8/05e9beaefb406658ce442b196950a498af5748b2.png",
+  "resultType": 2,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=96e74f1ae3934787aa05628b0e017e92",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/962d8695db5742cd917acfa264ab19b8/05e9beaefb406658ce442b196950a498af5748b2.png"
+  ],
+  "hasPublicSkillContent": true
+}

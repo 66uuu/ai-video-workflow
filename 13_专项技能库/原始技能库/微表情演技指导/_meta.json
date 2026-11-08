@@ -1,0 +1,33 @@
+{
+  "name": "微表情演技指导",
+  "templateUuid": "9ae90359ef3c4a81b37b1b6d68c0b24d",
+  "skillUuid": "2776202fc52b48ecbfc21cb9acbdd265",
+  "skillKey": "micro-expression-director-c2ca2eb76637452b9d0bf85283bee877",
+  "version": "1.0.0",
+  "namespace": "libtv-user-generated",
+  "description": "让 AI 演出微表情，而不是生成一张会动的表情图",
+  "author": "Dir_Mai",
+  "ownerId": 9088402,
+  "tags": [],
+  "likeCount": 65,
+  "usePv": 61,
+  "useUv": 41,
+  "publishAt": "2026-07-30 12:26:38",
+  "snapshotId": 32020,
+  "useScenario": "需要人物情绪特写、且没有台词可依靠时使用：哭戏、隐忍、崩溃、释然、暗恋、强装镇定、坏消息落地的那一瞬间。尤其适合这种情况——你手上只有一句笼统的情绪描述（\"她很伤心\"），出来的片子眼神发飘、呼吸缺席、整张脸从头到尾一个表情，像一张会动的表情图。本 Skill 会把情绪拆成眼神、呼吸、面部肌肉、生理反应等七层可执行细节，让十秒内的表演有起点、有转折、有一处不完美。",
+  "inputType": "只需说出人物和情绪，例如\"一个中年男人得知消息后强装镇定，10 秒特写\"。如果情绪的落点不清楚（\"生气\"是走向爆发还是压回去），或人物性别年龄未定，会一次性问清，其余按单人／单镜／10 秒／特写自动补齐。也可以直接指定时长、景别、光线倾向，或要求附一份英文标签版本。",
+  "outputContent": "一条 10 秒左右的单人情绪特写视频，以及驱动它的七层表演提示词：情绪状态、眼部表演、呼吸、面部肌肉、生理反应、情绪转折、镜头光线。每一层都用变化动词书写而非静态形容词，并在呼吸层刻意保留一处\"不受控\"的破绽——真实感主要来自这里。提示词可复制、可微调后重跑。",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/c2ca2eb76637452b9d0bf85283bee877/0082235304aaa6bd12cf065ddf1196b334535b99.png",
+  "resultType": 3,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=9ae90359ef3c4a81b37b1b6d68c0b24d",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/c2ca2eb76637452b9d0bf85283bee877/9681ec7d32fb22f466438d30fc488ef95932af36.mp4",
+    "https://libtv-res.liblib.art/upload-images/c2ca2eb76637452b9d0bf85283bee877/9cb6749d5b373bc5b7faff969cf81ac19f99db3e.mp4"
+  ],
+  "hasPublicSkillContent": true
+}

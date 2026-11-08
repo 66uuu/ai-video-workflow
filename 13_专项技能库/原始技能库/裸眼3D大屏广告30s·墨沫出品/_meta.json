@@ -1,0 +1,33 @@
+{
+  "name": "裸眼3D大屏广告30s·墨沫出品",
+  "templateUuid": "5e6f4dbc05824d84aaca321180593f0b",
+  "skillUuid": "ecf89118732e46dd82b3b23fe11e9788",
+  "skillKey": "naked-eye-3d-billboard-eae344d03ae6440cb34c5471de6bb287",
+  "version": "1.0.2",
+  "namespace": "libtv-user-generated",
+  "description": "同款裸眼3D户外大屏广告视频",
+  "author": "墨沫",
+  "ownerId": 277872,
+  "tags": [],
+  "likeCount": 1,
+  "usePv": 4,
+  "useUv": 4,
+  "publishAt": "2026-09-19 19:53:37",
+  "snapshotId": 48105,
+  "useScenario": "用户想为自己的产品制作同款裸眼3D户外大屏广告视频，参考Nike AF1风格，逐步确认场景、道具、分镜后生成成片，分镜关键帧使用 Lib Image 模型生成",
+  "inputType": "产品图（支持多张）、品牌名称或LOGO图片、画幅选择（横版16:9 / 竖版9:16）",
+  "outputContent": "一支30秒裸眼3D户外大屏广告视频成片，包含S01-S09共9个分镜，产品出屏悬浮效果",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/eae344d03ae6440cb34c5471de6bb287/7af7be78506032dfe0dbdb9fad9bc0a5462c2f24.png",
+  "resultType": 3,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=5e6f4dbc05824d84aaca321180593f0b",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/eae344d03ae6440cb34c5471de6bb287/76a76c200705f5a72caf4247c8964385cfbb7119.mp4",
+    "https://libtv-res.liblib.art/upload-images/eae344d03ae6440cb34c5471de6bb287/c8dfbdd0994069b8e4fd6cf90b914e7538c572c0.mp4"
+  ],
+  "hasPublicSkillContent": true
+}

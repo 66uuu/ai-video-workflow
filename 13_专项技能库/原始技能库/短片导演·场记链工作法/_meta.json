@@ -1,0 +1,37 @@
+{
+  "name": "短片导演·场记链工作法",
+  "templateUuid": "64a663d94286442e8386c48a5a474344",
+  "skillUuid": "5f0960cd0543491e8bae09f1213dd7b1",
+  "skillKey": "short-film-continuity-chain-49b8d4c53f424aab8c3835ed011affba",
+  "version": "1.0.1",
+  "namespace": "libtv-user-generated",
+  "description": "专治AI短片穿帮，一句话开拍，一本场记账管到成片级交付。",
+  "author": "书同文Suwin",
+  "ownerId": 5584385,
+  "tags": [],
+  "likeCount": 10,
+  "usePv": 6,
+  "useUv": 3,
+  "publishAt": "2026-07-13 23:16:45",
+  "snapshotId": 26698,
+  "useScenario": "专攻同一角色贯穿多镜头的内容。主场是1-3分钟叙事短片；变身与换装是独门，五种变身语法、进度三态、四层特效，二次元变身、国风换装、商品换新形态都能套用；双人对话与情感短剧，靠对话轴和微表情文字表演，专治正反打越轴、换镜变脸；系列化IP靠连续性卡跨集滚动；品牌片产品贯穿，道具链让产品位置每镜有账可查。也支持续写或修复已有AI视频。单镜头氛围片、无角色风景流不需要场记，建议改用轻量美学类Skill。",
+  "inputType": "发一句话创意或一页剧本即可开拍。之后用指令词逐段推进：说「资产」出全套设定图，「第X段故事板」出逐镜关键帧，「第X段视频」逐拍生",
+  "outputContent": "每个阶段交付可直接使用的成品：全片编号分镜剧本、埋点对照表与连续性卡；资产圣经与逐项生图提示词（定妆、场景、载具道具、文字静帧）；逐镜关键帧与故事画板；带时间码、空间锁定与动作分离的视频提示词，并逐拍生成视频；最终输出成片装配指令与后期清单，含剪辑转场、节奏配乐、中英双语字幕与恢复快照，按成片级标准收官：30秒以上、情节完整、画面有质感。每轮附状态更新，改了什么、什么失效、下一步做什么。",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/49b8d4c53f424aab8c3835ed011affba/0e3edd5014756afb5ce219a7db5ab646dbdc9e5e.png",
+  "resultType": 3,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=64a663d94286442e8386c48a5a474344",
+  "files": [
+    "SKILL.md",
+    "README.md",
+    "references/prompt-templates.md",
+    "references/review-checklists.md",
+    "references/calibration.md",
+    "references/state-machine.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/49b8d4c53f424aab8c3835ed011affba/687a9726f9ce13da9bdefb35e38e99d908320143.mp4"
+  ],
+  "hasPublicSkillContent": true
+}

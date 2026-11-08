@@ -1,0 +1,37 @@
+{
+  "name": "剪纸动画",
+  "templateUuid": "8778f77f712f4fe6acbb22629b6ae18d",
+  "skillUuid": "7975a021d60e4f5797198922e03833dc",
+  "skillKey": "papercut-story-animator-4396cfb40bba430ebaeecf550d895b71",
+  "version": "1.0.0",
+  "namespace": "libtv-user-generated",
+  "description": "把中国寓言 / 成语故事名做成可播放竖屏剪纸动画",
+  "author": "玖月",
+  "ownerId": 3625190,
+  "tags": [],
+  "likeCount": 29,
+  "usePv": 5,
+  "useUv": 5,
+  "publishAt": "2026-07-28 11:05:39",
+  "snapshotId": 31269,
+  "useScenario": "面向需要快速产出中国寓言 / 成语故事竖屏短视频的用户，例如：\n\n家长给孩子做「成语故事」短视频或睡前故事片\n教育 / 国学 / 亲子账号批量生产竖屏素材",
+  "inputType": "用户在已安装该 Skill 的 Agent 对话中，最少只需输入故事名（成语名、寓言名或短指令），例如：\n\n曹冲称象\n做一个孔融让梨\n剪纸故事：守株待兔\n用 paper-collage-fable 做「愚公移山」竖屏剪纸视频\n可选补充（非必须）：\n\n指定白话旁白文本或故事梗概\n修订口令：分镜 3 重画 / 补字幕 / 这两镜改成动态（Seedance）\nAgent 会据此自动完成：建项目 → 5",
+  "outputContent": "交付一条可直接播放、可发短视频的 9:16（1080×1920）竖屏剪纸寓言成片：\n\n主产物：renders/final.mp4（含白话文旁白 + 烧录中文字幕）\n视觉：半色调剪纸拼贴风，片尾纸签落款故事名\n动画：默认本地 Ken Burns 推镜；用户明确要求时可用 Seedance 升级动态纸片\n中间产物（同项目目录）：script.md、storyboard.json、关键帧 PNG、分场",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/4396cfb40bba430ebaeecf550d895b71/e2ac1fb27dd466e1f68dae5aa24d3c07757e2698.png",
+  "resultType": 3,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=8778f77f712f4fe6acbb22629b6ae18d",
+  "files": [
+    "SKILL.md",
+    "examples.md",
+    "README.md",
+    "reference.md",
+    "docs/wechat-article-paper-collage-fable.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/4396cfb40bba430ebaeecf550d895b71/de376a96026915fa5e34c228d963bd960bdd3f0f.mp4",
+    "https://libtv-res.liblib.art/upload-images/4396cfb40bba430ebaeecf550d895b71/aabe31b10d772ecb21c4454586a1d35353b86b9c.mp4"
+  ],
+  "hasPublicSkillContent": true
+}

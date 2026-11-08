@@ -1,0 +1,36 @@
+{
+  "name": "高概念时间悬疑影视创作",
+  "templateUuid": "5186be25d8944d4e99d4ea3e9dd368d5",
+  "skillUuid": "a4dc6092f0684f73b4b70809a9dad547",
+  "skillKey": "high-concept-temporal-mystery-c177c1bc56974d4cbd84535f3e330b46",
+  "version": "1.0.1",
+  "namespace": "libtv-user-generated",
+  "description": "克里斯托弗诺兰导演，风格化skill",
+  "author": "Nano",
+  "ownerId": 378423,
+  "tags": [],
+  "likeCount": 10,
+  "usePv": 28,
+  "useUv": 8,
+  "publishAt": "2026-08-17 21:24:50",
+  "snapshotId": 37895,
+  "useScenario": "诺兰风格影视创作，参考“信条” “盗梦空间”“”星际穿越“”奥德赛“\n包含故事结构、时间逻辑、镜头语言、色彩声音、剧本、分镜及中英画面提示词模块\n将“诺兰风格”转译为原创的高概念、非线性、时间悬疑电影技法\n已通过结构校验及两轮真实题材试跑\n已强化时间悖论检查和长镜头生成片段拆分",
+  "inputType": "我希望创作一部诺兰导演风格的作品，需要脚本、分镜、视觉语言、提示词风格、画面色彩等一切关于影视创作的专业信息",
+  "outputContent": "1.创作一部诺兰导演风格的作品\n2.创作一部时间悖论的科技作品\n3.创作一部硬科技作品\n4.创作一个诺兰视觉风格的作品",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/c177c1bc56974d4cbd84535f3e330b46/38f5714c576de5fa1f9c13c4a5f0a5235727cf7e.png",
+  "resultType": 3,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=5186be25d8944d4e99d4ea3e9dd368d5",
+  "files": [
+    "SKILL.md",
+    "references/prompt-guide.md",
+    "references/story-architecture.md",
+    "references/cinematic-language.md",
+    "references/deliverable-formats.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/c177c1bc56974d4cbd84535f3e330b46/f337ebbf01eef181334862ce30ae722aae0eda65.mp4"
+  ],
+  "hasPublicSkillContent": true
+}

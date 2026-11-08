@@ -1,0 +1,32 @@
+{
+  "name": "添加自然模特",
+  "templateUuid": "e4ddc5dab49c4f0b964d422245e2472f",
+  "skillUuid": "87894c36a44545e6a94cc74d7145a359",
+  "skillKey": "natural-character-prompt-builder-61a0e9f7954f4d719e104bc484462a20",
+  "version": "1.0.3",
+  "namespace": "libtv-user-generated",
+  "description": "精准提示词消除AI感，生成自然人物互动图",
+  "author": "180****3575",
+  "ownerId": 8561646,
+  "tags": [],
+  "likeCount": 28,
+  "usePv": 58,
+  "useUv": 15,
+  "publishAt": "2026-08-28 17:46:02",
+  "snapshotId": 41705,
+  "useScenario": "向已有场景图中添加人物时，需要避免AI生成的机械感、廉价感，想让人物姿态自然、服装真实、情绪真实",
+  "inputType": "一张场景参考图（产品图/空间图/户外场景图）+ 想添加的人物设定（人数、关系、氛围）",
+  "outputContent": "在保留原场景不变的前提下，生成带有自然人物互动的新图，消除AI感",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/61a0e9f7954f4d719e104bc484462a20/ff867c752712840435834ba589c4c986cbde1987.png",
+  "resultType": 2,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=e4ddc5dab49c4f0b964d422245e2472f",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/61a0e9f7954f4d719e104bc484462a20/ff867c752712840435834ba589c4c986cbde1987.png"
+  ],
+  "hasPublicSkillContent": true
+}

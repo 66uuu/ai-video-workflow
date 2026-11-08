@@ -1,0 +1,35 @@
+{
+  "name": "蜘蛛侠之平行宇宙风格",
+  "templateUuid": "ac0a18e48e1c44419226bbd3a96af97d",
+  "skillUuid": "31af0f9d6d5142c6b921d5094ba60a99",
+  "skillKey": "spider-verse-comic-styler-67abe95a9a924ede89ce7cb82e5cbbfd",
+  "version": "1.0.5",
+  "namespace": "libtv-user-generated",
+  "description": "一句话生成美漫 2Dx3D 平行宇宙风格动漫",
+  "author": "RIX",
+  "ownerId": 11102064,
+  "tags": [],
+  "likeCount": 7,
+  "usePv": 9,
+  "useUv": 7,
+  "publishAt": "2026-08-05 14:33:26",
+  "snapshotId": 33551,
+  "useScenario": "用户想创作原创漫画电影风格的宣传片、预告片或短片，需要从角色设计、世界观建立到完整视频成片的全流程创作服务。",
+  "inputType": "故事内容文案（包含时间轴、场景描述、台词）+ 角色参考图 + 风格偏好描述",
+  "outputContent": "1. 角色设定资产（主视觉图、三视图、面具/面孔特写、双重身份对比图）\\n2. 场景设定资产（城市概念图、关键场景锚点）\\n3. 世界观设定文档\\n4. 完整分镜表（含时间轴、视频内容、引用锚点、镜头描述）\\n5. 18张分镜关键帧概念图\\n6. 18个分镜视频片段\\n7. 最终合成成片（无字幕，方便后期配乐配音）",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/67abe95a9a924ede89ce7cb82e5cbbfd/94e6339512dcdb5733f4a4dcad62c2697b23965a.png",
+  "resultType": 3,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=ac0a18e48e1c44419226bbd3a96af97d",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/67abe95a9a924ede89ce7cb82e5cbbfd/44fb4f6b7f24f8874e1f34fced2fffa60f965686.mp4",
+    "https://libtv-res.liblib.art/upload-images/67abe95a9a924ede89ce7cb82e5cbbfd/b73e0ff1a810a0e14269e716982ffd5d671043e6.mp4",
+    "https://libtv-res.liblib.art/upload-images/67abe95a9a924ede89ce7cb82e5cbbfd/f8d5a2cd1093e4fda310e1bd45120e5b449f0a92.mp4",
+    "https://libtv-res.liblib.art/upload-images/67abe95a9a924ede89ce7cb82e5cbbfd/f2d7104875e0939745a432be7e4a96185f6ae71e.mp4"
+  ],
+  "hasPublicSkillContent": true
+}

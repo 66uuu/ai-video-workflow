@@ -1,0 +1,34 @@
+{
+  "name": "AI 视频光影提示词",
+  "templateUuid": "5dca3eeed31d4836949c95cf8d45444b",
+  "skillUuid": "70bae00e6faf49809061d87dc99b2342",
+  "skillKey": "video-lighting-prompt-optimizer-cca409ade58949f1ac4e6dae6d804d3d",
+  "version": "1.0.0",
+  "namespace": "libtv-user-generated",
+  "description": "可用于设计、改写和诊断 AI 视频中的打光、光影质感与多镜头",
+  "author": "AIGC肖学长",
+  "ownerId": 498532,
+  "tags": [],
+  "likeCount": 195,
+  "usePv": 491,
+  "useUv": 145,
+  "publishAt": "2026-08-17 14:23:16",
+  "snapshotId": 37735,
+  "useScenario": "用于设计、优化和诊断 AI 视频或 AI 电影镜头的光影提示词。适合人物近景、对白、夜戏、雨雪场景、古风、赛博朋克、奇幻道具光、产品广告以及多镜头连续场景。\n\n可从零设计窗光、侧光、侧逆光、轮廓光、硬光、月光、烛光、霓虹光、火光等效果，也可修复画面平均发亮、光源缺少来处、主体与背景粘连、暗部死黑、高光过曝、阴影方向混乱、发光范围失真、曝光跳变和多镜头光线不连续等问题。",
+  "inputType": "输入故事梗概、剧本、分镜、场景描述或已有的视频提示词，并说明需要从零设计光影、补充光线模块，还是诊断和修改现有提示词。\n\n建议提供人物或产品的位置与动作、场景时间和天气、室内外环境、镜头数量与时长、景别和机位、画面中的窗户、路灯、烛火、霓虹灯或发光道具，以及希望呈现的情绪和视觉风格。\n\n多镜头场景可以按镜头或时间段提供内容，并注明需要保持一致的光源、色温、亮度和道具状态。信息不足时，Skill 会",
+  "outputContent": "输出可直接粘贴到 AI 视频生成工具中的光影提示词，包括光影意图、环境光、主光、补光、轮廓光或道具光的完整布置。\n\n提示词会明确光源身份、空间位置、颜色、软硬、强弱关系、照射区域、衰减范围和时间变化，并控制暗部细节、高光曝光、阴影方向、材质反射、眼神光、体积光和主体背景分离。\n\n多镜头任务会额外输出光线连续性规则，锁定各镜头中的光源方向、色温、强度、作用半径和闪烁规律，同时给出防止无来源光、过曝、",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/cca409ade58949f1ac4e6dae6d804d3d/6dad3a63e7f3675cb9b8078422bce8a714c82348.png",
+  "resultType": 3,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=5dca3eeed31d4836949c95cf8d45444b",
+  "files": [
+    "SKILL.md",
+    "lighting-presets.md",
+    "prompt-patterns.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/cca409ade58949f1ac4e6dae6d804d3d/7874402842c6eafd22101202361d94fcb28fc941.mp4"
+  ],
+  "hasPublicSkillContent": true
+}

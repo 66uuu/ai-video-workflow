@@ -1,0 +1,36 @@
+{
+  "name": "纸艺动画",
+  "templateUuid": "efcf2778b13144d5bda904bc95e6f118",
+  "skillUuid": "72729fe5126f46f7979ac8cc0275972c",
+  "skillKey": "papercraft-animation-644c9a4326d4412b8cf47850d2bfc61e",
+  "version": "1.0.0",
+  "namespace": "libtv-user-generated",
+  "description": "说出你的想法，AI提示一步一步做出纸艺动画",
+  "author": "张小强",
+  "ownerId": 9735704,
+  "tags": [],
+  "likeCount": null,
+  "usePv": 0,
+  "useUv": 0,
+  "publishAt": "2026-08-13 23:36:04",
+  "snapshotId": 36779,
+  "useScenario": "用户想做“纸艺风格动画”“剪纸动画”“分层卡纸动画”“立体书风格视频”“微缩纸艺剧场”短片。",
+  "inputType": "输入故事主题，会引导你产出故事、角色、场景、道具",
+  "outputContent": "15-30秒的纸艺动画",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/644c9a4326d4412b8cf47850d2bfc61e/b7bd76f1a0b597ca583d4fc138cc7cce91b0db48.png",
+  "resultType": 2,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=efcf2778b13144d5bda904bc95e6f118",
+  "files": [
+    "SKILL.md",
+    "references/examples.md",
+    "references/creative_brief.md",
+    "references/test_cases.md",
+    "references/style_guide.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/644c9a4326d4412b8cf47850d2bfc61e/b7bd76f1a0b597ca583d4fc138cc7cce91b0db48.png"
+  ],
+  "hasPublicSkillContent": true
+}

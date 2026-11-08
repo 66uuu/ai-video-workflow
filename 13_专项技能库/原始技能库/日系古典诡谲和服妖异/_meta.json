@@ -1,0 +1,42 @@
+{
+  "name": "日系古典诡谲和服妖异",
+  "templateUuid": "cefd5ae083bb4423ab36b88a210a71ad",
+  "skillUuid": "a506db16ae2e44c99e353bdb032ab390",
+  "skillKey": "amano-style-kimono-yokai-a73e48dac2d141e39855dde34e21c14f",
+  "version": "1.0.1",
+  "namespace": "libtv-user-generated",
+  "description": "生成天野喜孝风和服妖异角色、分镜与视频成片",
+  "author": "姜姜姜酱",
+  "ownerId": 2345202,
+  "tags": [
+    "动漫游戏"
+  ],
+  "likeCount": 11,
+  "usePv": 6,
+  "useUv": 5,
+  "publishAt": "2026-09-05 15:34:45",
+  "snapshotId": 43643,
+  "useScenario": "适用于音乐 MV、氛围短片、动画 OP/ED 视觉；小说/游戏/国风/二次元项目的角色设定、概念美术、封面与海报；专辑封面、文创视觉、潮玩立绘、卡牌、动态壁纸；以及同人二创、播客/短视频氛围背景等需要清冷妖异、古典东方美学气质的内容生产。",
+  "inputType": "输入角色或主题（如狐妖、源氏古典女性、画皮幽魅），选择画幅（竖版/横版）并说明是否需要视频成片。Skill 会自动输出中英双语生成 prompt、8 列分镜脚本、视频运镜与音乐建议。不指定色板时，会根据子主题自动匹配真实代表作用色。你只需把 prompt 贴到图像/视频生成工具，按分镜顺序生成关键帧即可。",
+  "outputContent": "中英双语图像/视频生成 prompt；8 列分镜脚本（含 motion、音乐、视听同步）；角色/场景/色板/氛围资产锚点；视频生成方法（seed 一致、关键帧、循环、反闪烁）；最终可得到天野流和服妖异风格静态图与动态氛围短片。",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/a73e48dac2d141e39855dde34e21c14f/e2cdc3f0114b061d3e73e9d47e44d7515ce6695d.png",
+  "resultType": 3,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=cefd5ae083bb4423ab36b88a210a71ad",
+  "files": [
+    "SKILL.md",
+    "references/show-cases.md",
+    "references/分镜与prompt模板.md",
+    "references/垂类适配-风格美学.md",
+    "references/情绪曲线与镜头逻辑.md",
+    "references/版权规避.md",
+    "references/视觉语法与色系锚点.md",
+    "references/视频生成方法.md",
+    "references/资产锚点库.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/a73e48dac2d141e39855dde34e21c14f/333165d74757b4ceb5e638dec7627fa7412f305a.mp4"
+  ],
+  "hasPublicSkillContent": true
+}

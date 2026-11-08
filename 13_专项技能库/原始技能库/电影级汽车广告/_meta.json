@@ -1,0 +1,32 @@
+{
+  "name": "电影级汽车广告",
+  "templateUuid": "7e8963b37b9b499284161875fca6fc80",
+  "skillUuid": "ecd955756af842d8b9e1f09269979670",
+  "skillKey": "cinematic-car-commercial-edb884045ef746b2946a8819c3162a73",
+  "version": "1.0.0",
+  "namespace": "libtv-user-generated",
+  "description": "融合城市精英黄金时刻、产品雕塑感与动态驾驶的电影级汽车广告",
+  "author": "微信用户40bbec",
+  "ownerId": 10741750,
+  "tags": [],
+  "likeCount": 5,
+  "usePv": 2,
+  "useUv": 2,
+  "publishAt": "2026-08-11 21:51:53",
+  "snapshotId": 35987,
+  "useScenario": "可用于参考视频风格拆解、广告创意、脚本设计、时间码分镜、AI生图或视频提示运镜设计，剪辑节奏，声音落点，以及将普通汽车广告升为电影级方案。\n示例：“为一辆黑色豪华SUV制作30秒16:9城市广告，突出智能迎宾静谧性和操控感，参考视频的黄金时刻，稳定运镜和先慢后快的节奏，但不要直接复制镜头”",
+  "inputType": "输入车型、颜色、广告时长、画幅和核心卖点，并可补充目标受众、品牌、关键词、人物设定、场景、现有素材、参考视频和生成平台\n示例：“为一辆黑色豪华SUV制作30秒16:9城市广告，突出智能迎宾静谧性和操控感，参考视频的黄金时刻，稳定运镜和先慢后快的节奏，但不要直接复制镜头”",
+  "outputContent": "输出一套可直接进入制作的汽车广告方案，包括创意定位、参考片风格拆解、时间码分镜表、镜别与焦段、逐镜运镜、灯光色彩、剪辑专场、声音落点、AI生成提示词、车型连续性要求和全局负面提示词",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/edb884045ef746b2946a8819c3162a73/112fff9238f0bc7d8626e3510f6decfb4adbdb1a.jpg",
+  "resultType": 3,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=7e8963b37b9b499284161875fca6fc80",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/edb884045ef746b2946a8819c3162a73/7201efc3928d14cf5b6f83ab67cce3eb8341611e.mov"
+  ],
+  "hasPublicSkillContent": true
+}

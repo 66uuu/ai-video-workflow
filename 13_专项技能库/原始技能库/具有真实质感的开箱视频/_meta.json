@@ -1,0 +1,32 @@
+{
+  "name": "具有真实质感的开箱视频",
+  "templateUuid": "f54e7dc333cb41078ad47115ae5e2ca4",
+  "skillUuid": "5b0510fada5d4c99b5adcf4c33835c03",
+  "skillKey": "realistic-unboxing-video-ef77fa37cc044640a7aadddfe3022cb9",
+  "version": "1.0.4",
+  "namespace": "libtv-user-generated",
+  "description": "生成真实统一、有礼赠美感的礼盒开箱视频",
+  "author": "视觉新青年",
+  "ownerId": 4364112,
+  "tags": [],
+  "likeCount": 15,
+  "usePv": 4,
+  "useUv": 4,
+  "publishAt": "2026-07-14 16:52:30",
+  "snapshotId": 26961,
+  "useScenario": "适用于礼盒类产品的展示与开箱视频生成，包括食品礼盒、节庆礼盒、提货礼盒、茶礼盒、伴手礼和品牌礼赠产品。根据产品图、包装图、卡券图和参考风格，生成结构清晰、质感稳定、产品一致性强的礼盒开箱视频。",
+  "inputType": "上传礼盒主包装图、打开后的内页或内容物图、卡券图及风格参考图，输入时长、比例、想强调的卖点和禁止修改项。Skill会自动完成礼盒",
+  "outputContent": "输出一个完整的礼盒开箱视频，并附带镜头结构、重点展示内容、礼盒一致性检查和质感展示结果。",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/ef77fa37cc044640a7aadddfe3022cb9/34711b3e7498b4cf4b6d631fde1bdf16acdc564e.png",
+  "resultType": 3,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=f54e7dc333cb41078ad47115ae5e2ca4",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/ef77fa37cc044640a7aadddfe3022cb9/7cd22f92f6e23c4923a507642727ec5dcb64df90.mp4"
+  ],
+  "hasPublicSkillContent": true
+}

@@ -1,0 +1,32 @@
+{
+  "name": "服装展示",
+  "templateUuid": "0eac5cb0c194436b9dee32e6ec109460",
+  "skillUuid": "7ca998538e0d41838b304c0d557024ec",
+  "skillKey": "apparel-showcase-eedeeee612ae456c8bab06c2605e7a53",
+  "version": "1.0.0",
+  "namespace": "libtv-user-generated",
+  "description": "服装展示",
+  "author": "哎",
+  "ownerId": 7904280,
+  "tags": [],
+  "likeCount": 5,
+  "usePv": 13,
+  "useUv": 6,
+  "publishAt": "2026-08-27 17:52:46",
+  "snapshotId": 41390,
+  "useScenario": "服装展示",
+  "inputType": "服装展示",
+  "outputContent": "服装展示",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/eedeeee612ae456c8bab06c2605e7a53/8531ee7fd21ef726d45bbf91792337f3d8747533.png",
+  "resultType": 3,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=0eac5cb0c194436b9dee32e6ec109460",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/eedeeee612ae456c8bab06c2605e7a53/e7387c49de47c79f3e2aa0402d7835c61924b865.mp4"
+  ],
+  "hasPublicSkillContent": true
+}

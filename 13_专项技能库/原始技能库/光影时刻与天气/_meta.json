@@ -1,0 +1,40 @@
+{
+  "name": "光影时刻与天气",
+  "templateUuid": "8c9e47e6e5a44454a9e12f6f07303207",
+  "skillUuid": "1226bfaa07b74ebabb9881fdc936dba3",
+  "skillKey": "lighting-weather-conditions-ef40fcd188c64418aa1c460553cc87b0",
+  "version": "1.0.0",
+  "namespace": "libtv-user-generated",
+  "description": "日出/日落/黄金时刻/蓝调时刻…以及晴/雨/雪/雾/阴天",
+  "author": "不若闻",
+  "ownerId": 8496364,
+  "tags": [
+    "专业影视"
+  ],
+  "likeCount": 81,
+  "usePv": 62,
+  "useUv": 45,
+  "publishAt": "2026-08-05 00:05:36",
+  "snapshotId": 33400,
+  "useScenario": "当你想改变一个场景的太阳位置和天气时使用。它可以让场景变化一天中六大时刻的光影效果，以及不同的天气情况，并且可以组合使用。Skill先判断图片元素，会推荐时刻与天气组合的功能，并且人造光源元素会在天暗时自动开启。\n六大时刻：日出/白天/日落/黄金时刻/蓝调时刻/夜晚\n五大天气：晴天/阴天/雨天/雾天/雪天，其中雨/雪/雾再次细分大中小",
+  "inputType": "调取即可使用，无需输入任何文字。之后根据Agent的推荐和判断，自行选择就好。",
+  "outputContent": "输出类型：图片（场景），以下任一种，或者两种任意组合。\n六大时刻：日出/白天/日落/黄金时刻/蓝调时刻/夜晚\n五大天气：晴天/阴天/雨天/雾天/雪天",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/ef40fcd188c64418aa1c460553cc87b0/a6b8adaa015cdc56b826a7e8f92320e9982e13d3.png",
+  "resultType": 2,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=8c9e47e6e5a44454a9e12f6f07303207",
+  "files": [
+    "SKILL.md",
+    "references/finish-and-qa.md",
+    "references/indoor-light.md",
+    "references/tod-weather.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/ef40fcd188c64418aa1c460553cc87b0/4c1ede252168037608cc02948857b58d1a389afa.png",
+    "https://libtv-res.liblib.art/upload-images/ef40fcd188c64418aa1c460553cc87b0/74f8a5a8a62f85eae7bcaa74cc11f4872100c47c.png",
+    "https://libtv-res.liblib.art/upload-images/ef40fcd188c64418aa1c460553cc87b0/d0e0def78e292a98936a5ad00c902c210b553cc8.png",
+    "https://libtv-res.liblib.art/upload-images/ef40fcd188c64418aa1c460553cc87b0/998961b988fc7b0475919ebd2692dbab596dc38f.png"
+  ],
+  "hasPublicSkillContent": true
+}

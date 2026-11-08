@@ -1,0 +1,32 @@
+{
+  "name": "音乐MV创作工作流-墨沫",
+  "templateUuid": "4aa01837b9504a6e9996b7d10a31bbb1",
+  "skillUuid": "5288a00a8a3a47c39682e9bc030a78b5",
+  "skillKey": "music-video-workflow-eae344d03ae6440cb34c5471de6bb287-5288a00a",
+  "version": "1.0.1",
+  "namespace": "libtv-user-generated",
+  "description": "一键上传音乐，快速产出完整MV！",
+  "author": "墨沫",
+  "ownerId": 277872,
+  "tags": [],
+  "likeCount": 29,
+  "usePv": 44,
+  "useUv": 34,
+  "publishAt": "2026-07-19 20:30:00",
+  "snapshotId": 28820,
+  "useScenario": "用户上传一首歌曲（MP3等音频），希望为其制作完整的音乐MV视频，包含人物形象设计、场景风格规划、逐句分镜制作与最终视频合成。",
+  "inputType": "上传歌曲音频节点，Skill 会自动解析歌词与情感基调，依次引导用户确认主角形象、视觉风格、场景设计，经确认后自动规划分镜并生成",
+  "outputContent": "完整MV成片视频节点（与歌曲时长匹配），附带锚点清单文件、分镜表文件及任务进度记录，可随时二次创作或替换单个分镜。",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/eae344d03ae6440cb34c5471de6bb287/b68696429709493f228962d54b06af83906004e3.png",
+  "resultType": 2,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=4aa01837b9504a6e9996b7d10a31bbb1",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/eae344d03ae6440cb34c5471de6bb287/b68696429709493f228962d54b06af83906004e3.png"
+  ],
+  "hasPublicSkillContent": true
+}

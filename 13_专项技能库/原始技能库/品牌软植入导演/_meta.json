@@ -1,0 +1,32 @@
+{
+  "name": "品牌软植入导演",
+  "templateUuid": "86731b165a284b2f943d2e0d3144fd8c",
+  "skillUuid": "9a67c286c794487dab72244735252f55",
+  "skillKey": "brand-placement-planner-543ad0bae18343b48db76c5557982212",
+  "version": "1.0.0",
+  "namespace": "libtv-user-generated",
+  "description": "为每集短剧/视频生成不打断叙事的品牌软植入方案",
+  "author": "白昼导演",
+  "ownerId": 9772334,
+  "tags": [],
+  "likeCount": 8,
+  "usePv": 0,
+  "useUv": 0,
+  "publishAt": "2026-07-22 17:41:10",
+  "snapshotId": 29860,
+  "useScenario": "短剧/广告/品牌视频创作中，需要在多集内容中持续植入品牌元素。适用于：抖音短剧品牌合作、系列广告片的品牌贯穿、IP内容中的产品软植入。要求品牌出现自然、不打断叙事、观众潜意识感知但不反感。",
+  "inputType": "输入：本集剧本/分镜脚本、场景类型（打斗/文戏/黑客/街景/日常）、品牌标志性视觉元素（配色/形状/字体风格/质感偏好）、已用策略记录（避免重复）。自动匹配10种植入策略之一，输出精确到帧的植入方案。",
+  "outputContent": "植入策略选择+精确画面描述+LibTV节点创建命令（含prompt/参数/参考图链接）+植入追踪表更新。植入时长≤3秒，品牌元素以世界构建的方式融入场景，观众潜意识感知但不打断叙事。",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/543ad0bae18343b48db76c5557982212/f6ecbe00eb28dcc9d3b343475571a4eaa243527a.png",
+  "resultType": 3,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=86731b165a284b2f943d2e0d3144fd8c",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/543ad0bae18343b48db76c5557982212/f9b23a519a705dedf80811907ee1edcd21d3b2c9.mp4"
+  ],
+  "hasPublicSkillContent": true
+}

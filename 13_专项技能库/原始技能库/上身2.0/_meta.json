@@ -1,0 +1,32 @@
+{
+  "name": "上身2.0",
+  "templateUuid": "62ed611a7a4b4741b4994c706b125858",
+  "skillUuid": "0b83115ea80142768da953c188e0e144",
+  "skillKey": "virtual-try-on-fc5320b9356041d194d957403db3d079",
+  "version": "1.0.0",
+  "namespace": "libtv-user-generated",
+  "description": "上身2.0",
+  "author": "新",
+  "ownerId": 1227923,
+  "tags": [],
+  "likeCount": 2,
+  "usePv": 1,
+  "useUv": 1,
+  "publishAt": "2026-09-09 16:47:09",
+  "snapshotId": 44680,
+  "useScenario": "上身2.0",
+  "inputType": "上身2.0",
+  "outputContent": "上身2.0",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/fc5320b9356041d194d957403db3d079/e0f98f83733dea2383795bad1417bf27c07f317d.jpg",
+  "resultType": 2,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=62ed611a7a4b4741b4994c706b125858",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/fc5320b9356041d194d957403db3d079/e6d14c627e1de0d7ce17c3b15f299e433a21aef1.jpg"
+  ],
+  "hasPublicSkillContent": true
+}

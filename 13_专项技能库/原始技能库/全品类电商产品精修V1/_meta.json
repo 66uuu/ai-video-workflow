@@ -1,0 +1,40 @@
+{
+  "name": "全品类电商产品精修V1",
+  "templateUuid": "d51b345b85f64409b2856dd95a10f614",
+  "skillUuid": "470828bdf4304c0bb4b<手机号-已脱敏>c1",
+  "skillKey": "ecommerce-product-retoucher-a0910971403d4abda357b70edc1277ec",
+  "version": "1.0.4",
+  "namespace": "libtv-user-generated",
+  "description": "上传一张随手拍摄产品图，生成8张多角度白底精修图",
+  "author": "陌上花开",
+  "ownerId": 2968134,
+  "tags": [],
+  "likeCount": 24,
+  "usePv": 22,
+  "useUv": 16,
+  "publishAt": "2026-08-12 16:00:52",
+  "snapshotId": 36242,
+  "useScenario": "需要生成电商主图详情使用的白底产品图",
+  "inputType": "①附件1是产品实拍图。执行原角度精修：\n保持机位、朝向、瓶型、标签文字和LOGO不变；\n去除脏污和背景杂色，修整边缘、曝光和材质；\n输出1:1纯白底SKU图。\n②附件1是瓶子白模，附件2是标签展开原稿。\n执行白模标签贴模，以附件1确定结构，以附件2确定全部包装内容。\n标签需要随圆柱曲面自然包裹，禁止改字、改LOGO或重新排版。\n输出V01标准正视白底图。",
+  "outputContent": "编辑完成的高质量产品单图，8个角度",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/a0910971403d4abda357b70edc1277ec/0deb21b51bc5af834c104b611e9e096b0416d890.png",
+  "resultType": 2,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=d51b345b85f64409b2856dd95a10f614",
+  "files": [
+    "SKILL.md",
+    "references/input-and-mode-routing.md",
+    "references/material-library.md",
+    "references/prompt-recipes.md",
+    "references/quality-gate.md",
+    "references/view-specifications.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/a0910971403d4abda357b70edc1277ec/6c4d133c95a76063ce25cd3919e89b6de0c7e6e3.png",
+    "https://libtv-res.liblib.art/upload-images/a0910971403d4abda357b70edc1277ec/faeb605ab90134f3635df4bdff9a3d11116de37c.png",
+    "https://libtv-res.liblib.art/upload-images/a0910971403d4abda357b70edc1277ec/032e3c03bcf24493e29bb999de6045bfe5ed904b.png",
+    "https://libtv-res.liblib.art/upload-images/a0910971403d4abda357b70edc1277ec/beed229e954a8cffdea927267b75c83b06e3cf01.png"
+  ],
+  "hasPublicSkillContent": true
+}

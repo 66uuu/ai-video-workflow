@@ -1,0 +1,32 @@
+{
+  "name": "短剧全角色视觉生成器2",
+  "templateUuid": "4d689f5ba000478e91facbc1df8e3c60",
+  "skillUuid": "fdc004c271c04878b0b4cd50580437cb",
+  "skillKey": "short-drama-character-designer-8d012fbe5b224c7bab64318012900756",
+  "version": "1.0.2",
+  "namespace": "libtv-user-generated",
+  "description": "输入短剧剧本，为每个角色生成专业完整的全身角色设计",
+  "author": "蛋白",
+  "ownerId": 10721429,
+  "tags": [],
+  "likeCount": 5,
+  "usePv": 4,
+  "useUv": 4,
+  "publishAt": "2026-09-14 09:49:10",
+  "snapshotId": 46027,
+  "useScenario": "适用于短剧项目的角色视觉开发和 AI 生图前期设定。\n\n主要使用场景包括：\n\n1. 输入短剧剧本，自动提取所有出场角色。\n2. 为每个角色生成完整的定妆照提示词。\n3. 批量生成主角、配角、反派、长辈、职业角色等人物设定。\n4. 用于短剧立项阶段的人物视觉方案。\n5. 用于 AI 绘图工具生成统一风格的角色全身图。\n6. 用于导演、编剧、制片、美术、服化道团队沟通角色形象。",
+  "inputType": "请直接输入短剧剧本正文，或粘贴包含角色、场景、台词、动作描写的剧本文本。\n\n你可以这样使用：\n\n示例 1：\n请根据以下短剧剧本，提取所有出场角色，并为每个角色生成完整角色视觉设定和 AI 生图提示词：\n【粘贴剧本】\n\n示例 2：\n这是我的短剧第一集剧本，请帮我生成所有出现角色的全身三视图和面部特写提示词：\n【粘贴剧本】",
+  "outputContent": "角色名称、 剧中身份、戏剧功能、年龄、性别、人物关系、性格关键词、视觉关键词、风格定调、妆容、发型、服装、鞋履、配饰、色彩光影、 氛围、细节、画质要求、固定构图要求\n如剧本信息不足，Skill 会自动根据短剧类型和人物身份进行合理推断，并标注“根据剧情推断”。",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/8d012fbe5b224c7bab64318012900756/eae94af81dccd53a8ac5eb5e513b75ee8dda8dcb.png",
+  "resultType": 2,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=4d689f5ba000478e91facbc1df8e3c60",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/8d012fbe5b224c7bab64318012900756/fda177a6286ad3524cf5fcd5da3a8f2265f544cc.png"
+  ],
+  "hasPublicSkillContent": true
+}

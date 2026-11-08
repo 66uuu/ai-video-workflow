@@ -1,0 +1,32 @@
+{
+  "name": "云宫迅音-宏伟中式场景",
+  "templateUuid": "6668e5745f2d4963afaa7e459efde086",
+  "skillUuid": "18be0e19b13a450399fc30eed6a511c8",
+  "skillKey": "xianxia-scene-architect-e5c05143074646b7ae70a88b81ec6c2a",
+  "version": "1.0.1",
+  "namespace": "libtv-user-generated",
+  "description": "输入一句话中式仙侠场景描述，自动生成10张场景图",
+  "author": "星美Fine",
+  "ownerId": 773892,
+  "tags": [],
+  "likeCount": 5,
+  "usePv": 14,
+  "useUv": 11,
+  "publishAt": "2026-08-13 23:07:21",
+  "snapshotId": 36769,
+  "useScenario": "用户提供一句话场景描述（如\"悬浮在云海上的白玉仙宫\"），系统自动完成：1）将16条规矩映射到场景；2）生成完整主提示词；3）输出2条对照版（各改一个变量）；4）输出16条验收清单；5）可批量生成10张图片。",
+  "inputType": "直接输入天宫主题",
+  "outputContent": "生成10个不同场景(全部遵循16条规矩,16:9竖版):\n1. 崖边古松旁的修行草庐\n2. 云中巨鼎,四周飞瀑环绕\n3. 万丈悬崖上的剑阁,云海翻涌\n4. 深山幽谷中的石桥古寺,晨雾弥漫\n5. 月下孤峰顶的观星台\n6. 瀑布深处的水晶洞府入口\n7. 云端横跨两峰的廊桥仙道\n8. 雪山之巅的金顶神殿\n9. 古木参天的森林祭坛,神光下照\n10. 星河倒映的湖心浮岛仙阁",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/e5c05143074646b7ae70a88b81ec6c2a/dac66e1007a16225bb31feec2f830b7cf8633e4e.png",
+  "resultType": 2,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=6668e5745f2d4963afaa7e459efde086",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/e5c05143074646b7ae70a88b81ec6c2a/dac66e1007a16225bb31feec2f830b7cf8633e4e.png"
+  ],
+  "hasPublicSkillContent": true
+}

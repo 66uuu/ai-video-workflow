@@ -1,0 +1,32 @@
+{
+  "name": "爱死机式节奏｜商业类型短片编剧",
+  "templateUuid": "5c0e38e28d964161899c87ff2ca04981",
+  "skillUuid": "f9b6373fbdaa4fb6ac7f608abdf564ea",
+  "skillKey": "high-paced-commercial-screenwriter-8f6330b7bf6e40efa3db4b71af692a76",
+  "version": "1.0.0",
+  "namespace": "libtv-user-generated",
+  "description": "爱死机式强节奏，打造多轮冲突与有力反转的商业短片剧本。",
+  "author": "乐观青年",
+  "ownerId": 7833926,
+  "tags": [],
+  "likeCount": 2,
+  "usePv": 4,
+  "useUv": 2,
+  "publishAt": "2026-09-17 15:01:41",
+  "snapshotId": 47237,
+  "useScenario": "适合短片导演、编剧及AI影像创作者，将零碎灵感发展为强节奏的商业类型故事。重点解决开场拖沓、动机模糊、中段平淡、冲突重复、反转生硬等问题。借鉴《爱死机》快速建立情境、多轮危机升级、数次小高潮和简短收尾的叙事方式，不限定科幻题材，不复刻具体作品。",
+  "inputType": "输入一个画面、一段情节、一个设定或已有剧本，并说明目标片长、题材、必须保留的内容及制作限制。可直接提出：“将这个想法发展为6分钟、具有爱死机式节奏的商业短片，先判断结构缺少什么，再逐步完善。”Skill会依次明确动机、设计冲突升级与结尾、分配时长并撰写剧本，每轮简要自检已确定、待补足和下一步。",
+  "outputContent": "按需输出故事方向、一句话梗概、带预计时长的节奏表、分场大纲和完整剧本；重点设计人物目标、多轮冲突、小高潮、伏笔与最终兑现。结尾既可通过强烈对抗，也可通过身份揭示或认知颠覆形成冲击。同时提供节奏、逻辑、台词及制作可行性的诊断与修改。产物为文字方案和剧本，不直接生成视频。",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/8f6330b7bf6e40efa3db4b71af692a76/37fc27bde8438d2f8be227bd08da9c4706fbdbfb.png",
+  "resultType": 3,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=5c0e38e28d964161899c87ff2ca04981",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/8f6330b7bf6e40efa3db4b71af692a76/539f52c68b811eedb1ff5ca9f4318d20d0af42e4.mp4"
+  ],
+  "hasPublicSkillContent": true
+}

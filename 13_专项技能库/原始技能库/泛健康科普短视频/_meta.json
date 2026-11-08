@@ -1,0 +1,32 @@
+{
+  "name": "泛健康科普短视频",
+  "templateUuid": "117cc62fe0b041f7aae6b6882e7e34f6",
+  "skillUuid": "f7d7bcd648a248a08120163914912eb0",
+  "skillKey": "material-to-spoken-video-07503670b28f41f0b93f50e488769880",
+  "version": "1.0.9",
+  "namespace": "libtv-user-generated",
+  "description": "素材一键生成口播短视频全链路",
+  "author": "189****4927",
+  "ownerId": 10553998,
+  "tags": [],
+  "likeCount": 1,
+  "usePv": 8,
+  "useUv": 6,
+  "publishAt": "2026-09-20 17:13:36",
+  "snapshotId": 48475,
+  "useScenario": "有现成文字素材（文章、资讯、产品文案等），需要将其转化为口播短视频的完整制作链路时使用",
+  "inputType": "原始文字材料、口播稿字数范围、总时长、分镜画面风格",
+  "outputContent": "口播稿、分镜脚本、每镜定帧画面、每镜独立视频片段，均落在画布节点上",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/07503670b28f41f0b93f50e488769880/7ea0e3edbdb490b4f82daa2f930dbeb98bc4a004.png",
+  "resultType": 3,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=117cc62fe0b041f7aae6b6882e7e34f6",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/07503670b28f41f0b93f50e488769880/94becb774cf1e9c18e0a5162fcb19eca2c490f55.mp4"
+  ],
+  "hasPublicSkillContent": true
+}

@@ -1,0 +1,32 @@
+{
+  "name": "影视巨兽 CG",
+  "templateUuid": "6a7bfbdfc9a54f2ebb447497e75769c9",
+  "skillUuid": "6a7cfd528f45436199e61b2359ba446e",
+  "skillKey": "fantasy-beast-storyboard-ef8bf0c876d7450594a48ed754e7e44b",
+  "version": "1.0.2",
+  "namespace": "libtv-user-generated",
+  "description": "按固定规范格式输出玄幻巨兽主题的视频分镜脚本，统一参数结构，",
+  "author": "破尘",
+  "ownerId": 280756,
+  "tags": [],
+  "likeCount": 42,
+  "usePv": 31,
+  "useUv": 25,
+  "publishAt": "2026-07-14 21:29:34",
+  "snapshotId": 27072,
+  "useScenario": "适用于东方玄幻、上古巨兽主题的 AI 短视频脚本创作，涵盖神龙、异兽、邪祟等玄幻生物的出场、穿梭、威压展示类镜头，适配短视频平台 9:16 竖屏内容制作，可直接对接 AI 视频生成工具，提升提示词精准度与成片合格率。",
+  "inputType": "向该 Skill 输入巨兽主题、核心画面创意与目标时长，可补充运镜要求、特殊约束规则、参考画风标识、音效需求等信息，即可自动输出",
+  "outputContent": "一份格式固定、参数完备的玄幻巨兽主题 AI 视频生成脚本，包含时长、景别、运镜、视频画面描述、站位与朝向、硬性约束、禁止项、画风锁定、音效、台词旁白十大核心模块，可直接作为提示词输入 AI 视频生成工具使用。",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/ef8bf0c876d7450594a48ed754e7e44b/f4a13055d0e47d87362efb50f9eae4e30c2b0543.png",
+  "resultType": 3,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=6a7bfbdfc9a54f2ebb447497e75769c9",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/ef8bf0c876d7450594a48ed754e7e44b/ef7ad810a46732840ed1b2ef264f9cdefcc86ed5.mp4"
+  ],
+  "hasPublicSkillContent": true
+}

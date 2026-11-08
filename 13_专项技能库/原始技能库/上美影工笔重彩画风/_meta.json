@@ -1,0 +1,35 @@
+{
+  "name": "上美影工笔重彩画风",
+  "templateUuid": "472b9891b7e8410792b8aaf79ec3e4d6",
+  "skillUuid": "82b2f1f115b7478f9383c4f94974fe64",
+  "skillKey": "shanghai-animation-heavy-color-style-de0671ef0b894bdaa78506d5c1a46c65",
+  "version": "1.0.8",
+  "namespace": "libtv-user-generated",
+  "description": "中国传统工笔重彩动画风格",
+  "author": "weiibooo",
+  "ownerId": 111207,
+  "tags": [
+    "动漫游戏"
+  ],
+  "likeCount": 110,
+  "usePv": 171,
+  "useUv": 112,
+  "publishAt": "2026-09-04 15:52:15",
+  "snapshotId": 43431,
+  "useScenario": "需要在图像/视频生成节点中统一应用中国传统工笔重彩动画画风时，将本 Skill 作为风格锚点叠加使用",
+  "inputType": "需要生成的画面内容描述（人物、场景、道具等）",
+  "outputContent": "符合上美影工笔重彩美学的图像或视频画面，风格统一、可复用于同一项目的各类节点",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/de0671ef0b894bdaa78506d5c1a46c65/b6e6a72e839b7907c7f0deb8238028aecbb5953f.png",
+  "resultType": 3,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=472b9891b7e8410792b8aaf79ec3e4d6",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/de0671ef0b894bdaa78506d5c1a46c65/0d6be4d419f9b8f1cb8a8f62df3fa257a7a574e0.mp4",
+    "https://libtv-res.liblib.art/upload-images/de0671ef0b894bdaa78506d5c1a46c65/6c8f3d1e2e94920ddd6e42f09e266a6c44bca86f.mp4"
+  ],
+  "hasPublicSkillContent": true
+}

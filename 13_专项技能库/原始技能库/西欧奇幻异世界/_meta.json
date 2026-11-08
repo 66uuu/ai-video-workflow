@@ -1,0 +1,32 @@
+{
+  "name": "西欧奇幻异世界",
+  "templateUuid": "b37af11897e540b7ac8875327facf0f6",
+  "skillUuid": "da99446ac65248b09ee9725bea5349d1",
+  "skillKey": "western-fantasy-film-generator-a8f88e80541e45b28b6238511d491aba",
+  "version": "1.0.0",
+  "namespace": "libtv-user-generated",
+  "description": "输入奇幻剧情梗概，自动生成西欧异世界 3D 写实横屏短片与分",
+  "author": "191****5839",
+  "ownerId": 9421299,
+  "tags": [],
+  "likeCount": 10,
+  "usePv": 7,
+  "useUv": 4,
+  "publishAt": "2026-07-22 11:31:28",
+  "snapshotId": 29732,
+  "useScenario": "适合奇幻网文作者、短视频创作者、RPG 游戏爱好者使用；可用于制作小说剧情 PV、世界观展示短片、角色出场名场面、游戏二创视频，快速将文字灵感转化为可视化 3D 横屏影像，省去手动调试画风、设计分镜的流程。",
+  "inputType": "用户输入核心故事剧情梗概即可生成；可补充指定人物种族外貌、具体场景、视频时长、运镜偏好，也可描述关键道具、魔法效果等细节来提升画面匹配度。",
+  "outputContent": "产出 16:9 宽幅横屏的西欧异世界 3D 写实短片，搭配完整的影视分镜脚本与人物场景设定说明；统一 UE5 电影级渲染质感，默认时长 60-120 秒，可按需调整。",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/a8f88e80541e45b28b6238511d491aba/75024253fa03e35fb59c2fc276372a3efdfbd095.jpg",
+  "resultType": 3,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=b37af11897e540b7ac8875327facf0f6",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/a8f88e80541e45b28b6238511d491aba/66878f7f40fd9d164f1e78e0cfb6747e4ebfbaa1.mp4"
+  ],
+  "hasPublicSkillContent": true
+}

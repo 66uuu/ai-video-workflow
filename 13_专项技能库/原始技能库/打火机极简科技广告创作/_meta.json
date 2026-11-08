@@ -1,0 +1,32 @@
+{
+  "name": "打火机极简科技广告创作",
+  "templateUuid": "15906e26ae3a4d2fb2f0c2a69336db58",
+  "skillUuid": "ee17ec2f518145e4b5f50b776c631a1d",
+  "skillKey": "minimalist-tech-ad-creator-e5c05143074646b7ae70a88b81ec6c2a",
+  "version": "1.0.1",
+  "namespace": "libtv-user-generated",
+  "description": "苹果式极简科技广告风格创作流程",
+  "author": "星美Fine",
+  "ownerId": 773892,
+  "tags": [],
+  "likeCount": null,
+  "usePv": 2,
+  "useUv": 2,
+  "publishAt": "2026-09-09 09:46:27",
+  "snapshotId": 44519,
+  "useScenario": "需要为极简科技风格产品（打火机/小家电/数码配件等）制作苹果式广告图文视频内容时使用",
+  "inputType": "打火机产品参考图（或其他极简科技产品图）",
+  "outputContent": "10组图片提示词 + 3段视频提示词 + 苹果式极简科技广告视觉分析框架",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/e5c05143074646b7ae70a88b81ec6c2a/2a175c5794d895f94ccffa05a5cd36362560bf8e.png",
+  "resultType": 3,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=15906e26ae3a4d2fb2f0c2a69336db58",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/e5c05143074646b7ae70a88b81ec6c2a/afeaf17aee1fbe7416529b752d6c41e5ee085ce3.MP4"
+  ],
+  "hasPublicSkillContent": true
+}

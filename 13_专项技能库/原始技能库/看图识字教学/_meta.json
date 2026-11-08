@@ -1,0 +1,35 @@
+{
+  "name": "看图识字教学",
+  "templateUuid": "09aa44a0c6fc482aa95838b48cbc4c9e",
+  "skillUuid": "4ee4fea7541a47a78badd0d2436b61eb",
+  "skillKey": "pictograph-character-learning-b68a7e250c444ddaaacf044be6e4ff31",
+  "version": "1.0.0",
+  "namespace": "libtv-user-generated",
+  "description": "生成给宝宝学习汉字的象形文字",
+  "author": "微信用户de7d0e",
+  "ownerId": 1953881,
+  "tags": [],
+  "likeCount": 6,
+  "usePv": 5,
+  "useUv": 5,
+  "publishAt": "2026-07-16 16:38:23",
+  "snapshotId": 27760,
+  "useScenario": "面向 3-8 岁儿童的启蒙识字教学场景。家长、幼儿园/小学低年级老师或儿童内容创作者，想快速制作\"看图识字\"教学素材：用图像和汉字象形演化过程（如\"山\"=三座山峰、\"林\"=两棵树）帮孩子建立字形记忆，不教笔画笔顺。适用于亲子识字启蒙、课堂教学、识字类短视频账号内容生产，也可用于制作可打印的识字卡片。",
+  "inputType": "用户只需告诉本 Skill 想教的字即可：可以直接指定字（如\"教 山、水、火\"）、给一个主题或范围（如\"自然类，5 个字\"）、或",
+  "outputContent": "一条整合好的看图识字教学视频：片头 → 逐字教学小节（识字卡图像 + \"实物图像→字形演化→标准楷字\"记忆动画）→ 复习闪回 → 片尾，按需含配音、跟读留白、字幕和 BGM。同时可附赠各单字的识字卡图（可打印），以及一份说明清单（本片教了哪些字、各字的表现方式），全片汉字楷书标准、风格统一。",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/b68a7e250c444ddaaacf044be6e4ff31/59b8a232aea55eb23f249121717e11cb46540bff.png",
+  "resultType": 3,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=09aa44a0c6fc482aa95838b48cbc4c9e",
+  "files": [
+    "SKILL.md",
+    "sub-skills/单字识字卡生成.md",
+    "sub-skills/单字象形演化.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/b68a7e250c444ddaaacf044be6e4ff31/d2349073a6fe7739163f92fd61c80d996e71cc00.mp4",
+    "https://www.liblib.tv/canvas/share?spaceId=2853299&projectId=250ac67273b7439dbdf46ce81c6cc5f0"
+  ],
+  "hasPublicSkillContent": true
+}

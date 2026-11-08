@@ -1,0 +1,32 @@
+{
+  "name": "死亡金属音乐MV",
+  "templateUuid": "ea4107736e484d8da468eaf1717b2dea",
+  "skillUuid": "65d6724e1c654da6b3f01da316f2f6d8",
+  "skillKey": "eldritch-metal-choral-animator-e5c05143074646b7ae70a88b81ec6c2a",
+  "version": "1.0.1",
+  "namespace": "libtv-user-generated",
+  "description": "上传多张人物/角色图，一键生成15秒融合死亡金属残暴、圣咏庄",
+  "author": "星美Fine",
+  "ownerId": 773892,
+  "tags": [],
+  "likeCount": 1,
+  "usePv": 1,
+  "useUv": 1,
+  "publishAt": "2026-08-08 11:21:16",
+  "snapshotId": 34746,
+  "useScenario": "用户上传1-5张人物/角色参考图，生成死亡金属×圣咏×赛博朋克×酸性×克苏鲁×未来机械乐器风格的15秒乐团演出音乐视频，并可输出5张关键分镜图",
+  "inputType": "1-5张人物/角色参考图（必选），可选：文字内容、鼓点时间、角色分工、",
+  "outputContent": "生成15秒乐团演出视频,包含动态运镜、双场景交替、融入式排版和剧情演绎。",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/e5c05143074646b7ae70a88b81ec6c2a/9e08901726630cb088340ace190a41ec13fde6dc.png",
+  "resultType": 3,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=ea4107736e484d8da468eaf1717b2dea",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/e5c05143074646b7ae70a88b81ec6c2a/4dffba90d52685fa2478bb27e532fa94f78dafca.mp4"
+  ],
+  "hasPublicSkillContent": true
+}

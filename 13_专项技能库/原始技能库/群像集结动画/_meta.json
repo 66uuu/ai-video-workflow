@@ -1,0 +1,32 @@
+{
+  "name": "群像集结动画",
+  "templateUuid": "85e5429b84c7489ba74bd3b19c33e32b",
+  "skillUuid": "84e710256f0f47eea57398313d183abd",
+  "skillKey": "mv-prompt-generator-c456c360564947d9b140b4e24e1f6116",
+  "version": "1.0.7",
+  "namespace": "libtv-user-generated",
+  "description": "群像图片转角色集结动画提示词",
+  "author": "AIGC7982",
+  "ownerId": 1150582,
+  "tags": [],
+  "likeCount": 24,
+  "usePv": 46,
+  "useUv": 31,
+  "publishAt": "2026-08-27 03:45:30",
+  "snapshotId": 41131,
+  "useScenario": "基于用户提供的角色参考图和时间，生成专业分镜脚本提示词。",
+  "inputType": "角色参考图（1张或多张）+ 选择时长",
+  "outputContent": "结构化中文视频提示词文档，通过文档卡片交付，手动生成视频。",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/c456c360564947d9b140b4e24e1f6116/c5b5b64c4d3909be47d429f623a377f7a8fdd1bc.png",
+  "resultType": 3,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=85e5429b84c7489ba74bd3b19c33e32b",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/c456c360564947d9b140b4e24e1f6116/017210957b0f0cbea2e92794db3c033dc1191c5d.mp4"
+  ],
+  "hasPublicSkillContent": true
+}

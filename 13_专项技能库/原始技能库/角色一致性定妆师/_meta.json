@@ -1,0 +1,33 @@
+{
+  "name": "角色一致性定妆师",
+  "templateUuid": "2247c88d1ecc496abdd7d8246eead1bb",
+  "skillUuid": "260877903dc242c7bc02f171bf87b04c",
+  "skillKey": "consistent-character-stylist-099a29c442e54fadb8112cb6a35521fa",
+  "version": "1.0.0",
+  "namespace": "libtv-user-generated",
+  "description": "快速生成风格统一、角色高度一致的白底正面设定图与标准三视图。",
+  "author": "罗莉",
+  "ownerId": 104287,
+  "tags": [],
+  "likeCount": 28,
+  "usePv": 20,
+  "useUv": 15,
+  "publishAt": "2026-07-14 18:53:58",
+  "snapshotId": 27022,
+  "useScenario": "用于快速创建角色设定图，解决多次生成时人物外貌、发型、服装和配饰不一致的问题。适合AI漫剧、动画、游戏、漫画及短视频制作，可生成白底全身正面定妆图，并在此基础上延展出高度一致的标准三视图。",
+  "inputType": "输入角色风格和角色描述，包括性别、年龄、外貌、发型、体型、服装、配饰等信息。Skill会先生成纯白背景的全身正面角色设定图；确认",
+  "outputContent": "输出一张纯白背景、全身正面、角色特征清晰的角色设定图，以及一张包含正面、侧面和背面且外貌、比例、服装与配饰保持一致的标准三视图",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/099a29c442e54fadb8112cb6a35521fa/6ec227cefb5017e24a31457f132c7f8597f2ae44.png",
+  "resultType": 2,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=2247c88d1ecc496abdd7d8246eead1bb",
+  "files": [
+    "SKILL.md",
+    "references/style-presets.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/099a29c442e54fadb8112cb6a35521fa/6ec227cefb5017e24a31457f132c7f8597f2ae44.png"
+  ],
+  "hasPublicSkillContent": true
+}

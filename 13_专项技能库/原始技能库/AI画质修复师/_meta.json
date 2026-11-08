@@ -1,0 +1,35 @@
+{
+  "name": "AI画质修复师",
+  "templateUuid": "4971a909d9744ba39c1eddf56ee6ae38",
+  "skillUuid": "2c19e6ffe1824d778cbd917ebe4e2ca4",
+  "skillKey": "image-quality-restorer-3a4298946ab443b0be7bae43d38cd937",
+  "version": "1.0.0",
+  "namespace": "libtv-user-generated",
+  "description": "自动诊断噪点、假细节与结构问题，在严格保持人物和构图基础上",
+  "author": "柚子",
+  "ownerId": 8812297,
+  "tags": [],
+  "likeCount": 21,
+  "usePv": 22,
+  "useUv": 15,
+  "publishAt": "2026-08-10 16:23:52",
+  "snapshotId": 35516,
+  "useScenario": "适用于A图片降噪、去颗粒、去斑驳、压制假细节、修复人物变脸与服装漂移、校正建筑结构和透视、重建前中后景层\n次，以及国风3D角色、插画、电影写实场景、魔宫、云海、山体等画面的画质提升。",
+  "inputType": "上传一张待修复图片，说明需要保持或改变的内容。默认先输出诊断和修复方案;如需实际生成，再明确输入“执行\"或“生\n成\"。结构问题严重时自动使用原图十黑白线稿十深度图三图重建。",
+  "outputContent": "默认输出问题诊断、保留项、推荐模型、修复路线、正向提示词、负面提示词和节点连接说明;用户明确要求执行后，输\n出修复后的高质量图片节点。",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/3a4298946ab443b0be7bae43d38cd937/641ab91e70880f407146befd99cd1bb4485bc14d.png",
+  "resultType": 2,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=4971a909d9744ba39c1eddf56ee6ae38",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/3a4298946ab443b0be7bae43d38cd937/4756e4c8ac9987bcaa2ed7e4899fe4106cac9530.png",
+    "https://libtv-res.liblib.art/upload-images/3a4298946ab443b0be7bae43d38cd937/5075bcd0db93a8e6b390e7e2615da1b57a1a4ea2.png",
+    "https://libtv-res.liblib.art/upload-images/3a4298946ab443b0be7bae43d38cd937/5c1d14aa54b9b310961e8dbe4fd0c0b0e1fb636c.png",
+    "https://libtv-res.liblib.art/upload-images/3a4298946ab443b0be7bae43d38cd937/7d9bfd5297336c156ca686a284785f4f67e1771c.png"
+  ],
+  "hasPublicSkillContent": true
+}

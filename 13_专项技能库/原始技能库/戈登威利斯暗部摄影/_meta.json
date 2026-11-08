@@ -1,0 +1,32 @@
+{
+  "name": "戈登威利斯暗部摄影",
+  "templateUuid": "b5c42583019f4ebc8eeee2b4ffc1a254",
+  "skillUuid": "c8f54109afcd43b9a8eddb3bccc0b906",
+  "skillKey": "gordon-willis-shadow-cinematography-fc90127e45224b3dbc353ef70178b69b",
+  "version": "1.0.0",
+  "namespace": "libtv-user-generated",
+  "description": "用受控欠曝、负补光和建筑构图，让阴影承担信息与权力关系。",
+  "author": "小葵小丹",
+  "ownerId": 596837,
+  "tags": [],
+  "likeCount": 6,
+  "usePv": 3,
+  "useUv": 3,
+  "publishAt": "2026-07-15 19:23:53",
+  "snapshotId": 27451,
+  "useScenario": "适合权力空间、秘密对话、机构室内和低调悬疑场景，重点解决画面过亮、黑位死堵、暗部没有信息和AI自动添加无来源轮廓光的问题。 方法研究｜非官方；不复制具体影片镜头，不使用未经授权的肖像、剧照、标识或文本。",
+  "inputType": "输入场景权力关系、需要显示或隐藏的信息、场地建筑、门窗顶面、人物走位和交付平台；标明必须读到的眼神或道具。",
+  "outputContent": "显示隐藏矩阵、建筑权力构图、暗部光源图、曝光梯度、稳定机位规则、生成提示词和手机压缩后的黑位质检。",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/fc90127e45224b3dbc353ef70178b69b/04b7332c3aaece1e4601d5af523463e8b6ad6018.png",
+  "resultType": 3,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=b5c42583019f4ebc8eeee2b4ffc1a254",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/fc90127e45224b3dbc353ef70178b69b/df7680ea23e886650af67cbf678dbbb80fad39f4.mp4"
+  ],
+  "hasPublicSkillContent": true
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Lala罐头的中式天宫",
+  "templateUuid": "6ecb5cbc9b854360b17582e56db7616c",
+  "skillUuid": "3bc7ff7230c4444ab064fe948ace0ff6",
+  "skillKey": "chinese-celestial-palace-7b808e92bc454a869e04b67a5b61e695",
+  "version": "1.0.2",
+  "namespace": "libtv-user-generated",
+  "description": "一套专为「中国古典仙侠·天界天宫」风格图片生成设计的视觉规则",
+  "author": "180****1438",
+  "ownerId": 11083854,
+  "tags": [],
+  "likeCount": 70,
+  "usePv": 171,
+  "useUv": 87,
+  "publishAt": "2026-08-19 10:06:46",
+  "snapshotId": 38341,
+  "useScenario": "适用于仙侠影视概念图、分镜关键帧、场景设定图、天宫世界观建立等创作场景。",
+  "inputType": "用户描述想要生成的天宫场景内容，例如人物、地点、动作、情绪氛围等自然语言描述即可。",
+  "outputContent": "基于视觉规则生成的天宫仙境风格图片，每次出4张供选择，16:9宽画幅，style image V8.2模型。",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/7b808e92bc454a869e04b67a5b61e695/3eb8cfada7837fc8a0454201707e031eaf2d2db5.png",
+  "resultType": 2,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=6ecb5cbc9b854360b17582e56db7616c",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/7b808e92bc454a869e04b67a5b61e695/3eb8cfada7837fc8a0454201707e031eaf2d2db5.png",
+    "https://libtv-res.liblib.art/upload-images/7b808e92bc454a869e04b67a5b61e695/7c707a628a81c9acd884a45093845d5581028cbb.png",
+    "https://libtv-res.liblib.art/upload-images/7b808e92bc454a869e04b67a5b61e695/bbbe104c42ec41be17efbdd00f2a53b850192e83.png",
+    "https://libtv-res.liblib.art/upload-images/7b808e92bc454a869e04b67a5b61e695/6b26f19b62e7ca6b9abdb37a1c55abc6c287f11e.png"
+  ],
+  "hasPublicSkillContent": true
+}

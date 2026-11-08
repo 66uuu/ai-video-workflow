@@ -1,0 +1,32 @@
+{
+  "name": "播客音频生成器",
+  "templateUuid": "75c9f4001ccd4849afff59e07d3577cc",
+  "skillUuid": "070fd318ff9247c6ae3efcddf89db74c",
+  "skillKey": "podcast-audio-producer-f1cd68423b354abba991fe16eb70fb0a",
+  "version": "1.0.0",
+  "namespace": "libtv-user-generated",
+  "description": "输入话题，产出完整播客音频",
+  "author": "Devilworld",
+  "ownerId": 610387,
+  "tags": [],
+  "likeCount": 4,
+  "usePv": 1,
+  "useUv": 1,
+  "publishAt": "2026-09-08 21:39:05",
+  "snapshotId": 44465,
+  "useScenario": "用户有一个想聊的话题，想快速产出一期播客音频，无需自己写稿或配音",
+  "inputType": "一个话题或问题（如\"AI 会取代设计师吗\"）",
+  "outputContent": "一期完整播客音频，包含开场白、正文、结尾，单人独白风格",
+  "coverUrl": null,
+  "resultType": 4,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=75c9f4001ccd4849afff59e07d3577cc",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/f1cd68423b354abba991fe16eb70fb0a/3ed96ff2ba23d987b3e13df7adff2760ab416314.mp4"
+  ],
+  "hasPublicSkillContent": true
+}

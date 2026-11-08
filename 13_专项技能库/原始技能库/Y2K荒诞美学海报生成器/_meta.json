@@ -1,0 +1,36 @@
+{
+  "name": "Y2K荒诞美学海报生成器",
+  "templateUuid": "a0056ea59d034e5d9e0d6fd6bb176da4",
+  "skillUuid": "d971845e6c7e457cbe5efc687ec7c405",
+  "skillKey": "y2k-weirdcore-poster-d548bbe5d2194184a0afbc869fd93558",
+  "version": "1.0.0",
+  "namespace": "libtv-user-generated",
+  "description": "一句话/随机生成  Y2K weirdcore 风格海报",
+  "author": "贾麦子",
+  "ownerId": 1844109,
+  "tags": [],
+  "likeCount": 19,
+  "usePv": 9,
+  "useUv": 9,
+  "publishAt": "2026-07-14 14:51:07",
+  "snapshotId": 26890,
+  "useScenario": "本工具专门用于创作具有 **Y2K Weirdcore** 风格的超现实主义海报。通过对输入元素进行逻辑异化和视觉重组，生成充满复古电子感、荒诞感和视觉冲击力的 3:4 比例图像。",
+  "inputType": "## 适用输入\n- **具体描述**：例如“程序员在修Bug”、“宠物狗在放风筝”。\n- **抽象词汇**：例如“人脸云的围观”",
+  "outputContent": "三重异化强制+元素库+固定前缀--实现常规内容的随机异化，适用于超现实主义、荒诞类视觉短片制作",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/d548bbe5d2194184a0afbc869fd93558/0de54c8306e36e9af80497f74758a71fea9a4f9c.png",
+  "resultType": 2,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=a0056ea59d034e5d9e0d6fd6bb176da4",
+  "files": [
+    "SKILL.md",
+    "y2k_surreal_poster.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/d548bbe5d2194184a0afbc869fd93558/0de54c8306e36e9af80497f74758a71fea9a4f9c.png",
+    "https://libtv-res.liblib.art/upload-images/d548bbe5d2194184a0afbc869fd93558/f146eff002a92549a51a81a20acb4532c0e3b1c5.png",
+    "https://libtv-res.liblib.art/upload-images/d548bbe5d2194184a0afbc869fd93558/95f1a1b5852c75757e155c550ffe6ce8ff1702ae.png",
+    "https://libtv-res.liblib.art/upload-images/d548bbe5d2194184a0afbc869fd93558/7bd3f6cb92fa1ab46d4e65646513f409c79f1096.png"
+  ],
+  "hasPublicSkillContent": true
+}

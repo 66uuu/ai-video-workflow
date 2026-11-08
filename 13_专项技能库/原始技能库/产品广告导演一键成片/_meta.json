@@ -1,0 +1,34 @@
+{
+  "name": "产品广告导演一键成片",
+  "templateUuid": "a4dc26c5a42641e7a1b62b8cef1d818e",
+  "skillUuid": "e523d85be7c549148d32e65d8c4949c6",
+  "skillKey": "product-ad-director-03fe8d2a9eff48dabb77da78ff9cf3a7",
+  "version": "1.0.0",
+  "namespace": "libtv-user-generated",
+  "description": "只需一张产品图和一句卖点，AI 广告导演自动成片方案",
+  "author": "Q",
+  "ownerId": 8957756,
+  "tags": [],
+  "likeCount": 124,
+  "usePv": 113,
+  "useUv": 85,
+  "publishAt": "2026-07-14 16:48:33",
+  "snapshotId": 26959,
+  "useScenario": "新品发布片：从一张产品图生成 15/30/60 秒广告方案\n- 短视频种草：为抖音、小红书、视频号制作竖屏转化广告\n- 电商广告：把卖点、使用动作、结果与 CTA 压缩成高密度视频\n- 品牌 TVC：完成世界观、视觉母题、品牌金句与英雄产品镜头\n- 非遗文创：把文化与工艺转译成当代消费场景\n- 节日礼赠：覆盖送礼对象、情绪价值、包装与使用场景\n- 美妆、食品、服饰、家居、数码与本地服务等产品广告",
+  "inputType": "1.上传产品图或参考图\n2. 说清产品名称与一个核心卖点\n3. 直接说：“做一支 15 秒竖屏广告”或“做一支 30 秒品牌片”",
+  "outputContent": "1. 广告定位与目标人群\n2. 核心创意名、视觉钩子、传播主张与品牌金句\n3. 完整时间轴脚本、旁白、字幕、音乐和音效\n4. 逐镜分镜表：景别、机位、运镜、动作和转场\n5. 每镜静态分镜提示词与视频运动提示词\n6. 产品、人物、场景、色彩与负面约束的连续性圣经\n7. LibTV 分镜组与视频镜头生成结果\n8. 最终成片或有序镜头包、剪辑清单、封面标题与发布文案",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/03fe8d2a9eff48dabb77da78ff9cf3a7/0d51782dde9e4f3f4612a108f2232d9a9f25f059.png",
+  "resultType": 3,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=a4dc26c5a42641e7a1b62b8cef1d818e",
+  "files": [
+    "SKILL.md",
+    "references/director-playbook.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/03fe8d2a9eff48dabb77da78ff9cf3a7/d838b3938fdf59b907296e973932a6b2a6425d56.mp4",
+    "https://libtv-res.liblib.art/upload-images/03fe8d2a9eff48dabb77da78ff9cf3a7/51ea4b1eb96b02a9d3e238b82b794c914dbfc670.mp4"
+  ],
+  "hasPublicSkillContent": true
+}

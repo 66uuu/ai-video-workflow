@@ -1,0 +1,33 @@
+{
+  "name": "404 第一人称天宫2.0",
+  "templateUuid": "7cf44c02a24b4861baa3be9ad6156a57",
+  "skillUuid": "5fef46a31cd542129ec387242c489414",
+  "skillKey": "simple-task-executor-5ecee88464924d92a2968fe23977155d",
+  "version": "1.0.2",
+  "namespace": "libtv-user-generated",
+  "description": "第一人称的天宫skill，",
+  "author": "178****2134",
+  "ownerId": 9679704,
+  "tags": [],
+  "likeCount": 27,
+  "usePv": 119,
+  "useUv": 58,
+  "publishAt": "2026-09-09 18:23:03",
+  "snapshotId": 44722,
+  "useScenario": "第一人称的天宫skill，",
+  "inputType": "如果没有想法，可以直接询问它，我怎样启动你",
+  "outputContent": "视频",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/5ecee88464924d92a2968fe23977155d/5315eee9fc3e08873b565d1fc20824cebf4b29f2.png",
+  "resultType": 3,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=7cf44c02a24b4861baa3be9ad6156a57",
+  "files": [
+    "SKILL.md",
+    "SKILL_东方神话第一人称POV_生图图生视频_v2.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/5ecee88464924d92a2968fe23977155d/e529352fb9780798304ed47509c27d3e1809382a.mp4"
+  ],
+  "hasPublicSkillContent": true
+}

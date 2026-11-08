@@ -1,0 +1,32 @@
+{
+  "name": "邵氏古典武侠太空歌剧",
+  "templateUuid": "823ebbc207b94070ba089fe8e8151fdf",
+  "skillUuid": "1818ef21d38c4e098f7ecf8c6e1a25c7",
+  "skillKey": "shaw-wuxia-space-opera-42a98d5f83a242568e1adfecc620ed3e",
+  "version": "1.0.0",
+  "namespace": "libtv-user-generated",
+  "description": "用于创作邵氏古典美人、晶体服饰、东方兵器、宇宙天幕与古城机械",
+  "author": "赛赛_Cecilia",
+  "ownerId": 4351068,
+  "tags": [],
+  "likeCount": 23,
+  "usePv": 14,
+  "useUv": 11,
+  "publishAt": "2026-08-01 11:31:21",
+  "snapshotId": 32528,
+  "useScenario": "当用户需要复古港片仙侠与高密度太空歌剧结合时使用，创造出东方美学加仙侠机械的邵氏独特审美风格",
+  "inputType": "把用户给出的原创主题、人物、产品或剧情转换为“邵氏赛博星城”风格的图片或视频。",
+  "outputContent": "40秒东方审美基础短片，七八十年代港产奇幻片的妆容、戏剧光与镜头气质，世界却延伸为星海古城、悬浮戏台和机械月球。复古与未来应同时成立。",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/42a98d5f83a242568e1adfecc620ed3e/d4fcfd3759798aed22e71ac4d0f3c2b806713601.png",
+  "resultType": 3,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=823ebbc207b94070ba089fe8e8151fdf",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/42a98d5f83a242568e1adfecc620ed3e/3ada336bf58c1c8f42cfaff25eee35936c463eef.mp4"
+  ],
+  "hasPublicSkillContent": true
+}

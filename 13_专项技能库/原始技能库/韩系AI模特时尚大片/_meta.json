@@ -1,0 +1,33 @@
+{
+  "name": "韩系AI模特时尚大片",
+  "templateUuid": "a34c0c30cb3049b29e10a2726a774163",
+  "skillUuid": "a95d8560b84f4424ab5e2cbac3c9fa44",
+  "skillKey": "korean-fashion-lookbook-839348b666cd48deb16d629db04bf6ab",
+  "version": "1.0.6",
+  "namespace": "libtv-user-generated",
+  "description": "韩系商业lookbook",
+  "author": "弥茶子",
+  "ownerId": 934434,
+  "tags": [],
+  "likeCount": 13,
+  "usePv": 34,
+  "useUv": 8,
+  "publishAt": "2026-08-19 11:48:04",
+  "snapshotId": 38394,
+  "useScenario": "适用于需要生成AI模特时尚大片图的所有场景，包括：室内场景（极简家居、摄影空间、咖啡厅）、室外场景（城市街景、暖冬金秋）的时尚服装大片拍摄。当需要为品牌lookbook、产品画册、营销素材生成符合韩系高级时尚杂志风格（冷调低饱和米白+灰棕+5500K中性色温+Kodak Portra 400胶片质感）的模特图时调用。",
+  "inputType": "用户描述目标场景（A街景/B咖啡厅/C家居/D暖冬四大类）、动作姿态、服装造型（蓝格纹衬衫/燕麦针织/白衬衫等）、道具需求（咖啡杯/花束/自行车等），系统输出完整中英双语提示词，用户复制到生图模型使用。",
+  "outputContent": "统一人物描述、模特特征、4类场景详细描述、12个标准化站姿/坐姿动作、6件可换道具清单、服装色锁死（雾霾蓝RGB150,165,180）、光线规范（5500K中性色温）、色调反暖补丁、暖冬冷暖对比补丁、韩系风格锚定词、负面排除项。输出严格遵守动作物理约束（单腿重心+支撑点+接触面+禁悬空），确保生成结果物理协调、色彩冷调、风格韩系。",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/839348b666cd48deb16d629db04bf6ab/b7eb547d9c4b6059a980186145c6e21ac0fe8342.png",
+  "resultType": 2,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=a34c0c30cb3049b29e10a2726a774163",
+  "files": [
+    "SKILL.md",
+    "skill清冷版本.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/839348b666cd48deb16d629db04bf6ab/ad6eecf2de78a7155f1da4c7f89ccb5e8d583cab.png"
+  ],
+  "hasPublicSkillContent": true
+}

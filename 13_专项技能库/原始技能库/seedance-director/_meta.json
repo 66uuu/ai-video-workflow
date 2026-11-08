@@ -1,0 +1,36 @@
+{
+  "name": "seedance-director",
+  "templateUuid": "c1fce2452583495c8a37f5a3697ba885",
+  "skillUuid": "85d78ecaf27a4f25a85910d45c9da704",
+  "skillKey": "video-production-director-e791db092caa47258db4ad567a512bb5",
+  "version": "1.0.1",
+  "namespace": "libtv-user-generated",
+  "description": "视频制作",
+  "author": "蓝枫",
+  "ownerId": 452824,
+  "tags": [],
+  "likeCount": 10,
+  "usePv": 10,
+  "useUv": 4,
+  "publishAt": "2026-09-04 14:20:58",
+  "snapshotId": 43402,
+  "useScenario": "制作各种视频，提供结构化提示词",
+  "inputType": "加载是skill到agent里面，然后提供你的脚本",
+  "outputContent": "结构化视频提示词",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/e791db092caa47258db4ad567a512bb5/5cc4145e3831be02501116dea7d273951385c5c1.png",
+  "resultType": 3,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=c1fce2452583495c8a37f5a3697ba885",
+  "files": [
+    "SKILL.md",
+    "references/cinema-vfx-library.md",
+    "references/montage-composition-action.md",
+    "references/prompt-template.md",
+    "references/research-notes.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/e791db092caa47258db4ad567a512bb5/630191cd471575826eb1e4a<手机号-已脱敏>e60722.mp4"
+  ],
+  "hasPublicSkillContent": true
+}

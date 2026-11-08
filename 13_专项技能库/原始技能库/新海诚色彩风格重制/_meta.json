@@ -1,0 +1,32 @@
+{
+  "name": "新海诚色彩风格重制",
+  "templateUuid": "70b85487b61f4bdab359303294235ebb",
+  "skillUuid": "4b25659fbb88492e8c4a0fd5be58f032",
+  "skillKey": "shinkai-color-remaster-5d72c6b8957a4e4fb30c862bf56960a2",
+  "version": "1.0.1",
+  "namespace": "libtv-user-generated",
+  "description": "对已有图片做 image2image 重绘，仅调整色彩与光影",
+  "author": "183****6876",
+  "ownerId": 5410652,
+  "tags": [],
+  "likeCount": 2,
+  "usePv": 7,
+  "useUv": 3,
+  "publishAt": "2026-08-19 14:53:14",
+  "snapshotId": 38471,
+  "useScenario": "当用户提供一张已有图片，希望在不改变人物、姿势、构图、场景的前提下，将画面色彩与光影调整为新海诚动画风格（明亮通透、冷暖对比强、轮廓光、无暗沉阴影）时使用；可搭配画幅调整（如改为9:16竖屏）。",
+  "inputType": "上传图片，然后输入”利用海诚色彩风格重制“就可以了",
+  "outputContent": "调用 generate_image_v3（mode_type=image2image），引用原图节点，prompt 中说明保持人物/姿势/构图/场景不变，仅按新海诚风格模板重绘色彩光影：高调明亮、冷暖色对比、通透高光、发丝边缘光、阴影环境光填充、干净线稿+柔和渐变、明快通透氛围；如用户要求则设置 aspect_ratio。",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/5d72c6b8957a4e4fb30c862bf56960a2/4a91daf29ea52cc3305852e8cc06239722eb3d52.png",
+  "resultType": 2,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=70b85487b61f4bdab359303294235ebb",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/5d72c6b8957a4e4fb30c862bf56960a2/3e1b90a6b6c27e8975ea41330867fa51d277d227.png"
+  ],
+  "hasPublicSkillContent": true
+}

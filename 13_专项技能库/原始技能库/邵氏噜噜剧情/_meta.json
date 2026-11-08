@@ -1,0 +1,32 @@
+{
+  "name": "邵氏噜噜剧情",
+  "templateUuid": "7527499b0d364bfc8b7d69f63dc40c24",
+  "skillUuid": "dd58883be23c4a21a31401a16f634867",
+  "skillKey": "shaw-lulu-drama-series-35e4f09979b84838bda275c980ac352b",
+  "version": "1.0.1",
+  "namespace": "libtv-user-generated",
+  "description": "邵式风格+噜噜的连续剧生产工厂",
+  "author": "AI设计小华",
+  "ownerId": 397933,
+  "tags": [],
+  "likeCount": 13,
+  "usePv": 24,
+  "useUv": 17,
+  "publishAt": "2026-07-27 18:53:29",
+  "snapshotId": 31141,
+  "useScenario": "有任意视频素材，希望以邵氏1970年代武侠电影风格进行二次创作，包括：场景改编、加入新角色比武对决、延展无厘头剧情（荒诞道具 + 搞笑对话），最终合成完整成片。",
+  "inputType": "直接调用Skill即可",
+  "outputContent": "生成邵氏噜噜连续剧剧情",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/35e4f09979b84838bda275c980ac352b/d33b14f89213b5936f97b5c96fa799f363e7198e.png",
+  "resultType": 3,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=7527499b0d364bfc8b7d69f63dc40c24",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/35e4f09979b84838bda275c980ac352b/8c61874972a6662ff9c6e38ffc38bbce18aecb0b.mp4"
+  ],
+  "hasPublicSkillContent": true
+}

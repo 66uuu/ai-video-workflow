@@ -1,0 +1,32 @@
+{
+  "name": "阳光下的脚步",
+  "templateUuid": "0b3307863f844bb4aeb9abb1c0405770",
+  "skillUuid": "dad25edc1fb84829b42e92d0b5c5c3ea",
+  "skillKey": "leadership-inspection-narrative-e5c05143074646b7ae70a88b81ec6c2a",
+  "version": "1.0.2",
+  "namespace": "libtv-user-generated",
+  "description": "根据\"***视察\"主题，生成一部40秒的宽银幕叙事短片。全程",
+  "author": "星美Fine",
+  "ownerId": 773892,
+  "tags": [],
+  "likeCount": 2,
+  "usePv": 0,
+  "useUv": 0,
+  "publishAt": "2026-07-31 23:47:12",
+  "snapshotId": 32483,
+  "useScenario": "根据以下叙事主题和设定生成完整短片:\n\n叙事主题:\n虚构城市领导者视察建设现场与养殖基地,通过任务触发、行驶、现场指导、沉思、再出发、群众欢呼、怀抱孩子、并肩前行等8个核心叙事节点展现40秒情感弧线。\n\n主角设定:\n中年男性,虚构城市领导者,深色定制大衣,发型向后梳理,表情沉稳温和。\n\n视觉要求:\n21:9宽银幕,GTA电影级渲染质感,暖金色调贯穿全片,清晰通透,阴影暖棕色。",
+  "inputType": "上传图片素材加上以下内容：\n简单输入：\n帮我生成一个视察的GTA5风格短片，他去看了新建的学校和医院。\n中等输入：\n主角是女性，短发，穿深蓝色风衣。视察地点是新建的图书馆和社区公园。时间是夏天的早晨。希望有很多孩子和老人互动的场景。任务标题叫“城市的温度”。",
+  "outputContent": "叙事主题:\n虚构城市领导者视察建设现场与养殖基地,通过任务触发、行驶、现场指导、沉思、再出发、群众欢呼、怀抱孩子、并肩前行等8个核心叙事节点展现40秒情感弧线。\n\n主角设定:\n中年男性,虚构城市领导者,深色定制大衣,发型向后梳理,表情沉稳温和。\n\n视觉要求:\n21:9宽银幕,GTA电影级渲染质感,暖金色调贯穿全片,清晰通透,阴影暖棕色。\n\nUI系统:\n左下角小地图(金色导航路线),顶部金色任务提",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/e5c05143074646b7ae70a88b81ec6c2a/112d799afedfd8017e71a9acc07639edc6240049.png",
+  "resultType": 3,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=0b3307863f844bb4aeb9abb1c0405770",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/e5c05143074646b7ae70a88b81ec6c2a/3c77b9d0ab9636fdd5b53c5426738e8376079b4a.MP4"
+  ],
+  "hasPublicSkillContent": true
+}

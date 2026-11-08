@@ -1,0 +1,33 @@
+{
+  "name": "政策一图读懂智能解读",
+  "templateUuid": "ec46588abc9044b3ad454865e1f3dd92",
+  "skillUuid": "6d5fb011611f46d9942b1201ad658688",
+  "skillKey": "policy-infographic-generator-6a8f3dbfb1314cc196355063c6094f2d",
+  "version": "1.0.1",
+  "namespace": "libtv-user-generated",
+  "description": "上传国标政策文件，提取要点生成政务一图读懂长图，仅限规范类文",
+  "author": "186****0668",
+  "ownerId": 10229864,
+  "tags": [],
+  "likeCount": 9,
+  "usePv": 3,
+  "useUv": 3,
+  "publishAt": "2026-07-14 16:43:03",
+  "snapshotId": 26958,
+  "useScenario": "适用于安全应急、政企合规、节能环保，面对国标、安全生产规范、政策公文、企业制度等长篇专业文件时，快速完成政策宣贯材料制作。用于内部安全培训、新标准落地解读、对外公示宣传、班组交底材料制作，解决原文条文晦涩冗长、人工梳理重点慢、图解设计耗时长的痛点，典型如 GB 坠落防护、劳保、矿山、环保类强制国标可视化解读。",
+  "inputType": "用户上传 PDF/Word 格式的政策、国家标准、规范原文文件，可补充需求（如突出新旧标准差异、精简要点、安全生产专用版式）；技",
+  "outputContent": "1. 分层结构化政策重点清单（分适用范围、选型、使用、维护、禁令等模块）；\n2. 政务标准版式长图「一图读懂」可视化解读文件，包含分栏文字、流程框图、安全示意板块，可直接用于打印、公众号、班组培训公示。",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/6a8f3dbfb1314cc196355063c6094f2d/cce01b7917173107fe8c81b67b0042e69d9863ec.png",
+  "resultType": 2,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=ec46588abc9044b3ad454865e1f3dd92",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/6a8f3dbfb1314cc196355063c6094f2d/dc0ae3d67b17d3dd5f29f2e28a54c349deccf1d9.png",
+    "https://libtv-res.liblib.art/upload-images/6a8f3dbfb1314cc196355063c6094f2d/ba4701f13fb5970b667757930d5ae527b4c908f6.png"
+  ],
+  "hasPublicSkillContent": true
+}

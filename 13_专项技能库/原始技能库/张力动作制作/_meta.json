@@ -1,0 +1,32 @@
+{
+  "name": "张力动作制作",
+  "templateUuid": "589abfff31134c60bfa5cfcc6b27e034",
+  "skillUuid": "fa2aa6f8ede04341b45ab1304da87e27",
+  "skillKey": "cinematic-martial-arts-action-frame-e791db092caa47258db4ad567a512bb5",
+  "version": "1.0.2",
+  "namespace": "libtv-user-generated",
+  "description": "基于角色设定图，生成极具电影质感的武打动态定格画面。核心原则",
+  "author": "蓝枫",
+  "ownerId": 452824,
+  "tags": [],
+  "likeCount": 38,
+  "usePv": 34,
+  "useUv": 9,
+  "publishAt": "2026-08-17 11:30:47",
+  "snapshotId": 37667,
+  "useScenario": "为游戏、动漫、影视角色生成电影级武打动作定格宣传图、动作设计参考图、角色动态展示图",
+  "inputType": "角色三视图或设定图（image节点）+ 动作需求描述（可选）",
+  "outputContent": "生成4组电影级动作定格画面,16:9画幅,纯色背景。要求:超广角鱼眼镜头,30-45度荷兰角倾斜构图,攻击肢体占据前景1/3以上,硬光侧逆光雕刻肌肉线条,严禁任何环境特效(扬尘/碎石/烟雾),动作必须冻结在最极致伸展或压缩瞬间。",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/e791db092caa47258db4ad567a512bb5/99f75b032446a2b7ff4fbd154e72790aee495f66.png",
+  "resultType": 2,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=589abfff31134c60bfa5cfcc6b27e034",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/e791db092caa47258db4ad567a512bb5/d29575e03c9be5191cf908ce508ed<手机号-已脱敏>.png"
+  ],
+  "hasPublicSkillContent": true
+}

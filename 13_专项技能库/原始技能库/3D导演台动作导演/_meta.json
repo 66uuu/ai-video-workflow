@@ -1,0 +1,34 @@
+{
+  "name": "3D导演台动作导演",
+  "templateUuid": "3b163a994b0149b18517923723169c11",
+  "skillUuid": "75dca135594f4248a8fa1843903c7f41",
+  "skillKey": "martial-arts-action-director-8202932176ac485b9572011074a9f39c",
+  "version": "1.0.2",
+  "namespace": "libtv-user-generated",
+  "description": "参考视频动作太假？锁定导演台调度，重做电影级真人武打。",
+  "author": "LibTV",
+  "ownerId": 5924079,
+  "tags": [
+    "专业影视"
+  ],
+  "likeCount": 56,
+  "usePv": 54,
+  "useUv": 35,
+  "publishAt": "2026-08-13 10:02:55",
+  "snapshotId": 36468,
+  "useScenario": "适合已有参考视频，希望优化真人武侠打斗的用户。可用于3D导演台预演、AI多次生成仍不满意的视频、其他平台生成视频或动作参考视频。Skill会先解析人物、路径、镜头、关键节点和动作问题，再确认保留与重做范围，完成专业动作导演设计。",
+  "inputType": "上传需要分析或修改的参考视频，可补充角色参考图、场景图、武器设定、剧情说明及必须保留的时间节点。Skill会先完成参考视频导演解析，再进行第一次“参考继承确认”；确认后进入动作导演设计，并在第二次确认后生成最终执行方案。未提供参考视频时，不进入动作设计流程。",
+  "outputContent": "输出参考视频导演解析、保留/优化/重做建议、分时段动作导演方案、角色与武器连续性状态、生成前检查结果，以及适用于视频生成模型的最终执行提示词。动作方案会明确区分镜头与人物路径、具体武打动作、受力表演和连续性要求。",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/8202932176ac485b9572011074a9f39c/4e600a45156d9f59b36ca7177b3e54fdb3e85d16.png",
+  "resultType": 3,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=3b163a994b0149b18517923723169c11",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/8202932176ac485b9572011074a9f39c/8066495814daf31007a8bc15639991649114bfdd.mp4"
+  ],
+  "hasPublicSkillContent": true
+}

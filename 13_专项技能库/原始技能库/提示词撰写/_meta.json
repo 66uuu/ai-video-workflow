@@ -1,0 +1,32 @@
+{
+  "name": "提示词撰写",
+  "templateUuid": "82b3a9e096a4488baf3fb71a590feb2f",
+  "skillUuid": "a3ecaff128014341a07ab478bcc10d68",
+  "skillKey": "storyboard-to-prompt-optimizer-2ae27ee132314257b6cf2912afcae0cd",
+  "version": "1.0.5",
+  "namespace": "libtv-user-generated",
+  "description": "使用分镜产出提示词方案，确认后产出提示词",
+  "author": "疯鱼哥有八条腿",
+  "ownerId": 10280363,
+  "tags": [],
+  "likeCount": null,
+  "usePv": 5,
+  "useUv": 3,
+  "publishAt": "2026-09-23 00:37:39",
+  "snapshotId": 49387,
+  "useScenario": "已有分镜脚本的提示词撰写",
+  "inputType": "投入分镜脚本后，说明生成的段落，确认提示词方案是否正确，确认后产出提示词。",
+  "outputContent": "可使用的视频生成提示词",
+  "coverUrl": null,
+  "resultType": 1,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=82b3a9e096a4488baf3fb71a590feb2f",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/2ae27ee132314257b6cf2912afcae0cd/2e62e3ea50ba7bc4bebfbe279b9b28a83336d648.md"
+  ],
+  "hasPublicSkillContent": true
+}

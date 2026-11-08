@@ -1,0 +1,33 @@
+{
+  "name": "黑暗奇幻出海短剧分镜",
+  "templateUuid": "c647e7d1bec541118e7089347547ff72",
+  "skillUuid": "1953c0ba5675433fad6eb97bf873feaf",
+  "skillKey": "dark-fantasy-drama-storyboard-6673f7560e9a489a8721251aa10f59c6",
+  "version": "1.0.0",
+  "namespace": "libtv-user-generated",
+  "description": "输入剧本片段，自动输出  竖屏电影级黑暗奇幻风真人短剧分镜",
+  "author": "秋林香草",
+  "ownerId": 1263986,
+  "tags": [],
+  "likeCount": 14,
+  "usePv": 15,
+  "useUv": 12,
+  "publishAt": "2026-07-28 17:46:42",
+  "snapshotId": 31465,
+  "useScenario": "✅ 适用场景\n剧本转分镜：发来一段剧本片段（含场景、角色、台词、动作指示），要求生成分镜 /storyboard/ 分镜头脚本\n竖屏暗黑奇幻制作：制作 9:16 竖屏 AI 真人剧、短视频，题材为暗黑奇幻 / 史诗 / 哥特 / 黑暗魔法\n优化既有分镜：已有分镜草稿，需要调整格式、提升电影感、补全镜头语言或魔法特效细节",
+  "inputType": "📝 第一步：给我一段剧本\n直接发剧本片段就行，格式越清晰分镜越准。建议包含：\n场景地点（地牢 / 城堡 / 森林 / 神殿...）\n出场角色（用 Vincent / Selina 或你自己的角色名）\n台词（英文原文，会严格保留不翻译）\n动作指示（攻击 / 施法 / 闪避 / 沉默对峙...）\n情绪基调（压抑 / 紧张 / 悲壮 / 神圣...）",
+  "outputContent": "给你一段完整示例。场景：雷龙王 Vincent 在黑石地牢对 Selina 释放雷电审判，Selina 以暗影之力反噬。\n场景设定：黑石地牢・雷电审判\n场景位置：雷龙王 Vincent 的黑石地牢深处，圆形石砌审判台\n光线设计：冷蓝单侧顶光从穹顶裂缝倾泻，暗部死黑；雷电爆发时瞬间照亮全室\n道具与质感：湿冷青苔石壁、生铁锁链拖地、Vincent 黑鳞重甲挂冰晶、Selina 麻布囚衣渗血、地面刻有古",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/6673f7560e9a489a8721251aa10f59c6/40711d4ede5ed34d4127e083528d44da92efec49.jpg",
+  "resultType": 2,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=c647e7d1bec541118e7089347547ff72",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/6673f7560e9a489a8721251aa10f59c6/40711d4ede5ed34d4127e083528d44da92efec49.jpg",
+    "https://libtv-res.liblib.art/upload-images/6673f7560e9a489a8721251aa10f59c6/e44c2281f09d454450b9ab980e8ade15dde29fe3.jpg"
+  ],
+  "hasPublicSkillContent": true
+}

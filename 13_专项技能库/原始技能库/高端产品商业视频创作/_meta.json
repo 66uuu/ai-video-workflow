@@ -1,0 +1,33 @@
+{
+  "name": "高端产品商业视频创作",
+  "templateUuid": "6fe4ed80be834014b3a57390b2e0e63b",
+  "skillUuid": "c73071bf6c0a499985c6f293ec70d24f",
+  "skillKey": "premium-sports-video-creator-f70ec94a6371474486993c583a4af4f2",
+  "version": "1.0.1",
+  "namespace": "libtv-user-generated",
+  "description": "LOGO粒子特效变成产品，然后展示产品的不同角度与细节",
+  "author": "挣钱养菜菜",
+  "ownerId": 277636,
+  "tags": [],
+  "likeCount": 26,
+  "usePv": 19,
+  "useUv": 13,
+  "publishAt": "2026-07-16 18:12:41",
+  "snapshotId": 27813,
+  "useScenario": "用户上传运动产品图片及品牌LOGO，需要通过交互式流程生成一套完整的高端商业视频物料，包括品牌特效视频、分镜参考图和故事短片。",
+  "inputType": "产品图片（数码，美妆，加点等）、品牌LOGO图片，可选：风格描述",
+  "outputContent": "1. 品牌10秒商业视频（720p，16:9，一次性生成，粒子解构重组）；2. 九宫格3×3影视分镜参考图（2K，16:9）；3. 基于分镜图的15秒完整故事视频（720p，16:9，一次性生成）",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/f70ec94a6371474486993c583a4af4f2/99913ffda58a8b295290860902e3302780ee1c65.png",
+  "resultType": 3,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=6fe4ed80be834014b3a57390b2e0e63b",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/f70ec94a6371474486993c583a4af4f2/27ad91d2b85a0a8b93749482502dc12d30d98eaf.mp4",
+    "https://www.liblib.tv/canvas/share?spaceId=2956340&projectId=21a2bd56ca4444bb9e3ec59a6c752f28"
+  ],
+  "hasPublicSkillContent": true
+}

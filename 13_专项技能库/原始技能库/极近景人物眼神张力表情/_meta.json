@@ -1,0 +1,32 @@
+{
+  "name": "极近景人物眼神张力表情",
+  "templateUuid": "34f678e2cd5a4338abc6733541c79530",
+  "skillUuid": "7cceb44b9dc24459a651222cfbae945b",
+  "skillKey": "cinematic-portrait-tension-42a98d5f83a242568e1adfecc620ed3e",
+  "version": "1.0.0",
+  "namespace": "libtv-user-generated",
+  "description": "把普通“漂亮人像”转化为具有叙事压力、空间层次和电影光感的人",
+  "author": "赛赛_Cecilia",
+  "ownerId": 4351068,
+  "tags": [],
+  "likeCount": 9,
+  "usePv": 19,
+  "useUv": 9,
+  "publishAt": "2026-07-29 17:12:45",
+  "snapshotId": 31809,
+  "useScenario": "描绘人物张力表情，镜头特写，叙事表现人物演技与眼神",
+  "inputType": "一句话梗概角色设定即可。",
+  "outputContent": "40秒人物镜头大特写，极具张力的眼神与表情。",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/42a98d5f83a242568e1adfecc620ed3e/918b03cd3ef30619e2384b3b0c2d324710982a6b.png",
+  "resultType": 3,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=34f678e2cd5a4338abc6733541c79530",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/42a98d5f83a242568e1adfecc620ed3e/a55b264a1e1307271b148838e01090a40f34c90e.mp4"
+  ],
+  "hasPublicSkillContent": true
+}

@@ -1,0 +1,32 @@
+{
+  "name": "SSS级 | 特工大片生成器",
+  "templateUuid": "9550d7084a014b3b908b83bc4be2f70e",
+  "skillUuid": "197cc27699114f7c8aa0aa428696043b",
+  "skillKey": "secret-agent-blockbuster-074be3667ece41bc8993cea11c99240e",
+  "version": "1.0.3",
+  "namespace": "libtv-user-generated",
+  "description": "输入角色一键成片：60秒完整特工大片，自带赛博国风非遗产特效",
+  "author": "杭州金包银批发总部",
+  "ownerId": 10465270,
+  "tags": [],
+  "likeCount": null,
+  "usePv": 5,
+  "useUv": 3,
+  "publishAt": "2026-09-22 20:00:40",
+  "snapshotId": 49257,
+  "useScenario": "影视创作者做宣传片、AI视频玩家做国风特工二创、珠宝非遗商家做品牌大片引流。适配“无畏契约”等游戏IP二创赛事申报，及高端国风、赛博非遗风格的商业视觉定制。",
+  "inputType": "只需一步：输入你的角色概念（例如：“中国国情局特工安九，受国家所托守护赤金御押”）。系统将强制调用父级【顶级大导演思维】底层16个MD规则体系，严格执行12步标准流程，自动生成包含开场UI、赛博终端、SSS级大招“赤金御押·包金”以及片尾拔枪回放的完整大片。无需懂分镜，无需懂剪辑，一键直出。",
+  "outputContent": "一条60秒以上、1080P可直接商用的完整赛博特工大片（包含：SSS级技能大招、国风非遗特效、赛博终端UI、官方话题落版）。同时附赠：一张极具高定感的SSS级技能展示卡（可单独用于游戏卡牌、海报宣发），以及专属的“暗金防崩参数设定”（确保金包银材质绝不翻车）。",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/074be3667ece41bc8993cea11c99240e/181b1e1c51005a4a25c72a61f55c2b25356c1794.png",
+  "resultType": 3,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=9550d7084a014b3b908b83bc4be2f70e",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/074be3667ece41bc8993cea11c99240e/3d620ebcbf40fddac52045ae78fefae492ae67f7.mp4"
+  ],
+  "hasPublicSkillContent": true
+}

@@ -1,0 +1,32 @@
+{
+  "name": "AI版导演分镜提案助手",
+  "templateUuid": "25448b3671224560918e853f6b0071a0",
+  "skillUuid": "9320629abdb3437aafcd24017f8daabb",
+  "skillKey": "director-storyboard-planner-8202932176ac485b9572011074a9f39c",
+  "version": "1.0.0",
+  "namespace": "libtv-user-generated",
+  "description": "不会拆分镜？AI帮你生成可审核的导演级分镜方案",
+  "author": "LibTV",
+  "ownerId": 5924079,
+  "tags": [],
+  "likeCount": 11,
+  "usePv": 14,
+  "useUv": 10,
+  "publishAt": "2026-08-13 10:03:38",
+  "snapshotId": 36472,
+  "useScenario": "适用于短剧、微电影、广告片、宣传片、MV、品牌视频等 AI影视创作场景。帮助创作者解决“有剧本但不知道怎么拍”“分镜无法呈现给客户审核”“镜头设计缺少电影感”等问题，将文字脚本转化为专业导演视角的分镜提案方案，用于前期沟通、方案确认和后续AI制作。",
+  "inputType": "输入你的剧本、故事梗概、创意方案或客户需求，可补充视频类型、时长、画幅和目标风格。Skill会从导演视角进行项目分析，设计整体视觉方向，并按照Scene场景逻辑拆解分镜，输出可供客户/领导审核的电影级分镜方案。确认修改完成后，可进入后续图片和视频制作流程。",
+  "outputContent": "输出完整导演分镜提案，包括：项目创意理解、故事结构分析、视觉风格建议、Scene场景规划、剧情功能、导演意图、镜头语言、画面描述、视觉重点、AI制作注意事项、审核确认事项。帮助团队在制作前完成方向确认，减少反复修改。",
+  "coverUrl": null,
+  "resultType": 1,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=25448b3671224560918e853f6b0071a0",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/8202932176ac485b9572011074a9f39c/848e3fee6edf18195232a0a06adecf86aa3e341a.md"
+  ],
+  "hasPublicSkillContent": true
+}

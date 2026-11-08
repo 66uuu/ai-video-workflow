@@ -1,0 +1,36 @@
+{
+  "name": "超现实几何美学短片",
+  "templateUuid": "8900eaea6d6646ae898c3d25fbac83df",
+  "skillUuid": "63beeae6757a462b97b5c6e8db2f07a0",
+  "skillKey": "surreal-geometric-sculptor-a7e2f42e6c3e4593811bb43ddcf333c4",
+  "version": "1.0.1",
+  "namespace": "libtv-user-generated",
+  "description": "将非遗图像转译为模块化木质几何雕塑短片",
+  "author": "一帧一帧察细节",
+  "ownerId": 6286853,
+  "tags": [
+    "专业影视"
+  ],
+  "likeCount": 30,
+  "usePv": 11,
+  "useUv": 11,
+  "publishAt": "2026-08-13 12:11:43",
+  "snapshotId": 36540,
+  "useScenario": "用于以确切非遗主体图像为依据（如神鹿、孔雀、人形神像），创作模块化木质东方雕塑的榫卯解构、同源重组与气化意境的16:9文旅艺术短片或数字影像，用于文化展示与数字文旅传播。",
+  "inputType": "上传非遗主体正面或侧面图像1-3张，明确主体身份。可选：总时长、主色调、旁白需求。平台自动分析轮廓、纹样与姿态，生成故事板并分阶段确认。",
+  "outputContent": "16:9横屏艺术短片（20-45秒），含静态key_element图像与动态镜头视频（720p），附故事板、分镜说明及剪辑成片。默认无旁白，配低密度东方音景。",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/a7e2f42e6c3e4593811bb43ddcf333c4/9fca3eb181e5d88f0be759ddbd514423baab8a19.jpg",
+  "resultType": 3,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=8900eaea6d6646ae898c3d25fbac83df",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/a7e2f42e6c3e4593811bb43ddcf333c4/b7db0b7e5bf0caa7a12d1cb7de0721ef944cd07c.mp4",
+    "https://libtv-res.liblib.art/upload-images/a7e2f42e6c3e4593811bb43ddcf333c4/a28b96524fe9bf36728c884f3978b564f0b9a8ff.mp4",
+    "https://libtv-res.liblib.art/upload-images/a7e2f42e6c3e4593811bb43ddcf333c4/197530f41d917abfa1842f5c1fa2aa11865e7b25.mp4"
+  ],
+  "hasPublicSkillContent": true
+}

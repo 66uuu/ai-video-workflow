@@ -1,0 +1,32 @@
+{
+  "name": "修复提示词大师",
+  "templateUuid": "fe2143e9335b4aa2969f9bc1ae89024e",
+  "skillUuid": "dd4928ebf0dc4796b297ae34da2a51d7",
+  "skillKey": "prompt-repair-master-a990c8552e784a92a144522e51563431",
+  "version": "1.0.3",
+  "namespace": "libtv-user-generated",
+  "description": "诊断并修复各类媒体创作提示词",
+  "author": "一生平安",
+  "ownerId": 3349697,
+  "tags": [],
+  "likeCount": 2,
+  "usePv": 10,
+  "useUv": 5,
+  "publishAt": "2026-09-02 14:27:32",
+  "snapshotId": 42820,
+  "useScenario": "用户写了一段提示词但效果不理想，想让 Agent 诊断问题并给出优化版本；或用户想从零生成某类媒体创作的高质量提示词",
+  "inputType": "一段需要修复的提示词，或一句描述创作目标的话（用于从零生成）",
+  "outputContent": "诊断报告 + 修复后的高质量提示词，或直接输出从零生成的高质量提示词",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/a990c8552e784a92a144522e51563431/122784afc431d4da4b2eb9c8fa96f20575087ed8.png",
+  "resultType": 1,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=fe2143e9335b4aa2969f9bc1ae89024e",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/a990c8552e784a92a144522e51563431/e31f4f8417b83a075b1bf9aec81c0243e2571d38.md"
+  ],
+  "hasPublicSkillContent": true
+}

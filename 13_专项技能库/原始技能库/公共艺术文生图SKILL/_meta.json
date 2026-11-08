@@ -1,0 +1,32 @@
+{
+  "name": "公共艺术文生图SKILL",
+  "templateUuid": "23a9589ffd854b0784e1a12be11ec680",
+  "skillUuid": "6dcad9cdee0648538f602198b100fcb0",
+  "skillKey": "public-art-visualizer-b85befd035a84c7d99b6927cfa3fa3c5",
+  "version": "1.0.1",
+  "namespace": "libtv-user-generated",
+  "description": "用文字生成公共艺术作品",
+  "author": "星球的AI畅想",
+  "ownerId": 1619666,
+  "tags": [],
+  "likeCount": null,
+  "usePv": 1,
+  "useUv": 1,
+  "publishAt": "2026-08-23 06:30:01",
+  "snapshotId": 39827,
+  "useScenario": "用于公共艺术生成的SKILL命令",
+  "inputType": "用提示词就可以生成公共艺术",
+  "outputContent": "超写实的公共艺术作品",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/b85befd035a84c7d99b6927cfa3fa3c5/5581b3b3a23294b80ed971ee84b17bf190e1ec5a.jpg",
+  "resultType": 2,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=23a9589ffd854b0784e1a12be11ec680",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/b85befd035a84c7d99b6927cfa3fa3c5/57d54655cb767daacee9f9da0781face368101e9.png"
+  ],
+  "hasPublicSkillContent": true
+}

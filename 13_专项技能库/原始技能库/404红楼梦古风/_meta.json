@@ -1,0 +1,34 @@
+{
+  "name": "404红楼梦古风",
+  "templateUuid": "983235ea40dc4d169668a041dcede151",
+  "skillUuid": "e2a25dde27914ea69b6b4a9f1c8f6ab3",
+  "skillKey": "numeric-data-processor-5ecee88464924d92a2968fe23977155d",
+  "version": "1.0.1",
+  "namespace": "libtv-user-generated",
+  "description": "404一键生成爆火红楼梦古风。",
+  "author": "178****2134",
+  "ownerId": 9679704,
+  "tags": [],
+  "likeCount": 20,
+  "usePv": 48,
+  "useUv": 22,
+  "publishAt": "2026-09-09 18:19:06",
+  "snapshotId": 44718,
+  "useScenario": "404一键生成爆火红楼梦古风。",
+  "inputType": "直接问它，我怎样启动你，就可以直接开启",
+  "outputContent": "视频图片",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/5ecee88464924d92a2968fe23977155d/1a8faa6ca8111870421548dc15634a22c3361446.png",
+  "resultType": 3,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=983235ea40dc4d169668a041dcede151",
+  "files": [
+    "SKILL.md",
+    "111111SKILL(1).md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/5ecee88464924d92a2968fe23977155d/deb56d02b75b7bafde5458a2638fb2f56521b374.mp4",
+    "https://libtv-res.liblib.art/upload-images/5ecee88464924d92a2968fe23977155d/680379dcff0d9b4695a9d06344077f5ff163c490.mp4"
+  ],
+  "hasPublicSkillContent": true
+}

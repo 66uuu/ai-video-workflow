@@ -1,0 +1,32 @@
+{
+  "name": "香水 TVC 广告创意",
+  "templateUuid": "229a73215b2140bfbdd420367887edb7",
+  "skillUuid": "7c0c13af54ab402b887bc06d78d74bd8",
+  "skillKey": "tvc-ad-creator-d7ed112b9ed44092882621dd66be0788",
+  "version": "1.0.3",
+  "namespace": "libtv-user-generated",
+  "description": "根据产品资料、目标人群和品牌调性，生成专业的产品广告 TVC",
+  "author": "AIGC",
+  "ownerId": 856605,
+  "tags": [],
+  "likeCount": 24,
+  "usePv": 28,
+  "useUv": 19,
+  "publishAt": "2026-07-14 21:46:49",
+  "snapshotId": 27082,
+  "useScenario": "适用于香水新品上市、品牌形象推广、社交媒体投放、电商详情页、品牌发布会、门店大屏、短视频广告及节日营销。可生成自然花香、水生清新、木质高级、东方馥郁等不同类型的香水 TVC 广告方案，并适配抖音、小红书、视频号、YouTube、电视及品牌官网",
+  "inputType": "用户上传香水瓶或包装图片，并提供品牌名称、产品名称、香调、核心香材、目标人群、广告时长、投放平台和期望风格。Skill 会分析香",
+  "outputContent": "输出一套完整的香水 TVC 广告制作方案，包括品牌定位、核心传播主题、广告创意、品牌口号、影片结构、完整脚本、逐镜头分镜、香气可视化设计、旁白字幕、音乐音效、图像及视频生成提示词、剪辑转场、产品定格画面和多平台适配方案。最终可用于制作 15 秒、30 秒或 60 秒香水宣传片",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/d7ed112b9ed44092882621dd66be0788/7ba2825fcce935227dc39c0e19f9365795bfbab9.png",
+  "resultType": 3,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=229a73215b2140bfbdd420367887edb7",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/d7ed112b9ed44092882621dd66be0788/e95d3370c17e5565c89153e433a1f70eccef5428.mp4"
+  ],
+  "hasPublicSkillContent": true
+}

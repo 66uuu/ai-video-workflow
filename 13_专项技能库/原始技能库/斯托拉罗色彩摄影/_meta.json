@@ -1,0 +1,32 @@
+{
+  "name": "斯托拉罗色彩摄影",
+  "templateUuid": "096f6d97819748bcbbb6d4fd85313484",
+  "skillUuid": "0d995a210760411c99822f4a9768b42a",
+  "skillKey": "storaro-color-narrative-fc90127e45224b3dbc353ef70178b69b",
+  "version": "1.0.0",
+  "namespace": "libtv-user-generated",
+  "description": "把人物弧光、场景冲突和情绪转折变成可执行的色彩叙事系统。",
+  "author": "小葵小丹",
+  "ownerId": 596837,
+  "tags": [],
+  "likeCount": 3,
+  "usePv": 5,
+  "useUv": 3,
+  "publishAt": "2026-07-15 19:20:33",
+  "snapshotId": 27450,
+  "useScenario": "适合电影、广告、MV、品牌短片和AI视频的序列色彩设计，重点解决每镜单独好看但颜色没有剧情含义、肤色被污染和后期滤镜化的问题。 方法研究｜非官方；不复制具体影片镜头，不使用未经授权的肖像、剧照、标识或文本。",
+  "inputType": "输入剧本节拍、人物弧光、地点、时段、美术和服装参考；说明前后场次、关键转折、交付色彩空间和生成平台。",
+  "outputContent": "戏剧轴、颜色角色表、序列色彩脚本、美术服装灯光协同表、曝光与肤色约束、逐镜提示词和色彩连续性检查。",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/fc90127e45224b3dbc353ef70178b69b/a3b37404477365f0f91c512aa1bd1697af72bd49.png",
+  "resultType": 3,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=096f6d97819748bcbbb6d4fd85313484",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/fc90127e45224b3dbc353ef70178b69b/bb2185742218f20fda991b5896fa3decd35ca0da.mp4"
+  ],
+  "hasPublicSkillContent": true
+}

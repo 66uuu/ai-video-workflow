@@ -1,0 +1,32 @@
+{
+  "name": "邵氏赛博武侠",
+  "templateUuid": "7184f0a08142408fbad51cfa20f1abb8",
+  "skillUuid": "9498a9f2c0aa41fa83e89e788544a2f0",
+  "skillKey": "cyber-shaw-wuxia-f33a6a2c15d2444aa9f963f19bf22763",
+  "version": "1.0.5",
+  "namespace": "libtv-user-generated",
+  "description": "史诗级科幻武侠融合风格：邵氏武侠电影美学融合胡金铨导演风格与",
+  "author": "微信用户ffaa31",
+  "ownerId": 9350718,
+  "tags": [],
+  "likeCount": 37,
+  "usePv": 43,
+  "useUv": 20,
+  "publishAt": "2026-07-24 14:07:20",
+  "snapshotId": 30367,
+  "useScenario": "用户需要制作科幻武侠融合题材的角色概念图、场景概念图或分镜视频，希望画面呈现邵氏武侠电影的东方美学质感，同时叠加赛博机械科幻元素与巨物恐惧症式的宏大空间构图时使用，例如武侠人物机械改造设定图、古镇夜景巨物空间概念图、科幻武侠短片分镜画面等。",
+  "inputType": "输入场景、人物、情绪或上传首帧图。可说明要“图片提示词\"\"环境氛围视频\"或“打斗视频”。若信息不足，skill 会先询问场\n景、人物、动作强度和输出语言。",
+  "outputContent": "输出中文图片提示词、英文MJ V8提示词，或图片转视频提示词。视频提示词会按画面类型自动分为环境氛围版或克制打斗\n版，并保留胡金铨式构图、光影与节奏。",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/f33a6a2c15d2444aa9f963f19bf22763/cf89905e4367ddbbb0bb23822e3dc7d28329791c.png",
+  "resultType": 2,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=7184f0a08142408fbad51cfa20f1abb8",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/f33a6a2c15d2444aa9f963f19bf22763/e480af20107eab1e5e99478a9c692a4fd9c5034c.png"
+  ],
+  "hasPublicSkillContent": true
+}

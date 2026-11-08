@@ -1,0 +1,37 @@
+{
+  "name": "拆场景-获得2种场景画面",
+  "templateUuid": "f1e501c7929345ae9f4a87de64ce482b",
+  "skillUuid": "0fe6d277f3454727a73e2613e6184cc4",
+  "skillKey": "shot-frame-decomposer-ef40fcd188c64418aa1c460553cc87b0",
+  "version": "1.0.12",
+  "namespace": "libtv-user-generated",
+  "description": "剔除所有叙事元素。获得自然场景+光影效果场景+画面配色卡",
+  "author": "不若闻",
+  "ownerId": 8496364,
+  "tags": [
+    "通用技能"
+  ],
+  "likeCount": 82,
+  "usePv": 42,
+  "useUv": 36,
+  "publishAt": "2026-07-28 21:45:21",
+  "snapshotId": 31515,
+  "useScenario": "这是一个逆向拆解画面的Skill。它会以你提供的图片为母版，逆向拆解画面，生成原始场景图：\nA｜空间基底：纯粹场景图，无特殊光影。\nB｜氛围建立：一张包含光影色彩的场景图。\nC｜色彩条：画面配色卡",
+  "inputType": "调用skill，以及一张需要拆分的图片直接发送即可，使用Lib image生成。",
+  "outputContent": "A｜空间基底：纯粹场景图，无特殊光影。\nB｜氛围建立：一张包含光影色彩的场景图。\nC｜色彩条：画面配色卡。",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/ef40fcd188c64418aa1c460553cc87b0/fd54f3ef8ad072d88719de3e21c1f3fb0a3637f9.jpg",
+  "resultType": 2,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=f1e501c7929345ae9f4a87de64ce482b",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/ef40fcd188c64418aa1c460553cc87b0/9faebf97cb3ce2483390727ac301888187c3a42f.png",
+    "https://libtv-res.liblib.art/upload-images/ef40fcd188c64418aa1c460553cc87b0/0a67a97df6e41f37dc5d705becf236adfc9efeaa.png",
+    "https://libtv-res.liblib.art/upload-images/ef40fcd188c64418aa1c460553cc87b0/b0835396b27985805462ce9ca0904c82be05dcd6.png",
+    "https://libtv-res.liblib.art/upload-images/ef40fcd188c64418aa1c460553cc87b0/5f8e2c3fad39ae83d285de6e4ab1380ab6f4baf3.png"
+  ],
+  "hasPublicSkillContent": true
+}

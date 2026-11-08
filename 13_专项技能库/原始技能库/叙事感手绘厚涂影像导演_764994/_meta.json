@@ -1,0 +1,42 @@
+{
+  "name": "叙事感手绘厚涂影像导演",
+  "templateUuid": "764994ce90bb4548907db4ffd7752899",
+  "skillUuid": "f40257d255244301803da784d5042fcf",
+  "skillKey": "narrative-impasto-storyboard-c72457fe2a0e465fa5bd964f85108238",
+  "version": "1.0.0",
+  "namespace": "libtv-user-generated",
+  "description": "输入创意、故事、产品信息，生成手绘厚涂/叙事绘本风分镜和成片",
+  "author": "xaoy",
+  "ownerId": 1428724,
+  "tags": [],
+  "likeCount": 8,
+  "usePv": 2,
+  "useUv": 2,
+  "publishAt": "2026-07-24 14:14:01",
+  "snapshotId": 30368,
+  "useScenario": "具有传统动画手绘感和厚涂绘本感，适用于主视觉、系列分镜、动画短片、剧情短片、TVC广告、品牌广告、电商展示等场合的制作；保持故事分镜、角色与场景设定、概念图、海报主视觉及已有画面的风格统一。把模糊想法变成角色统一、产品准确的手绘厚涂影像成片，尤其适合需要电影级镜头语言、连续叙事和低饱和手绘厚涂美学的项目。",
+  "inputType": "输入基础想法、故事、剧本或产品信息，告诉Skill是图片类需求还是视频类需求；若上传角色、产品、场景及风格参考则效果更好。和Skill一起逐步完善脚本，把灵感变为专业的成片表达。",
+  "outputContent": "根据用户需求，对应输出厚涂绘本风主视觉、角色设定与模卡、产品与场景锚点、连续分镜图、专业分镜头脚本、动画短片或TVC广告等。文字部分可涵盖详细的创意概念、视觉设定、镜头表、运镜与转场、旁白、字幕、音乐音效方案；视频脚本包含故事梗概、叙事节拍、表演调度、镜头参数、空间轴线、剪辑衔接、声音和连续性说明。",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/c72457fe2a0e465fa5bd964f85108238/a0a1959e2a1ceaee5166507d524f09ad71d4935a.png",
+  "resultType": 3,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=764994ce90bb4548907db4ffd7752899",
+  "files": [
+    "SKILL.md",
+    "cinematography.md",
+    "continuity-qc.md",
+    "directing-language.md",
+    "preproduction.md",
+    "production-modes.md",
+    "reference.md",
+    "storyboard-script.md",
+    "video-gates.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/c72457fe2a0e465fa5bd964f85108238/ee84c6372e68af6a0492f289c9faca37405b81b6.mp4",
+    "https://www.liblib.tv/canvas/chat-share?shareId=dstwxx1rgo",
+    "https://libtv-res.liblib.art/upload-images/c72457fe2a0e465fa5bd964f85108238/02a0733bd80ede09f787ffcb1cba7e89a02b79da.mp4"
+  ],
+  "hasPublicSkillContent": true
+}

@@ -1,0 +1,42 @@
+{
+  "name": "宠物动作大片",
+  "templateUuid": "93d98c86ce3841a19e410e5ab51a7079",
+  "skillUuid": "3b4fa3619b3341a699f817251251ac91",
+  "skillKey": "pet-action-cinema-629217cc70824286bd9b76a799f8345b",
+  "version": "1.0.4",
+  "namespace": "libtv-user-generated",
+  "description": "将宠物照片或动物描述制作成角色一致、动作激烈、镜头丰富的电影",
+  "author": "KIRA",
+  "ownerId": 2590798,
+  "tags": [],
+  "likeCount": 48,
+  "usePv": 85,
+  "useUv": 36,
+  "publishAt": "2026-08-17 14:58:52",
+  "snapshotId": 37763,
+  "useScenario": "适用于将宠物照片或文字描述的动物角色制作成完整动作大片，包括追逐、打斗、冒险、营救、特工、灾难、奇幻和科幻等题材。\n\n用户有宠物照片时，Skill会保留其品种、毛色、花纹、脸型、眼睛、体型、尾巴、项圈和服饰等身份特征；没有照片时，会根据用户描述创建动物角色三视图。\n\n支持真实动物外观、真实摄影场景和电影级光影特效，也可以根据用户要求改成3D、卡通或其他视觉风格。支持单个或多个动物主角，并提供全自动",
+  "inputType": "全自动模式：收集完宠物资料、故事想法、视频模型和规格后，自动完成三视图、场景与配角、剧本、分镜、关键帧、视频生成、质量检查和最终合成。\n\n分阶段确认模式：按照“剧本→角色→分镜→视频→剪辑”的顺序执行，每个阶段由用户确认后再继续。",
+  "outputContent": "最终视频默认采用真实动物外观、真实摄影场景和电影级光影特效，包含环境音、动作音效、动物叫声及必要对白或配音；不包含音乐、字幕、标题、Logo、水印或其他可见文字。所有中间产物都会保留，但最终只输出一个完整成片视频。",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/629217cc70824286bd9b76a799f8345b/2779a1db9439911bd00568f78413e91c5865f246.png",
+  "resultType": 3,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=93d98c86ce3841a19e410e5ab51a7079",
+  "files": [
+    "SKILL.md",
+    "asset-pipeline.md",
+    "directing-and-storyboards.md",
+    "model-routing.md",
+    "prompt-templates.md",
+    "quality-control.md",
+    "workflow-and-modes.md",
+    "animal-movement-and-behavior.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/629217cc70824286bd9b76a799f8345b/b511f1959ed35a4a2d8acb98f5307156cd20a74a.mp4",
+    "https://www.liblib.tv/canvas/chat-share?shareId=TW6DFZAYpn",
+    "https://libtv-res.liblib.art/upload-images/629217cc70824286bd9b76a799f8345b/53b81d5e19e1945a7784bb6a999c768a0fa3bf0c.mp4",
+    "https://www.liblib.tv/canvas/chat-share?shareId=7NeZZjlbEw"
+  ],
+  "hasPublicSkillContent": true
+}

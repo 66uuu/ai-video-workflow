@@ -1,0 +1,37 @@
+{
+  "name": "中式天庭",
+  "templateUuid": "8c8816b11ca9465d8b8ec6f3cf6b9317",
+  "skillUuid": "07450ddc910e461a9b259e653aca87a1",
+  "skillKey": "chinese-celestial-court-prompter-21de7852fcb3483b912fb65ca69ffe6d",
+  "version": "1.0.1",
+  "namespace": "libtv-user-generated",
+  "description": "一键给出中式天庭生图和生视频提示词",
+  "author": "姜一剪",
+  "ownerId": 10640712,
+  "tags": [],
+  "likeCount": 11,
+  "usePv": 29,
+  "useUv": 9,
+  "publishAt": "2026-08-18 20:54:59",
+  "snapshotId": 38242,
+  "useScenario": "一键生成爆火中式天庭skill",
+  "inputType": "复制粘贴skill给的提示词生成图片后，再复制粘贴生视频提示词生成视频",
+  "outputContent": "中式天庭风格视频",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/21de7852fcb3483b912fb65ca69ffe6d/195d497d59076511dc4712aeb6c998f804be16b8.png",
+  "resultType": 2,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=8c8816b11ca9465d8b8ec6f3cf6b9317",
+  "files": [
+    "SKILL.md",
+    "references/prompt-recipes.md",
+    "references/shot-atlas.md",
+    "references/libtv-hard-mode.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/21de7852fcb3483b912fb65ca69ffe6d/db028ac8d9fe680cc042a2f393709490bfa07c7c.png",
+    "https://libtv-res.liblib.art/upload-images/21de7852fcb3483b912fb65ca69ffe6d/cfa58ea2fe1cc764d666f1ea6e0114bd58214cb6.png",
+    "https://libtv-res.liblib.art/upload-images/21de7852fcb3483b912fb65ca69ffe6d/195d497d59076511dc4712aeb6c998f804be16b8.png"
+  ],
+  "hasPublicSkillContent": true
+}

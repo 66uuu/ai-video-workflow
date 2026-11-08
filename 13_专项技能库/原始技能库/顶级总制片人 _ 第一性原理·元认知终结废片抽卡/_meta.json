@@ -1,0 +1,37 @@
+{
+  "name": "顶级总制片人 | 第一性原理·元认知终结废片抽卡",
+  "templateUuid": "bfff47642a2f4b789d6e796eb1e9051a",
+  "skillUuid": "71dfc2fb50534f81b9f17b063a7d36cc",
+  "skillKey": "master-producer-quality-optimizer-074be3667ece41bc8993cea11c99240e",
+  "version": "1.0.8",
+  "namespace": "libtv-user-generated",
+  "description": "元认知前置，是终结算力黑洞的唯一真相。",
+  "author": "杭州金包银批发总部",
+  "ownerId": 10465270,
+  "tags": [],
+  "likeCount": 3,
+  "usePv": 4,
+  "useUv": 3,
+  "publishAt": "2026-09-22 19:58:19",
+  "snapshotId": 49250,
+  "useScenario": "专为AI视频创作者打造，彻底解决“烧钱抽卡、算力浪费、废片频出”的痛点。当你准备写剧本、画分镜、生图或点击生成按钮时，强制激活元认知。它作为最高权重拦截器，在源头卡死台词超载（字数÷语速）、空间崩坏、光影漂移与口型变形。告别盲目抽卡，将废片率与算力成本大幅降低。",
+  "inputType": "第一步：启动咒语\n输入：“总制片人，启动。项目是《XXX》，现在请开始第一关：剧本关审查。”\n第二步：输入素材\n提供一句话创意、完整剧本或分镜表（可指定画风与预期时长）。\n第三步：配合审查\n在AI产出每一步后，阅读“拦截报告”并确认修改。只有按顺序通过剧本、分镜、图像、视频四阶门禁，才允许进入下一关。未过审，绝对禁止抽卡。",
+  "outputContent": "1.四阶门禁审查报告（含灵魂关与物理关的详细诊断，明确指出违规项与修改方向）。\n\n2.一份通过“第一性原理与元认知”双重校验的安全提示词，包含：锁死单镜≤5秒的台词拆分、画面占比与视线落点、光影色温参数。\n\n3.一张明确的“算力白名单”，所有提示词均已拉满16条防崩约束，可直接输入LibTV生成，彻底杜绝废片。",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/074be3667ece41bc8993cea11c99240e/9be749231e5e62075b6ee94375ed214aa187c64b.png",
+  "resultType": 3,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=bfff47642a2f4b789d6e796eb1e9051a",
+  "files": [
+    "SKILL.md",
+    "附01：剧本关审查清单.md（终极修订版）.md",
+    "附02 分镜关审查清单（第二关）.md",
+    "附03 图像关审查清单（第三关）.md",
+    "附04 视频关审查清单（第四关）.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/074be3667ece41bc8993cea11c99240e/d6fb4512b083e360e08059f848be83a93ef16186.mp4",
+    "https://libtv-res.liblib.art/upload-images/074be3667ece41bc8993cea11c99240e/d5cc9108f3fbffd4fc346c0c38258460d01f1d4b.png"
+  ],
+  "hasPublicSkillContent": true
+}

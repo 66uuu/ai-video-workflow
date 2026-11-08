@@ -1,0 +1,32 @@
+{
+  "name": "天空SKY AI电影制作系统",
+  "templateUuid": "3a3424c6843d48618889e38bf3b82801",
+  "skillUuid": "af2dc1d7b96e49a1b75a46cbe3ebdf12",
+  "skillKey": "sky-ai-film-production-203ebb3f54064c82bbbe6016b61af05e",
+  "version": "1.0.5",
+  "namespace": "libtv-user-generated",
+  "description": "《天空SKY》AI电影制作全套规则",
+  "author": "187****1811",
+  "ownerId": 5248394,
+  "tags": [],
+  "likeCount": null,
+  "usePv": 1,
+  "useUv": 1,
+  "publishAt": "2026-09-14 09:43:12",
+  "snapshotId": 46020,
+  "useScenario": "为《天空SKY》第一集《红灯》及后续集数生成AI电影镜头素材，确保角色、武器、场景、运动、VFX的跨镜头一致性",
+  "inputType": "剧本片段或分镜描述，以及需要生成的镜头编号或场景说明",
+  "outputContent": "符合《天空》项目全套规则的单镜头视频生成Prompt，或直接生成视频素材",
+  "coverUrl": null,
+  "resultType": 1,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=3a3424c6843d48618889e38bf3b82801",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/203ebb3f54064c82bbbe6016b61af05e/2bebb4cec261faeba21e69d7da61e8c7b82cc5ab.md"
+  ],
+  "hasPublicSkillContent": true
+}

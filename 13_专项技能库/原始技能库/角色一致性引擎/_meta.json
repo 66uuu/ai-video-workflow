@@ -1,0 +1,35 @@
+{
+  "name": "角色一致性引擎",
+  "templateUuid": "f18e072f4af4493a83631056a5d9fa10",
+  "skillUuid": "c436d6ef621045648addf2367baf194f",
+  "skillKey": "character-consistency-engine-d807237b83114b3b85c6a4fcdea77a3c",
+  "version": "1.0.0",
+  "namespace": "libtv-user-generated",
+  "description": "为保证不同分镜视屏角色及表情动作形态一致性而打造",
+  "author": "富裕打火机",
+  "ownerId": 10357987,
+  "tags": [],
+  "likeCount": 28,
+  "usePv": 22,
+  "useUv": 17,
+  "publishAt": "2026-07-29 17:16:08",
+  "snapshotId": 31811,
+  "useScenario": "保证不同分集不同分镜之间角色保证一致性。",
+  "inputType": "根据提示输入角色信息进行角色创立输出",
+  "outputContent": "不同分集保证角色一致性",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/d807237b83114b3b85c6a4fcdea77a3c/f5c8f06f6562a79a3c060f6b3ab029fb895864f5.png",
+  "resultType": 2,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=f18e072f4af4493a83631056a5d9fa10",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/d807237b83114b3b85c6a4fcdea77a3c/d8f27472f9ddd51962474766ebcfedbd6bb1b699.png",
+    "https://libtv-res.liblib.art/upload-images/d807237b83114b3b85c6a4fcdea77a3c/0301eee01028506f04f9b8469a25903682c61fb4.png",
+    "https://libtv-res.liblib.art/upload-images/d807237b83114b3b85c6a4fcdea77a3c/c0687216768550ceedf654a4f0a5bab2432e267d.png",
+    "https://libtv-res.liblib.art/upload-images/d807237b83114b3b85c6a4fcdea77a3c/e9b585cd4c1efabdbbe0a3f6142091514b28a8fb.png"
+  ],
+  "hasPublicSkillContent": true
+}

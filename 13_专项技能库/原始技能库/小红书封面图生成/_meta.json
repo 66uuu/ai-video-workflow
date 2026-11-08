@@ -1,0 +1,32 @@
+{
+  "name": "小红书封面图生成",
+  "templateUuid": "0f69f70501c24e09a856433fce9337e6",
+  "skillUuid": "c7afa92b344b4e0e9c88f6a2286d9297",
+  "skillKey": "xiaohongshu-cover-generator-3a3116ffddaf4a00bca52ba208076734",
+  "version": "1.0.3",
+  "namespace": "libtv-user-generated",
+  "description": "参考图一键生成小红书封面",
+  "author": "千寻AI部落",
+  "ownerId": 10241743,
+  "tags": [],
+  "likeCount": 2,
+  "usePv": 3,
+  "useUv": 3,
+  "publishAt": "2026-09-19 18:11:02",
+  "snapshotId": 48063,
+  "useScenario": "有参考图，需要快速生成带标题大字的小红书 3:4 封面图",
+  "inputType": "提供一张或多张参考图，输入封面大字",
+  "outputContent": "带标题大字的 3:4 小红书封面定版图",
+  "coverUrl": "https://libtv-res.liblib.art/sd-gen-save-img/genius_playground/image/3a3116ffddaf4a00bca52ba208076734/913710879_fafbb0157f2c46d1a5a51d02340f303b.png",
+  "resultType": 2,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=0f69f70501c24e09a856433fce9337e6",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/3a3116ffddaf4a00bca52ba208076734/732acdb6b61b28238757d9a1c65eb0d5c9917986.png"
+  ],
+  "hasPublicSkillContent": true
+}

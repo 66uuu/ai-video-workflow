@@ -1,0 +1,33 @@
+{
+  "name": "张彻 | 邵氏硬派武侠一键成片",
+  "templateUuid": "50c6b9f09e4444f498f1cc4735f9032c",
+  "skillUuid": "97619382ed7a422e8ccd1810b187db50",
+  "skillKey": "shaw-brothers-wuxia-stylizer-074be3667ece41bc8993cea11c99240e",
+  "version": "1.0.4",
+  "namespace": "libtv-user-generated",
+  "description": "一键把武侠灵感转化为张彻邵氏硬派美学、盘肠大战与赤膊血战的悲",
+  "author": "杭州金包银批发总部",
+  "ownerId": 10465270,
+  "tags": [],
+  "likeCount": 6,
+  "usePv": 12,
+  "useUv": 4,
+  "publishAt": "2026-09-22 20:01:18",
+  "snapshotId": 49259,
+  "useScenario": "适用于影视创作者、AIGC赛事选手及民国/硬派题材短剧创作者。用于快速生成张彻邵氏硬派武侠风格的短剧、预告片或品牌宣发片。高度适配“数字新国风”AIGC赛事申报及致敬硬派武侠美学的商业视觉制作。",
+  "inputType": "三步极简操作：\n\n给灵感：在对话框中输入一句武侠创意（例如：“民国初年，硬汉拳师在煤油灯下赤膊血战洋人武士”）。\n\n选风格：系统已默认加载【顶级大导演思维】底层引擎，自动匹配张彻邵氏硬派美学（高反差棚拍、血战肉搏），并严格执行【张彻邵氏_硬派美学与防崩禁则】，杜绝穿模和廉价特效。\n\n一键生成：点击生成按钮，系统自动产出完整的悲壮硬汉武侠成片（无AI乱码、无穿模）。",
+  "outputContent": "一部120秒以内、极具张彻邵氏硬派美学的悲壮武侠成片（MP4格式），无AI乱码、无穿模、无廉价特效。\n\n附赠全套工业化导演素材包：\n\n完整的电影级分镜脚本\n\n邵氏高反差煤油灯棚拍视觉锚点\n\n硬派打斗防崩参数与动作设计逻辑",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/074be3667ece41bc8993cea11c99240e/76c1c0d0a17c5e39a2805e018c6cbbd0c965cfce.png",
+  "resultType": 3,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=50c6b9f09e4444f498f1cc4735f9032c",
+  "files": [
+    "SKILL.md",
+    "张彻邵氏_硬派美学与防崩禁则.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/074be3667ece41bc8993cea11c99240e/8bfd3f886bc5d623e8259a6e2698601e09476ee0.mp4"
+  ],
+  "hasPublicSkillContent": true
+}

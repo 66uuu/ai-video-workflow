@@ -1,0 +1,32 @@
+{
+  "name": "万能通用傻瓜式生成视频",
+  "templateUuid": "bdcddd87ec95440486f3cf8ab0f8f47a",
+  "skillUuid": "c1235984f8444f4cb77dc33d2d403acb",
+  "skillKey": "universal-video-generator-a18f080adfda4b008d2b388158077d1c",
+  "version": "1.0.6",
+  "namespace": "libtv-user-generated",
+  "description": "选择自动生成，输入剧本。",
+  "author": "烟墨鱼",
+  "ownerId": 2394275,
+  "tags": [],
+  "likeCount": null,
+  "usePv": 5,
+  "useUv": 2,
+  "publishAt": "2026-09-11 18:01:29",
+  "snapshotId": 45482,
+  "useScenario": "万能通用风格傻瓜式生成",
+  "inputType": "输入剧本，时长，选好模型和参数，是否需要台词声音。",
+  "outputContent": "固定图片资产、视频",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/a18f080adfda4b008d2b388158077d1c/2f754d0001525726307a24aff0a4062fd0bf795b.jpg",
+  "resultType": 3,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=bdcddd87ec95440486f3cf8ab0f8f47a",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/a18f080adfda4b008d2b388158077d1c/393af4505e712a5f280f45d8619db7b95393257e.mp4"
+  ],
+  "hasPublicSkillContent": true
+}

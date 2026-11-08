@@ -1,0 +1,33 @@
+{
+  "name": "经典电影三镜头法",
+  "templateUuid": "68dcc58f8cba4129a720439c7221d3f9",
+  "skillUuid": "577d3866717f484991e25362387a1d96",
+  "skillKey": "classic-cinematic-three-shot-b82c0defe0a34bdbbdd8171d4393a031",
+  "version": "1.0.0",
+  "namespace": "libtv-user-generated",
+  "description": "复刻电影经典的三镜头法，全景双人+A角度反打+B角度反打",
+  "author": "AI施",
+  "ownerId": 5050140,
+  "tags": [],
+  "likeCount": 14,
+  "usePv": 8,
+  "useUv": 6,
+  "publishAt": "2026-08-05 22:00:29",
+  "snapshotId": 33719,
+  "useScenario": "经典电影三镜头法多实用于人物对话场景，特别是双人对话场景",
+  "inputType": "直接要求用经典电影三镜头法生成分镜即可",
+  "outputContent": "经典的电影构图和双人对话角度，实现好莱坞经典电影叙事",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/b82c0defe0a34bdbbdd8171d4393a031/927565707d872373cd7a0be4a3d698905b658f93.png",
+  "resultType": 3,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=68dcc58f8cba4129a720439c7221d3f9",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/b82c0defe0a34bdbbdd8171d4393a031/4b0938b6cde0d648058bd1c628ba89a2927525e1.mp4",
+    "https://libtv-res.liblib.art/upload-images/b82c0defe0a34bdbbdd8171d4393a031/be40a654349d85c48b1e510780ab54ab10529d8f.mp4"
+  ],
+  "hasPublicSkillContent": true
+}

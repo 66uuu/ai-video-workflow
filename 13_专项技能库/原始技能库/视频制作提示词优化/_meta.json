@@ -1,0 +1,32 @@
+{
+  "name": "视频制作提示词优化",
+  "templateUuid": "85319501693645f6bb74eee0b62ccfa6",
+  "skillUuid": "a719978c82c3433198159ea49af011bd",
+  "skillKey": "video-prompt-optimizer-4f07fea34441499588657fa6baba4e78",
+  "version": "1.0.0",
+  "namespace": "libtv-user-generated",
+  "description": "帮助生成视频prompt",
+  "author": "188****0181",
+  "ownerId": 10899824,
+  "tags": [],
+  "likeCount": 10,
+  "usePv": 12,
+  "useUv": 9,
+  "publishAt": "2026-07-29 20:26:55",
+  "snapshotId": 31871,
+  "useScenario": "当希望减少抽卡次数，输出视频和自己的预想尽可能的接近，但又不知道从哪里开始写提示词时，可以借助skill进行提示词的撰写",
+  "inputType": "可以告诉agent，你大概的需求，skill会对你进行提问，根据你的问答，输出立项的提示词",
+  "outputContent": "可直接生成视频的提示词",
+  "coverUrl": null,
+  "resultType": 1,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=85319501693645f6bb74eee0b62ccfa6",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/4f07fea34441499588657fa6baba4e78/abba702c665e68ee7b83ad931d01a1280c562398.md"
+  ],
+  "hasPublicSkillContent": true
+}

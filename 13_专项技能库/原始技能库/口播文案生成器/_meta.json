@@ -1,0 +1,35 @@
+{
+  "name": "口播文案生成器",
+  "templateUuid": "24b7449208e74894bbe998955df47e1f",
+  "skillUuid": "c273a8229c164ce8a49176c8bf85e669",
+  "skillKey": "talking-head-script-writer-d711f42ff4e248abb509c1ff3bc6f644",
+  "version": "1.0.0",
+  "namespace": "libtv-user-generated",
+  "description": "输入主题+平台+时长，输出完整口播文案",
+  "author": "Liana",
+  "ownerId": 10889281,
+  "tags": [
+    "商业广告"
+  ],
+  "likeCount": 56,
+  "usePv": 43,
+  "useUv": 39,
+  "publishAt": "2026-08-06 09:54:00",
+  "snapshotId": 33814,
+  "useScenario": "想做口播/解说类短视频但不知道说什么的人；适配游戏测评、产品种草、知识科普等多类型",
+  "inputType": "对话框输入：主题 / 平台 / 时长，如\"暗黑奇幻手游测评 / 抖音 / 60秒\"",
+  "outputContent": "完整口播文案（分段标注+预估用时+字幕断句）+ 末尾文案结构模板速查",
+  "coverUrl": null,
+  "resultType": 1,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=24b7449208e74894bbe998955df47e1f",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/d711f42ff4e248abb509c1ff3bc6f644/ce689254c9847a9d987876a31a2609569068f627.md",
+    "https://libtv-res.liblib.art/upload-images/d711f42ff4e248abb509c1ff3bc6f644/2e8a3370ba5aefc21412f3070b0023e5fc2eef7d.md"
+  ],
+  "hasPublicSkillContent": true
+}

@@ -1,0 +1,35 @@
+{
+  "name": "电影化3D水墨视觉引擎",
+  "templateUuid": "f32bbc6374774088bc07bf4aab625653",
+  "skillUuid": "544d819a50824f0a86b8e394dee6a715",
+  "skillKey": "cinematic-3d-ink-wash-48eba7050eb34c0b9981fd47d996ca59-544d819a",
+  "version": "1.0.1",
+  "namespace": "libtv-user-generated",
+  "description": "一句话生成电影化3D水墨风格图片",
+  "author": "灵墨AIGC",
+  "ownerId": 9773185,
+  "tags": [],
+  "likeCount": 20,
+  "usePv": 19,
+  "useUv": 15,
+  "publishAt": "2026-07-25 18:37:19",
+  "snapshotId": 30677,
+  "useScenario": "古风人物插画、历史题材电影概念图、水墨风格场景设计、唐宋文人形象生成",
+  "inputType": "文字描述（人物、场景、动态、构图要求）",
+  "outputContent": "电影化3D水墨风格图片，2.35:1超宽银幕画幅，哑光物理质感，高反差冷灰蓝单色调",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/48eba7050eb34c0b9981fd47d996ca59/254baf596939b61704f14be9a3245e7d71480703.png",
+  "resultType": 2,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=f32bbc6374774088bc07bf4aab625653",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/48eba7050eb34c0b9981fd47d996ca59/254baf596939b61704f14be9a3245e7d71480703.png",
+    "https://libtv-res.liblib.art/upload-images/48eba7050eb34c0b9981fd47d996ca59/6cb6ac2f1d3bec298a4f1f45ba869d32db1ae019.png",
+    "https://libtv-res.liblib.art/upload-images/48eba7050eb34c0b9981fd47d996ca59/cf9d0f909bac9bab375462a3091a8815d9783e21.png",
+    "https://libtv-res.liblib.art/upload-images/48eba7050eb34c0b9981fd47d996ca59/2bc3b370e221cf1881f8a8c786807e3d8c2a1502.png"
+  ],
+  "hasPublicSkillContent": true
+}

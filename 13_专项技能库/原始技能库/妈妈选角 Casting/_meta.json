@@ -1,0 +1,34 @@
+{
+  "name": "妈妈选角 Casting",
+  "templateUuid": "5ac38c7909014c278f3e3018bb7b4a62",
+  "skillUuid": "0b9b160978a24570b9cab9528ec150d2",
+  "skillKey": "young-mom-casting-ef77fa37cc044640a7aadddfe3022cb9",
+  "version": "1.0.4",
+  "namespace": "libtv-user-generated",
+  "description": "根据年龄、孩子阶段、家庭关系、品牌调性与剧情任务，为广告、短",
+  "author": "视觉新青年",
+  "ownerId": 4364112,
+  "tags": [],
+  "likeCount": 13,
+  "usePv": 2,
+  "useUv": 2,
+  "publishAt": "2026-07-22 16:24:01",
+  "snapshotId": 29820,
+  "useScenario": "母婴、汽车、食品、家电、教育、保险、家庭短剧、亲子内容与家庭群像。",
+  "inputType": "输入妈妈的年龄、职业、孩子年龄、性格、家庭关系、品牌类型或剧本片段，获得三个差异明显的选角方向、专业评分与最佳方案推荐。",
+  "outputContent": "角色分析、三套选角方向、自动评分、推荐方案、面部特写、全身定妆、表情九宫格、人物三视图和亲子互动测试。",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/ef77fa37cc044640a7aadddfe3022cb9/f548ac201b16a0337056a4bf2857622bdb273d23.png",
+  "resultType": 2,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=5ac38c7909014c278f3e3018bb7b4a62",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/ef77fa37cc044640a7aadddfe3022cb9/d681cfe61cdb23455956ba6d5df3d6647bad6718.png",
+    "https://libtv-res.liblib.art/upload-images/ef77fa37cc044640a7aadddfe3022cb9/d06833f0073939b41535545c824746e2f3236429.png",
+    "https://libtv-res.liblib.art/upload-images/ef77fa37cc044640a7aadddfe3022cb9/c12b74fdf9cf046f563c41af1c7e41918bebb46d.png"
+  ],
+  "hasPublicSkillContent": true
+}

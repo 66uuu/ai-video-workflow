@@ -1,0 +1,32 @@
+{
+  "name": "墨沫出品 · 饮品/食品 / 美妆 /商业TVC",
+  "templateUuid": "0344acc3e0ec4db6bf13afa02e4a200e",
+  "skillUuid": "06e02691e7594925ae456751cbb4992b",
+  "skillKey": "beverage-commercial-video-producer-eae344d03ae6440cb34c5471de6bb287",
+  "version": "1.0.1",
+  "namespace": "libtv-user-generated",
+  "description": "饮品/ 食品 / 美妆 / 生活消费品60s商业大片全流程生",
+  "author": "墨沫",
+  "ownerId": 277872,
+  "tags": [],
+  "likeCount": 2,
+  "usePv": 4,
+  "useUv": 2,
+  "publishAt": "2026-09-18 23:38:01",
+  "snapshotId": 47826,
+  "useScenario": "需要为饮品/快消品制作有人出镜+产品特写交替的商业大片时使用，支持自定义产品、人物、风格和时长",
+  "inputType": "产品图片（用户上传）、视频规格（时长/画幅/风格）、人物设定偏好",
+  "outputContent": "含BGM的60s商业大片成片（16:9，1080P），包含开场痛点、产品出场、卖点呈现、情感高潮四段",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/eae344d03ae6440cb34c5471de6bb287/7fc0bb2ceb94a52a14a29d47ea8cc6eae2f0fa39.jpg",
+  "resultType": 3,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=0344acc3e0ec4db6bf13afa02e4a200e",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/eae344d03ae6440cb34c5471de6bb287/0c0e787043f0e99f8dd1edb41c52d44aa428b75c.mp4"
+  ],
+  "hasPublicSkillContent": true
+}

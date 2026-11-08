@@ -1,0 +1,32 @@
+{
+  "name": "电影级武打定格画面生成",
+  "templateUuid": "b74fb20fe94743a5b95845ca214ddc06",
+  "skillUuid": "100ce2f882904a6d8a73b59cf11c5121",
+  "skillKey": "cinematic-martial-arts-freeze-frame-a45340c6704344578c0f884b55121a00",
+  "version": "1.0.1",
+  "namespace": "libtv-user-generated",
+  "description": "基于用户上传的角色参考图（三视图或正面照），生成极具电影质感",
+  "author": "T先生",
+  "ownerId": 2765057,
+  "tags": [],
+  "likeCount": 10,
+  "usePv": 23,
+  "useUv": 9,
+  "publishAt": "2026-09-06 16:40:33",
+  "snapshotId": 43861,
+  "useScenario": "用户提供角色参考图（建议三视图：正面、侧面、背面），描述想要的武打动作（如回旋踢、正面重拳、侧踢、跳跃下劈等），即可生成多角度电影级武打定格画面，适用于武术宣传、动作游戏概念图、影视分镜、海报设计等场景。",
+  "inputType": "角色参考图（三视图或正面照）+ 动作描述文字",
+  "outputContent": "电影级武打动态定格图片，支持单角度精制或四角度多机位对比版本（正面极低仰拍、侧面贴地追镜、斜后方追拍、斜高俯压迫构图）",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/a45340c6704344578c0f884b55121a00/db76038c54966f0281e70c48a2eedcdd1e89207b.png",
+  "resultType": 2,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=b74fb20fe94743a5b95845ca214ddc06",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/a45340c6704344578c0f884b55121a00/db76038c54966f0281e70c48a2eedcdd1e89207b.png"
+  ],
+  "hasPublicSkillContent": true
+}

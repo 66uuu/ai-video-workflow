@@ -1,0 +1,33 @@
+{
+  "name": "AI剧本转提示词之王",
+  "templateUuid": "2d7c3c5a5451459cadb1c0f2dda290d1",
+  "skillUuid": "9ed7aad212d64519ac8eaa90d8af2396",
+  "skillKey": "script-prompt-builder-1fabd7e3958345a893d8d7e4a37868f0",
+  "version": "1.0.0",
+  "namespace": "libtv-user-generated",
+  "description": "将剧本直接变为可用的提示词工程，并且一段15秒非常高效",
+  "author": "AIGC佬猫",
+  "ownerId": 1096368,
+  "tags": [],
+  "likeCount": 55,
+  "usePv": 179,
+  "useUv": 48,
+  "publishAt": "2026-07-18 00:58:32",
+  "snapshotId": 28307,
+  "useScenario": "专门为短剧、漫剧、预告片这类高强度叙事需求",
+  "inputType": "扔进剧本后，直接告诉：开始。",
+  "outputContent": "给用户提供一套提示词，可以解决：\n时空穿帮”与“逻辑混乱，动态节奏失控”与“口型/动作对不上，情绪脱节”与“表演空洞，镜头语言单调/外行，画面太满/太挤”与“生成失败率高，片段孤立、剪辑跳脱，改稿地狱”与“反复洗稿。",
+  "coverUrl": null,
+  "resultType": 1,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=2d7c3c5a5451459cadb1c0f2dda290d1",
+  "files": [
+    "SKILL.md",
+    "改提示词.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/1fabd7e3958345a893d8d7e4a37868f0/1525f77ce66aabfad4549a439143898d9e102bec.md"
+  ],
+  "hasPublicSkillContent": true
+}

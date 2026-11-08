@@ -1,0 +1,34 @@
+{
+  "name": "史诗巨兽灾难电影",
+  "templateUuid": "52a68da866fa4a4b8238db44bd91a882",
+  "skillUuid": "7af14096a67f40169b998b238f984b00",
+  "skillKey": "epic-kaiju-cinematography-23611f6ea9184e3e9e0d2b469bace06e",
+  "version": "1.0.1",
+  "namespace": "libtv-user-generated",
+  "description": "当用户想要做巨兽、哥斯拉、金刚等史诗巨物感镜头时使用。用户说",
+  "author": "WuFei",
+  "ownerId": 489943,
+  "tags": [],
+  "likeCount": 21,
+  "usePv": 17,
+  "useUv": 13,
+  "publishAt": "2026-07-21 11:14:45",
+  "snapshotId": 29453,
+  "useScenario": "当用户想创作史诗级巨物科幻电影短片时使用，尤其适用于包含哥斯拉、金刚等巨型怪兽或机甲的灾难战斗画面。适用时长为30秒至5分钟，风格基于《环太平洋》与怪兽电影宇宙的视觉语言，强调巨大尺度感、压迫感和电影级质感。",
+  "inputType": "整体流程分为多步，核心是协作与确认。首先收集用户的创意、剧本或参考图等素材，接着分析其中的巨物特征、世界观和尺度关系。随后生成视",
+  "outputContent": "最终交付一套完整的电影制作方案，包含多份结构化文档：分镜脚本、统一提示词指南、视觉资产清单、声音和音乐设计方案、色彩脚本以及最终渲染规格。所有内容均以可编辑的格式输出，确保从角色设定、场景到音画细节保持高度一致。",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/23611f6ea9184e3e9e0d2b469bace06e/19d25b0b75cac5ee5cd293ad60e8870ba9eb09c1.jpg",
+  "resultType": 2,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=52a68da866fa4a4b8238db44bd91a882",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/23611f6ea9184e3e9e0d2b469bace06e/91d44916e7e39d83621b1baabb8aed1a7c428a83.png",
+    "https://libtv-res.liblib.art/upload-images/23611f6ea9184e3e9e0d2b469bace06e/f1a318661d7e21af4d1f4a08837241d2df758766.png",
+    "https://libtv-res.liblib.art/upload-images/23611f6ea9184e3e9e0d2b469bace06e/967678a42b696a35d9c2f1d7129fce1ae326d136.png"
+  ],
+  "hasPublicSkillContent": true
+}

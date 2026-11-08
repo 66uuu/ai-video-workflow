@@ -1,0 +1,35 @@
+{
+  "name": "东方版画旅行诗工作流",
+  "templateUuid": "75ffac2aa244474a95c50a3e94b30a0a",
+  "skillUuid": "b362169377fd421da04b887f5a0354a3",
+  "skillKey": "oriental-woodblock-travel-poem-e5c05143074646b7ae70a88b81ec6c2a",
+  "version": "1.0.2",
+  "namespace": "libtv-user-generated",
+  "description": "任意照片→水墨版画拼贴文案全流程",
+  "author": "星美Fine",
+  "ownerId": 773892,
+  "tags": [],
+  "likeCount": 1,
+  "usePv": 0,
+  "useUv": 0,
+  "publishAt": "2026-08-31 11:16:04",
+  "snapshotId": 42187,
+  "useScenario": "将任意旅行照片制作成收藏级东方版画拼贴艺术成品，适合旅行手账、社交分享或打印收藏",
+  "inputType": "例如：一张旅行照片（建议16:9&3:4横版，风景/建筑/街道均可）",
+  "outputContent": "16:9 3:4竖版东方版画拼贴旅行诗成品图，含原照片+版画转绘+原创中英文诗句\n模型建议：General image Pro seedance5.0 pro",
+  "coverUrl": "https://libtv-res.liblib.art/sd-gen-save-img/genius_playground/image/e5c05143074646b7ae70a88b81ec6c2a/892514617_af769e532d6e45ccaa6fc0a685e865f8.png",
+  "resultType": 2,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=75ffac2aa244474a95c50a3e94b30a0a",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/e5c05143074646b7ae70a88b81ec6c2a/6466929542bd2728b5dc59109e19b9bea53fc3f3.png",
+    "https://libtv-res.liblib.art/upload-images/e5c05143074646b7ae70a88b81ec6c2a/4e38fd0c7393ed7225094ae859d3f905b5c5e0bd.png",
+    "https://libtv-res.liblib.art/upload-images/e5c05143074646b7ae70a88b81ec6c2a/46e5ac0ada8b8f83c186d1691b2131fa9ab93f6f.png",
+    "https://libtv-res.liblib.art/upload-images/e5c05143074646b7ae70a88b81ec6c2a/973947512136b30eb9ccffe7758184eab7806c64.png"
+  ],
+  "hasPublicSkillContent": true
+}

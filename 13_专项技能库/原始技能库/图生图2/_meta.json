@@ -1,0 +1,32 @@
+{
+  "name": "图生图2",
+  "templateUuid": "87be5b0c3b9649e3be06f0c4337d9aff",
+  "skillUuid": "a305687c03444cfab1ff2dc888ba5d8f",
+  "skillKey": "commercial-beauty-portrait-3a14b9edf2db49b5ba1cc63d33d547fe-a305687c",
+  "version": "1.0.1",
+  "namespace": "libtv-user-generated",
+  "description": "基于参考图生成商业美妆人像，支持通过参考图指定服装款式。以下",
+  "author": "Yep组",
+  "ownerId": 6446325,
+  "tags": [],
+  "likeCount": 1,
+  "usePv": 7,
+  "useUv": 4,
+  "publishAt": "2026-08-18 11:23:33",
+  "snapshotId": 38015,
+  "useScenario": "用户提供服装参考图，生成穿着该服装的全新商业美妆模特人像。\n\n【固定不变的7个元素 — 每次生成必须严格保持】\n1. 发型：黑色直发中分低马尾，发丝光滑顺直\n2. 服装：以参考图 {{node_key}} 为准，精准还原服装款式、剪裁、面料质感与颜色（如露肩挖肩设计、双肩镂空、柔软垂坠面料等）\n3. 姿势动作：左手手指微微弯曲轻碰下巴，身体侧身对镜头，肩膀一前一后\n4. 表情：俏皮微笑不漏齿",
+  "inputType": "输入一句话即可",
+  "outputContent": "3:4竖版近景胸景商业美妆人像，2K分辨率，超写实商业广告质感。固定7要素：黑色直发中分低马尾、服装按参考图还原、左手轻碰下巴侧身姿势、俏皮微笑不漏齿、胸部以上头颈肩构图、85mm f/5.6高调柔光棚拍均匀无阴影、3:4竖版。",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/3a14b9edf2db49b5ba1cc63d33d547fe/7c947f5c131a735fe5b64cc7a2ba1719a83017f7.png",
+  "resultType": 2,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=87be5b0c3b9649e3be06f0c4337d9aff",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/3a14b9edf2db49b5ba1cc63d33d547fe/7c947f5c131a735fe5b64cc7a2ba1719a83017f7.png"
+  ],
+  "hasPublicSkillContent": true
+}

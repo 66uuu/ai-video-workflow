@@ -1,0 +1,32 @@
+{
+  "name": "禾田传媒小曲提示词",
+  "templateUuid": "eefb2a7f02834c34a7a611ffddfc1770",
+  "skillUuid": "693c3c2c6a964e57bef47f1ada2f247a",
+  "skillKey": "video-prompt-template-6fbed95479b5415ebb1395d9459a3556",
+  "version": "1.0.0",
+  "namespace": "libtv-user-generated",
+  "description": "全能视频提示词模板",
+  "author": "130****2039",
+  "ownerId": 10614812,
+  "tags": [],
+  "likeCount": 1,
+  "usePv": 0,
+  "useUv": 0,
+  "publishAt": "2026-08-27 09:37:17",
+  "snapshotId": 41147,
+  "useScenario": "最新完整视频提示词模板，可用于大多数的剧本创造，只需要扔进剧本，自动生成视频提示词",
+  "inputType": "描述剧本内容和框架",
+  "outputContent": "把剧本拆分成多段故事线，每段故事线15秒便于复制使用",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/6fbed95479b5415ebb1395d9459a3556/b4053c090fede6afa2ae907da420dfeec9977b80.png",
+  "resultType": 2,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=eefb2a7f02834c34a7a611ffddfc1770",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/6fbed95479b5415ebb1395d9459a3556/b4053c090fede6afa2ae907da420dfeec9977b80.png"
+  ],
+  "hasPublicSkillContent": true
+}

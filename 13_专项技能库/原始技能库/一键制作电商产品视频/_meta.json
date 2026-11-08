@@ -1,0 +1,32 @@
+{
+  "name": "一键制作电商产品视频",
+  "templateUuid": "d55d164e9753409fbf63d2e8101e5779",
+  "skillUuid": "84ec76b609794f96b5b12295d0b80e7e",
+  "skillKey": "product-seeding-video-workflow-b64ed659cc764b0595b151bf49d5b868",
+  "version": "1.0.1",
+  "namespace": "libtv-user-generated",
+  "description": "上传产品图，一站式输出电商产品视频，完整创作工作流",
+  "author": "AIGC野生包",
+  "ownerId": 4621635,
+  "tags": [],
+  "likeCount": 11,
+  "usePv": 25,
+  "useUv": 16,
+  "publishAt": "2026-08-21 11:46:52",
+  "snapshotId": 39314,
+  "useScenario": "适用于电商/品牌方制作产品种草类短视频，尤其是强调\"产品高还原度+生活方式氛围\"融合的场景，如家居家电、生活好物、美妆日用等品类，该流程可显著提升生成一致性、降低试错成本。",
+  "inputType": "按八阶段顺序推进：①项目建档梳理参数与卖点清单；②产品多角度图拼接+精准描述模板锁定产品主锚点；③按叙事结构拆分镜头脚本；④4宫格/9宫格流程搭建人物与场景锚点；⑤分镜画面生成时强制引用产品/人物/场景三锚点；⑥先Demo验证运镜再正式生成视频；⑦合成配乐、字幕；⑧归档全部锚点、分镜表与成片资产，完成项目。",
+  "outputContent": "输出产品主锚点（4宫格产品图+精准描述模板）、人物锚点（三视图模卡+手部参考图）、场景锚点（环境空镜/产品空镜/产品人物构图）、完整分镜表文件、各分镜视频节点、最终合成成片、封面图，以及项目资产归档文档与复盘记录。",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/b64ed659cc764b0595b151bf49d5b868/221867e4c8ec654e5ec02640b4e7639005ae1673.png",
+  "resultType": 3,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=d55d164e9753409fbf63d2e8101e5779",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/b64ed659cc764b0595b151bf49d5b868/11f48c2de9c1ee016d3719b61353c9d4dd105a6b.mp4"
+  ],
+  "hasPublicSkillContent": true
+}

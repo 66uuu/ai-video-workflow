@@ -1,0 +1,35 @@
+{
+  "name": "Prompt优化器",
+  "templateUuid": "d83da98cf1b04dda81d13a8855f01e4f",
+  "skillUuid": "8f5530c8f8c74eb2973e8c84a59ffd91",
+  "skillKey": "image-prompt-polisher-d711f42ff4e248abb509c1ff3bc6f644",
+  "version": "1.0.0",
+  "namespace": "libtv-user-generated",
+  "description": "中文大白话转专业MJ/即梦英文Prompt",
+  "author": "Liana",
+  "ownerId": 10889281,
+  "tags": [
+    "短剧漫剧"
+  ],
+  "likeCount": 50,
+  "usePv": 50,
+  "useUv": 23,
+  "publishAt": "2026-08-06 09:41:42",
+  "snapshotId": 33810,
+  "useScenario": "想用AI出图但不会写英文prompt、描述词写不精准导致出图效果差的AIGC新手；适配人物立绘、场景概念、产品摄影等多类型",
+  "inputType": "对话框输入：中文描述 + 风格偏好 + 用途，如\"维多利亚时代穿黑风衣的男人站在雨中 / 电影感 / 人物立绘\"",
+  "outputContent": "3组优化后的英文Prompt（含参数）+ 中文释义 + 风格关键词 + 末尾Prompt调参指南",
+  "coverUrl": null,
+  "resultType": 1,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=d83da98cf1b04dda81d13a8855f01e4f",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/d711f42ff4e248abb509c1ff3bc6f644/4aa601bc8976da0ec3c97fa04e50b83083e25580.md",
+    "https://libtv-res.liblib.art/upload-images/d711f42ff4e248abb509c1ff3bc6f644/12936c0885d4f4aaf047c45744990775f716048c.md"
+  ],
+  "hasPublicSkillContent": true
+}

@@ -1,0 +1,42 @@
+{
+  "name": "剧本视觉资产师",
+  "templateUuid": "4f7f527889144accb85279797d3f68e7",
+  "skillUuid": "fc5ffd56ab7546eb9d1778d99f06029b",
+  "skillKey": "script-visual-asset-builder-519c1b8e862e4a7eaa79d1854c3077f0",
+  "version": "1.0.1",
+  "namespace": "libtv-user-generated",
+  "description": "根据剧本生成可复用的人物、场景、道具与分镜组",
+  "author": "灵感交卷处",
+  "ownerId": 10867063,
+  "tags": [],
+  "likeCount": 26,
+  "usePv": 56,
+  "useUv": 38,
+  "publishAt": "2026-07-22 19:23:52",
+  "snapshotId": 29886,
+  "useScenario": "适用于短剧、短片、动画和漫剧的前期视觉资产生产。根据剧本建立统一画风和比例，并生成可局部返修、可供后续视频流程继续使用的结构化图片资产。",
+  "inputType": "输入剧本、故事梗概或分镜文本，可附人物、场景和风格参考。画风与比例可自行指定；未指定时由Skill根据内容判断，只有关键歧义才集中询问一次。",
+  "outputContent": "在同一张LibTV画布中输出简短视觉设定，以及人物组、场景组、道具组和分镜组。没有内容的类别不创建空组。",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/519c1b8e862e4a7eaa79d1854c3077f0/11d37408b302c2f7356660ed23a1b89a42df3e82.png",
+  "resultType": 2,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=4f7f527889144accb85279797d3f68e7",
+  "files": [
+    "SKILL.md",
+    "references/asset-form-prompts.md",
+    "references/asset-prompts.md",
+    "references/storyboard-and-editing.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/519c1b8e862e4a7eaa79d1854c3077f0/6b20a19f0c198c5b886ebaa7a36e4d5b4f83d0d4.png",
+    "https://www.liblib.tv/canvas/chat-share?shareId=PkcmCTcJyK",
+    "https://libtv-res.liblib.art/upload-images/519c1b8e862e4a7eaa79d1854c3077f0/698d086d920dd72434bff8faff53d19a7e9bc158.png",
+    "https://www.liblib.tv/canvas/chat-share?shareId=PkcmCTcJyK",
+    "https://libtv-res.liblib.art/upload-images/519c1b8e862e4a7eaa79d1854c3077f0/9a6b9f9739cba792c3903fad7df605b0dd851da8.png",
+    "https://www.liblib.tv/canvas/chat-share?shareId=PkcmCTcJyK",
+    "https://libtv-res.liblib.art/upload-images/519c1b8e862e4a7eaa79d1854c3077f0/06ef4c89ba97fda2bf45a674c44385de8263e673.png",
+    "https://www.liblib.tv/canvas/chat-share?shareId=PkcmCTcJyK"
+  ],
+  "hasPublicSkillContent": true
+}

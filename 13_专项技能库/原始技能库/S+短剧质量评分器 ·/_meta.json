@@ -1,0 +1,32 @@
+{
+  "name": "S+短剧质量评分器 ·",
+  "templateUuid": "8cd6e415285b4e3baa262332beb96b9d",
+  "skillUuid": "a426c8e497124145b2287bdcded7dda9",
+  "skillKey": "short-drama-quality-evaluator-911064ef99034c4186faaeb27e8392a2-a426c8e4",
+  "version": "1.0.0",
+  "namespace": "libtv-user-generated",
+  "description": "丢进短剧剧本/大纲，30秒输出七维评分+八条红线诊断+爽点密",
+  "author": "188****1230",
+  "ownerId": 7304089,
+  "tags": [],
+  "likeCount": 46,
+  "usePv": 84,
+  "useUv": 32,
+  "publishAt": "2026-07-15 01:29:41",
+  "snapshotId": 27156,
+  "useScenario": "一套工业级短剧质检标准：输入剧本/大纲，输出七维评分(100分制)、八条零容忍红线诊断、爽点密度硬指标、题材通过率红线、S+~C 等级判定与逐条修改建议。填补了'AI 只生成、不评判好坏'的空白——在你投钱拍摄或投稿平台前，先用数据说过得去不。底层经 40+ 版本迭代、6 部实战剧本与多平台拒稿复盘校准。",
+  "inputType": "如何使用：把短剧剧本（单集或整部，纯文本）粘贴进来即可。可附故事梗概或任何叙事素材。无需任何视频/图片素材，纯文本输入。",
+  "outputContent": "输出内容：①总评分数 + S+/S/A/B/C 等级；②七维度得分明细(开篇抓人/节奏/台词/正能量/下沉情绪/人设/逻辑)；③八条零容忍红线触发检测；④爽点密度统计；⑤对标爆款差距；⑥按优先级排序的修改建议清单(报告模板见 SKILL.md)。",
+  "coverUrl": null,
+  "resultType": 1,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=8cd6e415285b4e3baa262332beb96b9d",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/911064ef99034c4186faaeb27e8392a2/fd622896826c3295871d81dfbf84d1dd48ad3cc7.md"
+  ],
+  "hasPublicSkillContent": true
+}

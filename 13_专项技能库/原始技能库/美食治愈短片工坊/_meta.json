@@ -1,0 +1,33 @@
+{
+  "name": "美食治愈短片工坊",
+  "templateUuid": "a4115be6f2ef4a1da2eee4f358f5cedb",
+  "skillUuid": "91518cc9f9b24c88815ea27a0e43edee",
+  "skillKey": "healing-food-video-planner-f1cd68423b354abba991fe16eb70fb0a",
+  "version": "1.0.1",
+  "namespace": "libtv-user-generated",
+  "description": "输入菜品名称，生成日系治愈风美食短片方案，从食材到成品的完整",
+  "author": "Devilworld",
+  "ownerId": 610387,
+  "tags": [],
+  "likeCount": 32,
+  "usePv": 33,
+  "useUv": 27,
+  "publishAt": "2026-07-17 02:14:11",
+  "snapshotId": 27951,
+  "useScenario": "美食探店账号、菜谱教学视频、餐饮品牌宣传、治愈系内容创作、小红书美食笔记、深夜食堂主题",
+  "inputType": "输入菜品名称或美食主题，选择偏好的风格，即可获得一套从食材到成品的完整美食短片制作方案。",
+  "outputContent": "美食分镜脚本 + 每镜AI提示词 + 布光指南 + ASMR音效建议的治愈系美食短片完整制作文档",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/f1cd68423b354abba991fe16eb70fb0a/d68f5f345bacd57d529879af871c5e2404dcccef.png",
+  "resultType": 3,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=a4115be6f2ef4a1da2eee4f358f5cedb",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/f1cd68423b354abba991fe16eb70fb0a/900f396f2441e64271a0ad9c1e69850f295266c1.mp4",
+    "https://libtv-res.liblib.art/upload-images/f1cd68423b354abba991fe16eb70fb0a/8b6128780173e5881f4a6ae0494dd0c21658dfbf.mp4"
+  ],
+  "hasPublicSkillContent": true
+}

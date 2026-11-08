@@ -1,0 +1,32 @@
+{
+  "name": "AI电商信息流广告带货视频",
+  "templateUuid": "2f3ef2b9327841119f3f2596884e61d0",
+  "skillUuid": "b6513305eba548e098986b04984ca182",
+  "skillKey": "ecommerce-video-generator-6aa6c213aba74331b27b0dc0e4913af5",
+  "version": "1.0.5",
+  "namespace": "libtv-user-generated",
+  "description": "全流程AI电商带货视频生成",
+  "author": "泓锟老师",
+  "ownerId": 9462606,
+  "tags": [],
+  "likeCount": 22,
+  "usePv": 23,
+  "useUv": 17,
+  "publishAt": "2026-08-23 15:49:17",
+  "snapshotId": 39885,
+  "useScenario": "输入产品信息图、产品图片、主播角色形象图，自动完成选题→文案→分镜→场景图→视频合成全流程，生成具有爆款潜质的信息流带货广告视频",
+  "inputType": "产品信息图（产品介绍/卖点）、产品精修图、产品多视角图、主播角色形象图，共4张图片素材",
+  "outputContent": "15秒9:16竖屏电商带货成片，含视频轨+口播配音轨+BGM轨，适配抖音/快手/小红书信息流投放",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/6aa6c213aba74331b27b0dc0e4913af5/a6e8d7864271f93dc9eab5aeff7d1c29484cbaae.png",
+  "resultType": 3,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=2f3ef2b9327841119f3f2596884e61d0",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/6aa6c213aba74331b27b0dc0e4913af5/86b128b4f1255504f3659ef71e7e302b3443171c.mp4"
+  ],
+  "hasPublicSkillContent": true
+}

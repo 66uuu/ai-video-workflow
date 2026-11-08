@@ -1,0 +1,39 @@
+{
+  "name": "牛大师爆款爽感饮料广告",
+  "templateUuid": "927948f529604e70875549b1ce88545c",
+  "skillUuid": "8ae099a893844925b16baa8492832b19",
+  "skillKey": "asmr-beverage-ad-creator-c253e448d8dd47d9b51d8792b255e96f",
+  "version": "1.0.6",
+  "namespace": "libtv-user-generated",
+  "description": "爆款ASMR饮料广告生成",
+  "author": "牛大师",
+  "ownerId": 4175534,
+  "tags": [],
+  "likeCount": 4,
+  "usePv": 2,
+  "useUv": 2,
+  "publishAt": "2026-09-07 17:19:28",
+  "snapshotId": 44124,
+  "useScenario": "适用于汽水、气泡水、果汁、茶饮、功能饮料等产品的高质量商业广告制作。用户提供男演员或女演员参考图、饮料产品参考图及品牌信息后，Skill 自动完成广告创意、主视觉、五感视觉设计、清透色卡、20秒关键帧方案，并在用户确认后生成专业爽感饮料广告成片。适合抖音、小红书、视频号、电商详情页、品牌宣传、广告提案及商业投放。",
+  "inputType": "上传至少1张演员参考图和1张清晰的饮料产品图，建议演员图提供正脸或半身照，产品图提供包装正面清晰图。然后输入品牌名、产品名、饮料口味、核心卖点、广告语以及希望的视觉方向，例如“冰爽青柠、夏日户外、清透高级”。Skill 将首先调用 Seedream 5.0 Pro 生成主KV、四步五感广告图、清透色卡和20秒广告关键帧。请先检查演员一致性、产品包装准确性、水花冰块质感和整体广告感。只有用户明确回复",
+  "outputContent": "输出完整的爽感饮料广告制作方案，包括：1张高质量广告主KV、1张四步五感广告视觉图、1张清透广告感色卡、5张20秒视频关键帧，以及关键帧确认环节。用户确认合格后，最终输出1支默认20秒、16:9的 Seedance 2.5 高质量商业饮料广告视频。成片重点保证演员稳定、产品包装准确、冰块通透、水花真实、气泡细腻、冷凝水清晰，并形成“感官**—价值特写—爽感回馈—品牌记忆—产品收口”的完整广告节奏。",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/c253e448d8dd47d9b51d8792b255e96f/26f5ea258941d5fbacfdd5c0737044e676d665b4.png",
+  "resultType": 3,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=927948f529604e70875549b1ce88545c",
+  "files": [
+    "SKILL.md",
+    "refresh-drink-ad-20s/SKILL.md",
+    "refresh-drink-ad-20s/references/libtv-form.md",
+    "refresh-drink-ad-20s/references/libtv-runtime.md",
+    "refresh-drink-ad-20s/references/prompts.md",
+    "refresh-drink-ad-20s/references/quality-gates.md",
+    "refresh-drink-ad-20s/references/style-reference.md",
+    "refresh-drink-ad-20s/references/workflow.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/c253e448d8dd47d9b51d8792b255e96f/28dd72d8fd741a2dd05e7dbd7e5f74f27a01c56b.mp4"
+  ],
+  "hasPublicSkillContent": true
+}

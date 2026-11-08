@@ -1,0 +1,32 @@
+{
+  "name": "2D图片转3D风格",
+  "templateUuid": "1bdcd0f5acb54412afbdb753a62d52e5",
+  "skillUuid": "e44ba6d92c8e43009d20e3d6557ebf6d",
+  "skillKey": "image-to-3d-stylizer-c5d7b0081ffd4f9e8429a396e926a178",
+  "version": "1.0.4",
+  "namespace": "libtv-user-generated",
+  "description": "上传2D图片，一键转为3D游戏美术风格",
+  "author": "151****7834",
+  "ownerId": 9171688,
+  "tags": [],
+  "likeCount": 1,
+  "usePv": 9,
+  "useUv": 5,
+  "publishAt": "2026-09-03 19:19:19",
+  "snapshotId": 43259,
+  "useScenario": "将2D平面图片转换为3D卡通游戏美术风格图像，适合角色设计、游戏美术、IP形象3D化等场景",
+  "inputType": "1-3张角色参考图（角色图在前）+ 1张场景图（最后一张）",
+  "outputContent": "两个角色合成到Supercell风格3D夜晚场景中的最终图，1:1比例，4K画质",
+  "coverUrl": "https://libtv-res.liblib.art/sd-gen-save-img/genius_playground/image/c5d7b0081ffd4f9e8429a396e926a178/898799502_225ffce88f164aa085671048bf20324b.png",
+  "resultType": 2,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=1bdcd0f5acb54412afbdb753a62d52e5",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/c5d7b0081ffd4f9e8429a396e926a178/e60b402349b31a76f229028eb83156d65e04f5f7.png"
+  ],
+  "hasPublicSkillContent": true
+}

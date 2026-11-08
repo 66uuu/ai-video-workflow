@@ -1,0 +1,33 @@
+{
+  "name": "动作分裂（识别场景变化）",
+  "templateUuid": "128976d3445d4f2190b0588d27022068",
+  "skillUuid": "eb6d9c429dae4823b059e8cd78109292",
+  "skillKey": "character-motion-splitter-070617bacd7f4e0e992527afc4d97fe9",
+  "version": "1.0.3",
+  "namespace": "libtv-user-generated",
+  "description": "上传一张模特图，裂变同一人物服装的多镜头、多动作、多表情素材",
+  "author": "404",
+  "ownerId": 7458909,
+  "tags": [],
+  "likeCount": 13,
+  "usePv": 3,
+  "useUv": 3,
+  "publishAt": "2026-08-04 14:11:04",
+  "snapshotId": 33186,
+  "useScenario": "适用于电商模特、小红书图组、广告选片和人物素材扩展。用一张模特图生成同一人物、同一服装商品下多个独立镜头、动作、视线与表情，自动分配商品主图、版型、互动、动态、表情和留白职责，并通过商品证据、动作等级、背景策略和组内排重控制商业可用性。",
+  "inputType": "上传1张模特主图；可补充同一模特面部锚点、商品正侧背细节图和场景图。选择电商/小红书、4/6/8/12张、智能/手动/混合、变化强度、背景策略和表情幅度。Skill先给参考职责、角度证据、商业镜头表和逐张提示词，确认后再独立生成和验收。",
+  "outputContent": "输出参考图职责与角度证据表、商业镜头规划、4/6/8/12张独立2K人物裂变图、完整逐张提示词与参数、组图联系表，以及单张商业评分、组内差异分和排重验收记录。",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/070617bacd7f4e0e992527afc4d97fe9/3b3a2de40a9b972da48e60821251ce5ec6674fbb.png",
+  "resultType": 2,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=128976d3445d4f2190b0588d27022068",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/070617bacd7f4e0e992527afc4d97fe9/67c39733f19c43f633675a2608b890026be46801.png",
+    "https://libtv-res.liblib.art/upload-images/070617bacd7f4e0e992527afc4d97fe9/d828e07d7fadb484689e4e9510c3d01e4759f0fb.png"
+  ],
+  "hasPublicSkillContent": true
+}

@@ -1,0 +1,32 @@
+{
+  "name": "角色融合skill",
+  "templateUuid": "d1da5a3d320349c28d15f02ffa4e939a",
+  "skillUuid": "0917990bbc2c4c988c84615598af7b65",
+  "skillKey": "character-fusion-cb00e901705c4b43acd77a04f090481c",
+  "version": "1.0.8",
+  "namespace": "libtv-user-generated",
+  "description": "想要设计出新的角色设计，通过多个角色的特点优势进行融合!",
+  "author": "Dillan同学",
+  "ownerId": 829172,
+  "tags": [],
+  "likeCount": 31,
+  "usePv": 11,
+  "useUv": 9,
+  "publishAt": "2026-07-19 16:10:14",
+  "snapshotId": 28741,
+  "useScenario": "适用于游戏、动漫、小说、影视、剧本杀等叙事类创作场景,典型使用时机:\n\n- 角色卡设计:快速生成高完成度的新角色,丰富项目角色库\n- 变体/进化体设计:在已有角色基础上做二阶、三阶变体\n- 跨作品风格融合:如\"赛博朋克 + 仙侠\"、\"蒸汽朋克 + 和风\"\n- 玩家/读者共创:UGC 工具,让用户自创角色\n- 原型测试:编剧早期快速验证角色概念可行性\n- 反派/配角补全:为主角团设计互补或对位的角色",
+  "inputType": "**输入方式**(任选其一):\n\n- 图片:上传 1–5 张角色参考图(立绘、概念图、剧照均可)\n- 文字:直接描述 1–5 个",
+  "outputContent": "输出物:一份完整的角色设计文档 + 可选 AI 配图 Prompt\n\n1. 角色名(自动生成,符合融合风格)\n2. 基础信息表(种族 / 性别 / 年龄 / 阵营 / 定位)\n3. 外貌设定(具体到可直接交付画师)\n4. 性格画像(核心标签 + 行为模式 + 价值观 + 说话方式)\n5. 能力/技能(融合后的技能体系,标注来源)\n6. 背景故事(融合后的出身与经历,300 字以内)\n7. 特征溯源",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/cb00e901705c4b43acd77a04f090481c/ccdc323c95387ec93d74c7a2f40450a26dd347da.png",
+  "resultType": 2,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=d1da5a3d320349c28d15f02ffa4e939a",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/cb00e901705c4b43acd77a04f090481c/ccdc323c95387ec93d74c7a2f40450a26dd347da.png"
+  ],
+  "hasPublicSkillContent": true
+}

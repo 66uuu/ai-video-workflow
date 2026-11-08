@@ -1,0 +1,32 @@
+{
+  "name": "拼贴风格MG动画",
+  "templateUuid": "ad8a04e6a93b4b6fa64a92ce57c003d0",
+  "skillUuid": "b93757f8b7d547519a4f834a49c3c23f",
+  "skillKey": "collage-motion-graphics-8713372419b1455880531225678b1e8b",
+  "version": "1.0.0",
+  "namespace": "libtv-user-generated",
+  "description": "输入文案自动生成拼贴风MG动画",
+  "author": "哈利皮皮",
+  "ownerId": 179891,
+  "tags": [],
+  "likeCount": 22,
+  "usePv": 52,
+  "useUv": 36,
+  "publishAt": "2026-08-23 22:52:54",
+  "snapshotId": 39989,
+  "useScenario": "科普类、视频空镜都可以用，非常有趣",
+  "inputType": "输入口播内容（10秒/50-100字为好），自动生成图片，确定图片后，AI自动生成视频",
+  "outputContent": "拼贴风格的MG动画",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/8713372419b1455880531225678b1e8b/dcca6c8b50c7e5116ea8a840bde98b42ffbaaf9c.png",
+  "resultType": 2,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=ad8a04e6a93b4b6fa64a92ce57c003d0",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/8713372419b1455880531225678b1e8b/dcca6c8b50c7e5116ea8a840bde98b42ffbaaf9c.png"
+  ],
+  "hasPublicSkillContent": true
+}

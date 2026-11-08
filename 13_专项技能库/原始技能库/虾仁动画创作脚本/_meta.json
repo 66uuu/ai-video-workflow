@@ -1,0 +1,33 @@
+{
+  "name": "虾仁动画创作脚本",
+  "templateUuid": "8f30576f080b4a93adf608196541f991",
+  "skillUuid": "3cbdc55738ac4ecda802c194dc2166de",
+  "skillKey": "shrimp-animation-script-332d1bb1752b4818bcbc18e262d9b6f1",
+  "version": "1.0.1",
+  "namespace": "libtv-user-generated",
+  "description": "虾仁动画创作脚本",
+  "author": "Li鱼",
+  "ownerId": 1343084,
+  "tags": [],
+  "likeCount": 10,
+  "usePv": 1,
+  "useUv": 1,
+  "publishAt": "2026-07-30 15:14:45",
+  "snapshotId": 32075,
+  "useScenario": "虾仁动画创作脚本",
+  "inputType": "虾仁动画创作脚本",
+  "outputContent": "虾仁动画创作脚本",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/332d1bb1752b4818bcbc18e262d9b6f1/935946c724ac53a5ef9cc7f52ad8431dcb179d68.png",
+  "resultType": 2,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=8f30576f080b4a93adf608196541f991",
+  "files": [
+    "SKILL.md",
+    "虾仁动画脚本创作模板.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/332d1bb1752b4818bcbc18e262d9b6f1/935946c724ac53a5ef9cc7f52ad8431dcb179d68.png"
+  ],
+  "hasPublicSkillContent": true
+}

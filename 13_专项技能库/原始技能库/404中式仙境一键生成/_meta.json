@@ -1,0 +1,35 @@
+{
+  "name": "404中式仙境一键生成",
+  "templateUuid": "cbbcacbd566b41d59ad5699672eb58df",
+  "skillUuid": "c157a4c8cb5647839fcae349870b53da",
+  "skillKey": "basic-task-runner-4078a729478147e9a393ea6d06cb4598",
+  "version": "1.0.2",
+  "namespace": "libtv-user-generated",
+  "description": "简单描述你想要的感觉，从生图到生视频全流程一键式",
+  "author": "404星球实验室",
+  "ownerId": 2983613,
+  "tags": [],
+  "likeCount": 29,
+  "usePv": 84,
+  "useUv": 43,
+  "publishAt": "2026-08-15 14:43:22",
+  "snapshotId": 37238,
+  "useScenario": "AI中式仙境",
+  "inputType": "简单描述你想要的感觉，从生图到生视频全流程一键式",
+  "outputContent": "AI中式仙境",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/4078a729478147e9a393ea6d06cb4598/ad2f4c17130b569dd46e7013bb714487f7d76a8a.png",
+  "resultType": 3,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=cbbcacbd566b41d59ad5699672eb58df",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/4078a729478147e9a393ea6d06cb4598/d30a3d896546fece55ccfa861ae0b1e414f910fb.mp4",
+    "https://libtv-res.liblib.art/upload-images/4078a729478147e9a393ea6d06cb4598/be32c19ed2688475515bedc6925189fb3a178abc.mp4",
+    "https://libtv-res.liblib.art/upload-images/4078a729478147e9a393ea6d06cb4598/a30b7823b8ce883b57fb462d8f35eb2dda83efd6.mp4",
+    "https://libtv-res.liblib.art/upload-images/4078a729478147e9a393ea6d06cb4598/f44901a765e97616349e92cf3fb383a0804dbc2b.mp4"
+  ],
+  "hasPublicSkillContent": true
+}

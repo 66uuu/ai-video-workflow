@@ -1,0 +1,32 @@
+{
+  "name": "托兰德深焦调度",
+  "templateUuid": "442f9964cc9044c09369e29dcab8d398",
+  "skillUuid": "c7d6d383439a44969796985f0e6dc393",
+  "skillKey": "toland-deep-focus-staging-fc90127e45224b3dbc353ef70178b69b",
+  "version": "1.0.0",
+  "namespace": "libtv-user-generated",
+  "description": "用前中后景、遮挡、尺度与演员调度，让深焦画面清楚而且有叙事优",
+  "author": "小葵小丹",
+  "ownerId": 596837,
+  "tags": [],
+  "likeCount": 5,
+  "usePv": 0,
+  "useUv": 0,
+  "publishAt": "2026-07-17 11:28:44",
+  "snapshotId": 28034,
+  "useScenario": "适合群像戏、权力关系、空间揭示、建筑场景、悬疑调度和AI视频，重点解决全部清晰却没有视觉重点、前景遮脸、背景抢戏、广角畸变与层级跳变。",
+  "inputType": "输入场景目标、人物关系、关键揭示、场地平面、门窗纵深、演员走位、可用机位和光源；标出必须同时可读的人物、动作与道具，并说明画幅和",
+  "outputContent": "空间命题、三层平面、注意力顺序、节拍调度表、机位焦段与清晰边界、曝光光源方案、拍摄或生成提示词，以及空间连续性质检清单。",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/fc90127e45224b3dbc353ef70178b69b/036943b118b2e4543a276ce2f0f6a753bf2409aa.png",
+  "resultType": 3,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=442f9964cc9044c09369e29dcab8d398",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/fc90127e45224b3dbc353ef70178b69b/72db2d621957c9364c96b8cf9b3e676a3faf7997.mp4"
+  ],
+  "hasPublicSkillContent": true
+}

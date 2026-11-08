@@ -1,0 +1,37 @@
+{
+  "name": "邵氏—胡金铨美学分镜",
+  "templateUuid": "ab7ac734185d432b99ee7e3d5192be49",
+  "skillUuid": "6d98e8d34d0448349b0cbce2f6d35bd5",
+  "skillKey": "shaw-king-hu-aesthetic-storyboard-b85befd035a84c7d99b6927cfa3fa3c5",
+  "version": "1.0.0",
+  "namespace": "libtv-user-generated",
+  "description": "特定电影风格的图片生成",
+  "author": "星球的AI畅想",
+  "ownerId": 1619666,
+  "tags": [],
+  "likeCount": 2,
+  "usePv": 8,
+  "useUv": 6,
+  "publishAt": "2026-09-10 23:42:26",
+  "snapshotId": 45204,
+  "useScenario": "特定的复古分镜风格",
+  "inputType": "明确胡金铨风格即可",
+  "outputContent": "图片",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/b85befd035a84c7d99b6927cfa3fa3c5/12d4fad5804e9d8a716cf4a66b87da1f8d5e516f.png",
+  "resultType": 2,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=ab7ac734185d432b99ee7e3d5192be49",
+  "files": [
+    "SKILL.md",
+    "baseline-profile.md",
+    "prompt-kernels.md",
+    "visual-dna.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/b85befd035a84c7d99b6927cfa3fa3c5/12d4fad5804e9d8a716cf4a66b87da1f8d5e516f.png",
+    "https://libtv-res.liblib.art/upload-images/b85befd035a84c7d99b6927cfa3fa3c5/22ab30dfba2d3687c10464ceebc78145cdf3d2da.png",
+    "https://libtv-res.liblib.art/upload-images/b85befd035a84c7d99b6927cfa3fa3c5/01de48f8c001b86e42d168d339e7835496aa5f38.png"
+  ],
+  "hasPublicSkillContent": true
+}

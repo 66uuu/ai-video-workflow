@@ -1,0 +1,32 @@
+{
+  "name": "超写实CG电影仙侠电影",
+  "templateUuid": "4b8e42fb7ef04c3091df99e5e3177389",
+  "skillUuid": "6e69991759cf4337af9112bbbed6b213",
+  "skillKey": "photorealistic-xianxia-cinematics-6ac0b6c0245742e5ab9be7d6281e1c2a",
+  "version": "1.0.0",
+  "namespace": "libtv-user-generated",
+  "description": "超写实CG电影仙侠电影画面",
+  "author": "191****1208",
+  "ownerId": 10652951,
+  "tags": [],
+  "likeCount": 15,
+  "usePv": 24,
+  "useUv": 18,
+  "publishAt": "2026-08-11 18:44:19",
+  "snapshotId": 35939,
+  "useScenario": "任何",
+  "inputType": "让用户输入一个剧本或想法",
+  "outputContent": "我希望生成30秒超写实CG电影仙侠电影",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/6ac0b6c0245742e5ab9be7d6281e1c2a/782e51fd2a146313e273c5fe1023322234bdadef.png",
+  "resultType": 2,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=4b8e42fb7ef04c3091df99e5e3177389",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/6ac0b6c0245742e5ab9be7d6281e1c2a/a630ddd2f89adde8376b41af73958bd4773100f6.png"
+  ],
+  "hasPublicSkillContent": true
+}

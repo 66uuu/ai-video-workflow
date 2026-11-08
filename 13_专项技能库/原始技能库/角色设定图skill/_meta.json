@@ -1,0 +1,32 @@
+{
+  "name": "角色设定图skill",
+  "templateUuid": "e9635f87f3854d609c834e2499941379",
+  "skillUuid": "3bad2846daf54a438172b8ddb04919d5",
+  "skillKey": "character-sheet-builder-e0810ab1b5cb45f484847236d4606804",
+  "version": "1.0.1",
+  "namespace": "libtv-user-generated",
+  "description": "将任意角色的文字设定或参考图，转换为统一、清晰、可直接出图的",
+  "author": "宫尝君",
+  "ownerId": 252043,
+  "tags": [],
+  "likeCount": 56,
+  "usePv": 95,
+  "useUv": 30,
+  "publishAt": "2026-07-22 14:08:23",
+  "snapshotId": 29780,
+  "useScenario": "用于将人物、动物、怪物、机器人、机甲、拟人角色等任意角色的文字设定或参考图，制作成适合角色资产确认、造型统一、正侧背结构展示的横向四视图设定图。适用于游戏角色、动画角色、影视角色、IP角色和概念设计角色；默认版式为正面近景、正面全身、侧面全身、背面全身。",
+  "inputType": "提供角色的一段文字设定、一张角色参考图，或两者结合。可补充想要的渲染风格、背景和需重点展示的结构；不填写时，Skill 自动采用横向 16:9、中性影棚背景和统一棚拍光。示例：\"根据这张角色参考图，生成横向四视图角色设定图，保持角色外观不变，使用游戏CG质感。\"",
+  "outputContent": "一段可直接用于图片生成的中文提示词，生成结果为横向四栏角色设定图：左侧正面近景，随后依次为正面全身、侧面全身和背面全身。四个视图保持同一角色的外观、比例、服装、材质、配件和道具一致，并使用统一背景、光线与展示尺度。",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/e0810ab1b5cb45f484847236d4606804/39a2a3d0680717c3904168ea77eeba2b3dce87b2.png",
+  "resultType": 2,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=e9635f87f3854d609c834e2499941379",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/e0810ab1b5cb45f484847236d4606804/39a2a3d0680717c3904168ea77eeba2b3dce87b2.png"
+  ],
+  "hasPublicSkillContent": true
+}

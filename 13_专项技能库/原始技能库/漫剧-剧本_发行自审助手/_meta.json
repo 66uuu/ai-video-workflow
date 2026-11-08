@@ -1,0 +1,32 @@
+{
+  "name": "漫剧-剧本/发行自审助手",
+  "templateUuid": "8f674e7ea43146968b7768978eee4c62",
+  "skillUuid": "67eb8afbdd504b089749f7d582338fd5",
+  "skillKey": "ai-comic-compliance-auditor-12fc65653c4746b49e35f46d6fae450c",
+  "version": "1.0.1",
+  "namespace": "libtv-user-generated",
+  "description": "对AI漫剧剧本、分镜、角色设定做平台发布前合规审查并出清单",
+  "author": "AI漫剧花大叔",
+  "ownerId": 9656295,
+  "tags": [],
+  "likeCount": 17,
+  "usePv": 14,
+  "useUv": 10,
+  "publishAt": "2026-07-20 16:31:49",
+  "snapshotId": 29238,
+  "useScenario": "- **AI漫剧创作者**：剧本、分镜、角色设定完成后，发布到抖音/快手/视频号等平台前做最后一轮合规自查；\n- **MCN/内容生产团队**：批量检查多个剧本/账号，快速定位红线问题和修改点；\n- **备案过审准备**：在提交平台备案前，先把材料/内容自查一遍，减少被退回的概率。\n\n---",
+  "inputType": "1. 在输入框中粘贴或上传你要审查的内容，例如：剧本全文、分镜脚本、角色设定、剧名与简介、封面描述，或备案材料清单；\n2. 对我",
+  "outputContent": "输出一份结构化「自审结果摘要」，包含：\n- 🔴 一票否决项：列出会导致审核不过的红线问题，并附具体修改方案；\n- ⚠️ 风险项：列出建议优化的问题，并附修改建议；\n- ✅ 通过项：简要列出已通过检查的内容；\n- 📋 修改建议清单：按优先级给出「原文→修改后→理由」的可执行方案。\n如果触发的是「自审表引导」模式，则输出一份完整的结构化自审表摘要，按 8 大板块标注通过/风险/否决状态。",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/12fc65653c4746b49e35f46d6fae450c/dbcacd9488f90f968c7254deb0ae6409f4a22d35.jpg",
+  "resultType": 2,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=8f674e7ea43146968b7768978eee4c62",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/12fc65653c4746b49e35f46d6fae450c/dbcacd9488f90f968c7254deb0ae6409f4a22d35.jpg"
+  ],
+  "hasPublicSkillContent": true
+}

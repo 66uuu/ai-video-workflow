@@ -1,0 +1,36 @@
+{
+  "name": "苹果广告风产品短片",
+  "templateUuid": "8b6a98be374d4b91849d0df8759b318e",
+  "skillUuid": "d9b02525be0e458593f282261907286c",
+  "skillKey": "apple-style-product-video-54ef20fc456e46f2bac3a0e580c7e4c8",
+  "version": "1.0.0",
+  "namespace": "libtv-user-generated",
+  "description": "上传产品图一键生成苹果广告风产品短片",
+  "author": "xiiian",
+  "ownerId": 1164166,
+  "tags": [],
+  "likeCount": 28,
+  "usePv": 121,
+  "useUv": 92,
+  "publishAt": "2026-08-13 20:32:13",
+  "snapshotId": 36728,
+  "useScenario": "适用于手机、耳机、腕表、数码产品、家电、美妆护肤、汽车配件及其他具有设计感的产品广告创作。适合新品发布视频、品牌宣传片、产品TVC、产品卖点展示、社交媒体产品短片和发布会级视觉展示。当用户希望把一张产品图或一句产品描述拍成极简、克制、高级、具有材质光影和电影质感的产品广告时使用。",
+  "inputType": "输入一张清晰的产品图片，或直接提**品名称、外观造型、材质、配色和核心卖点。可以补充目标视频时长、画幅比例、品牌调性和重点展示的功能。Skill会先提炼产品广告的核心创意，再生成15-30秒广告分镜，最后按照Seedance 2.5视频提示词结构输出可直接复制的提示词。上传产品图时，提示词会以图片为产品外观参考，保持产品造型、材质和配色在各个镜头中统一。",
+  "outputContent": "输出一套完整的产品广告视频方案：包括一句话核心创意、广告情绪与记忆点、15-30秒分镜脚本、每镜的景别与时长、画面内容、运镜方式、材质光影和声音设计，以及按照mx-shell-prompt结构编写的Seedance 2.5视频生成提示词。视频提示词包含基础设定、道具、场景、声音、氛围与画质、画面内容六个部分，采用纯正向描述，单个生成板块控制在2500字以内，确保产品在不同镜头中的视觉一致性。",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/54ef20fc456e46f2bac3a0e580c7e4c8/da5926e71d849a5b31aae12662370af17f2589c5.png",
+  "resultType": 3,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=8b6a98be374d4b91849d0df8759b318e",
+  "files": [
+    "SKILL.md",
+    "references/apple-visual-language.md",
+    "references/seedance-structure.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/54ef20fc456e46f2bac3a0e580c7e4c8/9df9f48d32302244ab2e78135241f4f1d7b0162f.mp4",
+    "https://libtv-res.liblib.art/upload-images/54ef20fc456e46f2bac3a0e580c7e4c8/04e11dcddea6a301fec3ba9352096cf204946144.mp4",
+    "https://libtv-res.liblib.art/upload-images/54ef20fc456e46f2bac3a0e580c7e4c8/d771d0fcb233b5de20e460a6f06e6a25f57c5f2b.mp4"
+  ],
+  "hasPublicSkillContent": true
+}

@@ -1,0 +1,37 @@
+{
+  "name": "微缩世界救援导演",
+  "templateUuid": "c01d4b8b8fc44778ab1680273ac3d17f",
+  "skillUuid": "5baecf2dd9e5406bbf2ee0f6bf8f88a4",
+  "skillKey": "miniature-world-rescuer-b7e31db425514dc88549fce647d0efc6",
+  "version": "1.0.1",
+  "namespace": "libtv-user-generated",
+  "description": "三拍结构出片，灾难铺垫，大手介入，修复欢呼。",
+  "author": "130****7537",
+  "ownerId": 126260,
+  "tags": [],
+  "likeCount": 16,
+  "usePv": 1,
+  "useUv": 1,
+  "publishAt": "2026-07-14 11:53:07",
+  "snapshotId": 26811,
+  "useScenario": "适合制作微缩模型风格的治愈系创意短视频。当你想为环保、健康、情感、城市生活等议题做降维创意表达，或想复刻\"巨手用日常工具拯救微缩世界\"这类爆款格式时使用。只需说出主题（如\"做一支环保主题的微缩救援视频\"），Skill 会完成灾难与工具的创意匹配、分段节拍设计和成片生成。也支持指定具体场景（如\"堵车的早高峰被梳子梳开\"）。",
+  "inputType": "说出你想表达的主题（如环保、健康、堵车、家庭情感），Skill 会自动匹配灾难场景与救援工具并给出创意总表，确认后开始制作。也可",
+  "outputContent": "一支 45 到 75 秒的微缩模型风格治愈系创意成片：6 到 9 个独立灾难片段硬切拼接，每段约 7 秒，按\"灾难惊慌、巨手持日常工具介入、修复欢呼\"三拍结构呈现，移轴微距实拍质感，自带治愈系 BGM 和修复动作 ASMR 音效，无字幕无旁白。指定单场景时输出对应时长的单段成片。",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/b7e31db425514dc88549fce647d0efc6/4b9999cb2584275c01df3d1eeee88bccfb694cc5.png",
+  "resultType": 3,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=c01d4b8b8fc44778ab1680273ac3d17f",
+  "files": [
+    "SKILL.md",
+    "上传指引.md",
+    "references/disaster-tool-library.md",
+    "references/example-full-video.md",
+    "references/miniature-visual-spec.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/b7e31db425514dc88549fce647d0efc6/d1a6b58a504e17c3b2427f864b2816899a79755c.mp4",
+    "https://www.liblib.tv/canvas/chat-share?shareId=0e2k7KiWfx"
+  ],
+  "hasPublicSkillContent": true
+}

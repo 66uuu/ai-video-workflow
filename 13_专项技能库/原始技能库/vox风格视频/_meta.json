@@ -1,0 +1,32 @@
+{
+  "name": "vox风格视频",
+  "templateUuid": "0934add5b2234a91be047e19c0a9ab57",
+  "skillUuid": "206b8fc714974c4dbe8c665ffab75a1c",
+  "skillKey": "vox-style-video-planner-7ad0891cf8d446309460a61727b8d576",
+  "version": "1.0.1",
+  "namespace": "libtv-user-generated",
+  "description": "输入口播文案即可生成vox画面和视频提示词",
+  "author": "微信用户29e00f",
+  "ownerId": 11968796,
+  "tags": [],
+  "likeCount": 1,
+  "usePv": 3,
+  "useUv": 2,
+  "publishAt": "2026-09-22 22:15:54",
+  "snapshotId": 49311,
+  "useScenario": "解说介绍",
+  "inputType": "口播内容",
+  "outputContent": "输入口播文案即可生成vox画面和视频提示词",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/7ad0891cf8d446309460a61727b8d576/bff43bfc245c6fd76b778d28f0811be5e79c2ae4.png",
+  "resultType": 2,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=0934add5b2234a91be047e19c0a9ab57",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/7ad0891cf8d446309460a61727b8d576/bff43bfc245c6fd76b778d28f0811be5e79c2ae4.png"
+  ],
+  "hasPublicSkillContent": true
+}

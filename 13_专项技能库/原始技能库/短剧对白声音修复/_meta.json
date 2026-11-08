@@ -1,0 +1,35 @@
+{
+  "name": "短剧对白声音修复",
+  "templateUuid": "41ba8009198649d58ca17910ca0516c2",
+  "skillUuid": "4580418d122a46a5942daaee5eb5dbf3",
+  "skillKey": "drama-dialogue-audio-repair-fc90127e45224b3dbc353ef70178b69b",
+  "version": "1.0.0",
+  "namespace": "libtv-user-generated",
+  "description": "修复短剧对白底噪、硬切和跨镜声底，交付可回退音轨与质检报告",
+  "author": "小葵小丹",
+  "ownerId": 596837,
+  "tags": [],
+  "likeCount": 9,
+  "usePv": 6,
+  "useUv": 5,
+  "publishAt": "2026-07-18 19:48:59",
+  "snapshotId": 28491,
+  "useScenario": "适用于已有锁定画面或原语声音素材的短剧、剧情短片、广告与访谈后期：对白有底噪、嗡声、齿音、混响、硬切、跨镜声底跳变、句间响度不稳或交付测量不清。仅处理已获授权素材，不做画面重生成、多语言配音或声音克隆。",
+  "inputType": "提供锁定版视频、帧率与时间码、原始对白或混合轨、台词稿、room tone 或替代 take、已知问题、必须保留的表演细节、交付",
+  "outputContent": "可回退的原始保留轨、修复对白轨、连续环境或 room-tone 轨、完整混音母版和 A/B 审片；附问题时间码表、修复决策表、接缝地图、响度、真峰值、声道、采样率、位深、同步、时长 QC 报告、未解决项及 ADR 或重录清单。",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/fc90127e45224b3dbc353ef70178b69b/a4a72c904ee7b778cfb377ee9f5649378d959e47.png",
+  "resultType": 3,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=41ba8009198649d58ca17910ca0516c2",
+  "files": [
+    "SKILL.md",
+    "references/deliverable-template.md",
+    "references/examples.md",
+    "references/research-notes.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/fc90127e45224b3dbc353ef70178b69b/1bcf5485e494f07fc3f5cacd77ca16e1ece04741.mp4"
+  ],
+  "hasPublicSkillContent": true
+}

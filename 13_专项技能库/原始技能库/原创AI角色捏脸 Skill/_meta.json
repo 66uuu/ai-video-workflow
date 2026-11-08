@@ -1,0 +1,32 @@
+{
+  "name": "原创AI角色捏脸 Skill",
+  "templateUuid": "6e02008fd38648189b70b7901f681d72",
+  "skillUuid": "57e4588e34694f6dba176ad0716c3be9",
+  "skillKey": "ai-character-face-sculptor-d5283d9da04f4009bcdec2da0b1200af",
+  "version": "1.0.0",
+  "namespace": "libtv-user-generated",
+  "description": "这个Skill 用于帮助用户设计原创 AI 角色的面部设定",
+  "author": "阿玥短剧AI",
+  "ownerId": 8926206,
+  "tags": [],
+  "likeCount": 14,
+  "usePv": 31,
+  "useUv": 25,
+  "publishAt": "2026-09-01 15:10:20",
+  "snapshotId": 42594,
+  "useScenario": "这个 Skill 用于帮助用户设计原创 AI 角色的面部设定，并生成可直接用于 AI 绘图模型的角色定妆照提示词。",
+  "inputType": "输入简单的人物描述",
+  "outputContent": "捏脸提示词",
+  "coverUrl": null,
+  "resultType": 1,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=6e02008fd38648189b70b7901f681d72",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/d5283d9da04f4009bcdec2da0b1200af/4fcf5f44387442f32888520c105a34a9865f7e91.md"
+  ],
+  "hasPublicSkillContent": true
+}

@@ -1,0 +1,32 @@
+# 模型权重（约 4GB，超 GitHub 单文件 100MB 上限，请用外部模型托管）
+*.safetensors
+*.ckpt
+*.pt
+*.pth
+*.onnx
+*.gguf
+04_模型与依赖/checkpoints/
+# Python / Node 环境与缓存
+.venv/
+venv/
+node_modules/
+__pycache__/
+*.py[cod]
+_logs/
+logs/
+dist/
+build/
+# 本机与临时
+*.lnk
+*.log
+*.tmp
+*.bak
+.env
+*.env
+# 大体积媒体与商业字体
+*.mp4
+*.mov
+*.psd
+*.blend
+*.ttc
+*.ttf

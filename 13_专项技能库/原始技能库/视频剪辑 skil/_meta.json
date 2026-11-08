@@ -1,0 +1,32 @@
+{
+  "name": "视频剪辑 skil",
+  "templateUuid": "42e1bb7fce964a07a42f3c2fa03a9e19",
+  "skillUuid": "f76b2081f8dc4e23ae3cf586a243f9ef",
+  "skillKey": "video-editor-10f43772ef194fbda818c96f85af92b8",
+  "version": "1.0.0",
+  "namespace": "libtv-user-generated",
+  "description": "视频剪辑 skill",
+  "author": "bkz不可知",
+  "ownerId": 60705,
+  "tags": [],
+  "likeCount": 10,
+  "usePv": 22,
+  "useUv": 17,
+  "publishAt": "2026-08-10 16:25:23",
+  "snapshotId": 35517,
+  "useScenario": "视频需要简单处理，不想打开剪辑软件",
+  "inputType": "说\"帮我截取 XX 到 XX\"\"转成竖屏\"",
+  "outputContent": "可执行的剪辑命令和结果文件",
+  "coverUrl": null,
+  "resultType": 1,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=42e1bb7fce964a07a42f3c2fa03a9e19",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/10f43772ef194fbda818c96f85af92b8/94082cbae7a2a9b945bd971e102fd931d44577b2.md"
+  ],
+  "hasPublicSkillContent": true
+}

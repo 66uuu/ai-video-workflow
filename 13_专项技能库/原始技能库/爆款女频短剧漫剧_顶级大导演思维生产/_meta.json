@@ -1,0 +1,37 @@
+{
+  "name": "爆款女频短剧漫剧|顶级大导演思维生产",
+  "templateUuid": "e0a7fe04cacb492893ddf412056fc4c9",
+  "skillUuid": "e31f608b467f4aeab47ac3ed7d120480",
+  "skillKey": "female-drama-generator-074be3667ece41bc8993cea11c99240e",
+  "version": "1.0.5",
+  "namespace": "libtv-user-generated",
+  "description": "输入一句话，12步大导演标准流程，生成影院级爆款女频短剧漫剧",
+  "author": "杭州金包银批发总部",
+  "ownerId": 10465270,
+  "tags": [],
+  "likeCount": 2,
+  "usePv": 20,
+  "useUv": 13,
+  "publishAt": "2026-09-22 19:59:56",
+  "snapshotId": 49255,
+  "useScenario": "抖音/小红书等平台女频短剧漫剧制作、品牌情感TVC、AI创意出片。支持现代豪门、古装虐恋、科幻物哀、都市复仇等多种题材。",
+  "inputType": "用户只需在对话框内输入一段简短的剧情或剧情画面描述即可（例如：“机器人落泪”、“九世重逢”、“深夜海边诀别”、“白瓷机械手抚触”）。系统将强制调用父级【顶级大导演思维】底层16个MD规则体系，严格执行12步标准流程，无需输入长篇剧本或复杂分镜，一句话即可触发AI工作流。",
+  "outputContent": "单次调用可输出3-15秒电影级9:16竖屏女频短剧漫剧视频片段（系统自动锁定人物外观、全题材女主写实肌理、克制的高级打光与物哀克制调性）。用户通过多次调用该Skill，在画布中串联多个独立分镜节点，最终可合成出最长4分46秒的精品短剧漫剧成片。 输出结果极高精、可直接发布至抖音/小红书等平台商用。",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/074be3667ece41bc8993cea11c99240e/0a94201805db1ea3962370075601817deab9cdca.png",
+  "resultType": 3,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=e0a7fe04cacb492893ddf412056fc4c9",
+  "files": [
+    "SKILL.md",
+    "【左侧文件1】：女频物哀_专属角色与美学禁则.md",
+    "【左侧文件2】：女频微表情_词库与时长控制.md",
+    "【左侧文件3】：女频台词与配音_物哀规范.md",
+    "【左侧文件4】：女频氛围_场景与光影指南.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/074be3667ece41bc8993cea11c99240e/b44097e373f0cf5b6ecfefb1c044e48be251997f.mp4",
+    "https://libtv-res.liblib.art/upload-images/074be3667ece41bc8993cea11c99240e/1d3ec8d0867aa24504af4d57cc4ad93cb77290df.mp4"
+  ],
+  "hasPublicSkillContent": true
+}

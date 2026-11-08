@@ -1,0 +1,32 @@
+{
+  "name": "古风红妆写真",
+  "templateUuid": "a2827cc883a14670bbb842064a567e91",
+  "skillUuid": "d4a13e39e8d9405587d98aa62465c3f2",
+  "skillKey": "ancient-red-makeup-portrait-aa3eede3b47a41fea48a08d6fc53de7f",
+  "version": "1.0.3",
+  "namespace": "libtv-user-generated",
+  "description": "红色系古风妆容写真，默认出横版+竖版三张",
+  "author": "橘子导演",
+  "ownerId": 11161493,
+  "tags": [],
+  "likeCount": null,
+  "usePv": 1,
+  "useUv": 1,
+  "publishAt": "2026-09-24 09:13:50",
+  "snapshotId": 49715,
+  "useScenario": "想要红色系古风／新中式妆容写真（古风妆、新中式妆、花钿、汉服或古风写真等表述）时使用，写真、头像、海报人物素材、手机壁纸都适用。要现代妆或其他色系妆容时不用。",
+  "inputType": "一张人物照（没人脸清晰的照片时，可先由 AI 生成素颜人物基准图再出片）；可选指定花钿纹样、服装、背景、画幅比例与张数。默认 3 张：1 张 16:9（人物居右）＋2 张 9:16 竖版。",
+  "outputContent": "红色系古风妆容写真成片图，默认 3 张：1 张 16:9 横版（人物居右、祥云纹花钿）＋2 张 9:16 竖版（山峦纹、凤尾纹），统一中国云纹背景与酒红交领汉服。",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/aa3eede3b47a41fea48a08d6fc53de7f/80b92fb2256bd6202818d89e45cad0bcfb01a954.png",
+  "resultType": 2,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=a2827cc883a14670bbb842064a567e91",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/aa3eede3b47a41fea48a08d6fc53de7f/80b92fb2256bd6202818d89e45cad0bcfb01a954.png"
+  ],
+  "hasPublicSkillContent": true
+}

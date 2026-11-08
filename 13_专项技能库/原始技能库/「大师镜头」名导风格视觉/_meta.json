@@ -1,0 +1,38 @@
+{
+  "name": "「大师镜头」名导风格视觉",
+  "templateUuid": "051ccb509be44777b55ed602e6c43cbb",
+  "skillUuid": "ff64d309f7df46269012df082bd02c64",
+  "skillKey": "cinematic-director-stylizer-5d72d1c9dadc46e9865c18222210f3c3",
+  "version": "1.0.1",
+  "namespace": "libtv-user-generated",
+  "description": "把剧本、故事梗概等叙事素材翻译成张艺谋、王家卫、库布里克等中",
+  "author": "喜洋洋大王",
+  "ownerId": 10676192,
+  "tags": [],
+  "likeCount": 25,
+  "usePv": 84,
+  "useUv": 26,
+  "publishAt": "2026-08-05 11:48:45",
+  "snapshotId": 33505,
+  "useScenario": "适用于影视创作者、短视频导演、广告美术和 AI 绘画玩家在筹备期的视觉开发：写本前做风格探索，开拍前出分镜参考，做 AI 视频前统一画面调性；也适合参赛团队快速把故事梗概变成有导演质感的关键帧，以及影迷拉片学习——同一段素材，看看换成另一位导演会怎么拍。",
+  "inputType": "粘贴你的剧本内容、故事梗概或任何叙事素材，并指明想参考的导演风格：可指定一位，也可混搭（如「王家卫的夜色 + 维伦纽瓦的巨物感」）；拿不准时只需描述想要的情绪氛围，我会推荐 3 个候选风格。可顺带说明画面比例、分镜数量等要求，确认后我即输出完整分镜方案。",
+  "outputContent": "一份可直接执行的导演风格分镜方案：含整体风格定调、逐镜头画面描述（景别、机位运镜、人物站位、色彩光影）、每镜头的中英文 AI 绘图提示词，以及所选导演的招牌技法注解。提示词可一键复制到即梦等绘图工具，批量生成风格统一的关键帧概念图。",
+  "coverUrl": null,
+  "resultType": 1,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=051ccb509be44777b55ed602e6c43cbb",
+  "files": [
+    "SKILL.md",
+    "名导风格知识库_01_国际名导.md",
+    "名导风格知识库_02_华语名导.md",
+    "名导风格知识库_03_速查表与配方.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/5d72d1c9dadc46e9865c18222210f3c3/5098a2b1031146c2a244d0315bcaf91e2934bc5a.md",
+    "https://libtv-res.liblib.art/upload-images/5d72d1c9dadc46e9865c18222210f3c3/3752509500a9b0578e84a09e90b4f10697f479ae.md",
+    "https://libtv-res.liblib.art/upload-images/5d72d1c9dadc46e9865c18222210f3c3/4d0f88dc9d08b20aa0e73d6437f0c1de1df53be6.md",
+    "https://libtv-res.liblib.art/upload-images/5d72d1c9dadc46e9865c18222210f3c3/bd7d8ab8e052b1b0bb2f7ec08f0b1ba69fe8e3e7.md"
+  ],
+  "hasPublicSkillContent": true
+}

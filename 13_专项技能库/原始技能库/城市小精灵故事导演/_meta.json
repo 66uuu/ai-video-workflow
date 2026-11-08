@@ -1,0 +1,32 @@
+{
+  "name": "城市小精灵故事导演",
+  "templateUuid": "38746e0ef46746008bf97f591ff0769b",
+  "skillUuid": "469e547565884c80ab6cead440fd4507",
+  "skillKey": "miniature-city-story-director-e7638a6ec74f4b15892f62866beea3d0",
+  "version": "1.0.1",
+  "namespace": "libtv-user-generated",
+  "description": "把一句日常经历、心情或温暖想法变成治愈系微缩城市横屏短片",
+  "author": "158****7212",
+  "ownerId": 9958943,
+  "tags": [],
+  "likeCount": 11,
+  "usePv": 2,
+  "useUv": 2,
+  "publishAt": "2026-07-13 18:32:09",
+  "snapshotId": 26644,
+  "useScenario": "适合将日常经历、心情、暖心瞬间或简单故事梗概，制作成30至90秒的治愈系竖屏动画短片。可用于短视频账号连载、城市小精灵系列、拟人动物故事、亲子友好内容、节日祝福、品牌情绪短片和原创角色IP孵化。尤其适合希望画面温暖、角色可爱、理解门槛低，并需要保持角色与视觉风格统一的创作者。",
+  "inputType": "输入一句日常经历、一种心情或一个故事梗概即可，例如：“今天工作很累，但回家看到猫在门口等我。”\n还可以补充主角类型、片长、画风、",
+  "outputContent": "输出1条约45秒、9:16、1080×1920的治愈系微缩城市轻奇幻成片，并附角色设定卡、完整脚本、旁白与字幕、6至10镜分镜表、关键角色与场景图、逐镜头生成提示、配乐与环境音建议，以及可直接发布的标题、文案和话题标签。\n如果当前只能生成图片，则先输出角色定妆图、关键场景图和完整分镜图组。",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/e7638a6ec74f4b15892f62866beea3d0/94e13235e9066810c697c459bb0d1b6424f13533.png",
+  "resultType": 3,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=38746e0ef46746008bf97f591ff0769b",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/e7638a6ec74f4b15892f62866beea3d0/6c688995545eab669e4e265f48a7df1faab31bc5.mp4"
+  ],
+  "hasPublicSkillContent": true
+}

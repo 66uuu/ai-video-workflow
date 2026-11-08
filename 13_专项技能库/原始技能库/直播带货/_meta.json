@@ -1,0 +1,34 @@
+{
+  "name": "直播带货",
+  "templateUuid": "ba4182bc96754b7580af36b45430c1f5",
+  "skillUuid": "289910858d974793a26e73fe503b1c59",
+  "skillKey": "livestream-sales-script-9af597fe769f44f4b3ae8ecdda92552d",
+  "version": "1.0.0",
+  "namespace": "libtv-user-generated",
+  "description": "高转化直播带货一键生成",
+  "author": "陪宝贝磨耳朵",
+  "ownerId": 9167756,
+  "tags": [],
+  "likeCount": 11,
+  "usePv": 13,
+  "useUv": 12,
+  "publishAt": "2026-08-27 01:11:21",
+  "snapshotId": 41120,
+  "useScenario": "直播带货",
+  "inputType": "根据提示进行确认，一步一确认，避免造成积分的浪费",
+  "outputContent": "1分钟以内高转化带货视频",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/9af597fe769f44f4b3ae8ecdda92552d/0877e3f7a330190171a59990db2c9f65e36c53a6.png",
+  "resultType": 3,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=ba4182bc96754b7580af36b45430c1f5",
+  "files": [
+    "SKILL.md",
+    "references/project-pattern.md",
+    "references/prompt-templates.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/9af597fe769f44f4b3ae8ecdda92552d/e14818a3b0a5e9e2587ff1c7b96169a543302ca9.mp4"
+  ],
+  "hasPublicSkillContent": true
+}

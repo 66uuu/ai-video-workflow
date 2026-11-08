@@ -1,0 +1,35 @@
+{
+  "name": "速写本涂鸦插画风格",
+  "templateUuid": "a1f7ae43203b4b518c81854c7fb8fbec",
+  "skillUuid": "0a8915800b00404ea3b94129e30be28a",
+  "skillKey": "sketchbook-doodle-illustrator-588cc5e197c24e928ad033c0b70d0d09",
+  "version": "1.0.1",
+  "namespace": "libtv-user-generated",
+  "description": "速写本涂鸦插画风格",
+  "author": "起风了ai",
+  "ownerId": 1776152,
+  "tags": [],
+  "likeCount": 3,
+  "usePv": 17,
+  "useUv": 1,
+  "publishAt": "2026-08-15 15:48:35",
+  "snapshotId": 37272,
+  "useScenario": "速写本涂鸦插画风格\n生成现代手绘插画、卡通类图像，适用于用户想要速写本涂鸦、富有触感的暖调数字插画、粗马克笔 / 蜡笔线条、随性又不失专业感的卡通画面、可爱吉祥物、贴纸、温馨场景、社交配图。",
+  "inputType": "输入出图的要求，场景参数等",
+  "outputContent": "生成现代手绘插画、卡通类图像，适用于用户想要速写本涂鸦、富有触感的暖调数字插画、粗马克笔 / 蜡笔线条、随性又不失专业感的卡通画面、可爱吉祥物、贴纸、温馨场景、社交配图。",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/588cc5e197c24e928ad033c0b70d0d09/dd1c95c3bb16ce9cd1ed69e51518f68f9d897ad5.png",
+  "resultType": 2,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=a1f7ae43203b4b518c81854c7fb8fbec",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/588cc5e197c24e928ad033c0b70d0d09/dd1c95c3bb16ce9cd1ed69e51518f68f9d897ad5.png",
+    "https://www.liblib.tv/canvas/chat-share?shareId=4aoyDiQMnZ",
+    "https://libtv-res.liblib.art/upload-images/588cc5e197c24e928ad033c0b70d0d09/acebc3b247cf9f9c99e8b1f2009f8917fa6bc4b1.png",
+    "https://www.liblib.tv/canvas/chat-share?shareId=PlZNNxBfFY"
+  ],
+  "hasPublicSkillContent": true
+}

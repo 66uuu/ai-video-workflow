@@ -1,0 +1,35 @@
+{
+  "name": "公共艺术参考材质生成新作品SKILL",
+  "templateUuid": "29f9ac76048b4e449f25c4f5123b2bfd",
+  "skillUuid": "dca64da7bcae43f29ad201c158b5d1cb",
+  "skillKey": "public-art-designer-b85befd035a84c7d99b6927cfa3fa3c5",
+  "version": "1.0.2",
+  "namespace": "libtv-user-generated",
+  "description": "用于参考材质的公共艺术设计生成",
+  "author": "星球的AI畅想",
+  "ownerId": 1619666,
+  "tags": [],
+  "likeCount": 3,
+  "usePv": 2,
+  "useUv": 2,
+  "publishAt": "2026-08-23 04:54:32",
+  "snapshotId": 39826,
+  "useScenario": "用于参考材质的公共艺术设计生成",
+  "inputType": "图1是参考的公共艺术作品，图2是造型草图，生成相对应的作品效果",
+  "outputContent": "参考材质的公共艺术作品生成",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/b85befd035a84c7d99b6927cfa3fa3c5/f55c824b50bceb2dfe6585b4c663aab665f886e9.jpg",
+  "resultType": 2,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=29f9ac76048b4e449f25c4f5123b2bfd",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/b85befd035a84c7d99b6927cfa3fa3c5/0e75f9bafb83b95c39a86eb7d42c73eb0c35e997.png",
+    "https://libtv-res.liblib.art/upload-images/b85befd035a84c7d99b6927cfa3fa3c5/baaf570a15b49818d714acc2824f0304aac3fbab.png",
+    "https://libtv-res.liblib.art/upload-images/b85befd035a84c7d99b6927cfa3fa3c5/0f9ae61c292cf350211dbff5a228d09f1ad188e7.png",
+    "https://libtv-res.liblib.art/upload-images/b85befd035a84c7d99b6927cfa3fa3c5/bb29f761a8303cc8ebd2b6dbe4ffe6e8b54033dc.png"
+  ],
+  "hasPublicSkillContent": true
+}

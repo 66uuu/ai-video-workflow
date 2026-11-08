@@ -1,0 +1,32 @@
+{
+  "name": "视频提示词架构师",
+  "templateUuid": "029ef0b5ece645c491dde8c862263b1f",
+  "skillUuid": "47aaa818955e44fe845efca0667d8d17",
+  "skillKey": "video-prompt-architect-3f04004128804c279b27eb0ea6781ed1",
+  "version": "1.0.1",
+  "namespace": "libtv-user-generated",
+  "description": "全维度视频提示词架构",
+  "author": "JokerLL",
+  "ownerId": 10925824,
+  "tags": [],
+  "likeCount": 4,
+  "usePv": 3,
+  "useUv": 3,
+  "publishAt": "2026-07-25 00:50:04",
+  "snapshotId": 30538,
+  "useScenario": "AI视频创作的所有场景——短剧/漫剧/MV/广告/艺术短片。当你有了画面想法但不知道怎么写提示词，或写了提示词但效果总不满意时使用。特别适合：1）从一句话灵感到完整提示词的专业转化；2）解决表情僵硬、动作不自然、光影混乱、风格不统一等高频问题；3）多镜头连续叙事的提示词衔接；4）针对不同视频模型特性做定向优化",
+  "inputType": "第1步：告诉它你的画面想法（一句话也行，如\"黑衣女人雨夜推开旧门\"）\n第2步：它解码意图，追问缺失维度（情绪/风格/用途）\n第3步：按7层架构逐层构建——主体动作→镜头语言→光影氛围→风格质感→约束条件\n第4步：针对你的视频模型做定向优化\n第5步：输出完整提示词+多镜头衔接方案+质量自检报告",
+  "outputContent": "可执行提示词（中英双语）\n7层架构拆解说明\n多镜头衔接方案（如涉及）\n质量自检清单（3项必查）",
+  "coverUrl": null,
+  "resultType": 1,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=029ef0b5ece645c491dde8c862263b1f",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/3f04004128804c279b27eb0ea6781ed1/d8d46157a0ffb96904c853ac5f1d65030aec8ac4.md"
+  ],
+  "hasPublicSkillContent": true
+}

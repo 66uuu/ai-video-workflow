@@ -1,0 +1,32 @@
+{
+  "name": "视频人物替换|口播",
+  "templateUuid": "6c2c19c151be4e49b42364af033f0488",
+  "skillUuid": "b47b306323b743269c280d838db27fa2",
+  "skillKey": "video-subject-replacer-b85befd035a84c7d99b6927cfa3fa3c5",
+  "version": "1.0.3",
+  "namespace": "libtv-user-generated",
+  "description": "将视频中的人物|物品进行替换",
+  "author": "星球的AI畅想",
+  "ownerId": 1619666,
+  "tags": [],
+  "likeCount": 20,
+  "usePv": 48,
+  "useUv": 28,
+  "publishAt": "2026-07-30 04:29:44",
+  "snapshotId": 31951,
+  "useScenario": "人物口播视频，产品TVC替换",
+  "inputType": "将中的视频中的 XXXX（人物）替换成图片中（人物）的脸部和发型，脸部必须是图2人物的的脸，（整体改为XXX时刻），其他都保持不变（包括需要保留的UI或文字）。",
+  "outputContent": "保持视频不变",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/b85befd035a84c7d99b6927cfa3fa3c5/1a116d9f51f41758510a12eecd5ea64ba1f3d1db.png",
+  "resultType": 3,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=6c2c19c151be4e49b42364af033f0488",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/b85befd035a84c7d99b6927cfa3fa3c5/14c95a5afbb7eebe42746ee457f82e2d129387ea.mp4"
+  ],
+  "hasPublicSkillContent": true
+}

@@ -1,0 +1,32 @@
+{
+  "name": "故事板",
+  "templateUuid": "7e5108e4f5e9470b95f70b20f1793c75",
+  "skillUuid": "2b7d29e6c4f346b9ab6b0b0133fc7251",
+  "skillKey": "storyboard-flow-optimizer-811fa7463ffb4aa988de383450f427db",
+  "version": "1.0.0",
+  "namespace": "libtv-user-generated",
+  "description": "更加流畅不穿帮的工具",
+  "author": "182****7332",
+  "ownerId": 10688139,
+  "tags": [],
+  "likeCount": 88,
+  "usePv": 78,
+  "useUv": 60,
+  "publishAt": "2026-07-21 21:41:45",
+  "snapshotId": 29645,
+  "useScenario": "1. 古风仙侠：仙城云海、古殿山门，丁达尔光束，飘逸古装，通透大气光影\n2. 写实影视胶片：电影胶片质感，自然景深，柔和光影，真人向画面\n3. 赛博朋克：霓虹光源，潮湿雨夜，金属反光，未来都市\n4. 国风水墨：淡墨渲染，留白构图，写意山水，国风留白镜头\n5. 末世废土：荒芜废墟，沙尘氛围，破损机械，冷硬色调\n6. 近代历史：古城镇、旧式服饰，写实自然光，复古色调 10.都市现实：现代城市环境，",
+  "inputType": "【启用武打运镜库】：打斗镜头启用全套战斗运镜模板，节奏紧凑 2.【启用悬疑探险镜头库】：古墓、密室、鬼怪题材适配压抑长镜头、突袭镜头 3.【启用情感文戏镜头库】：对话、情绪剧情多用特写、缓慢推拉镜头 4.【12格标准版式】：强制输出12个分镜（3行4列） 5.【16格拓展版式】：长剧情输出16个分镜 6.【锁定原有镜头创意】：模式B导入现成分镜，禁止改动画面构思",
+  "outputContent": "自我使用完全可用",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/811fa7463ffb4aa988de383450f427db/0bb260506123d92198d2db364adb6a37b2b5efdf.png",
+  "resultType": 2,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=7e5108e4f5e9470b95f70b20f1793c75",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/811fa7463ffb4aa988de383450f427db/0bb260506123d92198d2db364adb6a37b2b5efdf.png"
+  ],
+  "hasPublicSkillContent": true
+}

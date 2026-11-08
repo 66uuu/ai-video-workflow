@@ -1,0 +1,5227 @@
+{
+  "schema_version": "1.0",
+  "source": "D:/UserFiles/Desktop/skills",
+  "copied_to": "D:/UserFiles/Desktop/AI生成视频/13_专项技能库/原始技能库",
+  "skill_count": 651,
+  "categories": {
+    "脚本与分镜": 163,
+    "导演与镜头": 153,
+    "人物与资产": 77,
+    "视觉风格与场景": 91,
+    "广告与电商": 43,
+    "动画与漫剧": 14,
+    "声音与后期": 4,
+    "视频通用": 51,
+    "其他待确认": 55
+  },
+  "skills": [
+    {
+      "name": "15秒反转短剧脚本生成器",
+      "folder": "15秒反转短剧脚本生成器",
+      "relative_path": "原始技能库/15秒反转短剧脚本生成器/SKILL.md",
+      "category": "脚本与分镜",
+      "description": "输入一个主题或梗，生成15秒短视频反转剧情脚本，含分镜、台词",
+      "skill_hash": "b2917201de081b1f"
+    },
+    {
+      "name": "15秒高端TVC广告",
+      "folder": "15秒高端TVC广告",
+      "relative_path": "原始技能库/15秒高端TVC广告/SKILL.md",
+      "category": "导演与镜头",
+      "description": "一套标准化 15 秒高端 TVC 商业广告全自动生成工作流",
+      "skill_hash": "7af3b3f0a1d62f1d"
+    },
+    {
+      "name": "16:9横屏女性成长短片",
+      "folder": "16_9横屏女性成长短片",
+      "relative_path": "原始技能库/16_9横屏女性成长短片/SKILL.md",
+      "category": "视觉风格与场景",
+      "description": "生成16:9横屏写实女性成长短片，输出视频成片",
+      "skill_hash": "b46bfe5f4a5b8dcd"
+    },
+    {
+      "name": "2D传统手绘美术志怪灵异",
+      "folder": "2D传统手绘美术志怪灵异",
+      "relative_path": "原始技能库/2D传统手绘美术志怪灵异/SKILL.md",
+      "category": "视觉风格与场景",
+      "description": "以传统中式动画手绘美术为基础，适合民间志怪、聊斋灵异等风格",
+      "skill_hash": "3fde22c0b44cd898"
+    },
+    {
+      "name": "2D图片转3D风格",
+      "folder": "2D图片转3D风格",
+      "relative_path": "原始技能库/2D图片转3D风格/SKILL.md",
+      "category": "视觉风格与场景",
+      "description": "上传2D图片，一键转为3D游戏美术风格",
+      "skill_hash": "4e411aaa7305fa53"
+    },
+    {
+      "name": "2D手绘传统国风美学",
+      "folder": "2D手绘传统国风美学",
+      "relative_path": "原始技能库/2D手绘传统国风美学/SKILL.md",
+      "category": "视觉风格与场景",
+      "description": "自概念艺术与东方幻想美学融合，自动生成复古手绘国风质感影片",
+      "skill_hash": "8484b5377327fffa"
+    },
+    {
+      "name": "3A游戏入场视频生成器",
+      "folder": "3A游戏入场视频生成器",
+      "relative_path": "原始技能库/3A游戏入场视频生成器/SKILL.md",
+      "category": "视频通用",
+      "description": "通用3A游戏入场15秒成片生成",
+      "skill_hash": "d5b39a859df80fc8"
+    },
+    {
+      "name": "3C产品电商场景视频",
+      "folder": "3C产品电商场景视频",
+      "relative_path": "原始技能库/3C产品电商场景视频/SKILL.md",
+      "category": "视觉风格与场景",
+      "description": "通过 AI 技术快速批量生成电商投放所需的使用场景视频",
+      "skill_hash": "3e388350fc75b8b7"
+    },
+    {
+      "name": "3D导演台动作导演",
+      "folder": "3D导演台动作导演",
+      "relative_path": "原始技能库/3D导演台动作导演/SKILL.md",
+      "category": "导演与镜头",
+      "description": "参考视频动作太假？锁定导演台调度，重做电影级真人武打。",
+      "skill_hash": "43eb0d87bfdc47e0"
+    },
+    {
+      "name": "404 第一人称天宫2.0",
+      "folder": "404 第一人称天宫2.0",
+      "relative_path": "原始技能库/404 第一人称天宫2.0/SKILL.md",
+      "category": "其他待确认",
+      "description": "第一人称的天宫skill，",
+      "skill_hash": "1bc6ea444685f18d"
+    },
+    {
+      "name": "404中式仙境一键生成",
+      "folder": "404中式仙境一键生成",
+      "relative_path": "原始技能库/404中式仙境一键生成/SKILL.md",
+      "category": "视频通用",
+      "description": "简单描述你想要的感觉，从生图到生视频全流程一键式",
+      "skill_hash": "b639dd966e5c8dc3"
+    },
+    {
+      "name": "404俯视图调度图生成",
+      "folder": "404俯视图调度图生成",
+      "relative_path": "原始技能库/404俯视图调度图生成/SKILL.md",
+      "category": "脚本与分镜",
+      "description": "把剧情、短剧脚本、动作场面、职场权力反转故事、追逐打斗、一镜",
+      "skill_hash": "fb5d085fd21aa1c2"
+    },
+    {
+      "name": "404末日废墟",
+      "folder": "404末日废墟",
+      "relative_path": "原始技能库/404末日废墟/SKILL.md",
+      "category": "视觉风格与场景",
+      "description": "生成超写实的末日废墟风格图片",
+      "skill_hash": "e311b04521297520"
+    },
+    {
+      "name": "404真人娃娃换装",
+      "folder": "404真人娃娃换装",
+      "relative_path": "原始技能库/404真人娃娃换装/SKILL.md",
+      "category": "人物与资产",
+      "description": "一键式生成真人娃娃换装",
+      "skill_hash": "3a40b8aa85416bd5"
+    },
+    {
+      "name": "404红楼梦古风",
+      "folder": "404红楼梦古风",
+      "relative_path": "原始技能库/404红楼梦古风/SKILL.md",
+      "category": "视觉风格与场景",
+      "description": "404一键生成爆火红楼梦古风。",
+      "skill_hash": "79042dfeb2efd7ec"
+    },
+    {
+      "name": "4A级清洁产品广告",
+      "folder": "4A级清洁产品广告",
+      "relative_path": "原始技能库/4A级清洁产品广告/SKILL.md",
+      "category": "广告与电商",
+      "description": "基于产品参考图，生成一段4A级高端品牌15秒商业广告",
+      "skill_hash": "11e65aab49177034"
+    },
+    {
+      "name": "4条男童内裤",
+      "folder": "4条男童内裤",
+      "relative_path": "原始技能库/4条男童内裤/SKILL.md",
+      "category": "其他待确认",
+      "description": "类型相同，具体内容不同",
+      "skill_hash": "0dc5266c27cfdfa0"
+    },
+    {
+      "name": "7³天宫电影镜头",
+      "folder": "7³天宫电影镜头",
+      "relative_path": "原始技能库/7³天宫电影镜头/SKILL.md",
+      "category": "导演与镜头",
+      "description": "雾气质感中式天庭图片+运镜视频全流程",
+      "skill_hash": "a4d542f09760e5f0"
+    },
+    {
+      "name": "8K影视级超写实渲染",
+      "folder": "8K影视级超写实渲染",
+      "relative_path": "原始技能库/8K影视级超写实渲染/SKILL.md",
+      "category": "视觉风格与场景",
+      "description": "专业生成8K物理光学超写实实景图像，1:1 还原真实材质",
+      "skill_hash": "135deea2ee8014d1"
+    },
+    {
+      "name": "AE动态音乐海报",
+      "folder": "AE动态音乐海报",
+      "relative_path": "原始技能库/AE动态音乐海报/SKILL.md",
+      "category": "视频通用",
+      "description": "上传参考图作为首帧，一键生成15秒连贯海报音乐视觉短片。",
+      "skill_hash": "e71f53982bb7a6ec"
+    },
+    {
+      "name": "AI Beauty Mo",
+      "folder": "AI Beauty Mo",
+      "relative_path": "原始技能库/AI Beauty Mo/SKILL.md",
+      "category": "人物与资产",
+      "description": "为美容饮品设计团队生成韩系一线美妆大牌级别的商业广告女性模特",
+      "skill_hash": "d8141dceb5f1b52b"
+    },
+    {
+      "name": "AI 视频光影提示词",
+      "folder": "AI 视频光影提示词",
+      "relative_path": "原始技能库/AI 视频光影提示词/SKILL.md",
+      "category": "导演与镜头",
+      "description": "可用于设计、改写和诊断 AI 视频中的打光、光影质感与多镜头",
+      "skill_hash": "4e6d7d5f4782fade"
+    },
+    {
+      "name": "AI 视频图片反推助手",
+      "folder": "AI 视频图片反推助手",
+      "relative_path": "原始技能库/AI 视频图片反推助手/SKILL.md",
+      "category": "脚本与分镜",
+      "description": "看到喜欢的画面不会复刻？帮你拆解并生成 AI 提示词。",
+      "skill_hash": "68a3da9de0921b62"
+    },
+    {
+      "name": "AI 视频比例重构助手",
+      "folder": "AI 视频比例重构助手",
+      "relative_path": "原始技能库/AI 视频比例重构助手/SKILL.md",
+      "category": "视频通用",
+      "description": "视频比例不匹配？智能重构画幅，保留主体与视觉完整性。",
+      "skill_hash": "51b240af726380ce"
+    },
+    {
+      "name": "AIGC TVC Dir",
+      "folder": "AIGC TVC Dir",
+      "relative_path": "原始技能库/AIGC TVC Dir/SKILL.md",
+      "category": "脚本与分镜",
+      "description": "从创意策略到可生成分镜与提示词的 AIGC TVC 导演系统",
+      "skill_hash": "1d560f12d1ff216b"
+    },
+    {
+      "name": "AI写短剧剧本",
+      "folder": "AI写短剧剧本",
+      "relative_path": "原始技能库/AI写短剧剧本/SKILL.md",
+      "category": "脚本与分镜",
+      "description": "只需提供一个想法，AI就可以写出一集2分钟左右的短剧剧本",
+      "skill_hash": "de25e4d45df3e2ba"
+    },
+    {
+      "name": "AI剧本转提示词之王",
+      "folder": "AI剧本转提示词之王",
+      "relative_path": "原始技能库/AI剧本转提示词之王/SKILL.md",
+      "category": "脚本与分镜",
+      "description": "将剧本直接变为可用的提示词工程，并且一段15秒非常高效",
+      "skill_hash": "84e4746cd054dc09"
+    },
+    {
+      "name": "AI导演-剧本诊断改稿",
+      "folder": "AI导演-剧本诊断改稿",
+      "relative_path": "原始技能库/AI导演-剧本诊断改稿/SKILL.md",
+      "category": "脚本与分镜",
+      "description": "为你的剧本进行逐场解析、导演诊断、授权修订、版本锁定",
+      "skill_hash": "a8b545fe054fee9e"
+    },
+    {
+      "name": "AI影视角色表演导演",
+      "folder": "AI影视角色表演导演",
+      "relative_path": "原始技能库/AI影视角色表演导演/SKILL.md",
+      "category": "导演与镜头",
+      "description": "把角色心理、关系与冲突转化为可被AI视频模型执行的动作、眼神",
+      "skill_hash": "ca1da7151a1806bb"
+    },
+    {
+      "name": "AI漫剧提示词生成",
+      "folder": "AI漫剧提示词生成",
+      "relative_path": "原始技能库/AI漫剧提示词生成/SKILL.md",
+      "category": "脚本与分镜",
+      "description": "分析剧本后进行拆分生成，带角色绑定、场景、运镜、时长控制",
+      "skill_hash": "3f9f6f17a1d01716"
+    },
+    {
+      "name": "AI版导演分镜提案助手",
+      "folder": "AI版导演分镜提案助手",
+      "relative_path": "原始技能库/AI版导演分镜提案助手/SKILL.md",
+      "category": "脚本与分镜",
+      "description": "不会拆分镜？AI帮你生成可审核的导演级分镜方案",
+      "skill_hash": "b84022de091aeb2e"
+    },
+    {
+      "name": "AI电商信息流广告带货视频",
+      "folder": "AI电商信息流广告带货视频",
+      "relative_path": "原始技能库/AI电商信息流广告带货视频/SKILL.md",
+      "category": "广告与电商",
+      "description": "全流程AI电商带货视频生成",
+      "skill_hash": "d824048670ff5619"
+    },
+    {
+      "name": "AI电影-图像提示词导演",
+      "folder": "AI电影-图像提示词导演",
+      "relative_path": "原始技能库/AI电影-图像提示词导演/SKILL.md",
+      "category": "导演与镜头",
+      "description": "为角色、场景、道具和图片修改任务选择合适模型，并生成精确。",
+      "skill_hash": "11731c2a8b147295"
+    },
+    {
+      "name": "AI电影打斗提示词",
+      "folder": "AI电影打斗提示词",
+      "relative_path": "原始技能库/AI电影打斗提示词/SKILL.md",
+      "category": "导演与镜头",
+      "description": "把用户的场景写成可执行的动作调度。优先保证动作清楚、空间稳定",
+      "skill_hash": "010e2600a56193c8"
+    },
+    {
+      "name": "AI电影镜头设计师",
+      "folder": "AI电影镜头设计师",
+      "relative_path": "原始技能库/AI电影镜头设计师/SKILL.md",
+      "category": "导演与镜头",
+      "description": "把简单的场景设计成专业电影级镜头语言",
+      "skill_hash": "8dcf06e2414c3f84"
+    },
+    {
+      "name": "AI画质修复师",
+      "folder": "AI画质修复师",
+      "relative_path": "原始技能库/AI画质修复师/SKILL.md",
+      "category": "人物与资产",
+      "description": "自动诊断噪点、假细节与结构问题，在严格保持人物和构图基础上",
+      "skill_hash": "8fdb8698a4cde11d"
+    },
+    {
+      "name": "AI短剧制片人",
+      "folder": "AI短剧制片人",
+      "relative_path": "原始技能库/AI短剧制片人/SKILL.md",
+      "category": "动画与漫剧",
+      "description": "AI短剧制片人",
+      "skill_hash": "c73dd764c9f251f2"
+    },
+    {
+      "name": "AI短片质检修复",
+      "folder": "AI短片质检修复",
+      "relative_path": "原始技能库/AI短片质检修复/SKILL.md",
+      "category": "导演与镜头",
+      "description": "逐镜找出连续性、镜头、节奏和声音问题，只重做真正失败的部分。",
+      "skill_hash": "710e58da7e308ceb"
+    },
+    {
+      "name": "AI视觉全流程v1.0",
+      "folder": "AI视觉全流程v1.0",
+      "relative_path": "原始技能库/AI视觉全流程v1.0/SKILL.md",
+      "category": "动画与漫剧",
+      "description": "一站式生成AI短剧",
+      "skill_hash": "d17a8e780dc16aee"
+    },
+    {
+      "name": "AI长视频导演",
+      "folder": "AI长视频导演",
+      "relative_path": "原始技能库/AI长视频导演/SKILL.md",
+      "category": "脚本与分镜",
+      "description": "把视频创意、剧本、参考图片或已有片段转化为即梦完整制作包。",
+      "skill_hash": "713260d06c8ff3c9"
+    },
+    {
+      "name": "AR穿戴设备广告",
+      "folder": "AR穿戴设备广告",
+      "relative_path": "原始技能库/AR穿戴设备广告/SKILL.md",
+      "category": "人物与资产",
+      "description": "生成竖屏9:16高级时尚眼镜广告片，极简白棚风格，模特T台",
+      "skill_hash": "c071007bdabfb944"
+    },
+    {
+      "name": "Cast Builder 角色资产创建",
+      "folder": "Cast Builder 角色资产创建",
+      "relative_path": "原始技能库/Cast Builder 角色资产创建/SKILL.md",
+      "category": "人物与资产",
+      "description": "三路线定脸、服装定妆、造型细节卡与无头三格角色资产工作流",
+      "skill_hash": "38b0e6affe02d4e6"
+    },
+    {
+      "name": "Daham-高级产品广告",
+      "folder": "Daham-高级产品广告",
+      "relative_path": "原始技能库/Daham-高级产品广告/SKILL.md",
+      "category": "导演与镜头",
+      "description": "制作果味的产品建模广告风格的数码产品，家电，摄影博主产品展示",
+      "skill_hash": "85023c131757d049"
+    },
+    {
+      "name": "DeepSeek爆款复刻｜故事片级AI视频",
+      "folder": "DeepSeek爆款复刻｜故事片级AI视频",
+      "relative_path": "原始技能库/DeepSeek爆款复刻｜故事片级AI视频/SKILL.md",
+      "category": "脚本与分镜",
+      "description": "爆款结构拆解→原创故事片级AI视频",
+      "skill_hash": "a4a198834e650d8e"
+    },
+    {
+      "name": "FPV航拍视频提示词生成",
+      "folder": "FPV航拍视频提示词生成",
+      "relative_path": "原始技能库/FPV航拍视频提示词生成/SKILL.md",
+      "category": "视频通用",
+      "description": "上传轨迹图自动生成FPV提示词",
+      "skill_hash": "6836d91cf52cde5b"
+    },
+    {
+      "name": "GVA-Blender V14.3",
+      "folder": "GVA-Blender V14.3",
+      "relative_path": "原始技能库/GVA-Blender V14.3/SKILL.md",
+      "category": "视觉风格与场景",
+      "description": "全球级建筑数字孪生协同智体",
+      "skill_hash": "00af195f5782481f"
+    },
+    {
+      "name": "HondaWeb官网UI",
+      "folder": "HondaWeb官网UI",
+      "relative_path": "原始技能库/HondaWeb官网UI/SKILL.md",
+      "category": "广告与电商",
+      "description": "基于参考网页排版截图与产品主视觉图，生成品牌汽车官网首页动效",
+      "skill_hash": "7f28ae3517bf5e05"
+    },
+    {
+      "name": "IP-pv分镜",
+      "folder": "IP-pv分镜",
+      "relative_path": "原始技能库/IP-pv分镜/SKILL.md",
+      "category": "脚本与分镜",
+      "description": "根据需求想法生成ip角色的pv分镜图",
+      "skill_hash": "cd029a2386593fda"
+    },
+    {
+      "name": "IP向无对白闹剧剧本",
+      "folder": "IP向无对白闹剧剧本",
+      "relative_path": "原始技能库/IP向无对白闹剧剧本/SKILL.md",
+      "category": "脚本与分镜",
+      "description": "复刻《猫和老鼠、倒霉熊》经典故事，轻松产出IP创意故事",
+      "skill_hash": "d4e313400239427d"
+    },
+    {
+      "name": "IP短片工坊",
+      "folder": "IP短片工坊",
+      "relative_path": "原始技能库/IP短片工坊/SKILL.md",
+      "category": "视频通用",
+      "description": "| 把用户形象变成IP短片。",
+      "skill_hash": "5c063cd754047ef6"
+    },
+    {
+      "name": "LOGO VI 样机生成器",
+      "folder": "LOGO VI 样机生成器",
+      "relative_path": "原始技能库/LOGO VI 样机生成器/SKILL.md",
+      "category": "视频通用",
+      "description": "上传LOGO自动适配VI样机效果图",
+      "skill_hash": "2e1df3d05586b2de"
+    },
+    {
+      "name": "Lala罐头的中式天宫",
+      "folder": "Lala罐头的中式天宫",
+      "relative_path": "原始技能库/Lala罐头的中式天宫/SKILL.md",
+      "category": "视觉风格与场景",
+      "description": "一套专为「中国古典仙侠·天界天宫」风格图片生成设计的视觉规则",
+      "skill_hash": "29761d5d26255760"
+    },
+    {
+      "name": "MJ专用东方美学电影场景",
+      "folder": "MJ专用东方美学电影场景",
+      "relative_path": "原始技能库/MJ专用东方美学电影场景/SKILL.md",
+      "category": "导演与镜头",
+      "description": "东方美学电影场景",
+      "skill_hash": "b663b776a25297be"
+    },
+    {
+      "name": "MOBA游戏角色美宣",
+      "folder": "MOBA游戏角色美宣",
+      "relative_path": "原始技能库/MOBA游戏角色美宣/SKILL.md",
+      "category": "人物与资产",
+      "description": "适用于MOBA角色美宣",
+      "skill_hash": "a1aa453e8feeb4d8"
+    },
+    {
+      "name": "POV手绘变形动画",
+      "folder": "POV手绘变形动画",
+      "relative_path": "原始技能库/POV手绘变形动画/SKILL.md",
+      "category": "视觉风格与场景",
+      "description": "上传任意场景图，自由描述变形动画序列，一键生成15秒第一人称",
+      "skill_hash": "e2635b8b6d793d78"
+    },
+    {
+      "name": "PV 导演",
+      "folder": "PV 导演",
+      "relative_path": "原始技能库/PV 导演/SKILL.md",
+      "category": "导演与镜头",
+      "description": "将概念转为可生成、可剪辑、可传播的游戏宣传预告片工作流",
+      "skill_hash": "1c51dbca19d4d20c"
+    },
+    {
+      "name": "Prompt优化器",
+      "folder": "Prompt优化器",
+      "relative_path": "原始技能库/Prompt优化器/SKILL.md",
+      "category": "其他待确认",
+      "description": "中文大白话转专业MJ/即梦英文Prompt",
+      "skill_hash": "79d46251fbde3d55"
+    },
+    {
+      "name": "Qstar 启星亲子",
+      "folder": "Qstar 启星亲子",
+      "relative_path": "原始技能库/Qstar 启星亲子/SKILL.md",
+      "category": "脚本与分镜",
+      "description": "根据产品资料策划短视频脚本，并创建对应脚本，剪辑生成完整视频",
+      "skill_hash": "e7499be48bc7e362"
+    },
+    {
+      "name": "S+ AI影视导演",
+      "folder": "S+ AI影视导演",
+      "relative_path": "原始技能库/S+ AI影视导演/SKILL.md",
+      "category": "导演与镜头",
+      "description": "S+AI影视导演面向电影、短剧、广告、MV的skiil",
+      "skill_hash": "bc75a86c5e7059f2"
+    },
+    {
+      "name": "S+短剧质量评分器 ·",
+      "folder": "S+短剧质量评分器 ·",
+      "relative_path": "原始技能库/S+短剧质量评分器 ·/SKILL.md",
+      "category": "脚本与分镜",
+      "description": "丢进短剧剧本/大纲，30秒输出七维评分+八条红线诊断+爽点密",
+      "skill_hash": "5ab3c1e9f724921a"
+    },
+    {
+      "name": "SD2.0虚拟导演",
+      "folder": "SD2.0虚拟导演",
+      "relative_path": "原始技能库/SD2.0虚拟导演/SKILL.md",
+      "category": "导演与镜头",
+      "description": "把你 1 句话的感官需求，自动翻译成包含镜头参数、物理推演和",
+      "skill_hash": "d314465dd45a1398"
+    },
+    {
+      "name": "SD2.5视频提示词助手",
+      "folder": "SD2.5视频提示词助手",
+      "relative_path": "原始技能库/SD2.5视频提示词助手/SKILL.md",
+      "category": "脚本与分镜",
+      "description": "将创意、剧本与素材转化为SD2.5视频提示词",
+      "skill_hash": "cb251c39d0417da4"
+    },
+    {
+      "name": "SSS级 | 特工大片生成器",
+      "folder": "SSS级 _ 特工大片生成器",
+      "relative_path": "原始技能库/SSS级 _ 特工大片生成器/SKILL.md",
+      "category": "人物与资产",
+      "description": "输入角色一键成片：60秒完整特工大片，自带赛博国风非遗产特效",
+      "skill_hash": "c02b4901abafdd4a"
+    },
+    {
+      "name": "Seedance武打提示词生成",
+      "folder": "Seedance武打提示词生成",
+      "relative_path": "原始技能库/Seedance武打提示词生成/SKILL.md",
+      "category": "动画与漫剧",
+      "description": "二次元打戏视频提示词生成",
+      "skill_hash": "59ed8cd8c804da07"
+    },
+    {
+      "name": "Seedance电影镜头",
+      "folder": "Seedance电影镜头",
+      "relative_path": "原始技能库/Seedance电影镜头/SKILL.md",
+      "category": "脚本与分镜",
+      "description": "把场景想法转化为包含站位、镜头、动作时间、物理、灯光、对白和",
+      "skill_hash": "06f19d5fd7b18bbb"
+    },
+    {
+      "name": "Seedance视频提示词优化器",
+      "folder": "Seedance视频提示词优化器",
+      "relative_path": "原始技能库/Seedance视频提示词优化器/SKILL.md",
+      "category": "视频通用",
+      "description": "优化Seedance 2.5视频生成提示词",
+      "skill_hash": "3f89207a28b64ef4"
+    },
+    {
+      "name": "Seedance高燃打斗",
+      "folder": "Seedance高燃打斗",
+      "relative_path": "原始技能库/Seedance高燃打斗/SKILL.md",
+      "category": "其他待确认",
+      "description": "Seedance 2.0高燃打斗提示词生成",
+      "skill_hash": "fd57e06de6539a0e"
+    },
+    {
+      "name": "TVC产品动画广告宣传片",
+      "folder": "TVC产品动画广告宣传片",
+      "relative_path": "原始技能库/TVC产品动画广告宣传片/SKILL.md",
+      "category": "导演与镜头",
+      "description": "产品质感设计，AI广告，产品TVC广告，反推视频内容，一键成",
+      "skill_hash": "2661b6197c6b627b"
+    },
+    {
+      "name": "TVC广告脚本分镜头",
+      "folder": "TVC广告脚本分镜头",
+      "relative_path": "原始技能库/TVC广告脚本分镜头/SKILL.md",
+      "category": "脚本与分镜",
+      "description": "给一个产品图，通过问答确定你的方向，输出分镜脚本和宫格分镜。",
+      "skill_hash": "7346cafd0a870ecd"
+    },
+    {
+      "name": "TXJY-V3.0-Wo",
+      "folder": "TXJY-V3.0-Wo",
+      "relative_path": "原始技能库/TXJY-V3.0-Wo/SKILL.md",
+      "category": "导演与镜头",
+      "description": "TXJY-V3.0 · 微电影全链路制作·世界规则引擎·终极",
+      "skill_hash": "f46c7d477af35f23"
+    },
+    {
+      "name": "TikTok Shop带货视频生成器",
+      "folder": "TikTok Shop带货视频生成器",
+      "relative_path": "原始技能库/TikTok Shop带货视频生成器/SKILL.md",
+      "category": "广告与电商",
+      "description": "上传产品图分步生成TikTok带货视频",
+      "skill_hash": "659a4b7b83be1afb"
+    },
+    {
+      "name": "VI应用的提案mockup",
+      "folder": "VI应用的提案mockup",
+      "relative_path": "原始技能库/VI应用的提案mockup/SKILL.md",
+      "category": "视觉风格与场景",
+      "description": "一页纸平铺多个VI样机，国际提案风格",
+      "skill_hash": "13e5c92a2cfd7559"
+    },
+    {
+      "name": "VidApp Icon生成器",
+      "folder": "VidApp Icon生成器",
+      "relative_path": "原始技能库/VidApp Icon生成器/SKILL.md",
+      "category": "视频通用",
+      "description": "输入App名称和功能，生成3种icon方案",
+      "skill_hash": "af26779733850672"
+    },
+    {
+      "name": "WorkBuddy爆款复刻｜故事片级AI视频",
+      "folder": "WorkBuddy爆款复刻｜故事片级AI视频",
+      "relative_path": "原始技能库/WorkBuddy爆款复刻｜故事片级AI视频/SKILL.md",
+      "category": "脚本与分镜",
+      "description": "WorkBuddy组织爆款复刻→故事片级AI视频",
+      "skill_hash": "385749423319bb1f"
+    },
+    {
+      "name": "Y2K杂志美学时尚短片",
+      "folder": "Y2K杂志美学时尚短片",
+      "relative_path": "原始技能库/Y2K杂志美学时尚短片/SKILL.md",
+      "category": "人物与资产",
+      "description": "上传自己的模特与服装，自动生成Y2K杂志美学时尚短片",
+      "skill_hash": "7d7544b28bc11f7d"
+    },
+    {
+      "name": "Y2K荒诞美学海报生成器",
+      "folder": "Y2K荒诞美学海报生成器",
+      "relative_path": "原始技能库/Y2K荒诞美学海报生成器/SKILL.md",
+      "category": "视觉风格与场景",
+      "description": "一句话/随机生成  Y2K weirdcore 风格海报",
+      "skill_hash": "153940bc14cbce31"
+    },
+    {
+      "name": "Y2K风格换装视频",
+      "folder": "Y2K风格换装视频",
+      "relative_path": "原始技能库/Y2K风格换装视频/SKILL.md",
+      "category": "人物与资产",
+      "description": "上传角色五官图或穿搭图，自动生成15秒视频",
+      "skill_hash": "4a53ace0b2515051"
+    },
+    {
+      "name": "YE-亚马逊套图",
+      "folder": "YE-亚马逊套图",
+      "relative_path": "原始技能库/YE-亚马逊套图/SKILL.md",
+      "category": "广告与电商",
+      "description": "制作产品主图、A+",
+      "skill_hash": "22aba7dbb49dea9c"
+    },
+    {
+      "name": "Z-图像生成提示词",
+      "folder": "Z-图像生成提示词",
+      "relative_path": "原始技能库/Z-图像生成提示词/SKILL.md",
+      "category": "导演与镜头",
+      "description": "效果图转真实摄影+人物融入全流程",
+      "skill_hash": "892400b2973b29ab"
+    },
+    {
+      "name": "ZgfyA24",
+      "folder": "ZgfyA24",
+      "relative_path": "原始技能库/ZgfyA24/SKILL.md",
+      "category": "脚本与分镜",
+      "description": "将原始短剧或剧集剧本优化为分镜， A24风格，历史剧，横屏",
+      "skill_hash": "61cdd3a61ca50d22"
+    },
+    {
+      "name": "ai-short-drama-workflow",
+      "folder": "ai-short-drama-workflow",
+      "relative_path": "原始技能库/ai-short-drama-workflow/SKILL.md",
+      "category": "脚本与分镜",
+      "description": "帮助用户制作 AI 短剧、剧情短片、情绪短片、概念预告、产品/品牌概念片、空间/活动展示、知识科普短片、投稿作品、客户样片和图生视频作品。适用于创意收窄、主题或信息目标提炼、结构设计、分镜拆解、视觉设定、参考图规划、图片提示词、视频提示词、主体一致性、剪辑前规划、生成失败修复、成片质检等场景，尤其适合“有想法或需求但不知道怎么落地成 AI 视频”的用户。",
+      "skill_hash": "1382a12e039c8eb7"
+    },
+    {
+      "name": "carbon-25d-parallax",
+      "folder": "carbon-25d-parallax",
+      "relative_path": "原始技能库/carbon-25d-parallax/SKILL.md",
+      "category": "视频通用",
+      "description": "碳素风2.5D视差视频提示词生成",
+      "skill_hash": "80b355f67fd63bcb"
+    },
+    {
+      "name": "changsheng-storyboard",
+      "folder": "changsheng-storyboard",
+      "relative_path": "原始技能库/changsheng-storyboard/SKILL.md",
+      "category": "脚本与分镜",
+      "description": "为《华夏守路人》系列生成标准化分镜制作文档，包含时间轴细分、三层构图、六维镜头设计（景别/构图/灯光/色彩/运动/情绪）、声音设计等完整字段。借鉴ShotDeck专业电影图像库的精细标签体系，输出电影级分镜。用户要求生成分镜、制作分镜表、或提到第X集分镜时调用。",
+      "skill_hash": "12b66d546fbbc4b8"
+    },
+    {
+      "name": "image图片去噪优化",
+      "folder": "image图片去噪优化",
+      "relative_path": "原始技能库/image图片去噪优化/SKILL.md",
+      "category": "其他待确认",
+      "description": "去噪简化图片细节，保留构图色调",
+      "skill_hash": "ffe000d7e09413ad"
+    },
+    {
+      "name": "img2降噪",
+      "folder": "img2降噪",
+      "relative_path": "原始技能库/img2降噪/SKILL.md",
+      "category": "其他待确认",
+      "description": "给image2生成出来的图片去掉噪点",
+      "skill_hash": "d09d0d4169b029d4"
+    },
+    {
+      "name": "libtv-参考视频复刻",
+      "folder": "libtv-参考视频复刻",
+      "relative_path": "原始技能库/libtv-参考视频复刻/SKILL.md",
+      "category": "视频通用",
+      "description": "上传参考视频，自动搭建阶梯抽帧与图生视频复刻工作流。",
+      "skill_hash": "7f5e4012ae64145c"
+    },
+    {
+      "name": "mj电影级提示词v8.1",
+      "folder": "mj电影级提示词v8.1",
+      "relative_path": "原始技能库/mj电影级提示词v8.1/SKILL.md",
+      "category": "脚本与分镜",
+      "description": "把用户的画面想法、剧本、或模糊需求转化为专业级 MJ 提示词",
+      "skill_hash": "5249bdaf76054173"
+    },
+    {
+      "name": "photo-to-",
+      "folder": "photo-to-",
+      "relative_path": "原始技能库/photo-to-/SKILL.md",
+      "category": "其他待确认",
+      "description": "photo-to-line-art",
+      "skill_hash": "18798f2ff1617740"
+    },
+    {
+      "name": "sd25电影级提示词",
+      "folder": "sd25电影级提示词",
+      "relative_path": "原始技能库/sd25电影级提示词/SKILL.md",
+      "category": "导演与镜头",
+      "description": "Seedance 2.5 提示词工程师。把用户的视频创意转化",
+      "skill_hash": "af5972f622ac36f7"
+    },
+    {
+      "name": "seedance-director",
+      "folder": "seedance-director",
+      "relative_path": "原始技能库/seedance-director/SKILL.md",
+      "category": "视频通用",
+      "description": "视频制作",
+      "skill_hash": "1888a1c4fdcb6fe4"
+    },
+    {
+      "name": "seedream文生图",
+      "folder": "seedream文生图",
+      "relative_path": "原始技能库/seedream文生图/SKILL.md",
+      "category": "其他待确认",
+      "description": "Seedream 5.0 Pro 文生图提示词专家",
+      "skill_hash": "da0c3df1827c849b"
+    },
+    {
+      "name": "skill 1",
+      "folder": "skill 1",
+      "relative_path": "原始技能库/skill 1/SKILL.md",
+      "category": "脚本与分镜",
+      "description": "电影分镜及角色",
+      "skill_hash": "67810bee3ad34ebc"
+    },
+    {
+      "name": "skill ruler",
+      "folder": "skill ruler",
+      "relative_path": "原始技能库/skill ruler/SKILL.md",
+      "category": "视频通用",
+      "description": "核心规则：不适用自动生成图片和视频",
+      "skill_hash": "460f404781433f71"
+    },
+    {
+      "name": "tvc广告素材生成大师",
+      "folder": "tvc广告素材生成大师",
+      "relative_path": "原始技能库/tvc广告素材生成大师/SKILL.md",
+      "category": "导演与镜头",
+      "description": "你想要的任何tvc广告质感的视频，都可以生成出来",
+      "skill_hash": "48df7cd827a11b0b"
+    },
+    {
+      "name": "vox风格视频",
+      "folder": "vox风格视频",
+      "relative_path": "原始技能库/vox风格视频/SKILL.md",
+      "category": "视觉风格与场景",
+      "description": "输入口播文案即可生成vox画面和视频提示词",
+      "skill_hash": "d87678228b75823a"
+    },
+    {
+      "name": "wan3.0专用",
+      "folder": "wan3.0专用",
+      "relative_path": "原始技能库/wan3.0专用/SKILL.md",
+      "category": "脚本与分镜",
+      "description": "输入分镜脚本自动生成对应节点",
+      "skill_hash": "4c96ddd6fc4bc0e5"
+    },
+    {
+      "name": "yukioliam影视顶级分镜脚本生成",
+      "folder": "yukioliam影视顶级分镜脚本生成",
+      "relative_path": "原始技能库/yukioliam影视顶级分镜脚本生成/SKILL.md",
+      "category": "脚本与分镜",
+      "description": "融合三大顶级导演体系生成专业分镜脚本",
+      "skill_hash": "6ec99aae81f8b5d5"
+    },
+    {
+      "name": "「大师镜头」名导风格视觉",
+      "folder": "「大师镜头」名导风格视觉",
+      "relative_path": "原始技能库/「大师镜头」名导风格视觉/SKILL.md",
+      "category": "脚本与分镜",
+      "description": "把剧本、故事梗概等叙事素材翻译成张艺谋、王家卫、库布里克等中",
+      "skill_hash": "cc4d77a191555907"
+    },
+    {
+      "name": "【一镜到底】影视短片",
+      "folder": "【一镜到底】影视短片",
+      "relative_path": "原始技能库/【一镜到底】影视短片/SKILL.md",
+      "category": "导演与镜头",
+      "description": "专用于电影级纯物理一镜到底（长镜头）视频创作",
+      "skill_hash": "6249dd360772b392"
+    },
+    {
+      "name": "【三行诗】AI 人物资产",
+      "folder": "【三行诗】AI 人物资产",
+      "relative_path": "原始技能库/【三行诗】AI 人物资产/SKILL.md",
+      "category": "人物与资产",
+      "description": "从人物小传到 AI 人物资产",
+      "skill_hash": "d3e280ed06f0e0a6"
+    },
+    {
+      "name": "【来虎喵】高能漫剧先导片",
+      "folder": "【来虎喵】高能漫剧先导片",
+      "relative_path": "原始技能库/【来虎喵】高能漫剧先导片/SKILL.md",
+      "category": "动画与漫剧",
+      "description": "对标短视频爆款逻辑，全链路生成20秒高能抓眼漫剧先导片",
+      "skill_hash": "117d8968090e3723"
+    },
+    {
+      "name": "一句话爆款视频制片厂",
+      "folder": "一句话爆款视频制片厂",
+      "relative_path": "原始技能库/一句话爆款视频制片厂/SKILL.md",
+      "category": "视频通用",
+      "description": "基于您的一句灵感，通过多轮提问引导，一键生成爆款视频",
+      "skill_hash": "f4ba96f8668164dc"
+    },
+    {
+      "name": "一句话生成电影画面",
+      "folder": "一句话生成电影画面",
+      "relative_path": "原始技能库/一句话生成电影画面/SKILL.md",
+      "category": "导演与镜头",
+      "description": "简单一句话就能生成您的理想的电影画面",
+      "skill_hash": "8789d179785bbc01"
+    },
+    {
+      "name": "一站式生成广告",
+      "folder": "一站式生成广告",
+      "relative_path": "原始技能库/一站式生成广告/SKILL.md",
+      "category": "脚本与分镜",
+      "description": "提出要求，自动出三视图、分镜场景图，一键生成广告视频。",
+      "skill_hash": "0c6cc67abbaae392"
+    },
+    {
+      "name": "一键3C产品TVC高品质",
+      "folder": "一键3C产品TVC高品质",
+      "relative_path": "原始技能库/一键3C产品TVC高品质/SKILL.md",
+      "category": "导演与镜头",
+      "description": "3C产品TVC短视频自动生成器，一分钟左右时长",
+      "skill_hash": "e352aa09b7938a17"
+    },
+    {
+      "name": "一键制作电商产品视频",
+      "folder": "一键制作电商产品视频",
+      "relative_path": "原始技能库/一键制作电商产品视频/SKILL.md",
+      "category": "广告与电商",
+      "description": "上传产品图，一站式输出电商产品视频，完整创作工作流",
+      "skill_hash": "59e767fefbfee95f"
+    },
+    {
+      "name": "一键品牌特效生成器",
+      "folder": "一键品牌特效生成器",
+      "relative_path": "原始技能库/一键品牌特效生成器/SKILL.md",
+      "category": "视觉风格与场景",
+      "description": "晶体生长/矩阵点阵/光辉流体/科幻赛博多种品牌动效",
+      "skill_hash": "189f13d5a4230d5f"
+    },
+    {
+      "name": "一键日系复古弹唱MV",
+      "folder": "一键日系复古弹唱MV",
+      "relative_path": "原始技能库/一键日系复古弹唱MV/SKILL.md",
+      "category": "导演与镜头",
+      "description": "一键生成日系早期岩井俊二画面氛围感AI弹唱视频",
+      "skill_hash": "ff9f587b40b21b05"
+    },
+    {
+      "name": "一键生成真人武侠动作片",
+      "folder": "一键生成真人武侠动作片",
+      "relative_path": "原始技能库/一键生成真人武侠动作片/SKILL.md",
+      "category": "人物与资产",
+      "description": "根据用户输入的角色场景以及希望出现的招式量身设计武侠动作",
+      "skill_hash": "4c9fa3271d8d2fe4"
+    },
+    {
+      "name": "一键生成萌娃沉浸式吃播",
+      "folder": "一键生成萌娃沉浸式吃播",
+      "relative_path": "原始技能库/一键生成萌娃沉浸式吃播/SKILL.md",
+      "category": "其他待确认",
+      "description": "萌娃沉浸式吃播一键生成",
+      "skill_hash": "32414e8b9f10de7b"
+    },
+    {
+      "name": "一键真实",
+      "folder": "一键真实",
+      "relative_path": "原始技能库/一键真实/SKILL.md",
+      "category": "其他待确认",
+      "description": "一键真实",
+      "skill_hash": "a4dddf26d6c3e4b2"
+    },
+    {
+      "name": "一键，零食产品视频-墨沫",
+      "folder": "一键，零食产品视频-墨沫",
+      "relative_path": "原始技能库/一键，零食产品视频-墨沫/SKILL.md",
+      "category": "脚本与分镜",
+      "description": "零食/食品包装产品展示大片的完整制作工作流，涵盖剧本确认",
+      "skill_hash": "3ac5da851a333b7a"
+    },
+    {
+      "name": "七夕口红高端广告视频",
+      "folder": "七夕口红高端广告视频",
+      "relative_path": "原始技能库/七夕口红高端广告视频/SKILL.md",
+      "category": "人物与资产",
+      "description": "上传口红色号图与模特图（可选），一键生成15秒七夕主题高端口",
+      "skill_hash": "6b90baa2de78b9b8"
+    },
+    {
+      "name": "万物成片｜异想导演机",
+      "folder": "万物成片｜异想导演机",
+      "relative_path": "原始技能库/万物成片｜异想导演机/SKILL.md",
+      "category": "导演与镜头",
+      "description": "《万物成片｜异想导演机》是一款导演型AI影像创作Skill",
+      "skill_hash": "91343f5bfdcc253d"
+    },
+    {
+      "name": "万物生视频提示词",
+      "folder": "万物生视频提示词",
+      "relative_path": "原始技能库/万物生视频提示词/SKILL.md",
+      "category": "视频通用",
+      "description": "生成视频提示词",
+      "skill_hash": "d89d4aeca9be58ab"
+    },
+    {
+      "name": "万物皆可宝矿力！",
+      "folder": "万物皆可宝矿力！",
+      "relative_path": "原始技能库/万物皆可宝矿力！/SKILL.md",
+      "category": "导演与镜头",
+      "description": "生成日系胶片风格夏日青春氛围短片＆TVC",
+      "skill_hash": "552451a990ed292b"
+    },
+    {
+      "name": "万物超视距广角图片生成SKILL",
+      "folder": "万物超视距广角图片生成SKILL",
+      "relative_path": "原始技能库/万物超视距广角图片生成SKILL/SKILL.md",
+      "category": "其他待确认",
+      "description": "超过3个维度的视野广角",
+      "skill_hash": "6e8e718fb5ab93ab"
+    },
+    {
+      "name": "万能封面制作skill",
+      "folder": "万能封面制作skill",
+      "relative_path": "原始技能库/万能封面制作skill/SKILL.md",
+      "category": "其他待确认",
+      "description": "通过用户的一句话来制作各式各样的封面设计",
+      "skill_hash": "17a63ee3a38d212a"
+    },
+    {
+      "name": "万能通用傻瓜式生成视频",
+      "folder": "万能通用傻瓜式生成视频",
+      "relative_path": "原始技能库/万能通用傻瓜式生成视频/SKILL.md",
+      "category": "脚本与分镜",
+      "description": "选择自动生成，输入剧本。",
+      "skill_hash": "6d36e2ffb7275d0e"
+    },
+    {
+      "name": "三渲二场景风格化V1.0",
+      "folder": "三渲二场景风格化V1.0",
+      "relative_path": "原始技能库/三渲二场景风格化V1.0/SKILL.md",
+      "category": "视觉风格与场景",
+      "description": "二游级三渲二场景风格化",
+      "skill_hash": "ee2eabbd094e54fc"
+    },
+    {
+      "name": "三视图+换装+换发型",
+      "folder": "三视图+换装+换发型",
+      "relative_path": "原始技能库/三视图+换装+换发型/SKILL.md",
+      "category": "人物与资产",
+      "description": "输入衣服参考图、人物参考图（写实风格）和可选发型参考图，自动",
+      "skill_hash": "67fc8b72ad8daea6"
+    },
+    {
+      "name": "三重境ok",
+      "folder": "三重境ok",
+      "relative_path": "原始技能库/三重境ok/SKILL.md",
+      "category": "其他待确认",
+      "description": "三重境ok",
+      "skill_hash": "0d8ce74a41df2ae8"
+    },
+    {
+      "name": "上架Steam的互动影游|洪荒西游",
+      "folder": "上架Steam的互动影游_洪荒西游",
+      "relative_path": "原始技能库/上架Steam的互动影游_洪荒西游/SKILL.md",
+      "category": "其他待确认",
+      "description": "专攻洪荒西游，一键生成真分支多结局的Steam级互动影游。",
+      "skill_hash": "b429ec58a5c36270"
+    },
+    {
+      "name": "上美影工笔重彩画风",
+      "folder": "上美影工笔重彩画风",
+      "relative_path": "原始技能库/上美影工笔重彩画风/SKILL.md",
+      "category": "视觉风格与场景",
+      "description": "中国传统工笔重彩动画风格",
+      "skill_hash": "41093cb36d5419e9"
+    },
+    {
+      "name": "上身2.0",
+      "folder": "上身2.0",
+      "relative_path": "原始技能库/上身2.0/SKILL.md",
+      "category": "其他待确认",
+      "description": "上身2.0",
+      "skill_hash": "49966008d4ffe0a7"
+    },
+    {
+      "name": "上身2.1",
+      "folder": "上身2.1",
+      "relative_path": "原始技能库/上身2.1/SKILL.md",
+      "category": "其他待确认",
+      "description": "上身2.1",
+      "skill_hash": "cf696e53b830524f"
+    },
+    {
+      "name": "上身实拍、固定模特、参考背景姿势",
+      "folder": "上身实拍、固定模特、参考背景姿势",
+      "relative_path": "原始技能库/上身实拍、固定模特、参考背景姿势/SKILL.md",
+      "category": "人物与资产",
+      "description": "根据真实的产品上身图、模特脸、参考背景及背景中模特姿势",
+      "skill_hash": "4b4da22b9192cc01"
+    },
+    {
+      "name": "专业编剧思维剧本创作",
+      "folder": "专业编剧思维剧本创作",
+      "relative_path": "原始技能库/专业编剧思维剧本创作/SKILL.md",
+      "category": "脚本与分镜",
+      "description": "像资深编剧一样从主题内核出发，逐层构建结构、人物、场景与对白",
+      "skill_hash": "73fa14125c8f2582"
+    },
+    {
+      "name": "专业运镜指令生成器",
+      "folder": "专业运镜指令生成器",
+      "relative_path": "原始技能库/专业运镜指令生成器/SKILL.md",
+      "category": "脚本与分镜",
+      "description": "场景情绪一键生成专业运镜指令和分镜方案",
+      "skill_hash": "71b09f62317f62d3"
+    },
+    {
+      "name": "东方修行哲思意境视觉导演",
+      "folder": "东方修行哲思意境视觉导演",
+      "relative_path": "原始技能库/东方修行哲思意境视觉导演/SKILL.md",
+      "category": "导演与镜头",
+      "description": "输入哲思文案或一句主题，自动生成统一风格的中式修行图片与视频",
+      "skill_hash": "8ccc279ba782ec2d"
+    },
+    {
+      "name": "东方古典写意仙宫场景",
+      "folder": "东方古典写意仙宫场景",
+      "relative_path": "原始技能库/东方古典写意仙宫场景/SKILL.md",
+      "category": "视觉风格与场景",
+      "description": "生成清透东方天宫、云海宫阙、仙境园林的图片提示词与视频提示词",
+      "skill_hash": "bc67cc3da42a71de"
+    },
+    {
+      "name": "东方古典赛博机械传说",
+      "folder": "东方古典赛博机械传说",
+      "relative_path": "原始技能库/东方古典赛博机械传说/SKILL.md",
+      "category": "视觉风格与场景",
+      "description": "将中式东方美学与赛博机械感融合",
+      "skill_hash": "17bb3a6f26cdc1e9"
+    },
+    {
+      "name": "东方天宫写意-优化版",
+      "folder": "东方天宫写意-优化版",
+      "relative_path": "原始技能库/东方天宫写意-优化版/SKILL.md",
+      "category": "视觉风格与场景",
+      "description": "生成东方写意天宫风格的图片提示词与图生视频提示词",
+      "skill_hash": "c490e1ec576af002"
+    },
+    {
+      "name": "东方天庭美学",
+      "folder": "东方天庭美学",
+      "relative_path": "原始技能库/东方天庭美学/SKILL.md",
+      "category": "视觉风格与场景",
+      "description": "一句话生成新中式东方仙境图片提示词，并自动将画面转成视频",
+      "skill_hash": "4c1e50dbf37b7afd"
+    },
+    {
+      "name": "东方巨构 | 情绪大片一键成片",
+      "folder": "东方巨构 _ 情绪大片一键成片",
+      "relative_path": "原始技能库/东方巨构 _ 情绪大片一键成片/SKILL.md",
+      "category": "导演与镜头",
+      "description": "调用【顶级大导演思维】，一键生成冷调留白东方电影级巨构大片！",
+      "skill_hash": "6b43073529399c51"
+    },
+    {
+      "name": "东方异境视觉",
+      "folder": "东方异境视觉",
+      "relative_path": "原始技能库/东方异境视觉/SKILL.md",
+      "category": "导演与镜头",
+      "description": "把中国传统纹样变成山河、云海与天地异象，一句话生成电影级东方",
+      "skill_hash": "49c781c75a91f0ed"
+    },
+    {
+      "name": "东方版画旅行诗工作流",
+      "folder": "东方版画旅行诗工作流",
+      "relative_path": "原始技能库/东方版画旅行诗工作流/SKILL.md",
+      "category": "视觉风格与场景",
+      "description": "任意照片→水墨版画拼贴文案全流程",
+      "skill_hash": "b2a63e39bdefff4b"
+    },
+    {
+      "name": "东方神兽视觉叙事导演兼东方神兽创意设定师",
+      "folder": "东方神兽视觉叙事导演兼东方神兽创意设定师",
+      "relative_path": "原始技能库/东方神兽视觉叙事导演兼东方神兽创意设定师/SKILL.md",
+      "category": "导演与镜头",
+      "description": "只需要表达你的想法 即可生成迈克同款神兽叙事视频大片",
+      "skill_hash": "8d07aaeebfd20f01"
+    },
+    {
+      "name": "中式仙境场景提示词",
+      "folder": "中式仙境场景提示词",
+      "relative_path": "原始技能库/中式仙境场景提示词/SKILL.md",
+      "category": "视觉风格与场景",
+      "description": "中式仙境图片/视频提示词生成",
+      "skill_hash": "87d99107521dce95"
+    },
+    {
+      "name": "中式仙境提示词生图",
+      "folder": "中式仙境提示词生图",
+      "relative_path": "原始技能库/中式仙境提示词生图/SKILL.md",
+      "category": "其他待确认",
+      "description": "一句诗词，一个关键词生成提示词，并一键生图",
+      "skill_hash": "96cbe9c154e116f8"
+    },
+    {
+      "name": "中式天庭",
+      "folder": "中式天庭",
+      "relative_path": "原始技能库/中式天庭/SKILL.md",
+      "category": "视频通用",
+      "description": "一键给出中式天庭生图和生视频提示词",
+      "skill_hash": "2692fbba4960e749"
+    },
+    {
+      "name": "中式宋式美学电影分镜人物—悠船模型SKILL",
+      "folder": "中式宋式美学电影分镜人物—悠船模型SKILL",
+      "relative_path": "原始技能库/中式宋式美学电影分镜人物—悠船模型SKILL/SKILL.md",
+      "category": "脚本与分镜",
+      "description": "超写实的中式美学人物和场景",
+      "skill_hash": "efa236b6d2df665d"
+    },
+    {
+      "name": "中式田园古风短剧导演",
+      "folder": "中式田园古风短剧导演",
+      "relative_path": "原始技能库/中式田园古风短剧导演/SKILL.md",
+      "category": "脚本与分镜",
+      "description": "从创意到成片，输出中式田园古风短剧的分镜图片与视频导演方案",
+      "skill_hash": "d90cd74eb16ba23e"
+    },
+    {
+      "name": "中式美学微电影",
+      "folder": "中式美学微电影",
+      "relative_path": "原始技能库/中式美学微电影/SKILL.md",
+      "category": "导演与镜头",
+      "description": "一句话帮你生成中式美学微电影",
+      "skill_hash": "8d891cfb39175cae"
+    },
+    {
+      "name": "中式美学微电影",
+      "folder": "中式美学微电影_b1dbb0",
+      "relative_path": "原始技能库/中式美学微电影_b1dbb0/SKILL.md",
+      "category": "导演与镜头",
+      "description": "将一句话变成属于你的中式美学",
+      "skill_hash": "43ced686eb6d48c4"
+    },
+    {
+      "name": "中式美学短剧导演",
+      "folder": "中式美学短剧导演",
+      "relative_path": "原始技能库/中式美学短剧导演/SKILL.md",
+      "category": "脚本与分镜",
+      "description": "从创意到成片，输出中式美学短剧的画风、分镜与视频导演方案",
+      "skill_hash": "fb4ba588f4749b74"
+    },
+    {
+      "name": "乙女互动影游剧本创作",
+      "folder": "乙女互动影游剧本创作",
+      "relative_path": "原始技能库/乙女互动影游剧本创作/SKILL.md",
+      "category": "脚本与分镜",
+      "description": "直接从脑洞开始完成互动剧本的创作。",
+      "skill_hash": "b7d3df4877d24333"
+    },
+    {
+      "name": "二次元动漫日常",
+      "folder": "二次元动漫日常",
+      "relative_path": "原始技能库/二次元动漫日常/SKILL.md",
+      "category": "视觉风格与场景",
+      "description": "二次元风格",
+      "skill_hash": "99320a6a9bed2d7d"
+    },
+    {
+      "name": "二次元手绘风格动画短片",
+      "folder": "二次元手绘风格动画短片",
+      "relative_path": "原始技能库/二次元手绘风格动画短片/SKILL.md",
+      "category": "脚本与分镜",
+      "description": "根据剧本或创意，一键生成汤浅政明风格的手绘动画短片",
+      "skill_hash": "f5aca08b12db112a"
+    },
+    {
+      "name": "云上万阙｜天庭导演",
+      "folder": "云上万阙｜天庭导演",
+      "relative_path": "原始技能库/云上万阙｜天庭导演/SKILL.md",
+      "category": "导演与镜头",
+      "description": "上传人物、城市、风景参考图，或输入一句主题，一键生成明亮暖金",
+      "skill_hash": "b8a3b35e1b248173"
+    },
+    {
+      "name": "云上宫阙skill",
+      "folder": "云上宫阙skill",
+      "relative_path": "原始技能库/云上宫阙skill/SKILL.md",
+      "category": "视频通用",
+      "description": "生成云上宫阙设定图及视频",
+      "skill_hash": "b90c28ce8aedb5e3"
+    },
+    {
+      "name": "云宫迅音-宏伟中式场景",
+      "folder": "云宫迅音-宏伟中式场景",
+      "relative_path": "原始技能库/云宫迅音-宏伟中式场景/SKILL.md",
+      "category": "视觉风格与场景",
+      "description": "输入一句话中式仙侠场景描述，自动生成10张场景图",
+      "skill_hash": "aaabf4021d60c286"
+    },
+    {
+      "name": "云顶天宫",
+      "folder": "云顶天宫",
+      "relative_path": "原始技能库/云顶天宫/SKILL.md",
+      "category": "视觉风格与场景",
+      "description": "制作东方巨构美学云顶天宫风格视频",
+      "skill_hash": "fbf68191b79051bc"
+    },
+    {
+      "name": "产品包装/食品广告视频展示skill同款-墨沫",
+      "folder": "产品包装_食品广告视频展示skill同款-墨沫",
+      "relative_path": "原始技能库/产品包装_食品广告视频展示skill同款-墨沫/SKILL.md",
+      "category": "广告与电商",
+      "description": "上传包装图生成广告视频",
+      "skill_hash": "9b42879d4c08945d"
+    },
+    {
+      "name": "产品宣传图生成器",
+      "folder": "产品宣传图生成器",
+      "relative_path": "原始技能库/产品宣传图生成器/SKILL.md",
+      "category": "广告与电商",
+      "description": "输入描述，自动生成商业宣传图",
+      "skill_hash": "7997d66bbff671b8"
+    },
+    {
+      "name": "产品宣传视频生成器",
+      "folder": "产品宣传视频生成器",
+      "relative_path": "原始技能库/产品宣传视频生成器/SKILL.md",
+      "category": "广告与电商",
+      "description": "给定产品图一键生成宣传视频",
+      "skill_hash": "ef9a7b3a1fc2efef"
+    },
+    {
+      "name": "产品展示视频三步填空墨沫",
+      "folder": "产品展示视频三步填空墨沫",
+      "relative_path": "原始技能库/产品展示视频三步填空墨沫/SKILL.md",
+      "category": "广告与电商",
+      "description": "基于\"三步填空法\"框架，为食品/消费品生成产品展示型短视频。",
+      "skill_hash": "26bfb729736dfdfa"
+    },
+    {
+      "name": "产品广告导演一键成片",
+      "folder": "产品广告导演一键成片",
+      "relative_path": "原始技能库/产品广告导演一键成片/SKILL.md",
+      "category": "导演与镜头",
+      "description": "只需一张产品图和一句卖点，AI 广告导演自动成片方案",
+      "skill_hash": "c3832435a38bf163"
+    },
+    {
+      "name": "产品极致光影质感扫描",
+      "folder": "产品极致光影质感扫描",
+      "relative_path": "原始技能库/产品极致光影质感扫描/SKILL.md",
+      "category": "导演与镜头",
+      "description": "产品光影质感的提升，多段式的产品全景和各种细节特写的光影质感",
+      "skill_hash": "da456d920d7cdfbc"
+    },
+    {
+      "name": "人像白底图",
+      "folder": "人像白底图",
+      "relative_path": "原始技能库/人像白底图/SKILL.md",
+      "category": "人物与资产",
+      "description": "在原有白底证件照生成技能基础上，新增服装约束：所有生成的模特",
+      "skill_hash": "0a5c1131b958f6a0"
+    },
+    {
+      "name": "人物三视图生成器",
+      "folder": "人物三视图生成器",
+      "relative_path": "原始技能库/人物三视图生成器/SKILL.md",
+      "category": "人物与资产",
+      "description": "输入角色图片，生成三视图+特写",
+      "skill_hash": "2158d6c55fb21343"
+    },
+    {
+      "name": "人物出场skill",
+      "folder": "人物出场skill",
+      "relative_path": "原始技能库/人物出场skill/SKILL.md",
+      "category": "人物与资产",
+      "description": "将角色首次亮相、登场、揭示或人物预告，转换为的 AI提示词",
+      "skill_hash": "fd66278dac5bf1c8"
+    },
+    {
+      "name": "人物多视图生成器",
+      "folder": "人物多视图生成器",
+      "relative_path": "原始技能库/人物多视图生成器/SKILL.md",
+      "category": "人物与资产",
+      "description": "多风格角色母版图+多视图设定研究板",
+      "skill_hash": "0c90ddc9304b6c57"
+    },
+    {
+      "name": "人物故事版呈现SKILL",
+      "folder": "人物故事版呈现SKILL",
+      "relative_path": "原始技能库/人物故事版呈现SKILL/SKILL.md",
+      "category": "脚本与分镜",
+      "description": "自动定义角色变成分析故事版",
+      "skill_hash": "984e5f4b0597cb91"
+    },
+    {
+      "name": "人物氛围感写真视频",
+      "folder": "人物氛围感写真视频",
+      "relative_path": "原始技能库/人物氛围感写真视频/SKILL.md",
+      "category": "导演与镜头",
+      "description": "输入人物风格与场景，生成电影感人像短片方案，含情绪、光影、构",
+      "skill_hash": "1448f3206de903dc"
+    },
+    {
+      "name": "人物超写实图片/视频制作",
+      "folder": "人物超写实图片_视频制作",
+      "relative_path": "原始技能库/人物超写实图片_视频制作/SKILL.md",
+      "category": "人物与资产",
+      "description": "一键直出人物超写实图片和情绪化演技视频",
+      "skill_hash": "0bd6f8b8d3fc6f0d"
+    },
+    {
+      "name": "仙侠电影/短剧创作大师",
+      "folder": "仙侠电影_短剧创作大师",
+      "relative_path": "原始技能库/仙侠电影_短剧创作大师/SKILL.md",
+      "category": "导演与镜头",
+      "description": "适用于高品质仙侠电影/短剧创作，一键呈现顶级仙侠美学风格",
+      "skill_hash": "689e2969573e12b2"
+    },
+    {
+      "name": "仙侠高燃打斗分镜生成",
+      "folder": "仙侠高燃打斗分镜生成",
+      "relative_path": "原始技能库/仙侠高燃打斗分镜生成/SKILL.md",
+      "category": "脚本与分镜",
+      "description": "直出30秒炫酷战斗招式",
+      "skill_hash": "9ad9826bb9fa2c4c"
+    },
+    {
+      "name": "任何风格角色战斗场景生成",
+      "folder": "任何风格角色战斗场景生成",
+      "relative_path": "原始技能库/任何风格角色战斗场景生成/SKILL.md",
+      "category": "人物与资产",
+      "description": "打斗视效生成",
+      "skill_hash": "6c7c42de8542da4c"
+    },
+    {
+      "name": "佛国净土天宫视频生成",
+      "folder": "佛国净土天宫视频生成",
+      "relative_path": "原始技能库/佛国净土天宫视频生成/SKILL.md",
+      "category": "视觉风格与场景",
+      "description": "中式佛国净土美学视频创作流程",
+      "skill_hash": "77686b51e7671827"
+    },
+    {
+      "name": "你的想法变成大片！",
+      "folder": "你的想法变成大片！",
+      "relative_path": "原始技能库/你的想法变成大片！/SKILL.md",
+      "category": "人物与资产",
+      "description": "给一个想法直至整合成片的完整流水线，四大锚点锁死一致性",
+      "skill_hash": "efef7fd38f844b28"
+    },
+    {
+      "name": "佳丽电影感口播分镜故事板",
+      "folder": "佳丽电影感口播分镜故事板",
+      "relative_path": "原始技能库/佳丽电影感口播分镜故事板/SKILL.md",
+      "category": "脚本与分镜",
+      "description": "给对应文案和主角角色卡即可生成对应的分镜故事板",
+      "skill_hash": "af9bfb842ae80475"
+    },
+    {
+      "name": "保温杯视频制作",
+      "folder": "保温杯视频制作",
+      "relative_path": "原始技能库/保温杯视频制作/SKILL.md",
+      "category": "广告与电商",
+      "description": "输入白底图细节图就可以一键生成产品视频",
+      "skill_hash": "38f97b9f1d8cfc14"
+    },
+    {
+      "name": "修复提示词大师",
+      "folder": "修复提示词大师",
+      "relative_path": "原始技能库/修复提示词大师/SKILL.md",
+      "category": "其他待确认",
+      "description": "诊断并修复各类媒体创作提示词",
+      "skill_hash": "669713ba1734f00a"
+    },
+    {
+      "name": "光影时刻与天气",
+      "folder": "光影时刻与天气",
+      "relative_path": "原始技能库/光影时刻与天气/SKILL.md",
+      "category": "导演与镜头",
+      "description": "日出/日落/黄金时刻/蓝调时刻…以及晴/雨/雪/雾/阴天",
+      "skill_hash": "f9cc5ede1461da76"
+    },
+    {
+      "name": "光影镜头导演",
+      "folder": "光影镜头导演",
+      "relative_path": "原始技能库/光影镜头导演/SKILL.md",
+      "category": "导演与镜头",
+      "description": "将简单描述，参考图、或一小段剧情，转译成一张极具氛围的图片",
+      "skill_hash": "150a94625671a0e4"
+    },
+    {
+      "name": "全品类电商产品精修V1",
+      "folder": "全品类电商产品精修V1",
+      "relative_path": "原始技能库/全品类电商产品精修V1/SKILL.md",
+      "category": "广告与电商",
+      "description": "上传一张随手拍摄产品图，生成8张多角度白底精修图",
+      "skill_hash": "6566a211d18bafe2"
+    },
+    {
+      "name": "全流程 AI 影视制作工具",
+      "folder": "全流程 AI 影视制作工具",
+      "relative_path": "原始技能库/全流程 AI 影视制作工具/SKILL.md",
+      "category": "脚本与分镜",
+      "description": "混合风格分镜、双语提示词与跨集一致性方案",
+      "skill_hash": "2d1bae8c61a19d0e"
+    },
+    {
+      "name": "全能变身特效视频",
+      "folder": "全能变身特效视频",
+      "relative_path": "原始技能库/全能变身特效视频/SKILL.md",
+      "category": "视觉风格与场景",
+      "description": "双图生成多风格全能变身特效视频",
+      "skill_hash": "50ef1232f2999aba"
+    },
+    {
+      "name": "全能经典影视作品风格复刻",
+      "folder": "全能经典影视作品风格复刻",
+      "relative_path": "原始技能库/全能经典影视作品风格复刻/SKILL.md",
+      "category": "脚本与分镜",
+      "description": "AI 影视创作中枢，自动识别意图，提供脚本、画面、空镜、反推",
+      "skill_hash": "c0d76d0c3dbfeca9"
+    },
+    {
+      "name": "全能运动产品TVC系列",
+      "folder": "全能运动产品TVC系列",
+      "relative_path": "原始技能库/全能运动产品TVC系列/SKILL.md",
+      "category": "导演与镜头",
+      "description": "运动产品动感风，通过分析产品卖点一键生成可商用的完整成片视频",
+      "skill_hash": "ff291090cfbba401"
+    },
+    {
+      "name": "八仙主题视频创作",
+      "folder": "八仙主题视频创作",
+      "relative_path": "原始技能库/八仙主题视频创作/SKILL.md",
+      "category": "导演与镜头",
+      "description": "基于中国道教八仙题材，生成3D真人写实+奇幻光影风格的人物图",
+      "skill_hash": "87bb1c414396de06"
+    },
+    {
+      "name": "公众号文章转爆款短视频",
+      "folder": "公众号文章转爆款短视频",
+      "relative_path": "原始技能库/公众号文章转爆款短视频/SKILL.md",
+      "category": "视频通用",
+      "description": "将公众号文章一键转爆款短视频",
+      "skill_hash": "53b4628a6d15b6c6"
+    },
+    {
+      "name": "公共艺术参考材质生成新作品SKILL",
+      "folder": "公共艺术参考材质生成新作品SKILL",
+      "relative_path": "原始技能库/公共艺术参考材质生成新作品SKILL/SKILL.md",
+      "category": "视觉风格与场景",
+      "description": "用于参考材质的公共艺术设计生成",
+      "skill_hash": "c0a61f88bf38f066"
+    },
+    {
+      "name": "公共艺术文生图SKILL",
+      "folder": "公共艺术文生图SKILL",
+      "relative_path": "原始技能库/公共艺术文生图SKILL/SKILL.md",
+      "category": "其他待确认",
+      "description": "用文字生成公共艺术作品",
+      "skill_hash": "857321b55f907433"
+    },
+    {
+      "name": "公共艺术生成器SKILL（无搜索版)",
+      "folder": "公共艺术生成器SKILL（无搜索版)",
+      "relative_path": "原始技能库/公共艺术生成器SKILL（无搜索版)/SKILL.md",
+      "category": "视觉风格与场景",
+      "description": "一句话生成不同材质的公共艺术",
+      "skill_hash": "227d73aceed5a477"
+    },
+    {
+      "name": "公益影像一站式导演",
+      "folder": "公益影像一站式导演",
+      "relative_path": "原始技能库/公益影像一站式导演/SKILL.md",
+      "category": "脚本与分镜",
+      "description": "从成熟公益剧本或一个初步想法出发，完成剧本打磨、视觉资产规划",
+      "skill_hash": "58a275c988ed9556"
+    },
+    {
+      "name": "关于“错过”的60秒电影",
+      "folder": "关于“错过”的60秒电影",
+      "relative_path": "原始技能库/关于“错过”的60秒电影/SKILL.md",
+      "category": "导演与镜头",
+      "description": "这是一个专门创作 60秒“错过”主题电影短片 的导演型 Sk",
+      "skill_hash": "aed20590f1b764ae"
+    },
+    {
+      "name": "具有真实质感的开箱视频",
+      "folder": "具有真实质感的开箱视频",
+      "relative_path": "原始技能库/具有真实质感的开箱视频/SKILL.md",
+      "category": "视频通用",
+      "description": "生成真实统一、有礼赠美感的礼盒开箱视频",
+      "skill_hash": "e9fe2c93729d50fc"
+    },
+    {
+      "name": "写实废土赛博朋克",
+      "folder": "写实废土赛博朋克",
+      "relative_path": "原始技能库/写实废土赛博朋克/SKILL.md",
+      "category": "视觉风格与场景",
+      "description": "把任意场景变成粗粝、可信、有人生活过的废土赛博城市",
+      "skill_hash": "becd7e194d8f215d"
+    },
+    {
+      "name": "写实电影叙事—丫一吧",
+      "folder": "写实电影叙事—丫一吧",
+      "relative_path": "原始技能库/写实电影叙事—丫一吧/SKILL.md",
+      "category": "脚本与分镜",
+      "description": "将小说自动转化为写实电影级分镜与 AI 视频 Prompt",
+      "skill_hash": "279a0d90030b2fad"
+    },
+    {
+      "name": "冷峻的末日写实风格",
+      "folder": "冷峻的末日写实风格",
+      "relative_path": "原始技能库/冷峻的末日写实风格/SKILL.md",
+      "category": "视觉风格与场景",
+      "description": "生成短片自带惊悚风格，保留冷色调滤镜的同时，带有末日氛围",
+      "skill_hash": "75744737c899bd24"
+    },
+    {
+      "name": "分镜一键生成稳定版",
+      "folder": "分镜一键生成稳定版",
+      "relative_path": "原始技能库/分镜一键生成稳定版/SKILL.md",
+      "category": "脚本与分镜",
+      "description": "一键成片的分镜工作流",
+      "skill_hash": "af0ad10c5ae82b8b"
+    },
+    {
+      "name": "分镜升镜师",
+      "folder": "分镜升镜师",
+      "relative_path": "原始技能库/分镜升镜师/SKILL.md",
+      "category": "脚本与分镜",
+      "description": "把普通分镜升级成有镜头语言的专业导演分镜",
+      "skill_hash": "0a88a2097a002602"
+    },
+    {
+      "name": "分镜图生成器",
+      "folder": "分镜图生成器",
+      "relative_path": "原始技能库/分镜图生成器/SKILL.md",
+      "category": "脚本与分镜",
+      "description": "很牛逼的分镜图生成方法",
+      "skill_hash": "b1882d4a206d5640"
+    },
+    {
+      "name": "分镜画师",
+      "folder": "分镜画师",
+      "relative_path": "原始技能库/分镜画师/SKILL.md",
+      "category": "脚本与分镜",
+      "description": "分镜画师——把你的视觉想法拆成电影级分镜 + 中英对照画面",
+      "skill_hash": "000a70e28ed0e642"
+    },
+    {
+      "name": "分镜脚本生成器",
+      "folder": "分镜脚本生成器",
+      "relative_path": "原始技能库/分镜脚本生成器/SKILL.md",
+      "category": "脚本与分镜",
+      "description": "输入主题时长风格，输出逐秒分镜脚本",
+      "skill_hash": "78cf2e5980a70587"
+    },
+    {
+      "name": "剧情短剧分镜提示词",
+      "folder": "剧情短剧分镜提示词",
+      "relative_path": "原始技能库/剧情短剧分镜提示词/SKILL.md",
+      "category": "脚本与分镜",
+      "description": "剧情短剧视频生成提示词写作规范",
+      "skill_hash": "579da742e16eb107"
+    },
+    {
+      "name": "剧情连续一键出片",
+      "folder": "剧情连续一键出片",
+      "relative_path": "原始技能库/剧情连续一键出片/SKILL.md",
+      "category": "其他待确认",
+      "description": "连续剧制作必备",
+      "skill_hash": "097097550c0b2d3e"
+    },
+    {
+      "name": "剧本写作（电影、电视剧）",
+      "folder": "剧本写作（电影、电视剧）",
+      "relative_path": "原始技能库/剧本写作（电影、电视剧）/SKILL.md",
+      "category": "脚本与分镜",
+      "description": "专业电影剧本写作技能。",
+      "skill_hash": "c9b387b2eff7b0c2"
+    },
+    {
+      "name": "剧本分析3D角色+场景",
+      "folder": "剧本分析3D角色+场景",
+      "relative_path": "原始技能库/剧本分析3D角色+场景/SKILL.md",
+      "category": "脚本与分镜",
+      "description": "输出内容包含角色三视图+场景图",
+      "skill_hash": "a18de5f810fccecd"
+    },
+    {
+      "name": "剧本分析真人角色设定图",
+      "folder": "剧本分析真人角色设定图",
+      "relative_path": "原始技能库/剧本分析真人角色设定图/SKILL.md",
+      "category": "脚本与分镜",
+      "description": "短剧剧本解析，，所有对话角色全身立绘提示词批量生成",
+      "skill_hash": "270be0c62a755593"
+    },
+    {
+      "name": "剧本分段时长拆分",
+      "folder": "剧本分段时长拆分",
+      "relative_path": "原始技能库/剧本分段时长拆分/SKILL.md",
+      "category": "脚本与分镜",
+      "description": "准确评估剧本时长，并按分镜时长上限智能拆分为多个片段",
+      "skill_hash": "4045bda21e89736d"
+    },
+    {
+      "name": "剧本审核超强skill",
+      "folder": "剧本审核超强skill",
+      "relative_path": "原始技能库/剧本审核超强skill/SKILL.md",
+      "category": "脚本与分镜",
+      "description": "剧本爆款逻辑拆解成 25 个可量化的硬指标，帮你审稿",
+      "skill_hash": "0ffe6d44115f5ad4"
+    },
+    {
+      "name": "剧本生成AI视频一键流",
+      "folder": "剧本生成AI视频一键流",
+      "relative_path": "原始技能库/剧本生成AI视频一键流/SKILL.md",
+      "category": "脚本与分镜",
+      "description": "根据短剧剧本片段，自动扩写成完整可拍摄场景，并生成视频",
+      "skill_hash": "eb13b9eff1df0559"
+    },
+    {
+      "name": "剧本视觉资产师",
+      "folder": "剧本视觉资产师",
+      "relative_path": "原始技能库/剧本视觉资产师/SKILL.md",
+      "category": "脚本与分镜",
+      "description": "根据剧本生成可复用的人物、场景、道具与分镜组",
+      "skill_hash": "207f85f95bd16d0f"
+    },
+    {
+      "name": "剧本转Seedance提示词",
+      "folder": "剧本转Seedance提示词",
+      "relative_path": "原始技能库/剧本转Seedance提示词/SKILL.md",
+      "category": "脚本与分镜",
+      "description": "剧本分镜转Seedance-2.0提示词",
+      "skill_hash": "93abf62a4969f99b"
+    },
+    {
+      "name": "剧本转提示词战斗增强版",
+      "folder": "剧本转提示词战斗增强版",
+      "relative_path": "原始技能库/剧本转提示词战斗增强版/SKILL.md",
+      "category": "脚本与分镜",
+      "description": "重点战斗部分嵌入",
+      "skill_hash": "810939ed9bd7a694"
+    },
+    {
+      "name": "剧本转电影级3D动画视频",
+      "folder": "剧本转电影级3D动画视频",
+      "relative_path": "原始技能库/剧本转电影级3D动画视频/SKILL.md",
+      "category": "脚本与分镜",
+      "description": "将剧本自动拆解为角色设定、场景设计等，最后生成完整视频方案。",
+      "skill_hash": "f5df007e20dbd7be"
+    },
+    {
+      "name": "剪纸动画",
+      "folder": "剪纸动画",
+      "relative_path": "原始技能库/剪纸动画/SKILL.md",
+      "category": "脚本与分镜",
+      "description": "把中国寓言 / 成语故事名做成可播放竖屏剪纸动画",
+      "skill_hash": "c2334e59f054e370"
+    },
+    {
+      "name": "动作分裂（识别场景变化）",
+      "folder": "动作分裂（识别场景变化）",
+      "relative_path": "原始技能库/动作分裂（识别场景变化）/SKILL.md",
+      "category": "导演与镜头",
+      "description": "上传一张模特图，裂变同一人物服装的多镜头、多动作、多表情素材",
+      "skill_hash": "84789a3348b572ea"
+    },
+    {
+      "name": "动态视觉四母版",
+      "folder": "动态视觉四母版",
+      "relative_path": "原始技能库/动态视觉四母版/SKILL.md",
+      "category": "脚本与分镜",
+      "description": "动态判断这个剧本项目最适合的视觉语言并拆成4张视觉母参考。",
+      "skill_hash": "44214576f2415812"
+    },
+    {
+      "name": "动漫PV导演｜生成器",
+      "folder": "动漫PV导演｜生成器",
+      "relative_path": "原始技能库/动漫PV导演｜生成器/SKILL.md",
+      "category": "导演与镜头",
+      "description": "生成角色设定图和高质量原创动漫PV",
+      "skill_hash": "8b300e337d7e3f9b"
+    },
+    {
+      "name": "动漫情感短片脚本生成器",
+      "folder": "动漫情感短片脚本生成器",
+      "relative_path": "原始技能库/动漫情感短片脚本生成器/SKILL.md",
+      "category": "脚本与分镜",
+      "description": "动漫情感短片脚本生成器",
+      "skill_hash": "3f5053d597736723"
+    },
+    {
+      "name": "北岛口播视觉包装",
+      "folder": "北岛口播视觉包装",
+      "relative_path": "原始技能库/北岛口播视觉包装/SKILL.md",
+      "category": "视觉风格与场景",
+      "description": "提供 1～5 张风格参考图和一份口播稿，生成统一的视频包装。",
+      "skill_hash": "add0c0e7ddf63e56"
+    },
+    {
+      "name": "北岛｜手绘信息图",
+      "folder": "北岛｜手绘信息图",
+      "relative_path": "原始技能库/北岛｜手绘信息图/SKILL.md",
+      "category": "声音与后期",
+      "description": "把口播稿或字幕拆成连续手绘解释图",
+      "skill_hash": "f60b4094500c4709"
+    },
+    {
+      "name": "十二星座变身一镜到底",
+      "folder": "十二星座变身一镜到底",
+      "relative_path": "原始技能库/十二星座变身一镜到底/SKILL.md",
+      "category": "导演与镜头",
+      "description": "为任意主题的角色系列（星座、职业、神话等）生成完整变身短视频",
+      "skill_hash": "ce70f0c5780f5a6e"
+    },
+    {
+      "name": "十二星座觉醒导演",
+      "folder": "十二星座觉醒导演",
+      "relative_path": "原始技能库/十二星座觉醒导演/SKILL.md",
+      "category": "导演与镜头",
+      "description": "输入星座名称与角色首尾图，自动匹配专属变身星座",
+      "skill_hash": "616ef8efb3ef8d5b"
+    },
+    {
+      "name": "千禧年梦核视频生成器",
+      "folder": "千禧年梦核视频生成器",
+      "relative_path": "原始技能库/千禧年梦核视频生成器/SKILL.md",
+      "category": "视觉风格与场景",
+      "description": "一套完整的千禧年梦核风格视频交互式生成工作流。用户输入风格指",
+      "skill_hash": "5896c7015f16dbd9"
+    },
+    {
+      "name": "千禧年｜ 复古 CCD Vlog`",
+      "folder": "千禧年｜ 复古 CCD Vlog`",
+      "relative_path": "原始技能库/千禧年｜ 复古 CCD Vlog`/SKILL.md",
+      "category": "视觉风格与场景",
+      "description": "复古ccd风格美学，细腻呈现 直闪、卡片机、2000",
+      "skill_hash": "715c521b402bd898"
+    },
+    {
+      "name": "卡梅隆|史诗写实大片一键成片",
+      "folder": "卡梅隆_史诗写实大片一键成片",
+      "relative_path": "原始技能库/卡梅隆_史诗写实大片一键成片/SKILL.md",
+      "category": "视觉风格与场景",
+      "description": "输入一句话，产出卡梅隆级史诗大片，自带音效与排雷，全自动交付",
+      "skill_hash": "789008973fd32459"
+    },
+    {
+      "name": "卢贝兹基长镜头美学",
+      "folder": "卢贝兹基长镜头美学",
+      "relative_path": "原始技能库/卢贝兹基长镜头美学/SKILL.md",
+      "category": "导演与镜头",
+      "description": "用自然光、广角关系和有呼吸的长镜头，把观众带进事件现场。",
+      "skill_hash": "6e034b0543a1425d"
+    },
+    {
+      "name": "历史战争剧-丫一吧",
+      "folder": "历史战争剧-丫一吧",
+      "relative_path": "原始技能库/历史战争剧-丫一吧/SKILL.md",
+      "category": "导演与镜头",
+      "description": "历史史诗影视动画导演 Skill",
+      "skill_hash": "9249f0b88ecc1b64"
+    },
+    {
+      "name": "原创AI角色捏脸 Skill",
+      "folder": "原创AI角色捏脸 Skill",
+      "relative_path": "原始技能库/原创AI角色捏脸 Skill/SKILL.md",
+      "category": "人物与资产",
+      "description": "这个Skill 用于帮助用户设计原创 AI 角色的面部设定",
+      "skill_hash": "b6af43fe412bc6d5"
+    },
+    {
+      "name": "原声音色优化",
+      "folder": "原声音色优化",
+      "relative_path": "原始技能库/原声音色优化/SKILL.md",
+      "category": "声音与后期",
+      "description": "升级个人声音，让普通声音更清晰、更好听。",
+      "skill_hash": "cac37ceb783f9999"
+    },
+    {
+      "name": "原子朋克风精品漫剧",
+      "folder": "原子朋克风精品漫剧",
+      "relative_path": "原始技能库/原子朋克风精品漫剧/SKILL.md",
+      "category": "导演与镜头",
+      "description": "SD2.5漫剧导演，原子朋克 / 国漫厚涂 / 出海短剧",
+      "skill_hash": "d21d34de3fc65638"
+    },
+    {
+      "name": "原生 3D仿真人短剧成片",
+      "folder": "原生 3D仿真人短剧成片",
+      "relative_path": "原始技能库/原生 3D仿真人短剧成片/SKILL.md",
+      "category": "人物与资产",
+      "description": "角色全程不变脸、无抽卡，一键生成高度贴近真人的仿真人短剧",
+      "skill_hash": "c608ddfbfd9c6812"
+    },
+    {
+      "name": "去AI感真实影像导演",
+      "folder": "去AI感真实影像导演",
+      "relative_path": "原始技能库/去AI感真实影像导演/SKILL.md",
+      "category": "导演与镜头",
+      "description": "家庭录像、伪纪录、复古影像，一句话出真实感成片。",
+      "skill_hash": "df6d68850b38c3eb"
+    },
+    {
+      "name": "叙事感手绘厚涂影像导演",
+      "folder": "叙事感手绘厚涂影像导演",
+      "relative_path": "原始技能库/叙事感手绘厚涂影像导演/SKILL.md",
+      "category": "脚本与分镜",
+      "description": "输入创意、故事、产品信息，生成手绘厚涂/叙事绘本风分镜或短片",
+      "skill_hash": "b2388285b73b19cd"
+    },
+    {
+      "name": "叙事感手绘厚涂影像导演",
+      "folder": "叙事感手绘厚涂影像导演_764994",
+      "relative_path": "原始技能库/叙事感手绘厚涂影像导演_764994/SKILL.md",
+      "category": "脚本与分镜",
+      "description": "输入创意、故事、产品信息，生成手绘厚涂/叙事绘本风分镜和成片",
+      "skill_hash": "b2388285b73b19cd"
+    },
+    {
+      "name": "口播导演台",
+      "folder": "口播导演台",
+      "relative_path": "原始技能库/口播导演台/SKILL.md",
+      "category": "导演与镜头",
+      "description": "把文案变成可执行的Seedance视频方案",
+      "skill_hash": "1b9c697a9c6d3e03"
+    },
+    {
+      "name": "口播文案生成器",
+      "folder": "口播文案生成器",
+      "relative_path": "原始技能库/口播文案生成器/SKILL.md",
+      "category": "视频通用",
+      "description": "输入主题+平台+时长，输出完整口播文案",
+      "skill_hash": "7c6fd5b2f0973f77"
+    },
+    {
+      "name": "口播知识视频脚本生成器",
+      "folder": "口播知识视频脚本生成器",
+      "relative_path": "原始技能库/口播知识视频脚本生成器/SKILL.md",
+      "category": "脚本与分镜",
+      "description": "输入一个知识点，生成知识博主口播视频完整脚本，含分镜、字幕、",
+      "skill_hash": "8ef2c6cd48bcd3da"
+    },
+    {
+      "name": "古代将军**SKill",
+      "folder": "古代将军_SKill",
+      "relative_path": "原始技能库/古代将军_SKill/SKILL.md",
+      "category": "导演与镜头",
+      "description": "AI打斗提示词编排导演",
+      "skill_hash": "c190697e56f32842"
+    },
+    {
+      "name": "古典东方胶片柔光人像",
+      "folder": "古典东方胶片柔光人像",
+      "relative_path": "原始技能库/古典东方胶片柔光人像/SKILL.md",
+      "category": "其他待确认",
+      "description": "古典年轻女性、风吹碎发、烛火散景、奶油柔焦、橄榄黑背景、旧胶",
+      "skill_hash": "315ce07c54a59f2b"
+    },
+    {
+      "name": "古风仕女电影感成片",
+      "folder": "古风仕女电影感成片",
+      "relative_path": "原始技能库/古风仕女电影感成片/SKILL.md",
+      "category": "导演与镜头",
+      "description": "古风仕女风格图生视频成片",
+      "skill_hash": "efb3898baf2be24b"
+    },
+    {
+      "name": "古风仙侠电影级创作",
+      "folder": "古风仙侠电影级创作",
+      "relative_path": "原始技能库/古风仙侠电影级创作/SKILL.md",
+      "category": "导演与镜头",
+      "description": "整合情绪板分析、提示词生成、批量图片、色调统一、超现实融入、",
+      "skill_hash": "11da6b25e625ed08"
+    },
+    {
+      "name": "古风穿越短片创作工作流",
+      "folder": "古风穿越短片创作工作流",
+      "relative_path": "原始技能库/古风穿越短片创作工作流/SKILL.md",
+      "category": "脚本与分镜",
+      "description": "基于剧本自动拆解分镜、生成角色设定、场景锚点、分镜图片、视频",
+      "skill_hash": "89faf7bd0ce5064c"
+    },
+    {
+      "name": "古风红妆写真",
+      "folder": "古风红妆写真",
+      "relative_path": "原始技能库/古风红妆写真/SKILL.md",
+      "category": "视觉风格与场景",
+      "description": "红色系古风妆容写真，默认出横版+竖版三张",
+      "skill_hash": "a36f4c2202687939"
+    },
+    {
+      "name": "古龙武侠片场",
+      "folder": "古龙武侠片场",
+      "relative_path": "原始技能库/古龙武侠片场/SKILL.md",
+      "category": "视觉风格与场景",
+      "description": "输入主题，生成古龙武侠风格短片",
+      "skill_hash": "eb5f9ad23a4f1888"
+    },
+    {
+      "name": "史诗巨兽灾难电影",
+      "folder": "史诗巨兽灾难电影",
+      "relative_path": "原始技能库/史诗巨兽灾难电影/SKILL.md",
+      "category": "导演与镜头",
+      "description": "当用户想要做巨兽、哥斯拉、金刚等史诗巨物感镜头时使用。用户说",
+      "skill_hash": "80e1ba9e9d2ffd7d"
+    },
+    {
+      "name": "吉卜力治愈系动漫短片制作",
+      "folder": "吉卜力治愈系动漫短片制作",
+      "relative_path": "原始技能库/吉卜力治愈系动漫短片制作/SKILL.md",
+      "category": "脚本与分镜",
+      "description": "从脚本到成片的治愈系动漫短片全流程，支持宫崎骏/吉卜力画风",
+      "skill_hash": "a64a096b5ba50266"
+    },
+    {
+      "name": "听风剧本电影化分镜导演",
+      "folder": "听风剧本电影化分镜导演",
+      "relative_path": "原始技能库/听风剧本电影化分镜导演/SKILL.md",
+      "category": "脚本与分镜",
+      "description": "将小说/剧本片段转化为可直接用于AI视频生成的完整电影化分镜",
+      "skill_hash": "93d8f430686e609c"
+    },
+    {
+      "name": "品牌 Logo 设计师",
+      "folder": "品牌 Logo 设计师",
+      "relative_path": "原始技能库/品牌 Logo 设计师/SKILL.md",
+      "category": "视觉风格与场景",
+      "description": "输入品牌名称与核心理念，自动生成极简几何风格的专业品牌 Lo",
+      "skill_hash": "baf84fb66c1d24c5"
+    },
+    {
+      "name": "品牌KV电商海报",
+      "folder": "品牌KV电商海报",
+      "relative_path": "原始技能库/品牌KV电商海报/SKILL.md",
+      "category": "广告与电商",
+      "description": "适用于KV品牌海报设计",
+      "skill_hash": "d6fbda0f46ec9940"
+    },
+    {
+      "name": "品牌LOGO吉祥物开场动画",
+      "folder": "品牌LOGO吉祥物开场动画",
+      "relative_path": "原始技能库/品牌LOGO吉祥物开场动画/SKILL.md",
+      "category": "广告与电商",
+      "description": "LOGO+吉祥物开场动画视频生成流程",
+      "skill_hash": "555e7bf39386af14"
+    },
+    {
+      "name": "品牌Lookbook",
+      "folder": "品牌Lookbook",
+      "relative_path": "原始技能库/品牌Lookbook/SKILL.md",
+      "category": "人物与资产",
+      "description": "生成合规品牌Lookbook方案、AI模特图、场景图与时尚大",
+      "skill_hash": "736f4513a404a314"
+    },
+    {
+      "name": "品牌情感营销美术风格短片",
+      "folder": "品牌情感营销美术风格短片",
+      "relative_path": "原始技能库/品牌情感营销美术风格短片/SKILL.md",
+      "category": "视觉风格与场景",
+      "description": "面向运营类情感营销广告片（如中国移动10086温情系列等）",
+      "skill_hash": "c146e22c80e8c87b"
+    },
+    {
+      "name": "品牌软植入导演",
+      "folder": "品牌软植入导演",
+      "relative_path": "原始技能库/品牌软植入导演/SKILL.md",
+      "category": "导演与镜头",
+      "description": "为每集短剧/视频生成不打断叙事的品牌软植入方案",
+      "skill_hash": "e033ba61711badeb"
+    },
+    {
+      "name": "商业IP品牌视觉全案",
+      "folder": "商业IP品牌视觉全案",
+      "relative_path": "原始技能库/商业IP品牌视觉全案/SKILL.md",
+      "category": "广告与电商",
+      "description": "适用于商业品牌、吉祥物、潮玩及文创 IP 的标准化视觉全案",
+      "skill_hash": "23e515a984486051"
+    },
+    {
+      "name": "商业产品外包装设计",
+      "folder": "商业产品外包装设计",
+      "relative_path": "原始技能库/商业产品外包装设计/SKILL.md",
+      "category": "视觉风格与场景",
+      "description": "适用于不同风格的平面，3D产品外包装设计",
+      "skill_hash": "8483559e8e423fcc"
+    },
+    {
+      "name": "商业产品精修",
+      "folder": "商业产品精修",
+      "relative_path": "原始技能库/商业产品精修/SKILL.md",
+      "category": "广告与电商",
+      "description": "适用于各类电商产品精修",
+      "skill_hash": "3731ce517875dae7"
+    },
+    {
+      "name": "商业人像Lookbook",
+      "folder": "商业人像Lookbook",
+      "relative_path": "原始技能库/商业人像Lookbook/SKILL.md",
+      "category": "人物与资产",
+      "description": "精品级电商大片模特~注重皮肤质感",
+      "skill_hash": "3f8143bd5557aef7"
+    },
+    {
+      "name": "商业广告精修",
+      "folder": "商业广告精修",
+      "relative_path": "原始技能库/商业广告精修/SKILL.md",
+      "category": "广告与电商",
+      "description": "对图像进行商业精修",
+      "skill_hash": "e67fa67ff1e82dff"
+    },
+    {
+      "name": "商品制造讲解视频生成器",
+      "folder": "商品制造讲解视频生成器",
+      "relative_path": "原始技能库/商品制造讲解视频生成器/SKILL.md",
+      "category": "视频通用",
+      "description": "商品制造讲解视频生成器",
+      "skill_hash": "a20aa2a455720e8e"
+    },
+    {
+      "name": "商品带货宣传短片",
+      "folder": "商品带货宣传短片",
+      "relative_path": "原始技能库/商品带货宣传短片/SKILL.md",
+      "category": "广告与电商",
+      "description": "上传商品图片和商品描述制作商业带货宣传短片",
+      "skill_hash": "2aa91d4a6daa6eb9"
+    },
+    {
+      "name": "嘎蛋班长-丫一吧",
+      "folder": "嘎蛋班长-丫一吧",
+      "relative_path": "原始技能库/嘎蛋班长-丫一吧/SKILL.md",
+      "category": "脚本与分镜",
+      "description": "根据剧本、人物设定和场景设定，自动完成所有环节",
+      "skill_hash": "b2051b45670187fa"
+    },
+    {
+      "name": "四机位全身形体生成",
+      "folder": "四机位全身形体生成",
+      "relative_path": "原始技能库/四机位全身形体生成/SKILL.md",
+      "category": "人物与资产",
+      "description": "输入角色照+服装描述生成四机位全身图",
+      "skill_hash": "7a800e1d7c903c6d"
+    },
+    {
+      "name": "固定风格提示词优化",
+      "folder": "固定风格提示词优化",
+      "relative_path": "原始技能库/固定风格提示词优化/SKILL.md",
+      "category": "脚本与分镜",
+      "description": "输入风格关键词，自动拆解为7维AI绘画/视频生成提示词",
+      "skill_hash": "27a00dcd7a0b250c"
+    },
+    {
+      "name": "国漫终极特效生成",
+      "folder": "国漫终极特效生成",
+      "relative_path": "原始技能库/国漫终极特效生成/SKILL.md",
+      "category": "人物与资产",
+      "description": "快速为你的角色添加炫酷特效",
+      "skill_hash": "902139ed8c627d29"
+    },
+    {
+      "name": "国风仙侠成片工作流",
+      "folder": "国风仙侠成片工作流",
+      "relative_path": "原始技能库/国风仙侠成片工作流/SKILL.md",
+      "category": "脚本与分镜",
+      "description": "一套从剧本到逐镜视频提示词的国风仙侠成片流水线",
+      "skill_hash": "bfd652b535ae82f9"
+    },
+    {
+      "name": "国风动漫宇宙",
+      "folder": "国风动漫宇宙",
+      "relative_path": "原始技能库/国风动漫宇宙/SKILL.md",
+      "category": "视觉风格与场景",
+      "description": "一键创作具有《大闹天宫》《哪吒闹海》《山水情》气质的国风动画",
+      "skill_hash": "dab756447d959bbe"
+    },
+    {
+      "name": "国风动画电影创作大师",
+      "folder": "国风动画电影创作大师",
+      "relative_path": "原始技能库/国风动画电影创作大师/SKILL.md",
+      "category": "脚本与分镜",
+      "description": "适用神话传说、历史故事、武侠仙侠、民间传说等国风动画制作",
+      "skill_hash": "21257e10cd469d86"
+    },
+    {
+      "name": "国风古装变装短视频",
+      "folder": "国风古装变装短视频",
+      "relative_path": "原始技能库/国风古装变装短视频/SKILL.md",
+      "category": "视觉风格与场景",
+      "description": "适用于国风变装短视频生成",
+      "skill_hash": "42a7291b7ec4968b"
+    },
+    {
+      "name": "国风意境短片大师",
+      "folder": "国风意境短片大师",
+      "relative_path": "原始技能库/国风意境短片大师/SKILL.md",
+      "category": "视觉风格与场景",
+      "description": "输入诗词或意境关键词，生成东方美学风格短片，含水墨、敦煌、仙",
+      "skill_hash": "933be0000184d409"
+    },
+    {
+      "name": "国风毛绒风格",
+      "folder": "国风毛绒风格",
+      "relative_path": "原始技能库/国风毛绒风格/SKILL.md",
+      "category": "视觉风格与场景",
+      "description": "毛绒IP的skill",
+      "skill_hash": "10d6dbe46951fe32"
+    },
+    {
+      "name": "国风水墨2D动画全流程",
+      "folder": "国风水墨2D动画全流程",
+      "relative_path": "原始技能库/国风水墨2D动画全流程/SKILL.md",
+      "category": "脚本与分镜",
+      "description": "用户描述故事/主题，自动完成分镜策划、锚点建立、逐段视频生成",
+      "skill_hash": "2c8956ba44430f16"
+    },
+    {
+      "name": "国风电影感漫剧CG风格",
+      "folder": "国风电影感漫剧CG风格",
+      "relative_path": "原始技能库/国风电影感漫剧CG风格/SKILL.md",
+      "category": "脚本与分镜",
+      "description": "根据用户描述的题材方向，自动扩写为国风玄幻剧本，并生成风格统",
+      "skill_hash": "4b3a7ca353998238"
+    },
+    {
+      "name": "图像提示词生成与反推器",
+      "folder": "图像提示词生成与反推器",
+      "relative_path": "原始技能库/图像提示词生成与反推器/SKILL.md",
+      "category": "导演与镜头",
+      "description": "导演视角与逆向解析的全能型 AI 画面提示词助手",
+      "skill_hash": "e9ebf396bfcfc809"
+    },
+    {
+      "name": "图像高清修复",
+      "folder": "图像高清修复",
+      "relative_path": "原始技能库/图像高清修复/SKILL.md",
+      "category": "其他待确认",
+      "description": "对模糊、低分辨率、有噪点或压缩损伤的图片进行高清修复与放大",
+      "skill_hash": "881db0a42b3cea38"
+    },
+    {
+      "name": "图片修复重绘",
+      "folder": "图片修复重绘",
+      "relative_path": "原始技能库/图片修复重绘/SKILL.md",
+      "category": "其他待确认",
+      "description": "针对模糊/虚焦、油腻/过度磨皮、涂抹感/细节丢失等问题图片",
+      "skill_hash": "001350a2d69894a8"
+    },
+    {
+      "name": "图片提示词反推-玄黄-Single V1.0",
+      "folder": "图片提示词反推-玄黄-Single V1.0",
+      "relative_path": "原始技能库/图片提示词反推-玄黄-Single V1.0/SKILL.md",
+      "category": "其他待确认",
+      "description": "将一张参考图转化为可直接用于 AI 绘图的中文提示词",
+      "skill_hash": "cd32c1693fd323ab"
+    },
+    {
+      "name": "图片提示词导演",
+      "folder": "图片提示词导演",
+      "relative_path": "原始技能库/图片提示词导演/SKILL.md",
+      "category": "导演与镜头",
+      "description": "支持写实摄影、电影、广告、幻想、灾难、动漫、CG等风格",
+      "skill_hash": "118ee7517bf58869"
+    },
+    {
+      "name": "图片生成导演（平衡版）",
+      "folder": "图片生成导演（平衡版）",
+      "relative_path": "原始技能库/图片生成导演（平衡版）/SKILL.md",
+      "category": "导演与镜头",
+      "description": "生成电影级静帧图片，中幅降低image脏乱、有噪点的问题",
+      "skill_hash": "a600945f6dc6a3d4"
+    },
+    {
+      "name": "图生图2",
+      "folder": "图生图2",
+      "relative_path": "原始技能库/图生图2/SKILL.md",
+      "category": "其他待确认",
+      "description": "基于参考图生成商业美妆人像，支持通过参考图指定服装款式。以下",
+      "skill_hash": "3181505c41a9205e"
+    },
+    {
+      "name": "场景写实重建",
+      "folder": "场景写实重建",
+      "relative_path": "原始技能库/场景写实重建/SKILL.md",
+      "category": "视觉风格与场景",
+      "description": "废弃场景图→深度/线稿→写实重建",
+      "skill_hash": "6fd1e126267ebe90"
+    },
+    {
+      "name": "场景卡",
+      "folder": "场景卡",
+      "relative_path": "原始技能库/场景卡/SKILL.md",
+      "category": "视觉风格与场景",
+      "description": "制作一个场景的各个方位",
+      "skill_hash": "31843234942e6bcb"
+    },
+    {
+      "name": "场景四视图架构师",
+      "folder": "场景四视图架构师",
+      "relative_path": "原始技能库/场景四视图架构师/SKILL.md",
+      "category": "人物与资产",
+      "description": "上传图片或输入文字，直接生成一张含正面/俯视/左侧/右侧的1",
+      "skill_hash": "76b6750f203ec9bc"
+    },
+    {
+      "name": "场景生活化真实感",
+      "folder": "场景生活化真实感",
+      "relative_path": "原始技能库/场景生活化真实感/SKILL.md",
+      "category": "视觉风格与场景",
+      "description": "让室内场景图呈现生活化真实感",
+      "skill_hash": "4b4a271a4469d5d1"
+    },
+    {
+      "name": "城市小精灵故事导演",
+      "folder": "城市小精灵故事导演",
+      "relative_path": "原始技能库/城市小精灵故事导演/SKILL.md",
+      "category": "脚本与分镜",
+      "description": "把一句日常经历、心情或温暖想法变成治愈系微缩城市横屏短片",
+      "skill_hash": "2be2a3d57530c570"
+    },
+    {
+      "name": "墨沫出品 · 饮品/食品 / 美妆 /商业TVC",
+      "folder": "墨沫出品 · 饮品_食品 _ 美妆 _商业TVC",
+      "relative_path": "原始技能库/墨沫出品 · 饮品_食品 _ 美妆 _商业TVC/SKILL.md",
+      "category": "导演与镜头",
+      "description": "饮品/ 食品 / 美妆 / 生活消费品60s商业大片全流程生",
+      "skill_hash": "5457ed65b6ae1de6"
+    },
+    {
+      "name": "复古工业拼贴海报生成器",
+      "folder": "复古工业拼贴海报生成器",
+      "relative_path": "原始技能库/复古工业拼贴海报生成器/SKILL.md",
+      "category": "视频通用",
+      "description": "上传素材，生成复古工业拼贴海报提示词",
+      "skill_hash": "18a6c9bce4a8bee0"
+    },
+    {
+      "name": "复古胶片英雄质感（）",
+      "folder": "复古胶片英雄质感（）",
+      "relative_path": "原始技能库/复古胶片英雄质感（）/SKILL.md",
+      "category": "导演与镜头",
+      "description": "暗调电影感胶片质感，可出图也可叠用",
+      "skill_hash": "a413d90ad3f30bea"
+    },
+    {
+      "name": "外贸电商主图视频",
+      "folder": "外贸电商主图视频",
+      "relative_path": "原始技能库/外贸电商主图视频/SKILL.md",
+      "category": "广告与电商",
+      "description": "基于多张主图，生成一段15秒16:9的连续产品广告视频",
+      "skill_hash": "23324c7162ffdd61"
+    },
+    {
+      "name": "多人场景一致性引擎",
+      "folder": "多人场景一致性引擎",
+      "relative_path": "原始技能库/多人场景一致性引擎/SKILL.md",
+      "category": "导演与镜头",
+      "description": "多角色同框外貌锁定与跨镜头一致性追踪",
+      "skill_hash": "382e99ced72d130e"
+    },
+    {
+      "name": "多人对话戏分镜生成",
+      "folder": "多人对话戏分镜生成",
+      "relative_path": "原始技能库/多人对话戏分镜生成/SKILL.md",
+      "category": "脚本与分镜",
+      "description": "遵循轴线原则，生成尽量少穿帮的多人对话戏剧情",
+      "skill_hash": "4805cde2de595774"
+    },
+    {
+      "name": "多宇宙动漫3D风格",
+      "folder": "多宇宙动漫3D风格",
+      "relative_path": "原始技能库/多宇宙动漫3D风格/SKILL.md",
+      "category": "视觉风格与场景",
+      "description": "让任意影片跃入霓虹多维漫画宇宙——每一帧都以网点、错位色彩和",
+      "skill_hash": "f86a0ebe23b320e4"
+    },
+    {
+      "name": "多镜头一致性导演",
+      "folder": "多镜头一致性导演",
+      "relative_path": "原始技能库/多镜头一致性导演/SKILL.md",
+      "category": "导演与镜头",
+      "description": "先锁定角色、场景、道具与光影，再生成真正连续的多镜头成片。",
+      "skill_hash": "18e99a38ad917172"
+    },
+    {
+      "name": "夜晚气氛电影质感",
+      "folder": "夜晚气氛电影质感",
+      "relative_path": "原始技能库/夜晚气氛电影质感/SKILL.md",
+      "category": "导演与镜头",
+      "description": "电影夜晚气氛",
+      "skill_hash": "36b04ebe02ba27e5"
+    },
+    {
+      "name": "大师电影海报设计",
+      "folder": "大师电影海报设计",
+      "relative_path": "原始技能库/大师电影海报设计/SKILL.md",
+      "category": "导演与镜头",
+      "description": "用于电影级电脑海报设计的SKILL",
+      "skill_hash": "cfe82c6e81ab3d33"
+    },
+    {
+      "name": "大师级电影感图片提示词",
+      "folder": "大师级电影感图片提示词",
+      "relative_path": "原始技能库/大师级电影感图片提示词/SKILL.md",
+      "category": "导演与镜头",
+      "description": "把用户的画面想法整理为可直接使用的生图提示词",
+      "skill_hash": "9fdafd9304688aba"
+    },
+    {
+      "name": "天宫",
+      "folder": "天宫",
+      "relative_path": "原始技能库/天宫/SKILL.md",
+      "category": "其他待确认",
+      "description": "输入想要的内容例如巨大月球+宫殿，巨大异兽，山海经",
+      "skill_hash": "e9da2f64538630c6"
+    },
+    {
+      "name": "天宫国风美学·优化版",
+      "folder": "天宫国风美学·优化版",
+      "relative_path": "原始技能库/天宫国风美学·优化版/SKILL.md",
+      "category": "视觉风格与场景",
+      "description": "东方神话天宫美学的图片、视频与音乐提示词创作工具",
+      "skill_hash": "e596abd81c04155c"
+    },
+    {
+      "name": "天空AI电影制作",
+      "folder": "天空AI电影制作",
+      "relative_path": "原始技能库/天空AI电影制作/SKILL.md",
+      "category": "导演与镜头",
+      "description": "史诗级硬科幻AI电影工业化制作",
+      "skill_hash": "ad98bb9d35f9be48"
+    },
+    {
+      "name": "天空SKY AI电影制作系统",
+      "folder": "天空SKY AI电影制作系统",
+      "relative_path": "原始技能库/天空SKY AI电影制作系统/SKILL.md",
+      "category": "导演与镜头",
+      "description": "《天空SKY》AI电影制作全套规则",
+      "skill_hash": "8187ac125fae7938"
+    },
+    {
+      "name": "夫子AI电影导演",
+      "folder": "夫子AI电影导演",
+      "relative_path": "原始技能库/夫子AI电影导演/SKILL.md",
+      "category": "脚本与分镜",
+      "description": "## 将故事开发为适合 AI 视频生成的规范导演剧本，并以可",
+      "skill_hash": "bba9e93be9d1af60"
+    },
+    {
+      "name": "女主人和可爱小猫的故事",
+      "folder": "女主人和可爱小猫的故事",
+      "relative_path": "原始技能库/女主人和可爱小猫的故事/SKILL.md",
+      "category": "脚本与分镜",
+      "description": "邵氏喜剧-女主人和可爱小猫的故事",
+      "skill_hash": "956a2e302a0aa81b"
+    },
+    {
+      "name": "女频角色设计-高辨识度",
+      "folder": "女频角色设计-高辨识度",
+      "relative_path": "原始技能库/女频角色设计-高辨识度/SKILL.md",
+      "category": "脚本与分镜",
+      "description": "从剧本人设出发，打造高辨识度、不撞脸、可持续复用的AI仿真人",
+      "skill_hash": "09c610a4578bba1d"
+    },
+    {
+      "name": "好莱坞金色年代",
+      "folder": "好莱坞金色年代",
+      "relative_path": "原始技能库/好莱坞金色年代/SKILL.md",
+      "category": "导演与镜头",
+      "description": "打造考据准确的1920年代奢华电影镜头与长视频",
+      "skill_hash": "16e18ed7b28a0e66"
+    },
+    {
+      "name": "妈妈选角 Casting",
+      "folder": "妈妈选角 Casting",
+      "relative_path": "原始技能库/妈妈选角 Casting/SKILL.md",
+      "category": "广告与电商",
+      "description": "根据年龄、孩子阶段、家庭关系、品牌调性与剧情任务，为广告、短",
+      "skill_hash": "8c093969d9023876"
+    },
+    {
+      "name": "宠物动作大片",
+      "folder": "宠物动作大片",
+      "relative_path": "原始技能库/宠物动作大片/SKILL.md",
+      "category": "导演与镜头",
+      "description": "将宠物照片或动物描述制作成角色一致、动作激烈、镜头丰富的电影",
+      "skill_hash": "d02f85c3a1131f39"
+    },
+    {
+      "name": "审美级资产提取skill",
+      "folder": "审美级资产提取skill",
+      "relative_path": "原始技能库/审美级资产提取skill/SKILL.md",
+      "category": "人物与资产",
+      "description": "不仅能够提取资产，还嵌入了很多美术和其他辅助创作功能（多视图",
+      "skill_hash": "4bcd69a6f22e04c1"
+    },
+    {
+      "name": "宣传片广告片生成器",
+      "folder": "宣传片广告片生成器",
+      "relative_path": "原始技能库/宣传片广告片生成器/SKILL.md",
+      "category": "广告与电商",
+      "description": "主题或文案→完整宣传/广告短视频",
+      "skill_hash": "48acecd64ca7741f"
+    },
+    {
+      "name": "室内空间广告导演",
+      "folder": "室内空间广告导演",
+      "relative_path": "原始技能库/室内空间广告导演/SKILL.md",
+      "category": "导演与镜头",
+      "description": "保留原空间结构和镜位逻辑，把室内素材变成有卖点的商业广告片。",
+      "skill_hash": "f2c28f8918eb258a"
+    },
+    {
+      "name": "室内设计全案工作流",
+      "folder": "室内设计全案工作流",
+      "relative_path": "原始技能库/室内设计全案工作流/SKILL.md",
+      "category": "脚本与分镜",
+      "description": "户型图+参考图，自动生成轴测、效果图、质检、分镜及视频。",
+      "skill_hash": "5142e2eddb03a464"
+    },
+    {
+      "name": "宫崎骏动画广告",
+      "folder": "宫崎骏动画广告",
+      "relative_path": "原始技能库/宫崎骏动画广告/SKILL.md",
+      "category": "视觉风格与场景",
+      "description": "用宫崎骏/吉卜力手绘水彩风格为任意品牌制作完整卡通动画广告视",
+      "skill_hash": "d9ad080b8630ca24"
+    },
+    {
+      "name": "宫崎骏吉卜力动画短片",
+      "folder": "宫崎骏吉卜力动画短片",
+      "relative_path": "原始技能库/宫崎骏吉卜力动画短片/SKILL.md",
+      "category": "脚本与分镜",
+      "description": "基于用户脚本，一键生成吉卜力动画创作工作流",
+      "skill_hash": "56598a40d6c9049a"
+    },
+    {
+      "name": "宫崎骏风格动画生成",
+      "folder": "宫崎骏风格动画生成",
+      "relative_path": "原始技能库/宫崎骏风格动画生成/SKILL.md",
+      "category": "视觉风格与场景",
+      "description": "宫崎骏动画风格，适用动画短片及创意广告",
+      "skill_hash": "da63596091ac8977"
+    },
+    {
+      "name": "家具电商详情页-87",
+      "folder": "家具电商详情页-87",
+      "relative_path": "原始技能库/家具电商详情页-87/SKILL.md",
+      "category": "广告与电商",
+      "description": "一套完整的家具电商详情页图片生成工作流，涵盖品牌首屏、卖点拆",
+      "skill_hash": "b23059e2cfdfdc23"
+    },
+    {
+      "name": "对分镜脚本进行强化",
+      "folder": "对分镜脚本进行强化",
+      "relative_path": "原始技能库/对分镜脚本进行强化/SKILL.md",
+      "category": "脚本与分镜",
+      "description": "把导演分镜一键变成更会运镜、更会表演、更有电影感的提示词",
+      "skill_hash": "7c71dc0f278ccbc1"
+    },
+    {
+      "name": "对话戏分镜图生成器",
+      "folder": "对话戏分镜图生成器",
+      "relative_path": "原始技能库/对话戏分镜图生成器/SKILL.md",
+      "category": "脚本与分镜",
+      "description": "主要用于人物对话戏的分镜图片制作",
+      "skill_hash": "a8ee584be5e87cc7"
+    },
+    {
+      "name": "导演v2.4.5",
+      "folder": "导演v2.4.5",
+      "relative_path": "原始技能库/导演v2.4.5/SKILL.md",
+      "category": "脚本与分镜",
+      "description": "从故事与导演决策，推进影视制作全流程",
+      "skill_hash": "ac85ce057e4ded5d"
+    },
+    {
+      "name": "导演风格",
+      "folder": "导演风格",
+      "relative_path": "原始技能库/导演风格/SKILL.md",
+      "category": "导演与镜头",
+      "description": "输入导演名字即可同步出导演的风格",
+      "skill_hash": "be9fbb7d9f4e26de"
+    },
+    {
+      "name": "导演风格生成图片",
+      "folder": "导演风格生成图片",
+      "relative_path": "原始技能库/导演风格生成图片/SKILL.md",
+      "category": "导演与镜头",
+      "description": "以知名导演的影像风格生成图片",
+      "skill_hash": "69640389994cdf60"
+    },
+    {
+      "name": "小G电影质感skill",
+      "folder": "小G电影质感skill",
+      "relative_path": "原始技能库/小G电影质感skill/SKILL.md",
+      "category": "导演与镜头",
+      "description": "用简单的描述，绘制电影感画面",
+      "skill_hash": "90cc84970033b9cf"
+    },
+    {
+      "name": "小红书封面图生成",
+      "folder": "小红书封面图生成",
+      "relative_path": "原始技能库/小红书封面图生成/SKILL.md",
+      "category": "其他待确认",
+      "description": "参考图一键生成小红书封面",
+      "skill_hash": "4c98cdc5657dc9af"
+    },
+    {
+      "name": "小说转剧本",
+      "folder": "小说转剧本",
+      "relative_path": "原始技能库/小说转剧本/SKILL.md",
+      "category": "脚本与分镜",
+      "description": "小说转剧本 ，漫剧必备",
+      "skill_hash": "cc13aa89ab70874b"
+    },
+    {
+      "name": "小鱼干风暴短片",
+      "folder": "小鱼干风暴短片",
+      "relative_path": "原始技能库/小鱼干风暴短片/SKILL.md",
+      "category": "动画与漫剧",
+      "description": "《小鱼干风暴》90秒毛绒定格动画完整制作Skill",
+      "skill_hash": "aa9dc96ea1b9bd2d"
+    },
+    {
+      "name": "少女写真一键成片<仲哥>",
+      "folder": "少女写真一键成片_仲哥_",
+      "relative_path": "原始技能库/少女写真一键成片_仲哥_/SKILL.md",
+      "category": "视频通用",
+      "description": "用一张图就可以完成一整段短片的超强skill，而且吸睛",
+      "skill_hash": "3989c1e7a681ad4b"
+    },
+    {
+      "name": "尼克维斯特柔光摄影",
+      "folder": "尼克维斯特柔光摄影",
+      "relative_path": "原始技能库/尼克维斯特柔光摄影/SKILL.md",
+      "category": "导演与镜头",
+      "description": "用窗光、柔光、低对比和克制构图，拍出面孔、沉默与关系变化。",
+      "skill_hash": "c12caf342f177872"
+    },
+    {
+      "name": "山海经:牛来|游戏实机演示",
+      "folder": "山海经_牛来_游戏实机演示",
+      "relative_path": "原始技能库/山海经_牛来_游戏实机演示/SKILL.md",
+      "category": "其他待确认",
+      "description": "90亿神作同款！一键生成爆火的山海经·牛来游戏实机大片！",
+      "skill_hash": "720cb833b46df534"
+    },
+    {
+      "name": "工业风家具设计SKILL",
+      "folder": "工业风家具设计SKILL",
+      "relative_path": "原始技能库/工业风家具设计SKILL/SKILL.md",
+      "category": "其他待确认",
+      "description": "工业风家具设计SKILL",
+      "skill_hash": "f3cc375aec7d5c23"
+    },
+    {
+      "name": "工业风灯具设计SKILL",
+      "folder": "工业风灯具设计SKILL",
+      "relative_path": "原始技能库/工业风灯具设计SKILL/SKILL.md",
+      "category": "其他待确认",
+      "description": "工业风灯具设计",
+      "skill_hash": "a48762997c2b7ca7"
+    },
+    {
+      "name": "巨物出图压迫感",
+      "folder": "巨物出图压迫感",
+      "relative_path": "原始技能库/巨物出图压迫感/SKILL.md",
+      "category": "其他待确认",
+      "description": "当你想出任何灾难片，但是不知道怎么描述，或者描述比较少时",
+      "skill_hash": "ff199a94ee34ccc5"
+    },
+    {
+      "name": "平面大湿（砖业板）",
+      "folder": "平面大湿（砖业板）",
+      "relative_path": "原始技能库/平面大湿（砖业板）/SKILL.md",
+      "category": "视觉风格与场景",
+      "description": "关卡思维的skill不是很快，多种平面风格",
+      "skill_hash": "5ad72e75073d88ca"
+    },
+    {
+      "name": "广告创意脚本和分镜",
+      "folder": "广告创意脚本和分镜",
+      "relative_path": "原始技能库/广告创意脚本和分镜/SKILL.md",
+      "category": "脚本与分镜",
+      "description": "一个产品起手，自动给出脚步和分镜",
+      "skill_hash": "d8f04e085219ae03"
+    },
+    {
+      "name": "康拉德霍尔逆光",
+      "folder": "康拉德霍尔逆光",
+      "relative_path": "原始技能库/康拉德霍尔逆光/SKILL.md",
+      "category": "其他待确认",
+      "description": "用可信逆光、轮廓缺口与负空间，让暗部保留悬念也保留必要信息。",
+      "skill_hash": "c191371805600bd2"
+    },
+    {
+      "name": "建筑图片转漫游动画",
+      "folder": "建筑图片转漫游动画",
+      "relative_path": "原始技能库/建筑图片转漫游动画/SKILL.md",
+      "category": "导演与镜头",
+      "description": "上传一张建筑或空间图片，自动生成电影感建筑漫游动画",
+      "skill_hash": "60ed96c84979bd99"
+    },
+    {
+      "name": "建筑建造生长动画视频",
+      "folder": "建筑建造生长动画视频",
+      "relative_path": "原始技能库/建筑建造生长动画视频/SKILL.md",
+      "category": "脚本与分镜",
+      "description": "选择你想要的建筑，自动生成建筑的详细拆解图和建造组装视频",
+      "skill_hash": "aa66692394633738"
+    },
+    {
+      "name": "建筑空间美学短片",
+      "folder": "建筑空间美学短片",
+      "relative_path": "原始技能库/建筑空间美学短片/SKILL.md",
+      "category": "视觉风格与场景",
+      "description": "输入建筑风格或空间类型，生成建筑/室内美学展示短片方案，含光",
+      "skill_hash": "c5fdec256171f656"
+    },
+    {
+      "name": "开关板制作",
+      "folder": "开关板制作",
+      "relative_path": "原始技能库/开关板制作/SKILL.md",
+      "category": "其他待确认",
+      "description": "一键生成大剧开关板",
+      "skill_hash": "0f5fbaada121c263"
+    },
+    {
+      "name": "张力动作制作",
+      "folder": "张力动作制作",
+      "relative_path": "原始技能库/张力动作制作/SKILL.md",
+      "category": "导演与镜头",
+      "description": "基于角色设定图，生成极具电影质感的武打动态定格画面。核心原则",
+      "skill_hash": "8a54c0588ec4c535"
+    },
+    {
+      "name": "张奕AI中式天宫美学",
+      "folder": "张奕AI中式天宫美学",
+      "relative_path": "原始技能库/张奕AI中式天宫美学/SKILL.md",
+      "category": "导演与镜头",
+      "description": "生成中式天宫电影感绘图提示词和视频提示词",
+      "skill_hash": "89e2369a702a6dd1"
+    },
+    {
+      "name": "张彻 | 邵氏硬派武侠一键成片",
+      "folder": "张彻 _ 邵氏硬派武侠一键成片",
+      "relative_path": "原始技能库/张彻 _ 邵氏硬派武侠一键成片/SKILL.md",
+      "category": "视觉风格与场景",
+      "description": "一键把武侠灵感转化为张彻邵氏硬派美学、盘肠大战与赤膊血战的悲",
+      "skill_hash": "5fc1678b83144bc0"
+    },
+    {
+      "name": "张艺谋东方美学电影分镜",
+      "folder": "张艺谋东方美学电影分镜",
+      "relative_path": "原始技能库/张艺谋东方美学电影分镜/SKILL.md",
+      "category": "脚本与分镜",
+      "description": "一键生成具有东方仪式感、强烈色彩与电影构图的原创电影分镜",
+      "skill_hash": "d76c45ecaacd99d6"
+    },
+    {
+      "name": "影片级逼真人像提示词",
+      "folder": "影片级逼真人像提示词",
+      "relative_path": "原始技能库/影片级逼真人像提示词/SKILL.md",
+      "category": "其他待确认",
+      "description": "年龄+性别，生成照片级真人肖像提示词，打造自然真实AI人像",
+      "skill_hash": "6d5124eea8494eee"
+    },
+    {
+      "name": "影视工业级分镜动线海报",
+      "folder": "影视工业级分镜动线海报",
+      "relative_path": "原始技能库/影视工业级分镜动线海报/SKILL.md",
+      "category": "脚本与分镜",
+      "description": "自己上传图片 简单写故事 AI分析分镜和动线",
+      "skill_hash": "6f6ef69b3e51581c"
+    },
+    {
+      "name": "影视巨兽 CG",
+      "folder": "影视巨兽 CG",
+      "relative_path": "原始技能库/影视巨兽 CG/SKILL.md",
+      "category": "脚本与分镜",
+      "description": "按固定规范格式输出玄幻巨兽主题的视频分镜脚本，统一参数结构，",
+      "skill_hash": "f2c9bfe5144e61ca"
+    },
+    {
+      "name": "影视短剧团队",
+      "folder": "影视短剧团队",
+      "relative_path": "原始技能库/影视短剧团队/SKILL.md",
+      "category": "动画与漫剧",
+      "description": "把一句话变成可直接使用的专业视频提示词",
+      "skill_hash": "75d7518306656313"
+    },
+    {
+      "name": "影视级剧本分镜拆分导演",
+      "folder": "影视级剧本分镜拆分导演",
+      "relative_path": "原始技能库/影视级剧本分镜拆分导演/SKILL.md",
+      "category": "脚本与分镜",
+      "description": "专业影视分镜导演智能体，可将剧本转为实拍级精细合规分镜脚本。",
+      "skill_hash": "93d28eb8e029d5fc"
+    },
+    {
+      "name": "徐克 | 新派武侠一键成片",
+      "folder": "徐克 _ 新派武侠一键成片",
+      "relative_path": "原始技能库/徐克 _ 新派武侠一键成片/SKILL.md",
+      "category": "导演与镜头",
+      "description": "顶级大导演思维驱动，一键生成徐克新派武侠美学大片！",
+      "skill_hash": "8b10f2a9f3b866e8"
+    },
+    {
+      "name": "徐州众汇短剧skill",
+      "folder": "徐州众汇短剧skill",
+      "relative_path": "原始技能库/徐州众汇短剧skill/SKILL.md",
+      "category": "动画与漫剧",
+      "description": "智能工作流智能体",
+      "skill_hash": "2efdca1c843f6a54"
+    },
+    {
+      "name": "微缩世界救援导演",
+      "folder": "微缩世界救援导演",
+      "relative_path": "原始技能库/微缩世界救援导演/SKILL.md",
+      "category": "导演与镜头",
+      "description": "三拍结构出片，灾难铺垫，大手介入，修复欢呼。",
+      "skill_hash": "05de446e4e5d09f5"
+    },
+    {
+      "name": "微缩小人大冒险趣味视频",
+      "folder": "微缩小人大冒险趣味视频",
+      "relative_path": "原始技能库/微缩小人大冒险趣味视频/SKILL.md",
+      "category": "人物与资产",
+      "description": "上传角色图，自动生成微缩特效闯关短片，支持产品植入。",
+      "skill_hash": "062e1ca3d9fd84a9"
+    },
+    {
+      "name": "微表情演技指导",
+      "folder": "微表情演技指导",
+      "relative_path": "原始技能库/微表情演技指导/SKILL.md",
+      "category": "其他待确认",
+      "description": "让 AI 演出微表情，而不是生成一张会动的表情图",
+      "skill_hash": "d31702d11536d545"
+    },
+    {
+      "name": "思乃泡图片修复skill",
+      "folder": "思乃泡图片修复skill",
+      "relative_path": "原始技能库/思乃泡图片修复skill/SKILL.md",
+      "category": "视觉风格与场景",
+      "description": "修复 AI 生成图的模糊/噪点/材质丢失",
+      "skill_hash": "db88aa974df35cd8"
+    },
+    {
+      "name": "怪诞中式梦核超现实",
+      "folder": "怪诞中式梦核超现实",
+      "relative_path": "原始技能库/怪诞中式梦核超现实/SKILL.md",
+      "category": "导演与镜头",
+      "description": "生成怪诞梦核影片，中式元素，柔和色彩，电影机质感及运镜",
+      "skill_hash": "dfda3ca42a935c0c"
+    },
+    {
+      "name": "恐怖后室氛围爆款视频",
+      "folder": "恐怖后室氛围爆款视频",
+      "relative_path": "原始技能库/恐怖后室氛围爆款视频/SKILL.md",
+      "category": "导演与镜头",
+      "description": "双视角专业运镜・全层级环境定制・游戏级恐怖氛围",
+      "skill_hash": "3724587b3d34f424"
+    },
+    {
+      "name": "恐龙百科（纪录片/微电影）",
+      "folder": "恐龙百科（纪录片_微电影）",
+      "relative_path": "原始技能库/恐龙百科（纪录片_微电影）/SKILL.md",
+      "category": "导演与镜头",
+      "description": "适用于恐龙纪录片/微电影创作，一键呈现写实纪录片/微电影",
+      "skill_hash": "d86cf7c2b824f561"
+    },
+    {
+      "name": "情绪电影画面",
+      "folder": "情绪电影画面",
+      "relative_path": "原始技能库/情绪电影画面/SKILL.md",
+      "category": "导演与镜头",
+      "description": "把画面构想直接生成克制的真人电影静帧",
+      "skill_hash": "2ac4137f5ce13188"
+    },
+    {
+      "name": "慕夏风格神明角色设计",
+      "folder": "慕夏风格神明角色设计",
+      "relative_path": "原始技能库/慕夏风格神明角色设计/SKILL.md",
+      "category": "人物与资产",
+      "description": "将角色身份设定（如星座、神格、职业原型等）转化为慕夏新艺术风",
+      "skill_hash": "62f7dcf15a159de4"
+    },
+    {
+      "name": "戈登威利斯暗部摄影",
+      "folder": "戈登威利斯暗部摄影",
+      "relative_path": "原始技能库/戈登威利斯暗部摄影/SKILL.md",
+      "category": "导演与镜头",
+      "description": "用受控欠曝、负补光和建筑构图，让阴影承担信息与权力关系。",
+      "skill_hash": "38e5b517278f5f73"
+    },
+    {
+      "name": "成语动画工坊-80-90年代二次元动画风格生成器",
+      "folder": "成语动画工坊-80-90年代二次元动画风格生成器",
+      "relative_path": "原始技能库/成语动画工坊-80-90年代二次元动画风格生成器/SKILL.md",
+      "category": "视觉风格与场景",
+      "description": "输入任意成语，自动生成赛璐璐手绘风动画短片方案",
+      "skill_hash": "6b58a1485aff5d36"
+    },
+    {
+      "name": "户外灰底模特图",
+      "folder": "户外灰底模特图",
+      "relative_path": "原始技能库/户外灰底模特图/SKILL.md",
+      "category": "人物与资产",
+      "description": "灰底模特图置入户外场景专用版",
+      "skill_hash": "f9b202bf337b4c1e"
+    },
+    {
+      "name": "房地产户型图设计",
+      "folder": "房地产户型图设计",
+      "relative_path": "原始技能库/房地产户型图设计/SKILL.md",
+      "category": "其他待确认",
+      "description": "适用于房地产户型图设计",
+      "skill_hash": "55c30ce9e528ccdf"
+    },
+    {
+      "name": "手绘油画3D动画质感",
+      "folder": "手绘油画3D动画质感",
+      "relative_path": "原始技能库/手绘油画3D动画质感/SKILL.md",
+      "category": "视觉风格与场景",
+      "description": "用于创作双城之战风格的手绘油画质感的三维动画视频。",
+      "skill_hash": "d633975ce3d8e1ab"
+    },
+    {
+      "name": "打戏skill",
+      "folder": "打戏skill",
+      "relative_path": "原始技能库/打戏skill/SKILL.md",
+      "category": "导演与镜头",
+      "description": "流畅运镜，流畅动作，战斗画面skill",
+      "skill_hash": "133bf3cb0edfc8e7"
+    },
+    {
+      "name": "打火机极简科技广告创作",
+      "folder": "打火机极简科技广告创作",
+      "relative_path": "原始技能库/打火机极简科技广告创作/SKILL.md",
+      "category": "视觉风格与场景",
+      "description": "苹果式极简科技广告风格创作流程",
+      "skill_hash": "1880d0522af82423"
+    },
+    {
+      "name": "托兰德深焦调度",
+      "folder": "托兰德深焦调度",
+      "relative_path": "原始技能库/托兰德深焦调度/SKILL.md",
+      "category": "其他待确认",
+      "description": "用前中后景、遮挡、尺度与演员调度，让深焦画面清楚而且有叙事优",
+      "skill_hash": "8b48a97e473cb506"
+    },
+    {
+      "name": "投影仪电商渲染动画",
+      "folder": "投影仪电商渲染动画",
+      "relative_path": "原始技能库/投影仪电商渲染动画/SKILL.md",
+      "category": "人物与资产",
+      "description": "投影仪产品图一键生成完整C4D渲染电商视频全套资产。统一未来",
+      "skill_hash": "3f3ff48e308e6a5e"
+    },
+    {
+      "name": "护肤香水电商产品质感短片",
+      "folder": "护肤香水电商产品质感短片",
+      "relative_path": "原始技能库/护肤香水电商产品质感短片/SKILL.md",
+      "category": "导演与镜头",
+      "description": "根据参考视频分析提示词、运镜和风格，结合用户上传的产品图",
+      "skill_hash": "cb5954dec5a68883"
+    },
+    {
+      "name": "拆场景-获得2种场景画面",
+      "folder": "拆场景-获得2种场景画面",
+      "relative_path": "原始技能库/拆场景-获得2种场景画面/SKILL.md",
+      "category": "导演与镜头",
+      "description": "剔除所有叙事元素。获得自然场景+光影效果场景+画面配色卡",
+      "skill_hash": "05825f155f63b438"
+    },
+    {
+      "name": "拼贴风格MG动画",
+      "folder": "拼贴风格MG动画",
+      "relative_path": "原始技能库/拼贴风格MG动画/SKILL.md",
+      "category": "视觉风格与场景",
+      "description": "输入文案自动生成拼贴风MG动画",
+      "skill_hash": "ac59e9b1a0e610f9"
+    },
+    {
+      "name": "排版雕塑海报生成器",
+      "folder": "排版雕塑海报生成器",
+      "relative_path": "原始技能库/排版雕塑海报生成器/SKILL.md",
+      "category": "视频通用",
+      "description": "生成\"排版即图形\"高端平面海报提示词",
+      "skill_hash": "ddb2840e5645e6da"
+    },
+    {
+      "name": "提示词工程师",
+      "folder": "提示词工程师",
+      "relative_path": "原始技能库/提示词工程师/SKILL.md",
+      "category": "其他待确认",
+      "description": "将模糊想法转化为清晰、高效的AI提示词",
+      "skill_hash": "dd6d1843adf8cd52"
+    },
+    {
+      "name": "提示词撰写",
+      "folder": "提示词撰写",
+      "relative_path": "原始技能库/提示词撰写/SKILL.md",
+      "category": "脚本与分镜",
+      "description": "使用分镜产出提示词方案，确认后产出提示词",
+      "skill_hash": "f9cc76d3beeb99aa"
+    },
+    {
+      "name": "播客音频生成器",
+      "folder": "播客音频生成器",
+      "relative_path": "原始技能库/播客音频生成器/SKILL.md",
+      "category": "声音与后期",
+      "description": "输入话题，产出完整播客音频",
+      "skill_hash": "e77f87f0af909cbd"
+    },
+    {
+      "name": "政策一图读懂智能解读",
+      "folder": "政策一图读懂智能解读",
+      "relative_path": "原始技能库/政策一图读懂智能解读/SKILL.md",
+      "category": "其他待确认",
+      "description": "上传国标政策文件，提取要点生成政务一图读懂长图，仅限规范类文",
+      "skill_hash": "69c41a034546ca2d"
+    },
+    {
+      "name": "故事板",
+      "folder": "故事板",
+      "relative_path": "原始技能库/故事板/SKILL.md",
+      "category": "脚本与分镜",
+      "description": "更加流畅不穿帮的工具",
+      "skill_hash": "f1bc4da3877c5a40"
+    },
+    {
+      "name": "故事板 Skill",
+      "folder": "故事板 Skill",
+      "relative_path": "原始技能库/故事板 Skill/SKILL.md",
+      "category": "脚本与分镜",
+      "description": "剧本一键生成故事板全流程",
+      "skill_hash": "f1276b270588f20b"
+    },
+    {
+      "name": "教程图：生图+模板合成",
+      "folder": "教程图：生图+模板合成",
+      "relative_path": "原始技能库/教程图：生图+模板合成/SKILL.md",
+      "category": "其他待确认",
+      "description": "生成左右排版教程步骤图",
+      "skill_hash": "42ca198d229e18fd"
+    },
+    {
+      "name": "数字人口播 skill",
+      "folder": "数字人口播 skill",
+      "relative_path": "原始技能库/数字人口播 skill/SKILL.md",
+      "category": "脚本与分镜",
+      "description": "写数字人视频的口播脚本和提词稿。",
+      "skill_hash": "1501e260fca8f908"
+    },
+    {
+      "name": "数字编剧 Skill",
+      "folder": "数字编剧 Skill",
+      "relative_path": "原始技能库/数字编剧 Skill/SKILL.md",
+      "category": "脚本与分镜",
+      "description": "过视觉一致性锚定和电影化分镜设计，提高 AI 视频生成质量",
+      "skill_hash": "d59b8a53cc2d26ac"
+    },
+    {
+      "name": "文创详情页工作流",
+      "folder": "文创详情页工作流",
+      "relative_path": "原始技能库/文创详情页工作流/SKILL.md",
+      "category": "广告与电商",
+      "description": "输入产品原图，生成全套电商展示图",
+      "skill_hash": "66ab01022893f778"
+    },
+    {
+      "name": "文旅海报动态视频生成器",
+      "folder": "文旅海报动态视频生成器",
+      "relative_path": "原始技能库/文旅海报动态视频生成器/SKILL.md",
+      "category": "视频通用",
+      "description": "素材图一键生成文旅海报与动态视频",
+      "skill_hash": "5f53c917410aae86"
+    },
+    {
+      "name": "文物社媒视频视频",
+      "folder": "文物社媒视频视频",
+      "relative_path": "原始技能库/文物社媒视频视频/SKILL.md",
+      "category": "视频通用",
+      "description": "文物叙事视频全流程生成",
+      "skill_hash": "21623775af6b0486"
+    },
+    {
+      "name": "文章转漫画生成器",
+      "folder": "文章转漫画生成器",
+      "relative_path": "原始技能库/文章转漫画生成器/SKILL.md",
+      "category": "脚本与分镜",
+      "description": "文章/故事一键改编为漫画",
+      "skill_hash": "0b6830afcde5dbef"
+    },
+    {
+      "name": "斯托拉罗色彩摄影",
+      "folder": "斯托拉罗色彩摄影",
+      "relative_path": "原始技能库/斯托拉罗色彩摄影/SKILL.md",
+      "category": "导演与镜头",
+      "description": "把人物弧光、场景冲突和情绪转折变成可执行的色彩叙事系统。",
+      "skill_hash": "7c3952bfacf8c98c"
+    },
+    {
+      "name": "新海诚色彩风格重制",
+      "folder": "新海诚色彩风格重制",
+      "relative_path": "原始技能库/新海诚色彩风格重制/SKILL.md",
+      "category": "导演与镜头",
+      "description": "对已有图片做 image2image 重绘，仅调整色彩与光影",
+      "skill_hash": "280567fd1300f5bd"
+    },
+    {
+      "name": "旅行Vlog电影化大师",
+      "folder": "旅行Vlog电影化大师",
+      "relative_path": "原始技能库/旅行Vlog电影化大师/SKILL.md",
+      "category": "脚本与分镜",
+      "description": "输入旅行目的地与风格，生成电影级旅行短片分镜方案，含航拍、人",
+      "skill_hash": "0605c2d63348b3eb"
+    },
+    {
+      "name": "无人机视角【线控运镜】-玄黄-V1.0",
+      "folder": "无人机视角【线控运镜】-玄黄-V1.0",
+      "relative_path": "原始技能库/无人机视角【线控运镜】-玄黄-V1.0/SKILL.md",
+      "category": "导演与镜头",
+      "description": "FPV穿越机一镜到底视频创作",
+      "skill_hash": "8d472c3706635629"
+    },
+    {
+      "name": "无声人物传记",
+      "folder": "无声人物传记",
+      "relative_path": "原始技能库/无声人物传记/SKILL.md",
+      "category": "人物与资产",
+      "description": "任何人物都可",
+      "skill_hash": "632818bcee88c3af"
+    },
+    {
+      "name": "无特效真实格斗",
+      "folder": "无特效真实格斗",
+      "relative_path": "原始技能库/无特效真实格斗/SKILL.md",
+      "category": "人物与资产",
+      "description": "用户上传角色图后询问风格意向：生成CG风格角色图、生成卡通动",
+      "skill_hash": "7ba6cc0451768765"
+    },
+    {
+      "name": "日式动画必杀技",
+      "folder": "日式动画必杀技",
+      "relative_path": "原始技能库/日式动画必杀技/SKILL.md",
+      "category": "人物与资产",
+      "description": "根据用户提供的角色参考图，生成日式动画必杀技能展示",
+      "skill_hash": "a2a7116bd86e99e3"
+    },
+    {
+      "name": "日系古典诡谲和服妖异",
+      "folder": "日系古典诡谲和服妖异",
+      "relative_path": "原始技能库/日系古典诡谲和服妖异/SKILL.md",
+      "category": "脚本与分镜",
+      "description": "生成天野喜孝风和服妖异角色、分镜与视频成片",
+      "skill_hash": "ce3b9be3fe0af2ec"
+    },
+    {
+      "name": "日系复古青春图片风格锚点 - 副本",
+      "folder": "日系复古青春图片风格锚点 - 副本",
+      "relative_path": "原始技能库/日系复古青春图片风格锚点 - 副本/SKILL.md",
+      "category": "视觉风格与场景",
+      "description": "日系胶片风格图片生成指南",
+      "skill_hash": "e5ff84b73a511cd8"
+    },
+    {
+      "name": "日系小清新/文艺风格短片",
+      "folder": "日系小清新_文艺风格短片",
+      "relative_path": "原始技能库/日系小清新_文艺风格短片/SKILL.md",
+      "category": "视觉风格与场景",
+      "description": "专为日系小清新与文艺胶片风格短片设计，全流程一站式创作SOP",
+      "skill_hash": "ec7f38977ef42f5e"
+    },
+    {
+      "name": "日系暗黑华丽诡谲志",
+      "folder": "日系暗黑华丽诡谲志",
+      "relative_path": "原始技能库/日系暗黑华丽诡谲志/SKILL.md",
+      "category": "人物与资产",
+      "description": "把任意角色化作天野喜孝1990s黑金空灵的梦幻成片。",
+      "skill_hash": "e12b8cee34e9df5e"
+    },
+    {
+      "name": "日系治愈-小森林风",
+      "folder": "日系治愈-小森林风",
+      "relative_path": "原始技能库/日系治愈-小森林风/SKILL.md",
+      "category": "脚本与分镜",
+      "description": "深度拆解日本电影《小森林》的视听语言",
+      "skill_hash": "160bd1e77d416fa4"
+    },
+    {
+      "name": "时尚大片修图师",
+      "folder": "时尚大片修图师",
+      "relative_path": "原始技能库/时尚大片修图师/SKILL.md",
+      "category": "其他待确认",
+      "description": "上传照片，AI全自动修出时尚大片感",
+      "skill_hash": "f389debf82f462f4"
+    },
+    {
+      "name": "时间推理，细节补漏",
+      "folder": "时间推理，细节补漏",
+      "relative_path": "原始技能库/时间推理，细节补漏/SKILL.md",
+      "category": "其他待确认",
+      "description": "时间推理，细节补漏",
+      "skill_hash": "7f3eda04ccdc4baf"
+    },
+    {
+      "name": "昆汀塔伦蒂诺",
+      "folder": "昆汀塔伦蒂诺",
+      "relative_path": "原始技能库/昆汀塔伦蒂诺/SKILL.md",
+      "category": "视觉风格与场景",
+      "description": "能够生成昆汀风格的图片skill",
+      "skill_hash": "49ae0762afdca4eb"
+    },
+    {
+      "name": "昆汀式风格电影美学",
+      "folder": "昆汀式风格电影美学",
+      "relative_path": "原始技能库/昆汀式风格电影美学/SKILL.md",
+      "category": "导演与镜头",
+      "description": "根据昆汀式的风格做出电影质感的短片",
+      "skill_hash": "6965c614323dd4e6"
+    },
+    {
+      "name": "明亮手绘拼贴风绘本",
+      "folder": "明亮手绘拼贴风绘本",
+      "relative_path": "原始技能库/明亮手绘拼贴风绘本/SKILL.md",
+      "category": "视觉风格与场景",
+      "description": "现实对象变被阳光晒热的手工海报，带有童真风格的趣味拼贴绘本",
+      "skill_hash": "8eaf1b79692fe7da"
+    },
+    {
+      "name": "晋祠宣传片创作助手",
+      "folder": "晋祠宣传片创作助手",
+      "relative_path": "原始技能库/晋祠宣传片创作助手/SKILL.md",
+      "category": "广告与电商",
+      "description": "晋祠专属文旅宣传片创作方案",
+      "skill_hash": "e72785a72797379a"
+    },
+    {
+      "name": "普班机",
+      "folder": "普班机",
+      "relative_path": "原始技能库/普班机/SKILL.md",
+      "category": "其他待确认",
+      "description": "普通人都上班了，那机器人做什么",
+      "skill_hash": "e7a4fe1080e60444"
+    },
+    {
+      "name": "智能模型路由",
+      "folder": "智能模型路由",
+      "relative_path": "原始技能库/智能模型路由/SKILL.md",
+      "category": "其他待确认",
+      "description": "根据任务自动选最合适的模型执行",
+      "skill_hash": "0251868520b3bfca"
+    },
+    {
+      "name": "暗黑悬疑漫剧全流程导演",
+      "folder": "暗黑悬疑漫剧全流程导演",
+      "relative_path": "原始技能库/暗黑悬疑漫剧全流程导演/SKILL.md",
+      "category": "脚本与分镜",
+      "description": "从一句话灵感到成片，一键完成暗黑悬疑风格AI漫剧的剧本、分镜",
+      "skill_hash": "26daaee84d0401b0"
+    },
+    {
+      "name": "服装品牌宣传TVC导演",
+      "folder": "服装品牌宣传TVC导演",
+      "relative_path": "原始技能库/服装品牌宣传TVC导演/SKILL.md",
+      "category": "导演与镜头",
+      "description": "上传模特图和服装图，自动生成具有品牌宣传效果的TVC大片",
+      "skill_hash": "b304be46a7d2bf97"
+    },
+    {
+      "name": "服装展示",
+      "folder": "服装展示",
+      "relative_path": "原始技能库/服装展示/SKILL.md",
+      "category": "其他待确认",
+      "description": "服装展示",
+      "skill_hash": "f0542083a1503b61"
+    },
+    {
+      "name": "服装带货网红风格视频直出",
+      "folder": "服装带货网红风格视频直出",
+      "relative_path": "原始技能库/服装带货网红风格视频直出/SKILL.md",
+      "category": "视觉风格与场景",
+      "description": "用于服装的电商视频生成，上传服装图片生成。可编辑人种和风格",
+      "skill_hash": "30ba99a094a497f8"
+    },
+    {
+      "name": "末日生存惊悚单集短剧",
+      "folder": "末日生存惊悚单集短剧",
+      "relative_path": "原始技能库/末日生存惊悚单集短剧/SKILL.md",
+      "category": "导演与镜头",
+      "description": "按照生成电影感末日生存惊悚短剧",
+      "skill_hash": "ff3b5e733c4e0f6d"
+    },
+    {
+      "name": "权谋运镜一键生成",
+      "folder": "权谋运镜一键生成",
+      "relative_path": "原始技能库/权谋运镜一键生成/SKILL.md",
+      "category": "导演与镜头",
+      "description": "根据用户上传的多张人物参考图，生成电影级深夜天台群像大片。",
+      "skill_hash": "5011a5b7c5ac0bc1"
+    },
+    {
+      "name": "杜可风都市情绪摄影",
+      "folder": "杜可风都市情绪摄影",
+      "relative_path": "原始技能库/杜可风都市情绪摄影/SKILL.md",
+      "category": "导演与镜头",
+      "description": "用主观机位、手持节奏、广角近距和城市色彩，把空间拍成人物情绪",
+      "skill_hash": "d37cf153fe9014f4"
+    },
+    {
+      "name": "极近景人物眼神张力表情",
+      "folder": "极近景人物眼神张力表情",
+      "relative_path": "原始技能库/极近景人物眼神张力表情/SKILL.md",
+      "category": "导演与镜头",
+      "description": "把普通“漂亮人像”转化为具有叙事压力、空间层次和电影光感的人",
+      "skill_hash": "c3f3ce5621f89ad9"
+    },
+    {
+      "name": "梦幻仙侠风格电影风格",
+      "folder": "梦幻仙侠风格电影风格",
+      "relative_path": "原始技能库/梦幻仙侠风格电影风格/SKILL.md",
+      "category": "导演与镜头",
+      "description": "仙侠风格",
+      "skill_hash": "0ed63c5e90559cb7"
+    },
+    {
+      "name": "梦核坠落幻觉视频工作流",
+      "folder": "梦核坠落幻觉视频工作流",
+      "relative_path": "原始技能库/梦核坠落幻觉视频工作流/SKILL.md",
+      "category": "视频通用",
+      "description": "MJ梦核超现实图片+视频生成流程",
+      "skill_hash": "5d79abf464418834"
+    },
+    {
+      "name": "次世代游戏人物建模",
+      "folder": "次世代游戏人物建模",
+      "relative_path": "原始技能库/次世代游戏人物建模/SKILL.md",
+      "category": "人物与资产",
+      "description": "适用于次世代游戏人物建模构图设计",
+      "skill_hash": "8144335c60319734"
+    },
+    {
+      "name": "次时代白女vlog风格",
+      "folder": "次时代白女vlog风格",
+      "relative_path": "原始技能库/次时代白女vlog风格/SKILL.md",
+      "category": "视觉风格与场景",
+      "description": "Thatgirl的松弛感是当下全球社交媒体最具传播力的美学。",
+      "skill_hash": "9a59735ccddb81c5"
+    },
+    {
+      "name": "欧美电影感短片创作工作流",
+      "folder": "欧美电影感短片创作工作流",
+      "relative_path": "原始技能库/欧美电影感短片创作工作流/SKILL.md",
+      "category": "导演与镜头",
+      "description": "从零到成片的欧美电影感短片完整创作工作流，涵盖角色设定、场景",
+      "skill_hash": "2656ce8e31090eae"
+    },
+    {
+      "name": "武侠动作导演V8.0 - 副本",
+      "folder": "武侠动作导演V8.0 - 副本",
+      "relative_path": "原始技能库/武侠动作导演V8.0 - 副本/SKILL.md",
+      "category": "导演与镜头",
+      "description": "一条龙生成武侠打斗视频：自动产出分层资产锚点图、按节点-节拍",
+      "skill_hash": "cf6caef58442bdca"
+    },
+    {
+      "name": "死亡金属音乐MV",
+      "folder": "死亡金属音乐MV",
+      "relative_path": "原始技能库/死亡金属音乐MV/SKILL.md",
+      "category": "导演与镜头",
+      "description": "上传多张人物/角色图，一键生成15秒融合死亡金属残暴、圣咏庄",
+      "skill_hash": "a403372a4cad9043"
+    },
+    {
+      "name": "毛绒治愈系短视频构建器",
+      "folder": "毛绒治愈系短视频构建器",
+      "relative_path": "原始技能库/毛绒治愈系短视频构建器/SKILL.md",
+      "category": "人物与资产",
+      "description": "一键生成“现实场景 + 毛绒萌系 IP 角色\"的治愈短视频",
+      "skill_hash": "1fb6a5d56a68200c"
+    },
+    {
+      "name": "水墨国风广告生成器",
+      "folder": "水墨国风广告生成器",
+      "relative_path": "原始技能库/水墨国风广告生成器/SKILL.md",
+      "category": "视觉风格与场景",
+      "description": "输入产品信息，一键生成新中式水墨风格 30-90 秒广告视频",
+      "skill_hash": "ea8ad236c2198645"
+    },
+    {
+      "name": "汽车TVC广告生产器（最新版l）",
+      "folder": "汽车TVC广告生产器（最新版l）",
+      "relative_path": "原始技能库/汽车TVC广告生产器（最新版l）/SKILL.md",
+      "category": "脚本与分镜",
+      "description": "从脚本到成片的汽车TVC完整生产链路",
+      "skill_hash": "5be5e10ea6b485a3"
+    },
+    {
+      "name": "治愈系机车运动分镜导演",
+      "folder": "治愈系机车运动分镜导演",
+      "relative_path": "原始技能库/治愈系机车运动分镜导演/SKILL.md",
+      "category": "脚本与分镜",
+      "description": "为公路片故事设计路线驱动、空间连续、可直接制作的专业分镜。",
+      "skill_hash": "de9de8ccdf43e613"
+    },
+    {
+      "name": "治愈系音乐MV",
+      "folder": "治愈系音乐MV",
+      "relative_path": "原始技能库/治愈系音乐MV/SKILL.md",
+      "category": "导演与镜头",
+      "description": "一键生成工业级音乐MV、男女idol、叙事型音乐短片",
+      "skill_hash": "009c6f0819fdfd54"
+    },
+    {
+      "name": "治愈系风景空镜",
+      "folder": "治愈系风景空镜",
+      "relative_path": "原始技能库/治愈系风景空镜/SKILL.md",
+      "category": "人物与资产",
+      "description": "没有人物的风景空镜",
+      "skill_hash": "5920136ac2b54ec2"
+    },
+    {
+      "name": "泛健康科普短视频",
+      "folder": "泛健康科普短视频",
+      "relative_path": "原始技能库/泛健康科普短视频/SKILL.md",
+      "category": "视频通用",
+      "description": "素材一键生成口播短视频全链路",
+      "skill_hash": "323a6b502d41c16b"
+    },
+    {
+      "name": "洗图高清重绘",
+      "folder": "洗图高清重绘",
+      "relative_path": "原始技能库/洗图高清重绘/SKILL.md",
+      "category": "其他待确认",
+      "description": "原图一键高清重绘，双模型输出",
+      "skill_hash": "fcce3a6ea4aa36d8"
+    },
+    {
+      "name": "活世界引擎",
+      "folder": "活世界引擎",
+      "relative_path": "原始技能库/活世界引擎/SKILL.md",
+      "category": "人物与资产",
+      "description": "让AI视频中的背景世界拥有真实NPC行为、人物多样性和环境动",
+      "skill_hash": "b9c3667f7060556f"
+    },
+    {
+      "name": "活动开场FPV视频制作",
+      "folder": "活动开场FPV视频制作",
+      "relative_path": "原始技能库/活动开场FPV视频制作/SKILL.md",
+      "category": "视频通用",
+      "description": "活动开场FPV穿越视频+正门合成图",
+      "skill_hash": "597924c955d72c3c"
+    },
+    {
+      "name": "测试",
+      "folder": "测试_e9ecf7",
+      "relative_path": "原始技能库/测试_e9ecf7/SKILL.md",
+      "category": "其他待确认",
+      "description": "测试",
+      "skill_hash": "760f4079914c666d"
+    },
+    {
+      "name": "添加自然模特",
+      "folder": "添加自然模特",
+      "relative_path": "原始技能库/添加自然模特/SKILL.md",
+      "category": "人物与资产",
+      "description": "精准提示词消除AI感，生成自然人物互动图",
+      "skill_hash": "6f197e1d977f06ca"
+    },
+    {
+      "name": "游戏角色入场视频生成器",
+      "folder": "游戏角色入场视频生成器",
+      "relative_path": "原始技能库/游戏角色入场视频生成器/SKILL.md",
+      "category": "人物与资产",
+      "description": "上传任意游戏角色图，AI自动识别角色美术风格",
+      "skill_hash": "05365efa1275c7c1"
+    },
+    {
+      "name": "漫剧-剧本/发行自审助手",
+      "folder": "漫剧-剧本_发行自审助手",
+      "relative_path": "原始技能库/漫剧-剧本_发行自审助手/SKILL.md",
+      "category": "脚本与分镜",
+      "description": "对AI漫剧剧本、分镜、角色设定做平台发布前合规审查并出清单",
+      "skill_hash": "9de5749241cda87b"
+    },
+    {
+      "name": "漫剧分镜创作Agent v8",
+      "folder": "漫剧分镜创作Agent v8",
+      "relative_path": "原始技能库/漫剧分镜创作Agent v8/SKILL.md",
+      "category": "脚本与分镜",
+      "description": "画风确认→锚点集+分镜总表双文档输出",
+      "skill_hash": "a7d1efd887c4531a"
+    },
+    {
+      "name": "灰烬之城-年代黑帮剧创作",
+      "folder": "灰烬之城-年代黑帮剧创作",
+      "relative_path": "原始技能库/灰烬之城-年代黑帮剧创作/SKILL.md",
+      "category": "视频通用",
+      "description": "基于《灰烬之城》原创年代黑帮连续剧的完整创作工作流。",
+      "skill_hash": "6b86b273ff34fce1"
+    },
+    {
+      "name": "灵感具现化",
+      "folder": "灵感具现化",
+      "relative_path": "原始技能库/灵感具现化/SKILL.md",
+      "category": "脚本与分镜",
+      "description": "把一句话灵感变成对标爆款、短剧剧本 、分镜、AI素材提示词",
+      "skill_hash": "d01360f6bbec6d46"
+    },
+    {
+      "name": "热血打斗让人物打斗燃起来",
+      "folder": "热血打斗让人物打斗燃起来",
+      "relative_path": "原始技能库/热血打斗让人物打斗燃起来/SKILL.md",
+      "category": "人物与资产",
+      "description": "把人物和场景，关键道具给到可以完成超燃打斗，90秒",
+      "skill_hash": "dd63040a1afcbdd8"
+    },
+    {
+      "name": "煎食物极致微距美食短片",
+      "folder": "煎食物极致微距美食短片",
+      "relative_path": "原始技能库/煎食物极致微距美食短片/SKILL.md",
+      "category": "视频通用",
+      "description": "4秒煎类美食极致微距商业短片",
+      "skill_hash": "6d3adedc78f4f375"
+    },
+    {
+      "name": "爆款AI视频剧本拆解",
+      "folder": "爆款AI视频剧本拆解",
+      "relative_path": "原始技能库/爆款AI视频剧本拆解/SKILL.md",
+      "category": "脚本与分镜",
+      "description": "输入视频，拆解输出标准剧本格式",
+      "skill_hash": "1571032242b20094"
+    },
+    {
+      "name": "爆款古风3D仙侠玄幻剧",
+      "folder": "爆款古风3D仙侠玄幻剧",
+      "relative_path": "原始技能库/爆款古风3D仙侠玄幻剧/SKILL.md",
+      "category": "视觉风格与场景",
+      "description": "生成爆款风格的古风玄幻剧",
+      "skill_hash": "c679f910fa045560"
+    },
+    {
+      "name": "爆款复刻旅行登机牌换装",
+      "folder": "爆款复刻旅行登机牌换装",
+      "relative_path": "原始技能库/爆款复刻旅行登机牌换装/SKILL.md",
+      "category": "人物与资产",
+      "description": "上传角色卡，选择目的地，自动复刻抖音爆款丝滑旅行换装短片",
+      "skill_hash": "a902abbbc1fc2aa1"
+    },
+    {
+      "name": "爆款复刻短视频带货",
+      "folder": "爆款复刻短视频带货",
+      "relative_path": "原始技能库/爆款复刻短视频带货/SKILL.md",
+      "category": "脚本与分镜",
+      "description": "支持脚本拆解、逐帧拉片、人物设定、分镜及带货视频提示词全流程",
+      "skill_hash": "794f1152db3a35bd"
+    },
+    {
+      "name": "爆款女频短剧漫剧|顶级大导演思维生产",
+      "folder": "爆款女频短剧漫剧_顶级大导演思维生产",
+      "relative_path": "原始技能库/爆款女频短剧漫剧_顶级大导演思维生产/SKILL.md",
+      "category": "导演与镜头",
+      "description": "输入一句话，12步大导演标准流程，生成影院级爆款女频短剧漫剧",
+      "skill_hash": "d0153f6f6207bc21"
+    },
+    {
+      "name": "爆款封面一键复刻",
+      "folder": "爆款封面一键复刻",
+      "relative_path": "原始技能库/爆款封面一键复刻/SKILL.md",
+      "category": "视频通用",
+      "description": "一键生成热门同款视频封面",
+      "skill_hash": "b5360ef9d585f319"
+    },
+    {
+      "name": "爆款级 AI 剧本创作师",
+      "folder": "爆款级 AI 剧本创作师",
+      "relative_path": "原始技能库/爆款级 AI 剧本创作师/SKILL.md",
+      "category": "脚本与分镜",
+      "description": "没灵感不会写？AI帮你从爆款创意到完整剧本",
+      "skill_hash": "596f0410cfa12f46"
+    },
+    {
+      "name": "爆款级 AI 剧本改造师",
+      "folder": "爆款级 AI 剧本改造师",
+      "relative_path": "原始技能库/爆款级 AI 剧本改造师/SKILL.md",
+      "category": "脚本与分镜",
+      "description": "把AI味剧本改造成高冲突爆款视频脚本",
+      "skill_hash": "0947507af608a8d4"
+    },
+    {
+      "name": "爆款霸道总裁3D人物质感",
+      "folder": "爆款霸道总裁3D人物质感",
+      "relative_path": "原始技能库/爆款霸道总裁3D人物质感/SKILL.md",
+      "category": "人物与资产",
+      "description": "生成爆款风格的都市霸道总裁剧",
+      "skill_hash": "418fdeeac82be8ce"
+    },
+    {
+      "name": "爱死机式节奏｜商业类型短片编剧",
+      "folder": "爱死机式节奏｜商业类型短片编剧",
+      "relative_path": "原始技能库/爱死机式节奏｜商业类型短片编剧/SKILL.md",
+      "category": "脚本与分镜",
+      "description": "爱死机式强节奏，打造多轮冲突与有力反转的商业短片剧本。",
+      "skill_hash": "5aacf0a48f9dacc1"
+    },
+    {
+      "name": "牛大师反推视频大师",
+      "folder": "牛大师反推视频大师",
+      "relative_path": "原始技能库/牛大师反推视频大师/SKILL.md",
+      "category": "导演与镜头",
+      "description": "双链路Seedance 2.5反推重制总导演",
+      "skill_hash": "5d1ee54aeb375781"
+    },
+    {
+      "name": "牛大师爆款爽感饮料广告",
+      "folder": "牛大师爆款爽感饮料广告",
+      "relative_path": "原始技能库/牛大师爆款爽感饮料广告/SKILL.md",
+      "category": "广告与电商",
+      "description": "爆款ASMR饮料广告生成",
+      "skill_hash": "4e46574ab5bae933"
+    },
+    {
+      "name": "牛来邪修纸盒视频",
+      "folder": "牛来邪修纸盒视频",
+      "relative_path": "原始技能库/牛来邪修纸盒视频/SKILL.md",
+      "category": "广告与电商",
+      "description": "输入产品图，生成产品创意视频",
+      "skill_hash": "31aff576d252afd3"
+    },
+    {
+      "name": "狄金斯光影方法",
+      "folder": "狄金斯光影方法",
+      "relative_path": "原始技能库/狄金斯光影方法/SKILL.md",
+      "category": "导演与镜头",
+      "description": "用动机光、克制运镜和空间连续性，让每一束光都有叙事理由。",
+      "skill_hash": "79610dadbc813019"
+    },
+    {
+      "name": "王家卫<繁花>电影分镜SKILL",
+      "folder": "王家卫_繁花_电影分镜SKILL",
+      "relative_path": "原始技能库/王家卫_繁花_电影分镜SKILL/SKILL.md",
+      "category": "脚本与分镜",
+      "description": "王家卫电影效果",
+      "skill_hash": "c8635306669bf9c6"
+    },
+    {
+      "name": "玻璃金属产品广告反射控制",
+      "folder": "玻璃金属产品广告反射控制",
+      "relative_path": "原始技能库/玻璃金属产品广告反射控制/SKILL.md",
+      "category": "视觉风格与场景",
+      "description": "把玻璃和金属的乱反光，变成连续、可设计、能说明材质的广告高光",
+      "skill_hash": "5cc85d7fab3d2f39"
+    },
+    {
+      "name": "甜美古装少女群像氛围导演",
+      "folder": "甜美古装少女群像氛围导演",
+      "relative_path": "原始技能库/甜美古装少女群像氛围导演/SKILL.md",
+      "category": "导演与镜头",
+      "description": "为清甜古装慢生活群像设计图片视觉方案，并根据确认成图生成5秒",
+      "skill_hash": "7ccf0594b2c8a58a"
+    },
+    {
+      "name": "生成角色三视图设定图",
+      "folder": "生成角色三视图设定图",
+      "relative_path": "原始技能库/生成角色三视图设定图/SKILL.md",
+      "category": "人物与资产",
+      "description": "一键生成纯白背景、左脸特写+右侧正/侧/背全身三视图",
+      "skill_hash": "23c2363fb6b72620"
+    },
+    {
+      "name": "电商主图的批量复刻",
+      "folder": "电商主图的批量复刻",
+      "relative_path": "原始技能库/电商主图的批量复刻/SKILL.md",
+      "category": "广告与电商",
+      "description": "用于洗护类目（洗发水、沐浴露、身体乳等）电商主图的批量复刻",
+      "skill_hash": "9cf59be1b13f1fa1"
+    },
+    {
+      "name": "电商产品图文套图、详情页",
+      "folder": "电商产品图文套图、详情页",
+      "relative_path": "原始技能库/电商产品图文套图、详情页/SKILL.md",
+      "category": "广告与电商",
+      "description": "电商产品图文整套（主图套组或详情页）",
+      "skill_hash": "ec7be21f42fed367"
+    },
+    {
+      "name": "电商产品大片生成器",
+      "folder": "电商产品大片生成器",
+      "relative_path": "原始技能库/电商产品大片生成器/SKILL.md",
+      "category": "导演与镜头",
+      "description": "输入产品品类与卖点，一键生成电影级电商主图视频方案，自动匹配",
+      "skill_hash": "68d571da1408c980"
+    },
+    {
+      "name": "电商产品展示",
+      "folder": "电商产品展示",
+      "relative_path": "原始技能库/电商产品展示/SKILL.md",
+      "category": "广告与电商",
+      "description": "上传产品图，一键生成高转化15秒带货短视频",
+      "skill_hash": "fd8becd4b61ed943"
+    },
+    {
+      "name": "电商产品海报 详情页V2",
+      "folder": "电商产品海报 详情页V2",
+      "relative_path": "原始技能库/电商产品海报 详情页V2/SKILL.md",
+      "category": "视觉风格与场景",
+      "description": "根据用户提供的产品白底图与参考图，学习参考图的风格、构图与内",
+      "skill_hash": "bb1fad58d8943c5f"
+    },
+    {
+      "name": "电商产品海报 详情页复刻",
+      "folder": "电商产品海报 详情页复刻",
+      "relative_path": "原始技能库/电商产品海报 详情页复刻/SKILL.md",
+      "category": "视觉风格与场景",
+      "description": "根据用户提供的产品白底图与参考风格图，学习参考图的风格、构图",
+      "skill_hash": "e2f5f08c1dba9dee"
+    },
+    {
+      "name": "电商产品白底图精修",
+      "folder": "电商产品白底图精修",
+      "relative_path": "原始技能库/电商产品白底图精修/SKILL.md",
+      "category": "导演与镜头",
+      "description": "重塑产品的质感和光影",
+      "skill_hash": "6a8dad01bfa3b76c"
+    },
+    {
+      "name": "电商图片复刻V3",
+      "folder": "电商图片复刻V3",
+      "relative_path": "原始技能库/电商图片复刻V3/SKILL.md",
+      "category": "广告与电商",
+      "description": "电商产品图复刻V3",
+      "skill_hash": "c7fdd82902f53fdd"
+    },
+    {
+      "name": "电商模特选角",
+      "folder": "电商模特选角",
+      "relative_path": "原始技能库/电商模特选角/SKILL.md",
+      "category": "人物与资产",
+      "description": "电商服装Lookbook人物提示词生成专家",
+      "skill_hash": "608c476d8ff3da08"
+    },
+    {
+      "name": "电商详情页生成器SKill",
+      "folder": "电商详情页生成器SKill",
+      "relative_path": "原始技能库/电商详情页生成器SKill/SKILL.md",
+      "category": "广告与电商",
+      "description": "电商详情页多模块图片生成",
+      "skill_hash": "3b5c312dc41725cb"
+    },
+    {
+      "name": "电商长图详情页设计",
+      "folder": "电商长图详情页设计",
+      "relative_path": "原始技能库/电商长图详情页设计/SKILL.md",
+      "category": "广告与电商",
+      "description": "适用于长图详情页设计",
+      "skill_hash": "7f24bb9bdb4cb162"
+    },
+    {
+      "name": "电影全案与MV剧本生成器",
+      "folder": "电影全案与MV剧本生成器",
+      "relative_path": "原始技能库/电影全案与MV剧本生成器/SKILL.md",
+      "category": "脚本与分镜",
+      "description": "电影全案/MV剧本一键生成",
+      "skill_hash": "48c8e1e27c2bddca"
+    },
+    {
+      "name": "电影分镜9宫格分镜",
+      "folder": "电影分镜9宫格分镜",
+      "relative_path": "原始技能库/电影分镜9宫格分镜/SKILL.md",
+      "category": "脚本与分镜",
+      "description": "用户提供图片和文字描述生成9宫格",
+      "skill_hash": "703766a68f6703b2"
+    },
+    {
+      "name": "电影化3D水墨视觉引擎",
+      "folder": "电影化3D水墨视觉引擎",
+      "relative_path": "原始技能库/电影化3D水墨视觉引擎/SKILL.md",
+      "category": "导演与镜头",
+      "description": "一句话生成电影化3D水墨风格图片",
+      "skill_hash": "e110b22a3a054503"
+    },
+    {
+      "name": "电影感MV导演",
+      "folder": "电影感MV导演",
+      "relative_path": "原始技能库/电影感MV导演/SKILL.md",
+      "category": "导演与镜头",
+      "description": "氛围感满满的MV与电影氛围skill",
+      "skill_hash": "0e70437df792ab9d"
+    },
+    {
+      "name": "电影感分镜生成器",
+      "folder": "电影感分镜生成器",
+      "relative_path": "原始技能库/电影感分镜生成器/SKILL.md",
+      "category": "脚本与分镜",
+      "description": "能够尽量减少ai制作分镜时候的人物位置关系的错误",
+      "skill_hash": "2a722c325cc5ba61"
+    },
+    {
+      "name": "电影感短视频生成大师",
+      "folder": "电影感短视频生成大师",
+      "relative_path": "原始技能库/电影感短视频生成大师/SKILL.md",
+      "category": "导演与镜头",
+      "description": "根据主题一键生成专业电影质感短视频，自动匹配镜头语言、光影氛",
+      "skill_hash": "d543331830ba5ca8"
+    },
+    {
+      "name": "电影短片分镜 Skill",
+      "folder": "电影短片分镜 Skill",
+      "relative_path": "原始技能库/电影短片分镜 Skill/SKILL.md",
+      "category": "脚本与分镜",
+      "description": "专业电影级分镜图片生成（避免自动化视频浪费API）",
+      "skill_hash": "1616c9ff140cc302"
+    },
+    {
+      "name": "电影级 AI 分镜导演",
+      "folder": "电影级 AI 分镜导演",
+      "relative_path": "原始技能库/电影级 AI 分镜导演/SKILL.md",
+      "category": "脚本与分镜",
+      "description": "别再乱试Prompt，剧本直接变分镜",
+      "skill_hash": "433c2cc783c3e472"
+    },
+    {
+      "name": "电影级 AI 视觉资产导演",
+      "folder": "电影级 AI 视觉资产导演",
+      "relative_path": "原始技能库/电影级 AI 视觉资产导演/SKILL.md",
+      "category": "脚本与分镜",
+      "description": "剧本不会做参考图？一键拆解角色、场景、道具和关键帧资产。",
+      "skill_hash": "dca42589bcaa89f1"
+    },
+    {
+      "name": "电影级 AI 视频提示词导演",
+      "folder": "电影级 AI 视频提示词导演",
+      "relative_path": "原始技能库/电影级 AI 视频提示词导演/SKILL.md",
+      "category": "导演与镜头",
+      "description": "复杂镜头不会写？把素材、动作、运镜变成可执行视频提示词。",
+      "skill_hash": "c9bd69f3839778cd"
+    },
+    {
+      "name": "电影级 AI 超级导演",
+      "folder": "电影级 AI 超级导演",
+      "relative_path": "原始技能库/电影级 AI 超级导演/SKILL.md",
+      "category": "脚本与分镜",
+      "description": "首创五阶段审核制片管线，让粗糙剧本一键化身电影级视听方案。",
+      "skill_hash": "6d6e2c006fcfe1dc"
+    },
+    {
+      "name": "电影级一镜到底",
+      "folder": "电影级一镜到底",
+      "relative_path": "原始技能库/电影级一镜到底/SKILL.md",
+      "category": "脚本与分镜",
+      "description": "根据分镜头参考图和人物三视图，生成一镜到底、无硬切、无虚化转",
+      "skill_hash": "658cc85b2ea42c29"
+    },
+    {
+      "name": "电影级夸张角色设计-丫一吧",
+      "folder": "电影级夸张角色设计-丫一吧",
+      "relative_path": "原始技能库/电影级夸张角色设计-丫一吧/SKILL.md",
+      "category": "导演与镜头",
+      "description": "通过夸张比例、独特体态、性格外化和视觉符号，创造适用于任何时",
+      "skill_hash": "7ab59fbc4730f61c"
+    },
+    {
+      "name": "电影级导演短剧工作流",
+      "folder": "电影级导演短剧工作流",
+      "relative_path": "原始技能库/电影级导演短剧工作流/SKILL.md",
+      "category": "导演与镜头",
+      "description": "全自动生成短剧",
+      "skill_hash": "c818baddb2ccbdc2"
+    },
+    {
+      "name": "电影级武打定格画面生成",
+      "folder": "电影级武打定格画面生成",
+      "relative_path": "原始技能库/电影级武打定格画面生成/SKILL.md",
+      "category": "导演与镜头",
+      "description": "基于用户上传的角色参考图（三视图或正面照），生成极具电影质感",
+      "skill_hash": "4b2a3be895372ba3"
+    },
+    {
+      "name": "电影级汽车广告",
+      "folder": "电影级汽车广告",
+      "relative_path": "原始技能库/电影级汽车广告/SKILL.md",
+      "category": "导演与镜头",
+      "description": "融合城市精英黄金时刻、产品雕塑感与动态驾驶的电影级汽车广告",
+      "skill_hash": "2b16020561ffbd89"
+    },
+    {
+      "name": "电影级短片美学·布达佩斯",
+      "folder": "电影级短片美学·布达佩斯",
+      "relative_path": "原始技能库/电影级短片美学·布达佩斯/SKILL.md",
+      "category": "导演与镜头",
+      "description": "从主题设定到成片交付的完整电影级短片制作工作流：涵盖韦斯·安",
+      "skill_hash": "b7d4a73ed5d1e173"
+    },
+    {
+      "name": "电影级科幻连续短剧导演",
+      "folder": "电影级科幻连续短剧导演",
+      "relative_path": "原始技能库/电影级科幻连续短剧导演/SKILL.md",
+      "category": "导演与镜头",
+      "description": "持续创作成多集电影级科幻短剧",
+      "skill_hash": "ec6cad876eb685fe"
+    },
+    {
+      "name": "电影视觉终极生成器",
+      "folder": "电影视觉终极生成器",
+      "relative_path": "原始技能库/电影视觉终极生成器/SKILL.md",
+      "category": "脚本与分镜",
+      "description": "场景描述→分镜→视频全链路",
+      "skill_hash": "e36989edc43cfd06"
+    },
+    {
+      "name": "电影语言转换器",
+      "folder": "电影语言转换器",
+      "relative_path": "原始技能库/电影语言转换器/SKILL.md",
+      "category": "导演与镜头",
+      "description": "把大白话转换成电影语言——电影感，自动清掉空词、重叠提示词",
+      "skill_hash": "084edab202cb2512"
+    },
+    {
+      "name": "电影镜头设计拆解",
+      "folder": "电影镜头设计拆解",
+      "relative_path": "原始技能库/电影镜头设计拆解/SKILL.md",
+      "category": "脚本与分镜",
+      "description": "根据剧情、场景或镜头想法，从叙事目的、景别、构图、机位、运动",
+      "skill_hash": "d1567988283e65f9"
+    },
+    {
+      "name": "白模故事板",
+      "folder": "白模故事板",
+      "relative_path": "原始技能库/白模故事板/SKILL.md",
+      "category": "脚本与分镜",
+      "description": "根据需求生成白模故事板，适合3D和真实风格",
+      "skill_hash": "b102f02a372d3556"
+    },
+    {
+      "name": "皮克斯风格人物设计",
+      "folder": "皮克斯风格人物设计",
+      "relative_path": "原始技能库/皮克斯风格人物设计/SKILL.md",
+      "category": "人物与资产",
+      "description": "仅用于制作皮克斯风格角色三视图的人物角儿美术设计",
+      "skill_hash": "df40b18f5e5af856"
+    },
+    {
+      "name": "皮影戏国风美学动画",
+      "folder": "皮影戏国风美学动画",
+      "relative_path": "原始技能库/皮影戏国风美学动画/SKILL.md",
+      "category": "视觉风格与场景",
+      "description": "适用于非遗皮影戏传统文化动画影创作，一键呈现皮影戏动画",
+      "skill_hash": "9675f6a20b28e697"
+    },
+    {
+      "name": "直播带货",
+      "folder": "直播带货",
+      "relative_path": "原始技能库/直播带货/SKILL.md",
+      "category": "广告与电商",
+      "description": "高转化直播带货一键生成",
+      "skill_hash": "adc3086ada6e2693"
+    },
+    {
+      "name": "看图识字教学",
+      "folder": "看图识字教学",
+      "relative_path": "原始技能库/看图识字教学/SKILL.md",
+      "category": "其他待确认",
+      "description": "生成给宝宝学习汉字的象形文字",
+      "skill_hash": "2289e46e024f9615"
+    },
+    {
+      "name": "真人电影制作",
+      "folder": "真人电影制作",
+      "relative_path": "原始技能库/真人电影制作/SKILL.md",
+      "category": "导演与镜头",
+      "description": "专门生产类真人影视作品",
+      "skill_hash": "d2bea525220616ef"
+    },
+    {
+      "name": "真人角色七视图人设图",
+      "folder": "真人角色七视图人设图",
+      "relative_path": "原始技能库/真人角色七视图人设图/SKILL.md",
+      "category": "人物与资产",
+      "description": "根据图片或描述生成真人七视图人设图",
+      "skill_hash": "45d2db33840a5945"
+    },
+    {
+      "name": "真人闯关综艺视频",
+      "folder": "真人闯关综艺视频",
+      "relative_path": "原始技能库/真人闯关综艺视频/SKILL.md",
+      "category": "人物与资产",
+      "description": "从角色图开始，自动生成真人闯关综艺短片，支持产品植入。",
+      "skill_hash": "2f4344b5f870cd9b"
+    },
+    {
+      "name": "真实感人像生成器",
+      "folder": "真实感人像生成器",
+      "relative_path": "原始技能库/真实感人像生成器/SKILL.md",
+      "category": "视频通用",
+      "description": "告别AI大众脸，生成高辨识度真实人像",
+      "skill_hash": "0665e5b402c39794"
+    },
+    {
+      "name": "真实质感角色生成SKIL",
+      "folder": "真实质感角色生成SKIL",
+      "relative_path": "原始技能库/真实质感角色生成SKIL/SKILL.md",
+      "category": "人物与资产",
+      "description": "为每个角色生成真实肌理感的三视图角色设计图",
+      "skill_hash": "91c430d39bcde5b0"
+    },
+    {
+      "name": "睡衣居家展示电商视频",
+      "folder": "睡衣居家展示电商视频",
+      "relative_path": "原始技能库/睡衣居家展示电商视频/SKILL.md",
+      "category": "广告与电商",
+      "description": "根据用户上传的睡衣产品平铺/挂拍图，自动识别产品特征、匹配场",
+      "skill_hash": "e17a639befe72d7b"
+    },
+    {
+      "name": "短剧·导演级全流程编排",
+      "folder": "短剧·导演级全流程编排",
+      "relative_path": "原始技能库/短剧·导演级全流程编排/SKILL.md",
+      "category": "导演与镜头",
+      "description": "短剧导演级全流程编排（专属版）",
+      "skill_hash": "1005a902f5fb8ef3"
+    },
+    {
+      "name": "短剧全流程一键出片",
+      "folder": "短剧全流程一键出片",
+      "relative_path": "原始技能库/短剧全流程一键出片/SKILL.md",
+      "category": "脚本与分镜",
+      "description": "把短剧剧本自动拆分，依次生成美术和视频，最终合成为完整视频。",
+      "skill_hash": "9c74e3014c96514c"
+    },
+    {
+      "name": "短剧全流程系统",
+      "folder": "短剧全流程系统",
+      "relative_path": "原始技能库/短剧全流程系统/SKILL.md",
+      "category": "脚本与分镜",
+      "description": "一键覆盖创意到分镜的工业化短剧创作管线",
+      "skill_hash": "9ca09b1f03ce9494"
+    },
+    {
+      "name": "短剧全角色视觉生成器2",
+      "folder": "短剧全角色视觉生成器2",
+      "relative_path": "原始技能库/短剧全角色视觉生成器2/SKILL.md",
+      "category": "脚本与分镜",
+      "description": "输入短剧剧本，为每个角色生成专业完整的全身角色设计",
+      "skill_hash": "7ebc5a32a68f6450"
+    },
+    {
+      "name": "短剧全角色视觉生成器3",
+      "folder": "短剧全角色视觉生成器3",
+      "relative_path": "原始技能库/短剧全角色视觉生成器3/SKILL.md",
+      "category": "脚本与分镜",
+      "description": "根据短剧剧本自动识别所有出场角色，人写实角色图生成的形象设定",
+      "skill_hash": "493c4fbefd7a5579"
+    },
+    {
+      "name": "短剧全角色视觉设定生成器",
+      "folder": "短剧全角色视觉设定生成器",
+      "relative_path": "原始技能库/短剧全角色视觉设定生成器/SKILL.md",
+      "category": "脚本与分镜",
+      "description": "提取剧本中所有出场角色，并为每个角色生成专业级全身三视图",
+      "skill_hash": "76ec5be0a6a23192"
+    },
+    {
+      "name": "短剧复刻",
+      "folder": "短剧复刻",
+      "relative_path": "原始技能库/短剧复刻/SKILL.md",
+      "category": "动画与漫剧",
+      "description": "短剧复刻",
+      "skill_hash": "d801fa34fd75cc72"
+    },
+    {
+      "name": "短剧对白声音修复",
+      "folder": "短剧对白声音修复",
+      "relative_path": "原始技能库/短剧对白声音修复/SKILL.md",
+      "category": "脚本与分镜",
+      "description": "修复短剧对白底噪、硬切和跨镜声底，交付可回退音轨与质检报告",
+      "skill_hash": "fe6ba462b3efe248"
+    },
+    {
+      "name": "短剧爆款钩子引擎",
+      "folder": "短剧爆款钩子引擎",
+      "relative_path": "原始技能库/短剧爆款钩子引擎/SKILL.md",
+      "category": "脚本与分镜",
+      "description": "一句话故事核生成10集大纲+钩子+付费卡点",
+      "skill_hash": "3d42c344090f3976"
+    },
+    {
+      "name": "短片创意剧本生成器",
+      "folder": "短片创意剧本生成器",
+      "relative_path": "原始技能库/短片创意剧本生成器/SKILL.md",
+      "category": "脚本与分镜",
+      "description": "从零生成短片创意、剧本与拍摄方案",
+      "skill_hash": "9a041a1e25d3a76e"
+    },
+    {
+      "name": "短片导演·场记链工作法",
+      "folder": "短片导演·场记链工作法",
+      "relative_path": "原始技能库/短片导演·场记链工作法/SKILL.md",
+      "category": "导演与镜头",
+      "description": "专治AI短片穿帮，一句话开拍，一本场记账管到成片级交付。",
+      "skill_hash": "2194ecdda5fd10a0"
+    },
+    {
+      "name": "短片故事Skill",
+      "folder": "短片故事Skill",
+      "relative_path": "原始技能库/短片故事Skill/SKILL.md",
+      "category": "脚本与分镜",
+      "description": "一张图，直接产出一条可以发布的社媒短片",
+      "skill_hash": "5f661b18077180df"
+    },
+    {
+      "name": "短视频分镜脚本生成器",
+      "folder": "短视频分镜脚本生成器",
+      "relative_path": "原始技能库/短视频分镜脚本生成器/SKILL.md",
+      "category": "脚本与分镜",
+      "description": "输入话题，秒出可拍分镜脚本",
+      "skill_hash": "fd6759f2b48e9685"
+    },
+    {
+      "name": "研乐漫剧国漫战斗爆剪母版",
+      "folder": "研乐漫剧国漫战斗爆剪母版",
+      "relative_path": "原始技能库/研乐漫剧国漫战斗爆剪母版/SKILL.md",
+      "category": "动画与漫剧",
+      "description": "一句话输出完整10秒-60秒高燃流畅打斗无废片",
+      "skill_hash": "8c3a855e67c8e0ed"
+    },
+    {
+      "name": "神级转场时尚短片",
+      "folder": "神级转场时尚短片",
+      "relative_path": "原始技能库/神级转场时尚短片/SKILL.md",
+      "category": "视频通用",
+      "description": "深度还原《穿普拉达的女王》式神级转场。",
+      "skill_hash": "2a0483f301d3083d"
+    },
+    {
+      "name": "禾田传媒小曲提示词",
+      "folder": "禾田传媒小曲提示词",
+      "relative_path": "原始技能库/禾田传媒小曲提示词/SKILL.md",
+      "category": "视频通用",
+      "description": "全能视频提示词模板",
+      "skill_hash": "ec505ebf0fc59e58"
+    },
+    {
+      "name": "秋日告白短片",
+      "folder": "秋日告白短片",
+      "relative_path": "原始技能库/秋日告白短片/SKILL.md",
+      "category": "视频通用",
+      "description": "35秒日剧告白短片完整制作指南",
+      "skill_hash": "c2367655a08b1c49"
+    },
+    {
+      "name": "科幻巨构图生视频",
+      "folder": "科幻巨构图生视频",
+      "relative_path": "原始技能库/科幻巨构图生视频/SKILL.md",
+      "category": "视觉风格与场景",
+      "description": "MJ8.2科幻巨构图片生成缓慢下压推近视频",
+      "skill_hash": "b1122dc2703ba7fe"
+    },
+    {
+      "name": "科幻电影感-文案转分镜脚本生成器",
+      "folder": "科幻电影感-文案转分镜脚本生成器",
+      "relative_path": "原始技能库/科幻电影感-文案转分镜脚本生成器/SKILL.md",
+      "category": "脚本与分镜",
+      "description": "输入文案，逐条生成视频分镜脚本",
+      "skill_hash": "cce6ce4d5eceb4d5"
+    },
+    {
+      "name": "科幻电影（诺兰写实科幻）",
+      "folder": "科幻电影（诺兰写实科幻）",
+      "relative_path": "原始技能库/科幻电影（诺兰写实科幻）/SKILL.md",
+      "category": "导演与镜头",
+      "description": "适用于原创科幻微电影创作，诺兰式写实纪实风格。",
+      "skill_hash": "e54fca271e5bcd53"
+    },
+    {
+      "name": "空镜设计skill",
+      "folder": "空镜设计skill",
+      "relative_path": "原始技能库/空镜设计skill/SKILL.md",
+      "category": "其他待确认",
+      "description": "一句话给出多张高质量空镜设计图",
+      "skill_hash": "169e7c43b24cf8ef"
+    },
+    {
+      "name": "穿搭",
+      "folder": "穿搭",
+      "relative_path": "原始技能库/穿搭/SKILL.md",
+      "category": "人物与资产",
+      "description": "一个专业的服装搭配、人物形象生成，服装展示",
+      "skill_hash": "30698a66eb7cf8d3"
+    },
+    {
+      "name": "童模选角 Casting",
+      "folder": "童模选角 Casting",
+      "relative_path": "原始技能库/童模选角 Casting/SKILL.md",
+      "category": "导演与镜头",
+      "description": "童模选角导演，根据年龄、性格与品牌需求，一键挑选最合适的儿童",
+      "skill_hash": "1d277be55430a25b"
+    },
+    {
+      "name": "第一人称情感互动视频",
+      "folder": "第一人称情感互动视频",
+      "relative_path": "原始技能库/第一人称情感互动视频/SKILL.md",
+      "category": "视频通用",
+      "description": "采取第一人称视角生成沉浸式情感互动视频",
+      "skill_hash": "999475e471432cbb"
+    },
+    {
+      "name": "粘土动画",
+      "folder": "粘土动画",
+      "relative_path": "原始技能库/粘土动画/SKILL.md",
+      "category": "脚本与分镜",
+      "description": "基于脚本生成完整粘土定格动画视频的端到端工作流。",
+      "skill_hash": "fce7c8eb108237e5"
+    },
+    {
+      "name": "粘土风格定格动画短片",
+      "folder": "粘土风格定格动画短片",
+      "relative_path": "原始技能库/粘土风格定格动画短片/SKILL.md",
+      "category": "脚本与分镜",
+      "description": "将童话或既有故事改编为粘土定格动画风格短片",
+      "skill_hash": "12373c205862187b"
+    },
+    {
+      "name": "精品剧本拆解-长沙空镜",
+      "folder": "精品剧本拆解-长沙空镜",
+      "relative_path": "原始技能库/精品剧本拆解-长沙空镜/SKILL.md",
+      "category": "脚本与分镜",
+      "description": "把剧本拆解为分镜脚本提示词",
+      "skill_hash": "7c0b3fbc3a5c3f6d"
+    },
+    {
+      "name": "精品电影三维番剧一键成片",
+      "folder": "精品电影三维番剧一键成片",
+      "relative_path": "原始技能库/精品电影三维番剧一键成片/SKILL.md",
+      "category": "脚本与分镜",
+      "description": "能够从剧本开始，一直到成品剧集的输出",
+      "skill_hash": "0c95503217bf3e38"
+    },
+    {
+      "name": "精品短剧",
+      "folder": "精品短剧",
+      "relative_path": "原始技能库/精品短剧/SKILL.md",
+      "category": "脚本与分镜",
+      "description": "专业影视工业的“导演+编剧+摄影+剪辑”全流程",
+      "skill_hash": "60f2aa0b0e8094c3"
+    },
+    {
+      "name": "精品短剧手搓党助手",
+      "folder": "精品短剧手搓党助手",
+      "relative_path": "原始技能库/精品短剧手搓党助手/SKILL.md",
+      "category": "动画与漫剧",
+      "description": "专为精品手搓党打造，自动搭建工作流，创作全程可控。",
+      "skill_hash": "68554f9c9b558f8c"
+    },
+    {
+      "name": "红果爆款短剧封面生成",
+      "folder": "红果爆款短剧封面生成",
+      "relative_path": "原始技能库/红果爆款短剧封面生成/SKILL.md",
+      "category": "动画与漫剧",
+      "description": "自动分析短剧题材、爽点、生成适合红果 番茄的爆款短剧封面",
+      "skill_hash": "969ab4d06ea827e2"
+    },
+    {
+      "name": "纪实风格微短片创作",
+      "folder": "纪实风格微短片创作",
+      "relative_path": "原始技能库/纪实风格微短片创作/SKILL.md",
+      "category": "脚本与分镜",
+      "description": "基于真实人物故事创作纪实风格微短片的完整工作流。适用于以普通",
+      "skill_hash": "a52c24db1abddbaa"
+    },
+    {
+      "name": "纸境生长动画",
+      "folder": "纸境生长动画",
+      "relative_path": "原始技能库/纸境生长动画/SKILL.md",
+      "category": "人物与资产",
+      "description": "手绘角色漫步，水彩世界随脚步生长的治愈动画",
+      "skill_hash": "a813a274b2678630"
+    },
+    {
+      "name": "纸艺动画",
+      "folder": "纸艺动画",
+      "relative_path": "原始技能库/纸艺动画/SKILL.md",
+      "category": "动画与漫剧",
+      "description": "说出你的想法，AI提示一步一步做出纸艺动画",
+      "skill_hash": "62cf8e97362ce363"
+    },
+    {
+      "name": "经典微表情表演视频",
+      "folder": "经典微表情表演视频",
+      "relative_path": "原始技能库/经典微表情表演视频/SKILL.md",
+      "category": "人物与资产",
+      "description": "角色图片+情绪→微表情视频",
+      "skill_hash": "6ddeff597eb12eaf"
+    },
+    {
+      "name": "经典电影三镜头法",
+      "folder": "经典电影三镜头法",
+      "relative_path": "原始技能库/经典电影三镜头法/SKILL.md",
+      "category": "导演与镜头",
+      "description": "复刻电影经典的三镜头法，全景双人+A角度反打+B角度反打",
+      "skill_hash": "72510d515e2100b3"
+    },
+    {
+      "name": "维伦纽瓦科幻电影美学",
+      "folder": "维伦纽瓦科幻电影美学",
+      "relative_path": "原始技能库/维伦纽瓦科幻电影美学/SKILL.md",
+      "category": "导演与镜头",
+      "description": "深度还原维伦纽瓦标志性科幻美学，适用15秒-5分钟电影短片",
+      "skill_hash": "a774fcc647f82488"
+    },
+    {
+      "name": "美妆产品商业分镜广告墨沫",
+      "folder": "美妆产品商业分镜广告墨沫",
+      "relative_path": "原始技能库/美妆产品商业分镜广告墨沫/SKILL.md",
+      "category": "脚本与分镜",
+      "description": "一键上传产品图片+产品名称+横版/竖版，生成视频不限制产品",
+      "skill_hash": "a9f314eb0da2a174"
+    },
+    {
+      "name": "美妆广告TVC视频",
+      "folder": "美妆广告TVC视频",
+      "relative_path": "原始技能库/美妆广告TVC视频/SKILL.md",
+      "category": "导演与镜头",
+      "description": "适用于制作宣传TVC美妆类广告",
+      "skill_hash": "e5ee31b8362a35d0"
+    },
+    {
+      "name": "美漫风动画关键帧",
+      "folder": "美漫风动画关键帧",
+      "relative_path": "原始技能库/美漫风动画关键帧/SKILL.md",
+      "category": "动画与漫剧",
+      "description": "一键生成粗描边、赛璐璐上色、强透视与高动态的原创美漫动画关键",
+      "skill_hash": "d949a2b56e0f4b97"
+    },
+    {
+      "name": "美食治愈短片工坊",
+      "folder": "美食治愈短片工坊",
+      "relative_path": "原始技能库/美食治愈短片工坊/SKILL.md",
+      "category": "视频通用",
+      "description": "输入菜品名称，生成日系治愈风美食短片方案，从食材到成品的完整",
+      "skill_hash": "33cdf0b675014517"
+    },
+    {
+      "name": "群像集结动画",
+      "folder": "群像集结动画",
+      "relative_path": "原始技能库/群像集结动画/SKILL.md",
+      "category": "人物与资产",
+      "description": "群像图片转角色集结动画提示词",
+      "skill_hash": "3f1a6cd1b57cd308"
+    },
+    {
+      "name": "胡金铨武侠美学",
+      "folder": "胡金铨武侠美学",
+      "relative_path": "原始技能库/胡金铨武侠美学/SKILL.md",
+      "category": "导演与镜头",
+      "description": "生成古典武侠电影美学提示词",
+      "skill_hash": "c9eac479487dd449"
+    },
+    {
+      "name": "胡金铨｜写意武侠一键成片",
+      "folder": "胡金铨｜写意武侠一键成片",
+      "relative_path": "原始技能库/胡金铨｜写意武侠一键成片/SKILL.md",
+      "category": "视觉风格与场景",
+      "description": "用写意武侠美学，一键还原胡金铨经典《侠女》般的禅意留白大片。",
+      "skill_hash": "74d7d0283d5ce6f4"
+    },
+    {
+      "name": "胶片电影Skill",
+      "folder": "胶片电影Skill",
+      "relative_path": "原始技能库/胶片电影Skill/SKILL.md",
+      "category": "导演与镜头",
+      "description": "适配Seedance2.5，固定35mm胶片电影风格",
+      "skill_hash": "99036010f4e3fbaa"
+    },
+    {
+      "name": "脚本",
+      "folder": "脚本",
+      "relative_path": "原始技能库/脚本/SKILL.md",
+      "category": "脚本与分镜",
+      "description": "用于写脚本",
+      "skill_hash": "13f98a04e8ae55db"
+    },
+    {
+      "name": "自拍视角Vlog视频",
+      "folder": "自拍视角Vlog视频",
+      "relative_path": "原始技能库/自拍视角Vlog视频/SKILL.md",
+      "category": "视觉风格与场景",
+      "description": "基于场景描述生成符合真实物理规律的自拍视角短视频。",
+      "skill_hash": "c6be536d5682a206"
+    },
+    {
+      "name": "苏联废土美学短片生成器全自动",
+      "folder": "苏联废土美学短片生成器全自动",
+      "relative_path": "原始技能库/苏联废土美学短片生成器全自动/SKILL.md",
+      "category": "视觉风格与场景",
+      "description": "输入意象，生成废土美学视觉短片方案",
+      "skill_hash": "d3645717206667ac"
+    },
+    {
+      "name": "苹果广告风产品短片",
+      "folder": "苹果广告风产品短片",
+      "relative_path": "原始技能库/苹果广告风产品短片/SKILL.md",
+      "category": "广告与电商",
+      "description": "上传产品图一键生成苹果广告风产品短片",
+      "skill_hash": "ae86e5cca4ea7a3c"
+    },
+    {
+      "name": "萌宠治愈短片生成器",
+      "folder": "萌宠治愈短片生成器",
+      "relative_path": "原始技能库/萌宠治愈短片生成器/SKILL.md",
+      "category": "视觉风格与场景",
+      "description": "输入宠物品种与场景，生成治愈系萌宠短视频方案，含可爱瞬间捕捉",
+      "skill_hash": "c78fdbc6a6badc7b"
+    },
+    {
+      "name": "薯片活力商业广告",
+      "folder": "薯片活力商业广告",
+      "relative_path": "原始技能库/薯片活力商业广告/SKILL.md",
+      "category": "广告与电商",
+      "description": "上传一张四口味合集海报，一键生成15秒横屏动画",
+      "skill_hash": "6fcc0618143f04c3"
+    },
+    {
+      "name": "虾仁动画创作脚本",
+      "folder": "虾仁动画创作脚本",
+      "relative_path": "原始技能库/虾仁动画创作脚本/SKILL.md",
+      "category": "脚本与分镜",
+      "description": "虾仁动画创作脚本",
+      "skill_hash": "c82b2ab5d21a25e2"
+    },
+    {
+      "name": "蜘蛛侠之平行宇宙风格",
+      "folder": "蜘蛛侠之平行宇宙风格",
+      "relative_path": "原始技能库/蜘蛛侠之平行宇宙风格/SKILL.md",
+      "category": "视觉风格与场景",
+      "description": "一句话生成美漫 2Dx3D 平行宇宙风格动漫",
+      "skill_hash": "8816d736b9af233b"
+    },
+    {
+      "name": "街边有首歌·营销小连招",
+      "folder": "街边有首歌·营销小连招",
+      "relative_path": "原始技能库/街边有首歌·营销小连招/SKILL.md",
+      "category": "广告与电商",
+      "description": "为街边小店和手艺人生成 slogan、两版广告歌、30秒广告",
+      "skill_hash": "c44d5f7d4690f556"
+    },
+    {
+      "name": "裸眼3D大屏广告30s·墨沫出品",
+      "folder": "裸眼3D大屏广告30s·墨沫出品",
+      "relative_path": "原始技能库/裸眼3D大屏广告30s·墨沫出品/SKILL.md",
+      "category": "广告与电商",
+      "description": "同款裸眼3D户外大屏广告视频",
+      "skill_hash": "b35735fe8889745d"
+    },
+    {
+      "name": "西幻权谋",
+      "folder": "西幻权谋",
+      "relative_path": "原始技能库/西幻权谋/SKILL.md",
+      "category": "动画与漫剧",
+      "description": "生成国外真人AI短剧",
+      "skill_hash": "12c0424aa36bfbbd"
+    },
+    {
+      "name": "西欧奇幻异世界",
+      "folder": "西欧奇幻异世界",
+      "relative_path": "原始技能库/西欧奇幻异世界/SKILL.md",
+      "category": "视觉风格与场景",
+      "description": "输入奇幻剧情梗概，自动生成西欧异世界 3D 写实横屏短片与分",
+      "skill_hash": "4f55e371dda37865"
+    },
+    {
+      "name": "西装视觉生成2",
+      "folder": "西装视觉生成2",
+      "relative_path": "原始技能库/西装视觉生成2/SKILL.md",
+      "category": "视频通用",
+      "description": "外贸西装套装独立站视觉生成",
+      "skill_hash": "b9329b756595c05c"
+    },
+    {
+      "name": "视觉官网ui动效",
+      "folder": "视觉官网ui动效",
+      "relative_path": "原始技能库/视觉官网ui动效/SKILL.md",
+      "category": "广告与电商",
+      "description": "输入一张产品官网截图或产品图，自动生成5秒以上品牌官网动态视",
+      "skill_hash": "2a45734e1f667eed"
+    },
+    {
+      "name": "视觉押韵转场",
+      "folder": "视觉押韵转场",
+      "relative_path": "原始技能库/视觉押韵转场/SKILL.md",
+      "category": "视频通用",
+      "description": "识别两图共同结构，生成自然连续转场。",
+      "skill_hash": "379a838d104b4bfd"
+    },
+    {
+      "name": "视觉画面校对",
+      "folder": "视觉画面校对",
+      "relative_path": "原始技能库/视觉画面校对/SKILL.md",
+      "category": "视频通用",
+      "description": "视觉",
+      "skill_hash": "26cfca58dec4b4f9"
+    },
+    {
+      "name": "视频人物替换|口播",
+      "folder": "视频人物替换_口播",
+      "relative_path": "原始技能库/视频人物替换_口播/SKILL.md",
+      "category": "人物与资产",
+      "description": "将视频中的人物|物品进行替换",
+      "skill_hash": "6c3e60d32b18a8a3"
+    },
+    {
+      "name": "视频创作全流程",
+      "folder": "视频创作全流程",
+      "relative_path": "原始技能库/视频创作全流程/SKILL.md",
+      "category": "脚本与分镜",
+      "description": "一句话生成完整短剧（剧本→分镜→成片）、复刻视频风格做 TV",
+      "skill_hash": "bddd13a1705f8232"
+    },
+    {
+      "name": "视频制作提示词优化",
+      "folder": "视频制作提示词优化",
+      "relative_path": "原始技能库/视频制作提示词优化/SKILL.md",
+      "category": "视频通用",
+      "description": "帮助生成视频prompt",
+      "skill_hash": "60dd6b79b448e05f"
+    },
+    {
+      "name": "视频剪辑 skil",
+      "folder": "视频剪辑 skil",
+      "relative_path": "原始技能库/视频剪辑 skil/SKILL.md",
+      "category": "声音与后期",
+      "description": "视频剪辑 skill",
+      "skill_hash": "e220454fbd463029"
+    },
+    {
+      "name": "视频复刻",
+      "folder": "视频复刻",
+      "relative_path": "原始技能库/视频复刻/SKILL.md",
+      "category": "脚本与分镜",
+      "description": "精准拆解样片剧情结构，一键替换人物、环境与道具，生成同情节全",
+      "skill_hash": "c6b94b8fe829dc5d"
+    },
+    {
+      "name": "视频封面设计SKILL",
+      "folder": "视频封面设计SKILL",
+      "relative_path": "原始技能库/视频封面设计SKILL/SKILL.md",
+      "category": "视频通用",
+      "description": "上传参考图片，自动生成视频封面设计",
+      "skill_hash": "09b41d40a85eb3d1"
+    },
+    {
+      "name": "视频提示词全风格引擎",
+      "folder": "视频提示词全风格引擎",
+      "relative_path": "原始技能库/视频提示词全风格引擎/SKILL.md",
+      "category": "视觉风格与场景",
+      "description": "大白话就能出专业生成视频提示词，覆盖15种风格与主流AI工具",
+      "skill_hash": "3237711d256dc535"
+    },
+    {
+      "name": "视频提示词架构师",
+      "folder": "视频提示词架构师",
+      "relative_path": "原始技能库/视频提示词架构师/SKILL.md",
+      "category": "视频通用",
+      "description": "全维度视频提示词架构",
+      "skill_hash": "30c991e23e44c336"
+    },
+    {
+      "name": "视频提示词生成一（仲哥）",
+      "folder": "视频提示词生成一（仲哥）",
+      "relative_path": "原始技能库/视频提示词生成一（仲哥）/SKILL.md",
+      "category": "视频通用",
+      "description": "图生提示词：根据图片即可生成12-15s的视频提示词",
+      "skill_hash": "77b0ca57c4f5f72d"
+    },
+    {
+      "name": "视频替换人物",
+      "folder": "视频替换人物",
+      "relative_path": "原始技能库/视频替换人物/SKILL.md",
+      "category": "人物与资产",
+      "description": "替换视频人物",
+      "skill_hash": "d615cd1837f93ea8"
+    },
+    {
+      "name": "视频通用提示词优化SKILL",
+      "folder": "视频通用提示词优化SKILL",
+      "relative_path": "原始技能库/视频通用提示词优化SKILL/SKILL.md",
+      "category": "视频通用",
+      "description": "依据要求自动生成提示词",
+      "skill_hash": "1768aa575a01e60a"
+    },
+    {
+      "name": "视频音乐无缝配乐",
+      "folder": "视频音乐无缝配乐",
+      "relative_path": "原始技能库/视频音乐无缝配乐/SKILL.md",
+      "category": "视频通用",
+      "description": "让两段视频共享一条连续完整的背景音乐",
+      "skill_hash": "b3277ac5aa29af8a"
+    },
+    {
+      "name": "角色一致性定妆师",
+      "folder": "角色一致性定妆师",
+      "relative_path": "原始技能库/角色一致性定妆师/SKILL.md",
+      "category": "人物与资产",
+      "description": "快速生成风格统一、角色高度一致的白底正面设定图与标准三视图。",
+      "skill_hash": "0d574060209b2bef"
+    },
+    {
+      "name": "角色一致性引擎",
+      "folder": "角色一致性引擎",
+      "relative_path": "原始技能库/角色一致性引擎/SKILL.md",
+      "category": "脚本与分镜",
+      "description": "为保证不同分镜视屏角色及表情动作形态一致性而打造",
+      "skill_hash": "ce7a347976f08a23"
+    },
+    {
+      "name": "角色人设卡",
+      "folder": "角色人设卡",
+      "relative_path": "原始技能库/角色人设卡/SKILL.md",
+      "category": "人物与资产",
+      "description": "角色人设卡布局锁定",
+      "skill_hash": "80ea6977e90ae2f0"
+    },
+    {
+      "name": "角色全身立绘生成",
+      "folder": "角色全身立绘生成",
+      "relative_path": "原始技能库/角色全身立绘生成/SKILL.md",
+      "category": "人物与资产",
+      "description": "输入人物参考图，生成白底全身立绘图",
+      "skill_hash": "2a06d37b6f657d98"
+    },
+    {
+      "name": "角色四视图生成",
+      "folder": "角色四视图生成",
+      "relative_path": "原始技能库/角色四视图生成/SKILL.md",
+      "category": "人物与资产",
+      "description": "输入立绘参考图，生成角色四视图",
+      "skill_hash": "ebd4f6124d55eec1"
+    },
+    {
+      "name": "角色完整设定生成工作流",
+      "folder": "角色完整设定生成工作流",
+      "relative_path": "原始技能库/角色完整设定生成工作流/SKILL.md",
+      "category": "人物与资产",
+      "description": "输入一张角色肖像或设定图，并行生成三路输出角色完整设定",
+      "skill_hash": "acd1bfe1c896e459"
+    },
+    {
+      "name": "角色工业级三视图生成",
+      "folder": "角色工业级三视图生成",
+      "relative_path": "原始技能库/角色工业级三视图生成/SKILL.md",
+      "category": "人物与资产",
+      "description": "适用于角色工业级三视图设计",
+      "skill_hash": "41cecfb23b82cc67"
+    },
+    {
+      "name": "角色服饰设计与提取工作流",
+      "folder": "角色服饰设计与提取工作流",
+      "relative_path": "原始技能库/角色服饰设计与提取工作流/SKILL.md",
+      "category": "人物与资产",
+      "description": "根据参考服饰图，生成角色人物及三视图，再将服装提取为白底写实",
+      "skill_hash": "1cb7999366cc4859"
+    },
+    {
+      "name": "角色融合skill",
+      "folder": "角色融合skill",
+      "relative_path": "原始技能库/角色融合skill/SKILL.md",
+      "category": "人物与资产",
+      "description": "想要设计出新的角色设计，通过多个角色的特点优势进行融合!",
+      "skill_hash": "5553d88eea9f6fcb"
+    },
+    {
+      "name": "角色设定图skill",
+      "folder": "角色设定图skill",
+      "relative_path": "原始技能库/角色设定图skill/SKILL.md",
+      "category": "人物与资产",
+      "description": "将任意角色的文字设定或参考图，转换为统一、清晰、可直接出图的",
+      "skill_hash": "41b5bca31f087e66"
+    },
+    {
+      "name": "角色设定图生成器",
+      "folder": "角色设定图生成器",
+      "relative_path": "原始技能库/角色设定图生成器/SKILL.md",
+      "category": "人物与资产",
+      "description": "多角度角色形象图生成工具",
+      "skill_hash": "932caac56a979d98"
+    },
+    {
+      "name": "角色资产图",
+      "folder": "角色资产图",
+      "relative_path": "原始技能库/角色资产图/SKILL.md",
+      "category": "人物与资产",
+      "description": "角色资产图提示词",
+      "skill_hash": "4944f954e13b09b9"
+    },
+    {
+      "name": "语音厅登场转场",
+      "folder": "语音厅登场转场",
+      "relative_path": "原始技能库/语音厅登场转场/SKILL.md",
+      "category": "人物与资产",
+      "description": "生成语音厅/直播厅人物华丽登场转场视频，可定制场景风格、性别",
+      "skill_hash": "5e01726d18819152"
+    },
+    {
+      "name": "赛博ui海报动效",
+      "folder": "赛博ui海报动效",
+      "relative_path": "原始技能库/赛博ui海报动效/SKILL.md",
+      "category": "视觉风格与场景",
+      "description": "制作赛博朋克风格UI动画启动片。支持自定义视觉风格",
+      "skill_hash": "c300afa7aa1b235c"
+    },
+    {
+      "name": "赛博朋克CG短剧",
+      "folder": "赛博朋克CG短剧",
+      "relative_path": "原始技能库/赛博朋克CG短剧/SKILL.md",
+      "category": "视觉风格与场景",
+      "description": "一句话创意变身赛博朋克CG动漫单集短剧方案",
+      "skill_hash": "049791816c784b5d"
+    },
+    {
+      "name": "赛博朋克动画故事短片导演",
+      "folder": "赛博朋克动画故事短片导演",
+      "relative_path": "原始技能库/赛博朋克动画故事短片导演/SKILL.md",
+      "category": "脚本与分镜",
+      "description": "输入一个故事创意，一键生成电影级赛博朋克动画短片。",
+      "skill_hash": "04d5a0f4f7ac0013"
+    },
+    {
+      "name": "赛博朋克角色组合亮相影片",
+      "folder": "赛博朋克角色组合亮相影片",
+      "relative_path": "原始技能库/赛博朋克角色组合亮相影片/SKILL.md",
+      "category": "人物与资产",
+      "description": "从参考图出发，全流程生成赛博朋克角色组合出场影片",
+      "skill_hash": "0cdb0ffee7e04f0d"
+    },
+    {
+      "name": "赛博朋克风格导演",
+      "folder": "赛博朋克风格导演",
+      "relative_path": "原始技能库/赛博朋克风格导演/SKILL.md",
+      "category": "脚本与分镜",
+      "description": "将任意剧本自动转化为赛博朋克风格的动态漫画短片",
+      "skill_hash": "6db2f28c43f00b9b"
+    },
+    {
+      "name": "赛博朋克高燃打斗镜头大师",
+      "folder": "赛博朋克高燃打斗镜头大师",
+      "relative_path": "原始技能库/赛博朋克高燃打斗镜头大师/SKILL.md",
+      "category": "导演与镜头",
+      "description": "适用于赛博朋克高燃打斗片段/微电影/短剧",
+      "skill_hash": "ad96ba513ce3ceee"
+    },
+    {
+      "name": "赛博风音乐 MV",
+      "folder": "赛博风音乐 MV",
+      "relative_path": "原始技能库/赛博风音乐 MV/SKILL.md",
+      "category": "脚本与分镜",
+      "description": "生成赛博音乐MV脚本、分镜与工作流",
+      "skill_hash": "26697717ae54af8f"
+    },
+    {
+      "name": "赛璐璐风格游戏PV导演",
+      "folder": "赛璐璐风格游戏PV导演",
+      "relative_path": "原始技能库/赛璐璐风格游戏PV导演/SKILL.md",
+      "category": "导演与镜头",
+      "description": "一键生成赛璐璐风格的游戏pv",
+      "skill_hash": "e3e9840955483bb5"
+    },
+    {
+      "name": "赛璐璐风职业短片生成器",
+      "folder": "赛璐璐风职业短片生成器",
+      "relative_path": "原始技能库/赛璐璐风职业短片生成器/SKILL.md",
+      "category": "人物与资产",
+      "description": "上传人物图+场景，生成15秒动画短片",
+      "skill_hash": "0d911050cdc96a48"
+    },
+    {
+      "name": "超写实CG电影仙侠电影",
+      "folder": "超写实CG电影仙侠电影",
+      "relative_path": "原始技能库/超写实CG电影仙侠电影/SKILL.md",
+      "category": "导演与镜头",
+      "description": "超写实CG电影仙侠电影画面",
+      "skill_hash": "347f444e4e612cb8"
+    },
+    {
+      "name": "超哥匠心导演",
+      "folder": "超哥匠心导演",
+      "relative_path": "原始技能库/超哥匠心导演/SKILL.md",
+      "category": "脚本与分镜",
+      "description": "把定稿剧本转化为可确认、可生成、可复盘的影视级逐镜制作方案。",
+      "skill_hash": "aae247e01d67545a"
+    },
+    {
+      "name": "超强剧本创作skill",
+      "folder": "超强剧本创作skill",
+      "relative_path": "原始技能库/超强剧本创作skill/SKILL.md",
+      "category": "脚本与分镜",
+      "description": "个性化原创剧本落地，解决立项难，留存崩，原创焦虑，直出提示词",
+      "skill_hash": "36cb6f6fc78b4a72"
+    },
+    {
+      "name": "超现实主义空间美学电影",
+      "folder": "超现实主义空间美学电影",
+      "relative_path": "原始技能库/超现实主义空间美学电影/SKILL.md",
+      "category": "导演与镜头",
+      "description": "一键生成充满达利式的超现实主义空间艺术风格短片",
+      "skill_hash": "691bda89c63bde6d"
+    },
+    {
+      "name": "超现实几何美学短片",
+      "folder": "超现实几何美学短片",
+      "relative_path": "原始技能库/超现实几何美学短片/SKILL.md",
+      "category": "视觉风格与场景",
+      "description": "将非遗图像转译为模块化木质几何雕塑短片",
+      "skill_hash": "02b4201719dcdc57"
+    },
+    {
+      "name": "超真实纹理皮肤肖像资产生成",
+      "folder": "超真实纹理皮肤肖像资产生成",
+      "relative_path": "原始技能库/超真实纹理皮肤肖像资产生成/SKILL.md",
+      "category": "脚本与分镜",
+      "description": "剧本转静帧图片资产",
+      "skill_hash": "c5dcccc49a97511b"
+    },
+    {
+      "name": "跑鞋动效产品官网",
+      "folder": "跑鞋动效产品官网",
+      "relative_path": "原始技能库/跑鞋动效产品官网/SKILL.md",
+      "category": "视觉风格与场景",
+      "description": "生成极具爆发力与动感的Nike官网风格产品落地页UI/UX演",
+      "skill_hash": "e52b2fdd74cc6f04"
+    },
+    {
+      "name": "跨境服装AI视频SOP自动化流程",
+      "folder": "跨境服装AI视频SOP自动化流程",
+      "relative_path": "原始技能库/跨境服装AI视频SOP自动化流程/SKILL.md",
+      "category": "视频通用",
+      "description": "通过一步步询问你的方式帮你挖掘出你想要的内容告诉AI具体方案",
+      "skill_hash": "b0488be24c6638f2"
+    },
+    {
+      "name": "跨模型调度编排器",
+      "folder": "跨模型调度编排器",
+      "relative_path": "原始技能库/跨模型调度编排器/SKILL.md",
+      "category": "脚本与分镜",
+      "description": "分镜一键生成多模型最优调度蓝图",
+      "skill_hash": "d769d6f4a808a8d2"
+    },
+    {
+      "name": "连续长镜头导演",
+      "folder": "连续长镜头导演",
+      "relative_path": "原始技能库/连续长镜头导演/SKILL.md",
+      "category": "导演与镜头",
+      "description": "将长视频拆成连续片段，使多个 片段尽可能形成同一个完整长镜头",
+      "skill_hash": "917d173cf2c19fa3"
+    },
+    {
+      "name": "迪士尼3D趣味动画短片",
+      "folder": "迪士尼3D趣味动画短片",
+      "relative_path": "原始技能库/迪士尼3D趣味动画短片/SKILL.md",
+      "category": "视觉风格与场景",
+      "description": "一键生成爆款风格的迪士尼3D趣味动画短片",
+      "skill_hash": "9fd4fdb6f6b1a679"
+    },
+    {
+      "name": "通用商品短片导演",
+      "folder": "通用商品短片导演",
+      "relative_path": "原始技能库/通用商品短片导演/SKILL.md",
+      "category": "导演与镜头",
+      "description": "实拍商品图直出高级卖点短片",
+      "skill_hash": "c3914fe8621ac9d7"
+    },
+    {
+      "name": "速写本涂鸦插画风格",
+      "folder": "速写本涂鸦插画风格",
+      "relative_path": "原始技能库/速写本涂鸦插画风格/SKILL.md",
+      "category": "视觉风格与场景",
+      "description": "速写本涂鸦插画风格",
+      "skill_hash": "b6474c00b02a7605"
+    },
+    {
+      "name": "造梦师·电影视觉指南",
+      "folder": "造梦师·电影视觉指南",
+      "relative_path": "原始技能库/造梦师·电影视觉指南/SKILL.md",
+      "category": "导演与镜头",
+      "description": "把画面想法编译成各模型电影感原生提示词",
+      "skill_hash": "77204a86e9b131be"
+    },
+    {
+      "name": "邵氏—胡金铨美学分镜",
+      "folder": "邵氏—胡金铨美学分镜",
+      "relative_path": "原始技能库/邵氏—胡金铨美学分镜/SKILL.md",
+      "category": "脚本与分镜",
+      "description": "特定电影风格的图片生成",
+      "skill_hash": "210636679e79ea0f"
+    },
+    {
+      "name": "邵氏古典武侠太空歌剧",
+      "folder": "邵氏古典武侠太空歌剧",
+      "relative_path": "原始技能库/邵氏古典武侠太空歌剧/SKILL.md",
+      "category": "其他待确认",
+      "description": "用于创作邵氏古典美人、晶体服饰、东方兵器、宇宙天幕与古城机械",
+      "skill_hash": "d84d64496db38312"
+    },
+    {
+      "name": "邵氏噜噜剧情",
+      "folder": "邵氏噜噜剧情",
+      "relative_path": "原始技能库/邵氏噜噜剧情/SKILL.md",
+      "category": "视觉风格与场景",
+      "description": "邵式风格+噜噜的连续剧生产工厂",
+      "skill_hash": "631e258e1dfeb5a6"
+    },
+    {
+      "name": "邵氏港风胶片武侠提示词",
+      "folder": "邵氏港风胶片武侠提示词",
+      "relative_path": "原始技能库/邵氏港风胶片武侠提示词/SKILL.md",
+      "category": "人物与资产",
+      "description": "按邵氏港风胶片武侠美学生成人物或场景提示词",
+      "skill_hash": "f143c13431a8d0fc"
+    },
+    {
+      "name": "邵氏赛博武侠",
+      "folder": "邵氏赛博武侠",
+      "relative_path": "原始技能库/邵氏赛博武侠/SKILL.md",
+      "category": "导演与镜头",
+      "description": "史诗级科幻武侠融合风格：邵氏武侠电影美学融合胡金铨导演风格与",
+      "skill_hash": "b4835cc5bd6adbda"
+    },
+    {
+      "name": "采访类带货短视频",
+      "folder": "采访类带货短视频",
+      "relative_path": "原始技能库/采访类带货短视频/SKILL.md",
+      "category": "脚本与分镜",
+      "description": "根据采访脚本、人物、场景、产品与参考素材，生成真人采访视频。",
+      "skill_hash": "d97f61eac9282dde"
+    },
+    {
+      "name": "金包银短剧漫剧电影级TVC|爆款拉片复刻",
+      "folder": "金包银短剧漫剧电影级TVC_爆款拉片复刻",
+      "relative_path": "原始技能库/金包银短剧漫剧电影级TVC_爆款拉片复刻/SKILL.md",
+      "category": "脚本与分镜",
+      "description": "精准拆解爆款情绪，一键复刻你的金包银电影级短剧漫剧TVC！",
+      "skill_hash": "535a8083d9a2b02c"
+    },
+    {
+      "name": "金包银黄金珠宝 | 皮克斯动画漫剧TVC一键成片",
+      "folder": "金包银黄金珠宝 _ 皮克斯动画漫剧TVC一键成片",
+      "relative_path": "原始技能库/金包银黄金珠宝 _ 皮克斯动画漫剧TVC一键成片/SKILL.md",
+      "category": "导演与镜头",
+      "description": "用皮克斯3D画风，一键生成能带货的金包银爆款漫剧与TVC！",
+      "skill_hash": "3013c5bd664fd75f"
+    },
+    {
+      "name": "金属产品精修",
+      "folder": "金属产品精修",
+      "relative_path": "原始技能库/金属产品精修/SKILL.md",
+      "category": "广告与电商",
+      "description": "专业电商级金属产品精修工作流。无需参考图，直接根据训练知识对",
+      "skill_hash": "0cea9eaf86a24c04"
+    },
+    {
+      "name": "钩子公式生成器",
+      "folder": "钩子公式生成器",
+      "relative_path": "原始技能库/钩子公式生成器/SKILL.md",
+      "category": "脚本与分镜",
+      "description": "输入平台+内容类型，输出5个前3秒钩子方案",
+      "skill_hash": "b3fb3e90dd63fb51"
+    },
+    {
+      "name": "银龄选角 Casting",
+      "folder": "银龄选角 Casting",
+      "relative_path": "原始技能库/银龄选角 Casting/SKILL.md",
+      "category": "人物与资产",
+      "description": "专注于老年角色的影视级选角与人物设定。",
+      "skill_hash": "6838b79b1f04b723"
+    },
+    {
+      "name": "镜叙｜电影感关键帧",
+      "folder": "镜叙｜电影感关键帧",
+      "relative_path": "原始技能库/镜叙｜电影感关键帧/SKILL.md",
+      "category": "导演与镜头",
+      "description": "把创作想法变成可连续、可诊断的电影感关键帧",
+      "skill_hash": "afc07fe81372b4f4"
+    },
+    {
+      "name": "镜头畸变处理",
+      "folder": "镜头畸变处理",
+      "relative_path": "原始技能库/镜头畸变处理/SKILL.md",
+      "category": "导演与镜头",
+      "description": "修复全景图截图镜头畸变",
+      "skill_hash": "59d95646e7b9d75e"
+    },
+    {
+      "name": "镜界V2.0",
+      "folder": "镜界V2.0",
+      "relative_path": "原始技能库/镜界V2.0/SKILL.md",
+      "category": "导演与镜头",
+      "description": "是一套面向图片生成与视觉开发的通用导演提示词专家。",
+      "skill_hash": "6113a3c879323bb6"
+    },
+    {
+      "name": "阳光下的脚步",
+      "folder": "阳光下的脚步",
+      "relative_path": "原始技能库/阳光下的脚步/SKILL.md",
+      "category": "视频通用",
+      "description": "根据\"***视察\"主题，生成一部40秒的宽银幕叙事短片。全程",
+      "skill_hash": "fb1992fa0dfcf232"
+    },
+    {
+      "name": "阿桃分镜·工作流",
+      "folder": "阿桃分镜·工作流",
+      "relative_path": "原始技能库/阿桃分镜·工作流/SKILL.md",
+      "category": "脚本与分镜",
+      "description": "阿桃短剧分镜执行层工作流规范",
+      "skill_hash": "2807302daa44aafa"
+    },
+    {
+      "name": "阿桃分镜·视觉参考库",
+      "folder": "阿桃分镜·视觉参考库",
+      "relative_path": "原始技能库/阿桃分镜·视觉参考库/SKILL.md",
+      "category": "脚本与分镜",
+      "description": "阿桃短剧分镜视觉参考规范",
+      "skill_hash": "cb3c76daec3ad3c7"
+    },
+    {
+      "name": "雕塑木偶寓言导演",
+      "folder": "雕塑木偶寓言导演",
+      "relative_path": "原始技能库/雕塑木偶寓言导演/SKILL.md",
+      "category": "脚本与分镜",
+      "description": "把一句故事变成固定面具、剧场侧光与手工雕塑质感的原创木偶定格",
+      "skill_hash": "5402bbb5e45a523e"
+    },
+    {
+      "name": "青春胶片特殊构图情绪风格",
+      "folder": "青春胶片特殊构图情绪风格",
+      "relative_path": "原始技能库/青春胶片特殊构图情绪风格/SKILL.md",
+      "category": "视觉风格与场景",
+      "description": "青春胶片特殊构图情绪风格skill",
+      "skill_hash": "acf4cf8b59419616"
+    },
+    {
+      "name": "非遗/传统文化主题微电影",
+      "folder": "非遗_传统文化主题微电影",
+      "relative_path": "原始技能库/非遗_传统文化主题微电影/SKILL.md",
+      "category": "导演与镜头",
+      "description": "适用于非遗 / 传统文化微电影创作，一键呈现纪录片微电影",
+      "skill_hash": "79b4fa40e8c386c3"
+    },
+    {
+      "name": "韦斯安德斯电影风景SKILL",
+      "folder": "韦斯安德斯电影风景SKILL",
+      "relative_path": "原始技能库/韦斯安德斯电影风景SKILL/SKILL.md",
+      "category": "导演与镜头",
+      "description": "韦斯安德斯的电影风格",
+      "skill_hash": "c3b889dea3999355"
+    },
+    {
+      "name": "韩系AI模特时尚大片",
+      "folder": "韩系AI模特时尚大片",
+      "relative_path": "原始技能库/韩系AI模特时尚大片/SKILL.md",
+      "category": "人物与资产",
+      "description": "韩系商业lookbook",
+      "skill_hash": "1577370f5ab4c47d"
+    },
+    {
+      "name": "音乐MV创作工作流-墨沫",
+      "folder": "音乐MV创作工作流-墨沫",
+      "relative_path": "原始技能库/音乐MV创作工作流-墨沫/SKILL.md",
+      "category": "导演与镜头",
+      "description": "一键上传音乐，快速产出完整MV！",
+      "skill_hash": "8d621fb6013482a3"
+    },
+    {
+      "name": "音画同步节奏引擎",
+      "folder": "音画同步节奏引擎",
+      "relative_path": "原始技能库/音画同步节奏引擎/SKILL.md",
+      "category": "其他待确认",
+      "description": "BPM一键生成帧级音画同步踩点蓝图",
+      "skill_hash": "cf95a4d212f5d7c8"
+    },
+    {
+      "name": "顶级大导演思维| 观众为什么愿意看下一秒？",
+      "folder": "顶级大导演思维_ 观众为什么愿意看下一秒？",
+      "relative_path": "原始技能库/顶级大导演思维_ 观众为什么愿意看下一秒？/SKILL.md",
+      "category": "导演与镜头",
+      "description": "用100位顶级导演的镜头决策，解决你“留不住观众”的叙事难题",
+      "skill_hash": "f90945be725df98c"
+    },
+    {
+      "name": "顶级导演动作指导 | 先定情绪，再打动作",
+      "folder": "顶级导演动作指导 _ 先定情绪，再打动作",
+      "relative_path": "原始技能库/顶级导演动作指导 _ 先定情绪，再打动作/SKILL.md",
+      "category": "导演与镜头",
+      "description": "一句话定情绪，5秒绝杀打斗，零穿模，一招定生死。",
+      "skill_hash": "35a9d3939741f850"
+    },
+    {
+      "name": "顶级总制片人 | 第一性原理·元认知终结废片抽卡",
+      "folder": "顶级总制片人 _ 第一性原理·元认知终结废片抽卡",
+      "relative_path": "原始技能库/顶级总制片人 _ 第一性原理·元认知终结废片抽卡/SKILL.md",
+      "category": "其他待确认",
+      "description": "元认知前置，是终结算力黑洞的唯一真相。",
+      "skill_hash": "bc52ce5b0ec9a9db"
+    },
+    {
+      "name": "顶级情绪大师|如何做到角色表演情绪的连贯统一？",
+      "folder": "顶级情绪大师_如何做到角色表演情绪的连贯统一？",
+      "relative_path": "原始技能库/顶级情绪大师_如何做到角色表演情绪的连贯统一？/SKILL.md",
+      "category": "人物与资产",
+      "description": "彻底解决AI制作长剧最大的痛点：文戏角色表演情绪的连贯统一。",
+      "skill_hash": "d0a4ed221fc6c09a"
+    },
+    {
+      "name": "顶级游戏开发大师|玩家为什么愿意点下一步？",
+      "folder": "顶级游戏开发大师_玩家为什么愿意点下一步？",
+      "relative_path": "原始技能库/顶级游戏开发大师_玩家为什么愿意点下一步？/SKILL.md",
+      "category": "其他待确认",
+      "description": "告别假选项！一键生成带真分支、多结局的Steam级互动影游。",
+      "skill_hash": "50ff07f68416b105"
+    },
+    {
+      "name": "领带造型转换",
+      "folder": "领带造型转换",
+      "relative_path": "原始技能库/领带造型转换/SKILL.md",
+      "category": "其他待确认",
+      "description": "提供一张参考图领带图片，根据上传的模版图改变参考图的领带造型",
+      "skill_hash": "69f8114892a1c7be"
+    },
+    {
+      "name": "风格锚定生图器",
+      "folder": "风格锚定生图器",
+      "relative_path": "原始技能库/风格锚定生图器/SKILL.md",
+      "category": "视觉风格与场景",
+      "description": "指定风格+内容，直出风格化图像",
+      "skill_hash": "47a9906599ce0c15"
+    },
+    {
+      "name": "飞进名画｜FPV 运镜导演",
+      "folder": "飞进名画｜FPV 运镜导演",
+      "relative_path": "原始技能库/飞进名画｜FPV 运镜导演/SKILL.md",
+      "category": "导演与镜头",
+      "description": "将二维名画、插画或照片重建成可穿行的三维空间，通过路线、距离",
+      "skill_hash": "1665b7790cfd70f4"
+    },
+    {
+      "name": "饮品商业产品宣传视频",
+      "folder": "饮品商业产品宣传视频",
+      "relative_path": "原始技能库/饮品商业产品宣传视频/SKILL.md",
+      "category": "导演与镜头",
+      "description": "电影级商业视频，总时长15秒。高饱和度、色彩鲜明，配合节奏",
+      "skill_hash": "8f816eab31e59fcb"
+    },
+    {
+      "name": "首尾帧视频提示词助手工具",
+      "folder": "首尾帧视频提示词助手工具",
+      "relative_path": "原始技能库/首尾帧视频提示词助手工具/SKILL.md",
+      "category": "视频通用",
+      "description": "专用于首尾帧视频的优化",
+      "skill_hash": "9cd67adf923aa7bf"
+    },
+    {
+      "name": "香水 TVC 广告创意",
+      "folder": "香水 TVC 广告创意",
+      "relative_path": "原始技能库/香水 TVC 广告创意/SKILL.md",
+      "category": "导演与镜头",
+      "description": "根据产品资料、目标人群和品牌调性，生成专业的产品广告 TVC",
+      "skill_hash": "0e011a265bbfb83d"
+    },
+    {
+      "name": "香水详情页视觉设计",
+      "folder": "香水详情页视觉设计",
+      "relative_path": "原始技能库/香水详情页视觉设计/SKILL.md",
+      "category": "广告与电商",
+      "description": "香水详情页8大卖点视觉卡片生成",
+      "skill_hash": "cc53ebbb039b6ead"
+    },
+    {
+      "name": "高品质化妆品TVC成片",
+      "folder": "高品质化妆品TVC成片",
+      "relative_path": "原始技能库/高品质化妆品TVC成片/SKILL.md",
+      "category": "导演与镜头",
+      "description": "一键生成对应产品的模特和产品的高级TVC风格的卖点诠释",
+      "skill_hash": "94e493cfb949af1c"
+    },
+    {
+      "name": "高概念时间悬疑影视创作",
+      "folder": "高概念时间悬疑影视创作",
+      "relative_path": "原始技能库/高概念时间悬疑影视创作/SKILL.md",
+      "category": "导演与镜头",
+      "description": "克里斯托弗诺兰导演，风格化skill",
+      "skill_hash": "fa7b689c6955cfea"
+    },
+    {
+      "name": "高端产品TVC广告",
+      "folder": "高端产品TVC广告",
+      "relative_path": "原始技能库/高端产品TVC广告/SKILL.md",
+      "category": "导演与镜头",
+      "description": "一句话生成高端TVC大片",
+      "skill_hash": "c145b6bd3b5d85ce"
+    },
+    {
+      "name": "高端产品商业视频创作",
+      "folder": "高端产品商业视频创作",
+      "relative_path": "原始技能库/高端产品商业视频创作/SKILL.md",
+      "category": "广告与电商",
+      "description": "LOGO粒子特效变成产品，然后展示产品的不同角度与细节",
+      "skill_hash": "b6fa2d4ccb57cea5"
+    },
+    {
+      "name": "高端剪纸艺术生成器",
+      "folder": "高端剪纸艺术生成器",
+      "relative_path": "原始技能库/高端剪纸艺术生成器/SKILL.md",
+      "category": "视频通用",
+      "description": "上传照片，生成上半原图+下半剪纸重构的高端编辑海报",
+      "skill_hash": "aeba12379876456d"
+    },
+    {
+      "name": "高端电商主图+TVC广告",
+      "folder": "高端电商主图+TVC广告",
+      "relative_path": "原始技能库/高端电商主图+TVC广告/SKILL.md",
+      "category": "导演与镜头",
+      "description": "任意产品主图生成并制成TVC视频",
+      "skill_hash": "bf7d34c630aaf3e7"
+    },
+    {
+      "name": "高能带货短剧",
+      "folder": "高能带货短剧",
+      "relative_path": "原始技能库/高能带货短剧/SKILL.md",
+      "category": "广告与电商",
+      "description": "上传实拍商品图，即可生成30秒高能带货短剧。",
+      "skill_hash": "d70e7b65d029f92c"
+    },
+    {
+      "name": "鬼武者战斗场景生成",
+      "folder": "鬼武者战斗场景生成",
+      "relative_path": "原始技能库/鬼武者战斗场景生成/SKILL.md",
+      "category": "人物与资产",
+      "description": "角色图转鬼武者风格战斗场景",
+      "skill_hash": "f2f08552ccc0481d"
+    },
+    {
+      "name": "魔幻仙侠玄幻剧真人质感",
+      "folder": "魔幻仙侠玄幻剧真人质感",
+      "relative_path": "原始技能库/魔幻仙侠玄幻剧真人质感/SKILL.md",
+      "category": "视觉风格与场景",
+      "description": "生成爆款风格的真人质感，魔幻仙侠玄幻剧",
+      "skill_hash": "20e83a9dd17c8419"
+    },
+    {
+      "name": "鹅导工厂-从故事到视频",
+      "folder": "鹅导工厂-从故事到视频",
+      "relative_path": "原始技能库/鹅导工厂-从故事到视频/SKILL.md",
+      "category": "脚本与分镜",
+      "description": "将故事、剧本编译为可审核、可引用、可生成的分镜到成片流程。",
+      "skill_hash": "495a7855d0956545"
+    },
+    {
+      "name": "麻花原创古典海报",
+      "folder": "麻花原创古典海报",
+      "relative_path": "原始技能库/麻花原创古典海报/SKILL.md",
+      "category": "其他待确认",
+      "description": "把上传的图片生成高级图文海报",
+      "skill_hash": "271ae58dc88251f7"
+    },
+    {
+      "name": "黑暗奇幻出海短剧分镜",
+      "folder": "黑暗奇幻出海短剧分镜",
+      "relative_path": "原始技能库/黑暗奇幻出海短剧分镜/SKILL.md",
+      "category": "脚本与分镜",
+      "description": "输入剧本片段，自动输出  竖屏电影级黑暗奇幻风真人短剧分镜",
+      "skill_hash": "0c54ca78284dd7aa"
+    },
+    {
+      "name": "黑泽明长焦电影美学镜头",
+      "folder": "黑泽明长焦电影美学镜头",
+      "relative_path": "原始技能库/黑泽明长焦电影美学镜头/SKILL.md",
+      "category": "导演与镜头",
+      "description": "精确的远摄长焦电影镜头画面的空间光学法则生成器",
+      "skill_hash": "ccd37bd7ec184153"
+    },
+    {
+      "name": "黑白单色调炸裂动作漫画",
+      "folder": "黑白单色调炸裂动作漫画",
+      "relative_path": "原始技能库/黑白单色调炸裂动作漫画/SKILL.md",
+      "category": "视觉风格与场景",
+      "description": "美漫风格黑白动作炸裂大片，一张图、一句梗概即可生成",
+      "skill_hash": "0b7607103d284b61"
+    }
+  ]
+}

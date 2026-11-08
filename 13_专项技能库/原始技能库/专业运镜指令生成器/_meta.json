@@ -1,0 +1,32 @@
+{
+  "name": "专业运镜指令生成器",
+  "templateUuid": "e3e09b5f1c1b4ce1858cb64cd448253c",
+  "skillUuid": "6fc8731d040d417fb21dcdbba8a0e2e5",
+  "skillKey": "camera-movement-prompt-builder-3f04004128804c279b27eb0ea6781ed1",
+  "version": "1.0.0",
+  "namespace": "libtv-user-generated",
+  "description": "场景情绪一键生成专业运镜指令和分镜方案",
+  "author": "JokerLL",
+  "ownerId": 10925824,
+  "tags": [],
+  "likeCount": 73,
+  "usePv": 170,
+  "useUv": 67,
+  "publishAt": "2026-07-25 00:05:43",
+  "snapshotId": 30535,
+  "useScenario": "写好分镜脚本需要为每个镜头设计专业级运镜方案；知道想要的情绪效果但不确定用什么运镜实现；需要生成平台视频模型可识别的运镜指令代码；多镜头项目需要统一运镜风格和转场节奏；想让AI视频从\"能看\"升级到\"有电影感\"",
+  "inputType": "输入你要拍摄的场景描述和情绪意图，例如：\"深夜走廊，女主角独自走向尽头的房间，越来越害怕，推开门发现空无一人，情绪从压抑到恐惧爆发。\"如果只给了场景没给情绪，会主动分析场景中的情绪线索并追问确认。然后自动完成场景拆解→情绪运镜映射→运镜指令序列设计→转场节奏编排→输出完整运镜方案。",
+  "outputContent": "1.场景拆解卡（空间类型/角色配置/情绪基调/叙事功能/节奏权重）\n2. 运镜方案表（每镜头含景别/运镜指令/持续时间/情绪意图/转场方式/可直接执行的平台生成prompt）\n3. 转场设计图（镜头间转场类型+情绪效果+节奏衔接逻辑）\n4. 节奏曲线（文字版波形图+速度变化节点标注）\n5. 运镜决策依据（每个运镜选择的心理依据）\n6. 平台执行指令包（每镜头完整可执行prompt，复制即可使用）",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/3f04004128804c279b27eb0ea6781ed1/8544ca78ddfd098658ed15e701ed05f2598ebf9c.jpg",
+  "resultType": 3,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=e3e09b5f1c1b4ce1858cb64cd448253c",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/3f04004128804c279b27eb0ea6781ed1/b956c25732e3b9bcdd3923a7493c3c87c3af321a.mp4"
+  ],
+  "hasPublicSkillContent": true
+}

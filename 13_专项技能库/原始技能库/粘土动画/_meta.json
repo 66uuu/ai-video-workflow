@@ -1,0 +1,32 @@
+{
+  "name": "粘土动画",
+  "templateUuid": "c8b2e527387644cbb79a01c57773107f",
+  "skillUuid": "d7a320ce6ae0489f9102d6640fa2dd05",
+  "skillKey": "claymation-video-generator-50a7a948314f8c9f8d161fe8cb8e2780",
+  "version": "1.0.5",
+  "namespace": "libtv-user-generated",
+  "description": "基于脚本生成完整粘土定格动画视频的端到端工作流。",
+  "author": "辉哥的AI世界",
+  "ownerId": 7392,
+  "tags": [],
+  "likeCount": 22,
+  "usePv": 9,
+  "useUv": 8,
+  "publishAt": "2026-07-14 10:03:03",
+  "snapshotId": 26765,
+  "useScenario": "用户提供故事脚本，需要生成粘土定格动画风格的完整视频成片，包含角色动作、场景切换和情节推进",
+  "inputType": "脚本文本（情节、角色、场景、台词）",
+  "outputContent": "粘土风格完整动画视频成片",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/50a7a948314f8c9f8d161fe8cb8e2780/1e4e6dda582eafa46d3cda1384259bceeba2eb64.jpg",
+  "resultType": 3,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=c8b2e527387644cbb79a01c57773107f",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/50a7a948314f8c9f8d161fe8cb8e2780/0feaeb55caf773fb196b68f88015f29d777c1554.mp4"
+  ],
+  "hasPublicSkillContent": true
+}

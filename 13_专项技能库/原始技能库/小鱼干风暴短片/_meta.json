@@ -1,0 +1,32 @@
+{
+  "name": "小鱼干风暴短片",
+  "templateUuid": "6416b96a53754fe99216a759ed445f84",
+  "skillUuid": "3371ded45e434af69531cba2896180aa",
+  "skillKey": "dried-fish-storm-animator-e5c05143074646b7ae70a88b81ec6c2a-3371ded4",
+  "version": "1.0.1",
+  "namespace": "libtv-user-generated",
+  "description": "《小鱼干风暴》90秒毛绒定格动画完整制作Skill",
+  "author": "星美Fine",
+  "ownerId": 773892,
+  "tags": [],
+  "likeCount": 3,
+  "usePv": 0,
+  "useUv": 0,
+  "publishAt": "2026-08-02 19:35:26",
+  "snapshotId": 32765,
+  "useScenario": "制作毛绒小猫兄妹对抗噩梦巨熊的90秒定格动画短片，全程锁定毛绒手工缝制视觉基因，支持持续新增夸张喜剧动作分镜、情绪联想彩蛋、场景锚点派生、分镜偏差定位与迭代重制",
+  "inputType": "上传毛绒角色素材+一句话描述剧情，最后生成视频",
+  "outputContent": "90秒毛绒定格动画成片；6角色+6场景+1道具锚点图片；12镜主线+扩展分镜视频节点；BGM音频；锚点清单与分镜表文件",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/e5c05143074646b7ae70a88b81ec6c2a/8b2584b32d2d3a30c127988d1b8259c9c2281c95.png",
+  "resultType": 3,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=6416b96a53754fe99216a759ed445f84",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/e5c05143074646b7ae70a88b81ec6c2a/7a9c0ab208b1ad3870ed47d295937f367816e6dd.MP4"
+  ],
+  "hasPublicSkillContent": true
+}

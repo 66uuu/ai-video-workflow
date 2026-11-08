@@ -1,0 +1,32 @@
+{
+  "name": "赛博朋克角色组合亮相影片",
+  "templateUuid": "f7acac6915a9422aa3deb4ff5afb1e1e",
+  "skillUuid": "657b0bb7aa8a48869ff050da48335d49",
+  "skillKey": "cyberpunk-character-video-0a88962ad9bf41668381d23440015181",
+  "version": "1.0.2",
+  "namespace": "libtv-user-generated",
+  "description": "从参考图出发，全流程生成赛博朋克角色组合出场影片",
+  "author": "AIGC爱好者",
+  "ownerId": 8532816,
+  "tags": [],
+  "likeCount": 25,
+  "usePv": 12,
+  "useUv": 9,
+  "publishAt": "2026-07-14 11:38:31",
+  "snapshotId": 26802,
+  "useScenario": "用户提供一张风格参考图，希望生成一组赛博朋克角色组合的完整影片，包含角色设计、3D转换、分镜脚本和视频生成的全流程。",
+  "inputType": "风格参考图（image节点）",
+  "outputContent": "① MJ 3:4角色组合图 ② Lib**** Pro 3:4 3D写实图 ③ 16:9角色组合海报图 ④ 分镜脚本文件 ⑤ Seedance 2.0 15秒出场集结影片视频节点",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/0a88962ad9bf41668381d23440015181/c9aa9aca0fe4b6288d9e31b551186e2643aefca3.png",
+  "resultType": 3,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=f7acac6915a9422aa3deb4ff5afb1e1e",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/0a88962ad9bf41668381d23440015181/628a8998d48017cd98b874ef6940b13d715ac3ed.mp4"
+  ],
+  "hasPublicSkillContent": true
+}

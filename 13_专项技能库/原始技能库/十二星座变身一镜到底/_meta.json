@@ -1,0 +1,35 @@
+{
+  "name": "十二星座变身一镜到底",
+  "templateUuid": "e0410be4e59e416aa619169e718be610",
+  "skillUuid": "c98eb36430ba4e24844d845c1c4375e5",
+  "skillKey": "character-transformation-video-06322d1409bb49b9a6c78ddb33cf5003",
+  "version": "1.0.1",
+  "namespace": "libtv-user-generated",
+  "description": "为任意主题的角色系列（星座、职业、神话等）生成完整变身短视频",
+  "author": "摸鱼的AI笔记",
+  "ownerId": 2696946,
+  "tags": [],
+  "likeCount": 13,
+  "usePv": 13,
+  "useUv": 12,
+  "publishAt": "2026-07-16 19:12:21",
+  "snapshotId": 27829,
+  "useScenario": "星座/职业/神话等主题角色变身觉醒短视频系列制作，适用于社交媒体短视频、IP角色设计、幻想系内容创作",
+  "inputType": "角色主题系列、每个角色的身份设定、变身道具描述、台词（可选）、风格参考图（可选）",
+  "outputContent": "每个角色：1张合并设定图（人物正面+三视图+面部特写，白底3:4）、1张道具设定图（白底3:4）、1张场景设定图（16:9）、1段15秒一镜到底变身视频（720p，16:9）；可选：台词配音、ASMR音效、剪辑合成",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/06322d1409bb49b9a6c78ddb33cf5003/b9c0e6c5a0a80cf14e0b01becf9865ba46e2553a.jpg",
+  "resultType": 3,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=e0410be4e59e416aa619169e718be610",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/06322d1409bb49b9a6c78ddb33cf5003/a8918472d06261aedc2cd56c9942e2714b8fe252.mp4",
+    "https://libtv-res.liblib.art/upload-images/06322d1409bb49b9a6c78ddb33cf5003/25c43fd7db1faa4c779bc371eac486dadafd4e85.mp4",
+    "https://libtv-res.liblib.art/upload-images/06322d1409bb49b9a6c78ddb33cf5003/48a8268467001092b462b006c9935ffbfe0e080b.mp4",
+    "https://libtv-res.liblib.art/upload-images/06322d1409bb49b9a6c78ddb33cf5003/52e7b9043e0fcfc4d0323ef17a098efa109668ad.mp4"
+  ],
+  "hasPublicSkillContent": true
+}

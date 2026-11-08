@@ -1,0 +1,32 @@
+{
+  "name": "真实感人像生成器",
+  "templateUuid": "0178a68ffe5b4776ab<手机号-已脱敏>ccb",
+  "skillUuid": "a5fe60227880440da296c1e5f5555d58",
+  "skillKey": "photorealistic-portrait-generator-cc300ceef4d14152bcf455af0323ffab",
+  "version": "1.0.2",
+  "namespace": "libtv-user-generated",
+  "description": "告别AI大众脸，生成高辨识度真实人像",
+  "author": "文峰",
+  "ownerId": 1461448,
+  "tags": [],
+  "likeCount": 93,
+  "usePv": 132,
+  "useUv": 77,
+  "publishAt": "2026-09-07 12:28:58",
+  "snapshotId": 44027,
+  "useScenario": "需要生成有辨识度、真实感强的人像图时使用；不适用于卡通、插画、二次元等非写实风格",
+  "inputType": "人物描述（自然语言或结构化字段：年龄、性别、气质、场景、风格等）",
+  "outputContent": "2~4张高辨识度、真实感强的人像图，覆盖写实真人及商业摄影风格",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/cc300ceef4d14152bcf455af0323ffab/9d50fbac758aff5a50f738e526145867c9fac4b5.png",
+  "resultType": 2,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=0178a68ffe5b4776ab<手机号-已脱敏>ccb",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/cc300ceef4d14152bcf455af0323ffab/bbe45c2559036cdc3d90de025af0db3795ce1006.png"
+  ],
+  "hasPublicSkillContent": true
+}

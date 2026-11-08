@@ -1,0 +1,35 @@
+{
+  "name": "广告创意脚本和分镜",
+  "templateUuid": "2cb95acf00e34b53a100c0226a6f4758",
+  "skillUuid": "3a0fcc068e924d2bb5c336474c8bc072",
+  "skillKey": "ad-script-storyboard-e20ffb9f022d4ac5bf7b5494a9c4fb38",
+  "version": "1.0.5",
+  "namespace": "libtv-user-generated",
+  "description": "一个产品起手，自动给出脚步和分镜",
+  "author": "JARVA_AI",
+  "ownerId": 275361,
+  "tags": [],
+  "likeCount": 43,
+  "usePv": 42,
+  "useUv": 33,
+  "publishAt": "2026-07-25 23:34:17",
+  "snapshotId": 30731,
+  "useScenario": "适合电商带货短视频、品牌信息流广告、自媒体种草短片、设计提案、MCN 批量内容制作。上传一张产品图，自动识别产品特征，生成 15s 广告创意脚本并输出完整 3×3 九宫格分镜方案，快速完成短视频广告前期创意可视化，帮助策划、设计师、博主高效出方案。",
+  "inputType": "上传产品图片自动识别外观，自定义卖点、场景风格。",
+  "outputContent": "输出完整广告创意脚本，一键生成 3×3 九宫格短视频广告分镜总图。",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/e20ffb9f022d4ac5bf7b5494a9c4fb38/4c1eef0ffaec4f57899b0525a3f7334095394d19.png",
+  "resultType": 2,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=2cb95acf00e34b53a100c0226a6f4758",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/e20ffb9f022d4ac5bf7b5494a9c4fb38/4c1eef0ffaec4f57899b0525a3f7334095394d19.png",
+    "https://libtv-res.liblib.art/upload-images/e20ffb9f022d4ac5bf7b5494a9c4fb38/6c91fcf2bc0c3dacc732c3ec90236e58439b811f.png",
+    "https://libtv-res.liblib.art/upload-images/e20ffb9f022d4ac5bf7b5494a9c4fb38/084ba858dc5d4510e819d9ceb6b7966160766162.png",
+    "https://libtv-res.liblib.art/upload-images/e20ffb9f022d4ac5bf7b5494a9c4fb38/c02c11c45c54dc5fceaab9b2a9223239394fc8a1.png"
+  ],
+  "hasPublicSkillContent": true
+}

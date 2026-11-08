@@ -1,0 +1,32 @@
+{
+  "name": "爆款AI视频剧本拆解",
+  "templateUuid": "f29a6e5f542845b4a5403fae1f9d4880",
+  "skillUuid": "7f9f9e559985460eb279d4a1a4c2fc1c",
+  "skillKey": "video-script-deconstructor-4a424605a3c547b19f949c2a36ad7126",
+  "version": "1.0.5",
+  "namespace": "libtv-user-generated",
+  "description": "输入视频，拆解输出标准剧本格式",
+  "author": "超人强",
+  "ownerId": 10965648,
+  "tags": [],
+  "likeCount": 5,
+  "usePv": 9,
+  "useUv": 6,
+  "publishAt": "2026-09-05 17:37:12",
+  "snapshotId": 43683,
+  "useScenario": "看到爆款 AI 生成视频（真人或动漫画风）想逐帧拆解分镜结构、复刻或改编拍摄手法、获取标准剧本格式文档时使用",
+  "inputType": "爆款 AI 生成视频文件或链接（真人风格、动漫画风等均适用）",
+  "outputContent": "标准剧本格式的逐分镜完整剧本，含场景头、人物、服装、道具、动作描写、台词/OS，结尾附可复用创作建议",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/4a424605a3c547b19f949c2a36ad7126/6e10b15156291ac0b80296c805bdc233998d3e86.png",
+  "resultType": 2,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=f29a6e5f542845b4a5403fae1f9d4880",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/4a424605a3c547b19f949c2a36ad7126/6e10b15156291ac0b80296c805bdc233998d3e86.png"
+  ],
+  "hasPublicSkillContent": true
+}

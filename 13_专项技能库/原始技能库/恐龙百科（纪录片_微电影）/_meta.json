@@ -1,0 +1,32 @@
+{
+  "name": "恐龙百科（纪录片/微电影）",
+  "templateUuid": "e3bf1cc939dd43c7825154df90c1d1ab",
+  "skillUuid": "da461a643ce845a0b9906812db77b8d7",
+  "skillKey": "dinosaur-documentary-producer-1880886b42cc43ddb951847092928422",
+  "version": "1.0.0",
+  "namespace": "libtv-user-generated",
+  "description": "适用于恐龙纪录片/微电影创作，一键呈现写实纪录片/微电影",
+  "author": "TTyears万年",
+  "ownerId": 224634,
+  "tags": [],
+  "likeCount": 6,
+  "usePv": 12,
+  "useUv": 5,
+  "publishAt": "2026-08-31 14:12:28",
+  "snapshotId": 42258,
+  "useScenario": "适用于恐龙专题纪录片制作，高品质一键产出。视觉呈现具有史诗级宏大场景，纪录片/微电影实景美学和叙事感。",
+  "inputType": "输入一个恐龙名称或恐龙相关文化创意概要、剧本、简要故事梗慨。",
+  "outputContent": "输出脚本、角色/场景资产包、音乐/配音、分镜图、分镜视频、视频成片。可生成独立纪录片/电影。",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/1880886b42cc43ddb951847092928422/8f56d93bb069f86aff7356f8547c2d32861330e4.png",
+  "resultType": 3,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=e3bf1cc939dd43c7825154df90c1d1ab",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/1880886b42cc43ddb951847092928422/b5bf082558d69dd1cef4f159bc59d80254f35313.mp4"
+  ],
+  "hasPublicSkillContent": true
+}

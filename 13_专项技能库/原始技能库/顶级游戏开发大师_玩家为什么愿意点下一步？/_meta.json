@@ -1,0 +1,36 @@
+{
+  "name": "顶级游戏开发大师|玩家为什么愿意点下一步？",
+  "templateUuid": "a6f218c7714e402587a66e1dbf5da6ba",
+  "skillUuid": "45402605997649139dc11045a8a06172",
+  "skillKey": "branching-narrative-builder-074be3667ece41bc8993cea11c99240e",
+  "version": "1.0.2",
+  "namespace": "libtv-user-generated",
+  "description": "告别假选项！一键生成带真分支、多结局的Steam级互动影游。",
+  "author": "杭州金包银批发总部",
+  "ownerId": 10465270,
+  "tags": [],
+  "likeCount": 1,
+  "usePv": 5,
+  "useUv": 1,
+  "publishAt": "2026-09-22 19:59:07",
+  "snapshotId": 49252,
+  "useScenario": "适用于互动影游全流程承制。覆盖任意题材赛道（如洪荒西游、修仙玄幻、男频后宫、乙女、悬疑等）。适用于游戏工作室、短剧承制方、IP版权方及独立开发者，专治“假选项”与“剧情烂尾”，低成本工业化量产可上架Steam或国内互动平台的互动影游大作。",
+  "inputType": "用户只需提供：一句话故事或完整剧本、核心题材（如洪荒西游、修仙玄幻等）、可选主角设定或期望结局。\n无需任何代码基础与人工连线，Skill自动执行：自动加载父级16个MD与母级4个副文件，启动12步工业化流程，完成剧情树排雷、变量系统搭建、多线分支推演与防崩提示词撰写。",
+  "outputContent": "用户使用后将获得完整的互动影游交付包，包含：\n\n完整互动方案（剧情树、变量字典、多结局路径）\n\n互动剧本（可演、可配置的逐节点版本）\n\n程序化 JSON 数据与引擎对接配置说明（可无缝上架Steam）\n\n分镜与图像提示词（含角色/场景锚点ID）\n\n互动完整性校验报告（零死循环、零孤立节点）\n\n承制能力页与短视频演示Demo",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/074be3667ece41bc8993cea11c99240e/7e02df466a6d10ebef15738e38861daf656b85e2.png",
+  "resultType": 3,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=a6f218c7714e402587a66e1dbf5da6ba",
+  "files": [
+    "SKILL.md",
+    "母副01【互动影游通用视觉语法库.md】.md",
+    "母副02【互动影游通用产品防崩指令.md】.md",
+    "母副03【互动影游通用场景资产锚点库.md】.md",
+    "母副04【互动影游提示词写法与变量锚定规范.md】.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/074be3667ece41bc8993cea11c99240e/7e02df466a6d10ebef15738e38861daf656b85e2.png"
+  ],
+  "hasPublicSkillContent": true
+}

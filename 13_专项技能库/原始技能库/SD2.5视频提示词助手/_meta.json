@@ -1,0 +1,34 @@
+{
+  "name": "SD2.5视频提示词助手",
+  "templateUuid": "7377c20d40f54638bf579d877729e37b",
+  "skillUuid": "2d35288348674cb2b6dff4d0ec22cb63",
+  "skillKey": "sd-video-prompt-generator-605c133411b74a8b8092650ab2a83808",
+  "version": "1.0.0",
+  "namespace": "libtv-user-generated",
+  "description": "将创意、剧本与素材转化为SD2.5视频提示词",
+  "author": "像素农夫DESIGN",
+  "ownerId": 1249552,
+  "tags": [],
+  "likeCount": 18,
+  "usePv": 70,
+  "useUv": 32,
+  "publishAt": "2026-09-18 22:55:40",
+  "snapshotId": 47810,
+  "useScenario": "适用于AI视频创作、音乐MV、广告、短片、剧情片、动画、视觉实验等场景。可根据用户提供的剧本、故事概念、角色与场景图片、参考素材或简单创意，设计镜头动作、人物表演、运镜、景别、转场、节奏及视听效果，并整理为适用于Sd 2.5的视频生成提示词。",
+  "inputType": "输入你的创意、剧本、分镜、角色设定或图片素材，并说明视频时长、画幅、风格及特殊要求。也可以直接上传首帧、角色图、场景图或参考图。Skill会分析画面内容与剧情关系，设计人物动作、镜头运动、转场、节奏和音画衔接，生成可直接用于Sd 2.5的视频提示词",
+  "outputContent": "输出结构完整的Sd2.5视频提示词，包括画面主体、人物动作、表情变化、场景变化、镜头运动、景别构图、转场方式、时间节奏、光影氛围及音画关系。复杂内容会根据视频时长合理拆分段落，并保证人物、场景与前后镜头具有连续性。",
+  "coverUrl": null,
+  "resultType": 1,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=7377c20d40f54638bf579d877729e37b",
+  "files": [
+    "SKILL.md",
+    "references/manual-spec.md",
+    "references/prompt-recipes.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/605c133411b74a8b8092650ab2a83808/8411d357de80b81df1116e2132b0f4f704ef2771.md"
+  ],
+  "hasPublicSkillContent": true
+}

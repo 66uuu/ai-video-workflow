@@ -1,0 +1,36 @@
+{
+  "name": "麻花原创古典海报",
+  "templateUuid": "d86525b9ddd44410bc3e69d56cf6af96",
+  "skillUuid": "2def2abeb24c4e7c8cf1177db8375303",
+  "skillKey": "classical-poster-creator-54357e0f735f4bd286c8bdcacf1d76ac",
+  "version": "1.0.1",
+  "namespace": "libtv-user-generated",
+  "description": "把上传的图片生成高级图文海报",
+  "author": "麻花观察室",
+  "ownerId": 3510303,
+  "tags": [],
+  "likeCount": 1,
+  "usePv": 4,
+  "useUv": 3,
+  "publishAt": "2026-08-19 08:36:14",
+  "snapshotId": 38315,
+  "useScenario": "什么场景都可以。",
+  "inputType": "什么图片都行，可以加入提示词进行二创。",
+  "outputContent": "这个版本不是简单的“国潮海报”，而是重点学习了：\n大面积深色留白\n古建筑与山水/岩壁/洞窟融合\n撕裂、裂境、洞天式超现实空间\n中国画、敦煌壁画、矿物颜料质感\n朱砂红、石青、石绿、赭石、旧金、墨黑\n微缩人物强化建筑尺度\n博物馆 / 文化展览 / 高端文旅视觉\n高级中文标题 + 小型英文副标题\n古建筑真实结构控制\n避免廉价“红金国潮”和游戏CG感\n我还加入了 4 套核心构图引擎：\n裂境 / Broke",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/54357e0f735f4bd286c8bdcacf1d76ac/41aaf64c5a65260e4594bd572bc876ee0eb0ab14.png",
+  "resultType": 2,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=d86525b9ddd44410bc3e69d56cf6af96",
+  "files": [
+    "SKILL.md",
+    "README.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/54357e0f735f4bd286c8bdcacf1d76ac/9b87df5d850da1b966810978120d2ad6641615b9.png",
+    "https://libtv-res.liblib.art/upload-images/54357e0f735f4bd286c8bdcacf1d76ac/b40cd058b742eada2b62c1b6b34a925a0e134944.png",
+    "https://libtv-res.liblib.art/upload-images/54357e0f735f4bd286c8bdcacf1d76ac/53327fe75e13ca9850b51c42bcfe923b8a22c0d6.png",
+    "https://libtv-res.liblib.art/upload-images/54357e0f735f4bd286c8bdcacf1d76ac/ba705dc698442509311b02c9aac7345b36015053.png"
+  ],
+  "hasPublicSkillContent": true
+}

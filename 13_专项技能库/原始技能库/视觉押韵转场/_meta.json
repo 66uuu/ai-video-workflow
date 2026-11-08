@@ -1,0 +1,34 @@
+{
+  "name": "视觉押韵转场",
+  "templateUuid": "59d30377e5f44936960970c4719dd6f5",
+  "skillUuid": "731d52e2df7646f1b283cc70e46731e2",
+  "skillKey": "visual-rhyme-transition-66e73de9f2514ba68b98118afa6ef0a7",
+  "version": "1.0.0",
+  "namespace": "libtv-user-generated",
+  "description": "识别两图共同结构，生成自然连续转场。",
+  "author": "晚霁雪",
+  "ownerId": 5623998,
+  "tags": [],
+  "likeCount": 12,
+  "usePv": 14,
+  "useUv": 8,
+  "publishAt": "2026-07-27 10:39:43",
+  "snapshotId": 30928,
+  "useScenario": "适用于两张图片之间的创意转场制作。Skill 会识别两张图片在形状、构图、颜色、纹理或排列结构上的共同点，例如圆心、放射纹理、网格和轮廓，并将对应元素连续转化，生成自然流畅的“视觉押韵”效果。\n\n适合创意短视频、摄影作品、品牌概念片、视觉混剪、片头和社交媒体视频转场。",
+  "inputType": "上传两张图片，并明确哪张是起始画面、哪张是结束画面。\n\n建议选择具有相似形状或构图结构的图片，例如：\n1. 瞳孔与日食\n2. 红色雨伞与红色花朵\n3. 楼宇窗格与芯片电路\n\nSkill 会自动寻找两张图片的共同视觉锚点，锁定主体的位置、大小和透视关系，再将对应纹理与结构逐步转化。默认生成约5秒、固定镜头、无字幕、无旁白的转场视频。",
+  "outputContent": "一条约5秒的视觉押韵转场视频。\n\n视频从第一张图片准确开始，经过连续可见的结构与材质变化，最终稳定过渡到第二张图片。默认保持镜头固定，避免简单淡入淡出、突然跳切、主体漂移和无关元素。",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/66e73de9f2514ba68b98118afa6ef0a7/accf81b492e7e424089d65e8d782bd87cba4b920.png",
+  "resultType": 3,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=59d30377e5f44936960970c4719dd6f5",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/66e73de9f2514ba68b98118afa6ef0a7/1501fe08a27e0c2d6a5f6b1b7d7772270357b364.mp4",
+    "https://libtv-res.liblib.art/upload-images/66e73de9f2514ba68b98118afa6ef0a7/072f626765785bfdc054b4778174f6efaaec4ebd.mp4",
+    "https://libtv-res.liblib.art/upload-images/66e73de9f2514ba68b98118afa6ef0a7/1cb20bf93bbda63ae1f29091b1d0d4f13e554677.mp4"
+  ],
+  "hasPublicSkillContent": true
+}

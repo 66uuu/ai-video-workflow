@@ -1,0 +1,32 @@
+{
+  "name": "洗图高清重绘",
+  "templateUuid": "5c824efa2de745d58c47817bd952eadf",
+  "skillUuid": "bdb236c61ca74ab8a663c20fd2ad241b",
+  "skillKey": "image-hd-remaster-d093474cb44e4d07986b39ec037a1cab",
+  "version": "1.0.8",
+  "namespace": "libtv-user-generated",
+  "description": "原图一键高清重绘，双模型输出",
+  "author": "193****0941",
+  "ownerId": 9364297,
+  "tags": [],
+  "likeCount": 47,
+  "usePv": 171,
+  "useUv": 36,
+  "publishAt": "2026-08-25 16:07:49",
+  "snapshotId": 40553,
+  "useScenario": "想提升一张图的画质和写实感，保留原图构图、色调和氛围，重新生成更高质量版本；不适用于只需无损放大或需要大幅改变构图的场景",
+  "inputType": "一张原图（任意画幅比例）",
+  "outputContent": "两张 2K 高清重绘图：Seedream 5.0 Pro 版 + Lib Image 版，画幅比例与原图一致",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/d093474cb44e4d07986b39ec037a1cab/aa81056578c4ce38c1afc799adcb6bbc567aae59.jpg",
+  "resultType": 2,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=5c824efa2de745d58c47817bd952eadf",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/d093474cb44e4d07986b39ec037a1cab/aa81056578c4ce38c1afc799adcb6bbc567aae59.jpg"
+  ],
+  "hasPublicSkillContent": true
+}

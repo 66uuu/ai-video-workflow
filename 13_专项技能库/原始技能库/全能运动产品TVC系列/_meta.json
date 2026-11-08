@@ -1,0 +1,32 @@
+{
+  "name": "全能运动产品TVC系列",
+  "templateUuid": "26eccb3214c2491881fc5e4b126baeac",
+  "skillUuid": "c6b3dbfe1631474cb407fd6c0c76b1a8",
+  "skillKey": "sports-product-tvc-generator-c18414452f144fb4b49219aa1dee2a30",
+  "version": "1.0.2",
+  "namespace": "libtv-user-generated",
+  "description": "运动产品动感风，通过分析产品卖点一键生成可商用的完整成片视频",
+  "author": "青木家",
+  "ownerId": 3435944,
+  "tags": [],
+  "likeCount": 22,
+  "usePv": 8,
+  "useUv": 8,
+  "publishAt": "2026-07-15 11:07:53",
+  "snapshotId": 27225,
+  "useScenario": "专门用于将运动产品图片转化为具有视觉冲击力的商用TVC广告视频。通过分析产品卖点，自动完成脚本撰写、分镜设计及视频剪辑，生成高精细、动感十足的广告成片。",
+  "inputType": "建议提供完整的产品三视图或高清细节图，以确保生成视频中的产品一致性。\n描述产品的核心功能卖点（选填）\n视频比例提示(如横屏16:",
+  "outputContent": "运动风格的TVC产品完整视频，有模特和产品的完整TVC风格。时长约1分钟左右的完整成片。",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/c18414452f144fb4b49219aa1dee2a30/b7373905299f9054a4a560a0d321e9566b13c3c8.jpg",
+  "resultType": 3,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=26eccb3214c2491881fc5e4b126baeac",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/c18414452f144fb4b49219aa1dee2a30/7896160c4e664bb27a1b24945d6b2c949aba8bfd.mp4"
+  ],
+  "hasPublicSkillContent": true
+}

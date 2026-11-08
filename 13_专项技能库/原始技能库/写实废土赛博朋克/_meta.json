@@ -1,0 +1,35 @@
+{
+  "name": "写实废土赛博朋克",
+  "templateUuid": "b11a4b03927a4ff893e5f36dd8463093",
+  "skillUuid": "af3b2714f218469f88c7f2bbd0602918",
+  "skillKey": "realistic-wasteland-cyberpunk-66e73de9f2514ba68b98118afa6ef0a7",
+  "version": "1.0.0",
+  "namespace": "libtv-user-generated",
+  "description": "把任意场景变成粗粝、可信、有人生活过的废土赛博城市",
+  "author": "晚霁雪",
+  "ownerId": 5623998,
+  "tags": [],
+  "likeCount": 19,
+  "usePv": 13,
+  "useUv": 10,
+  "publishAt": "2026-07-27 11:16:42",
+  "snapshotId": 30948,
+  "useScenario": "适用于把城市、建筑、街道、交通设施、荒野或工业空间转化成具有现实质感的废土赛博朋克场景。它强调巨型粗野主义建筑、外露管线、脚手架、警戒设施、雨雾与尘霾、热带植物和被长期使用过的未来科技，而不是简单添加紫蓝霓虹。适合世界观概念图、游戏与影视场景设定、故事氛围图、封面背景和建筑概念。",
+  "inputType": "输入一句你想生成的地点或画面，例如“暴雨中的高架桥下夜市”“被植物侵占的海边未来酒店”或“穿过盐碱地的巨型农业运输车队”。可以补充时间、天气、镜头距离、画幅和点缀色；未补充时默认生成16:9写实电影级环境大景，并用少量人物或车辆表现尺度。Skill会自动加入可信的巨型建筑、外露基础设施、维修痕迹、生活细节、警示色和具有物理来源的光线。",
+  "outputContent": "一张写实电影级废土赛博朋克环境图，具有清晰的前中后景、可信的建筑功能、粗粝材料、生活与维修痕迹，以及克制的安全黄、工业红或青色灯光。内容采用原创世界观，不包含现有作品的角色、Logo、品牌文字或完全相同的场景构图。",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/66e73de9f2514ba68b98118afa6ef0a7/7f4346b6e3bb9bdf21018a634d7dff4093751d5f.png",
+  "resultType": 2,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=b11a4b03927a4ff893e5f36dd8463093",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/66e73de9f2514ba68b98118afa6ef0a7/7e85cd46b0583067ebb593f0cca13965980b7f68.png",
+    "https://libtv-res.liblib.art/upload-images/66e73de9f2514ba68b98118afa6ef0a7/f68d63de37a9ed629044414523645334055be536.png",
+    "https://libtv-res.liblib.art/upload-images/66e73de9f2514ba68b98118afa6ef0a7/c9c7a728c3cbdfa8e2481baf3553251c9c0db854.png",
+    "https://libtv-res.liblib.art/upload-images/66e73de9f2514ba68b98118afa6ef0a7/7f4346b6e3bb9bdf21018a634d7dff4093751d5f.png"
+  ],
+  "hasPublicSkillContent": true
+}

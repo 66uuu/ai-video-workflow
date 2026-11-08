@@ -1,0 +1,32 @@
+{
+  "name": "img2降噪",
+  "templateUuid": "2658177ea3bd4f4ba33f2374a39aaab5",
+  "skillUuid": "aaf910e74cf948ecb41e95ca40f52089",
+  "skillKey": "image-denoiser-839cfbc23c6d4840895fb02c398ccacf",
+  "version": "1.0.2",
+  "namespace": "libtv-user-generated",
+  "description": "给image2生成出来的图片去掉噪点",
+  "author": "微信用户5e6b4c",
+  "ownerId": 9417008,
+  "tags": [],
+  "likeCount": 7,
+  "usePv": 5,
+  "useUv": 4,
+  "publishAt": "2026-08-05 14:30:15",
+  "snapshotId": 33550,
+  "useScenario": "使用image2生成图片时使用",
+  "inputType": "输入图片",
+  "outputContent": "输出图片",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/839cfbc23c6d4840895fb02c398ccacf/382d47c5242207ceadc788e07a68b8d0b347f44e.png",
+  "resultType": 2,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=2658177ea3bd4f4ba33f2374a39aaab5",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/839cfbc23c6d4840895fb02c398ccacf/382d47c5242207ceadc788e07a68b8d0b347f44e.png"
+  ],
+  "hasPublicSkillContent": true
+}

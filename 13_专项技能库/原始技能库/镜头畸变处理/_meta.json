@@ -1,0 +1,32 @@
+{
+  "name": "镜头畸变处理",
+  "templateUuid": "a8313a5132264a57ae4f1a41ad3862ca",
+  "skillUuid": "a6cfd4e526374487a4051f38a8c3d979",
+  "skillKey": "lens-distortion-corrector-aa9a50e7cd8640e780657b0630a3afbb",
+  "version": "1.0.3",
+  "namespace": "libtv-user-generated",
+  "description": "修复全景图截图镜头畸变",
+  "author": "188****1017",
+  "ownerId": 5166399,
+  "tags": [],
+  "likeCount": 4,
+  "usePv": 6,
+  "useUv": 1,
+  "publishAt": "2026-07-25 20:54:09",
+  "snapshotId": 30708,
+  "useScenario": "从世界模型、360°环境球、 截取的画面带桶形畸变、倾斜旋转或球面边缘拉伸时，为该图定制畸变矫正提示词， 制作分镜场景图。",
+  "inputType": "一次上传一张或多张带镜头畸变的场景截图（世界模型/全景图/环境球采样画面）即可批量出词；如果心里有目标机位（平视、俯瞰、低角度仰拍等），统一说一句或逐张说一句都行，没说的话默认恢复自然透视。",
+  "outputContent": "逐张矫正后的图片（直接在对话/画布中交付），附每张验收说明；个别无法矫正的图会说明原因并给出重新取图建议。若运行环境不支持直接生图，则输出按图编号的矫正提示词包供复制使用。",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/aa9a50e7cd8640e780657b0630a3afbb/5101aa273df6717f824b021299dc6c95d649753c.png",
+  "resultType": 2,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=a8313a5132264a57ae4f1a41ad3862ca",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/aa9a50e7cd8640e780657b0630a3afbb/ebd67476cd8e402beed9aa9e13482d33086bc0ed.png"
+  ],
+  "hasPublicSkillContent": true
+}

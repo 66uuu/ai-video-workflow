@@ -1,0 +1,33 @@
+{
+  "name": "东方天宫写意-优化版",
+  "templateUuid": "23519456424647738cbc663fbfb853d7",
+  "skillUuid": "213b281f84584909a1a563a596e37941",
+  "skillKey": "oriental-celestial-palace-xieyi-c6c2e10b3efe4fd881c52b3eb403b2fa",
+  "version": "1.0.1",
+  "namespace": "libtv-user-generated",
+  "description": "生成东方写意天宫风格的图片提示词与图生视频提示词",
+  "author": "微信用户3ddaf6",
+  "ownerId": 6384645,
+  "tags": [],
+  "likeCount": 68,
+  "usePv": 153,
+  "useUv": 87,
+  "publishAt": "2026-08-17 11:24:10",
+  "snapshotId": 37664,
+  "useScenario": "适用于生成东方天宫、云海宫阙、仙境园林、神域建筑、云上祭坛、月宫星宫、国风山水奇观等图片提示词，也适合为图生视频、镜头运动、短视频视觉分镜提供配套视频提示词。用户可以输入主题和配色气候，自动输出 6-8 组差异化方案；未提供主题时，默认生成东方神域天宫主风格。",
+  "inputType": "输入主题与配色气候后，自动生成 6-8 组东方神域天宫风格的图片提示词，并为每组配套一条图生视频提示词。若未指定配色，会先引导选择统一配色或混合配色；若选择混合配色，需明确说明“混合配色”。",
+  "outputContent": "输出 6-8 组可直接用于图像生成的中文图片提示词，每组包含标题、图片提示词和对应的视频提示词。提示词会保持统一东方神域审美，同时在空间、镜头、人物关系、前景锚点和运动逻辑上做差异化。",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/c6c2e10b3efe4fd881c52b3eb403b2fa/c7b5631111db1017eccfa3c72193c356cf8aa6bf.png",
+  "resultType": 2,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=23519456424647738cbc663fbfb853d7",
+  "files": [
+    "SKILL.md",
+    "agents/openai.yaml.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/c6c2e10b3efe4fd881c52b3eb403b2fa/c7b5631111db1017eccfa3c72193c356cf8aa6bf.png"
+  ],
+  "hasPublicSkillContent": true
+}

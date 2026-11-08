@@ -1,0 +1,35 @@
+{
+  "name": "工业风灯具设计SKILL",
+  "templateUuid": "7a79f1ab00f04fe2a7dfc0e3684d246c",
+  "skillUuid": "1884b477230745efa93765ce4677b533",
+  "skillKey": "industrial-lighting-designer-b85befd035a84c7d99b6927cfa3fa3c5",
+  "version": "1.0.1",
+  "namespace": "libtv-user-generated",
+  "description": "工业风灯具设计",
+  "author": "星球的AI畅想",
+  "ownerId": 1619666,
+  "tags": [],
+  "likeCount": 2,
+  "usePv": 1,
+  "useUv": 1,
+  "publishAt": "2026-09-11 20:40:02",
+  "snapshotId": 45527,
+  "useScenario": "工业风格灯具设计\n如果用MJ模型一定要给Agent+一句话：全部提示词需要在1000个字符数（计空格）以内。",
+  "inputType": "天顶吊灯、墙壁挂灯、 桌面台灯\n切片与阵列：华夫切片、放射状渐变 、木板、亚克力板材的激光切割组装\n拓扑与多面体：泰森多边形、测地线穹顶、折纸曲面、展现复杂的透光孔洞与未来感\n仿生与流体：扭转螺旋、有机仿生脉络、优雅的曲线形态、\n模块化节点：模块化互锁节点、空间网架、突出工业感与组装逻辑\n阳极氧化铝、蒸汽弯曲胡桃木、拉丝黄铜、碳纤维、竹篾编织、张力膜材、磨砂聚碳酸酯、(吹制玻璃",
+  "outputContent": "工业风灯具设计",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/b85befd035a84c7d99b6927cfa3fa3c5/9a6f3ff46b5ac758f3c8999cedc80d70b3c505b6.png",
+  "resultType": 2,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=7a79f1ab00f04fe2a7dfc0e3684d246c",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/b85befd035a84c7d99b6927cfa3fa3c5/35d29e2dd4b94340d3027a7b58c83043e412bcf2.png",
+    "https://libtv-res.liblib.art/upload-images/b85befd035a84c7d99b6927cfa3fa3c5/678c50240b64b698cc905ac172dd2f994e3adb97.png",
+    "https://libtv-res.liblib.art/upload-images/b85befd035a84c7d99b6927cfa3fa3c5/03980289729740c7c7d3b61c03112f7be2666b99.png",
+    "https://libtv-res.liblib.art/upload-images/b85befd035a84c7d99b6927cfa3fa3c5/f9dce110d00fbb5066c21dfca99e4bd762f00a8a.png"
+  ],
+  "hasPublicSkillContent": true
+}

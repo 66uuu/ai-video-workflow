@@ -1,0 +1,41 @@
+{
+  "name": "短剧复刻",
+  "templateUuid": "f1ced93e098a4dd88a3d013325b0e967",
+  "skillUuid": "6045b869d0aa49e382bd9aea54e148e7",
+  "skillKey": "short-drama-replica-c253e448d8dd47d9b51d8792b255e96f",
+  "version": "1.0.0",
+  "namespace": "libtv-user-generated",
+  "description": "短剧复刻",
+  "author": "牛大师",
+  "ownerId": 4175534,
+  "tags": [],
+  "likeCount": 13,
+  "usePv": 17,
+  "useUv": 7,
+  "publishAt": "2026-07-23 13:05:55",
+  "snapshotId": 30042,
+  "useScenario": "用于AI短剧镜头复刻、角色替换与连续性制作。支持逐镜拆解运镜、表演、台词、音效和色彩，生成Seedance 2.0与Kling O3双模型提示词，并通过主体参考、衔接色卡、场景资产图和人物站位图，减少人物回弹、背景漂移与跨段跳色。",
+  "inputType": "上传当前视频片段、替换角色图，并注明EP/S编号和角色映射；S02起需上传上一段结尾3–5秒。按提示确认Kling主体元素；需要",
+  "outputContent": "输出Seedance 2.0和Kling O3双版本视频提示词、英语对白与音画同步要求、短剧白柔光与衔接色卡控制、场景高角度俯拍资产图、主要人物站位图，以及成片逐镜验收评分和定向修正提示词。",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/c253e448d8dd47d9b51d8792b255e96f/5f00d992cc0bafb3c2e7e2e0958164c2591e3017.png",
+  "resultType": 2,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=f1ced93e098a4dd88a3d013325b0e967",
+  "files": [
+    "SKILL.md",
+    "references/color-camera-lock.md",
+    "references/kling-3.0-omni-official-guidance.md",
+    "references/kling-subject-binding.md",
+    "references/prompt-template.md",
+    "references/reconstruction-audit.md",
+    "references/review-template.md",
+    "references/scene-layout-assets.md",
+    "references/seedance-2.0-official-guidance.md",
+    "references/short-drama-soft-light-look.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/c253e448d8dd47d9b51d8792b255e96f/5f00d992cc0bafb3c2e7e2e0958164c2591e3017.png"
+  ],
+  "hasPublicSkillContent": true
+}

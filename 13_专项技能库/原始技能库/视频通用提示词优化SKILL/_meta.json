@@ -1,0 +1,32 @@
+{
+  "name": "视频通用提示词优化SKILL",
+  "templateUuid": "88a218e7fde0407e9f8214dd3327ec5e",
+  "skillUuid": "057bccd7719442f5884d52ff1291f3f6",
+  "skillKey": "dreamina-prompt-generator-b85befd035a84c7d99b6927cfa3fa3c5",
+  "version": "1.0.5",
+  "namespace": "libtv-user-generated",
+  "description": "依据要求自动生成提示词",
+  "author": "星球的AI畅想",
+  "ownerId": 1619666,
+  "tags": [],
+  "likeCount": 15,
+  "usePv": 16,
+  "useUv": 13,
+  "publishAt": "2026-08-24 01:08:54",
+  "snapshotId": 40022,
+  "useScenario": "适用于新手适用的SKILL技能",
+  "inputType": "输入参考角色、输入需要几个分镜、输入大致什么效果、输入需要什么故事、建议的音乐。\n示例：\n生成提示词，以第一人称FPV无人机视角，由远至近，第一视角穿梭于参考图的公共艺术作品外围与内部进行穿梭，部分镜头还出现第一视角镜头自身旋转等动态镜头，生成10秒、480P、16:9比例的视频，需要4个镜头。匹配有节奏的音乐，用于匹配视频的风格。",
+  "outputContent": "5-15秒的AI视频内容",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/b85befd035a84c7d99b6927cfa3fa3c5/111f0207ee7d3dacbf0353ed759be164d64ec3a5.png",
+  "resultType": 3,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=88a218e7fde0407e9f8214dd3327ec5e",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/b85befd035a84c7d99b6927cfa3fa3c5/4fbdb1112a553062387829c024981660d26fddf6.mp4"
+  ],
+  "hasPublicSkillContent": true
+}

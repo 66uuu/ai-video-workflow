@@ -1,0 +1,32 @@
+{
+  "name": "TVC产品动画广告宣传片",
+  "templateUuid": "6c7b4a6745dc4b62969d338c28da25a6",
+  "skillUuid": "e45a80960491416cbfa326619094c758",
+  "skillKey": "product-tvc-animator-06535483e524452d8dcc404947b2ce7b",
+  "version": "1.0.1",
+  "namespace": "libtv-user-generated",
+  "description": "产品质感设计，AI广告，产品TVC广告，反推视频内容，一键成",
+  "author": "Mrousix",
+  "ownerId": 835574,
+  "tags": [],
+  "likeCount": 235,
+  "usePv": 314,
+  "useUv": 235,
+  "publishAt": "2026-07-14 13:48:03",
+  "snapshotId": 26847,
+  "useScenario": "TCL产品广告制作，AIGC产品广告制作，电商卖点广告，电商产品渲染，各种产品，品牌皆可制作。",
+  "inputType": "根据提问回答你要做的产品信息后，开始自动执行，视频反推上传视频后可以反推，替换，模仿视频内容，风格等。",
+  "outputContent": "15秒-3分钟产品广告AIGC视频。",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/06535483e524452d8dcc404947b2ce7b/96c6b61f0ffd782405e0d1e3555aa93a14750810.png",
+  "resultType": 3,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=6c7b4a6745dc4b62969d338c28da25a6",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/06535483e524452d8dcc404947b2ce7b/b339cb2ef106727d52c491c0c9152322647d0664.mp4"
+  ],
+  "hasPublicSkillContent": true
+}

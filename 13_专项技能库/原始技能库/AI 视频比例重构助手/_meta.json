@@ -1,0 +1,34 @@
+{
+  "name": "AI 视频比例重构助手",
+  "templateUuid": "4f91f8c8eea440229cf10319ea430f31",
+  "skillUuid": "0e9557b005ce44c3a090b81143399f27",
+  "skillKey": "video-aspect-reframer-8202932176ac485b9572011074a9f39c",
+  "version": "1.0.1",
+  "namespace": "libtv-user-generated",
+  "description": "视频比例不匹配？智能重构画幅，保留主体与视觉完整性。",
+  "author": "LibTV",
+  "ownerId": 5924079,
+  "tags": [
+    "通用技能"
+  ],
+  "likeCount": 22,
+  "usePv": 4,
+  "useUv": 4,
+  "publishAt": "2026-09-08 18:39:40",
+  "snapshotId": 44434,
+  "useScenario": "适合将已有视频从 16:9 转为 9:16、9:16 转为 16:9、或适配 1:1 等其他比例的场景。可用于短视频平台发布、广告投放、横竖屏适配、影视片段重构等需求，帮助用户在不简单裁切的前提下，尽量保留人物、动作、构图、镜头运动和环境信息。",
+  "inputType": "上传原视频，并说明原始比例与目标比例，例如 16:9 转 9:16、9:16 转 16:9，或指定自定义画幅。也可以补充说明视频主体是什么、哪些内容不能被裁掉、希望优先保留人物、产品还是场景。Skill 会根据视频内容生成可用于 AI 视频编辑或重构的视频比例转换提示词。",
+  "outputContent": "输出适用于 AI 视频编辑模型的比例重构提示词，包含原始比例、目标比例、主体保护、画面延展、构图重排、动作连续性、空间透视、光影色彩一致性等控制要求，帮助视频在新画幅下保持自然、完整、连贯的视觉效果。",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/8202932176ac485b9572011074a9f39c/ce53db5eefb6888e82cc8d1792e932cc4e178f9a.png",
+  "resultType": 3,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=4f91f8c8eea440229cf10319ea430f31",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/8202932176ac485b9572011074a9f39c/d2510d61e1a52dc2a4e5ab48cb3192ca4dd9640d.mp4"
+  ],
+  "hasPublicSkillContent": true
+}

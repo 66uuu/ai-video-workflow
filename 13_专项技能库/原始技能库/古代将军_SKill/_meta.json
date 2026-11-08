@@ -1,0 +1,32 @@
+{
+  "name": "古代将军**SKill",
+  "templateUuid": "f75817765c2845b6af7ed6d87d6e65de",
+  "skillUuid": "f4e69cf68d09483abb1efab56063d865",
+  "skillKey": "action-fight-choreographer-aa3eede3b47a41fea48a08d6fc53de7f",
+  "version": "1.0.1",
+  "namespace": "libtv-user-generated",
+  "description": "AI打斗提示词编排导演",
+  "author": "橘子导演",
+  "ownerId": 11161493,
+  "tags": [],
+  "likeCount": null,
+  "usePv": 3,
+  "useUv": 3,
+  "publishAt": "2026-09-21 09:57:14",
+  "snapshotId": 48679,
+  "useScenario": "需要生成打斗视频提示词时；打戏没逻辑/动作不连贯/不够爽/没速度感；优化旧稿或诊断成片；参考视频改编融合；仙侠、武侠、拳脚、刀剑、机甲、怪兽、群战等题材",
+  "inputType": "打斗类型描述（如\"武侠双人对决\"）、角色参考图（可选）、时长/画幅/风格（可选）",
+  "outputContent": "一份完整可复制的AI视频打斗提示词，含攻防因果时间轴、镜头调度、连续性与视听约束",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/aa3eede3b47a41fea48a08d6fc53de7f/619f13fb9b993621912ab1b566572b7d0f38eac7.png",
+  "resultType": 3,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=f75817765c2845b6af7ed6d87d6e65de",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/aa3eede3b47a41fea48a08d6fc53de7f/dc4ff3b86b8738227329c49a8f0c7361405c8e81.mp4"
+  ],
+  "hasPublicSkillContent": true
+}

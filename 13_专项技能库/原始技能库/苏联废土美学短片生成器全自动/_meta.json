@@ -1,0 +1,32 @@
+{
+  "name": "苏联废土美学短片生成器全自动",
+  "templateUuid": "6f8dbd50da6e47e2968a5b19093c6913",
+  "skillUuid": "549c584d58ea445e82d4c7b3b9ba586e",
+  "skillKey": "soviet-wasteland-aesthetic-planner-3083b02322ff4f16870acb76944f195c",
+  "version": "1.0.1",
+  "namespace": "libtv-user-generated",
+  "description": "输入意象，生成废土美学视觉短片方案",
+  "author": "小池Kstar",
+  "ownerId": 11471082,
+  "tags": [],
+  "likeCount": 1,
+  "usePv": 1,
+  "useUv": 1,
+  "publishAt": "2026-09-16 11:30:00",
+  "snapshotId": 46784,
+  "useScenario": "需要生成苏联废土宏大美学风格的纯视觉氛围短片，不需要角色、情节或对白时使用",
+  "inputType": "一句话就可使用：一句视觉意象或氛围描述，例如\"废弃的冶炼厂在黄昏中沉默\"",
+  "outputContent": "完整视觉短片方案，含分镜序列、画面描述、运镜方式、配乐与音效建议",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/3083b02322ff4f16870acb76944f195c/4a8a75fb8db717ac4a6626561e802cb52868caa8.png",
+  "resultType": 3,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=6f8dbd50da6e47e2968a5b19093c6913",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/3083b02322ff4f16870acb76944f195c/8a28761d514544000b313c334d49f23ea212b0e8.mp4"
+  ],
+  "hasPublicSkillContent": true
+}

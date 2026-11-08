@@ -1,0 +1,32 @@
+{
+  "name": "影视工业级分镜动线海报",
+  "templateUuid": "f67fef20b6534b1bab232571749c053a",
+  "skillUuid": "fed622d91aec415c89d46f3ec02a9cdf",
+  "skillKey": "cinematic-storyboard-motion-analyzer-b85befd035a84c7d99b6927cfa3fa3c5",
+  "version": "1.0.0",
+  "namespace": "libtv-user-generated",
+  "description": "自己上传图片 简单写故事 AI分析分镜和动线",
+  "author": "星球的AI畅想",
+  "ownerId": 1619666,
+  "tags": [],
+  "likeCount": 13,
+  "usePv": 12,
+  "useUv": 5,
+  "publishAt": "2026-07-27 21:01:55",
+  "snapshotId": 31162,
+  "useScenario": "将任意输入的人物、动作、场景、产品或剧情描述，转化为高度专业、排版严谨的“专业影视工业级15秒6镜头标准化分镜动线分析企划海报”",
+  "inputType": "输入人物参考图，6个分镜基本剧情，可自定义动线与光线",
+  "outputContent": "专业影视工业级15秒6镜头标准化分镜动线分析企划海报图片",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/b85befd035a84c7d99b6927cfa3fa3c5/fa4bd1554539770812cf0b70c16a14365edc9069.png",
+  "resultType": 2,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=f67fef20b6534b1bab232571749c053a",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/b85befd035a84c7d99b6927cfa3fa3c5/f347b9e038e4a48addcd8da649fdd08dc3c6f992.png"
+  ],
+  "hasPublicSkillContent": true
+}

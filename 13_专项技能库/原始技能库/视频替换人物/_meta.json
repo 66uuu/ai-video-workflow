@@ -1,0 +1,32 @@
+{
+  "name": "视频替换人物",
+  "templateUuid": "3ec06256f1144dfd9628ef3b6d53c7a7",
+  "skillUuid": "25fc3b49097041d581d36266a32d2aa2",
+  "skillKey": "video-character-replacer-98b5372acb4341c29436d81edb372874",
+  "version": "1.0.0",
+  "namespace": "libtv-user-generated",
+  "description": "替换视频人物",
+  "author": "银河",
+  "ownerId": 4110483,
+  "tags": [],
+  "likeCount": 147,
+  "usePv": 269,
+  "useUv": 118,
+  "publishAt": "2026-07-17 11:00:05",
+  "snapshotId": 28013,
+  "useScenario": "这个Skill的核心场景是电商广告：用虚拟模特替换实拍人物，省去重拍成本，轻松生成不同模特形象的营销视频。也可以用于创意娱乐：将任意角色融入视频，快速制作趣味“换人”短片或数字人内容。",
+  "inputType": "户需准备以下两项内容:1.**实拍视频**:需要被替换人物的原始视频(建议MP4格式)。2.**模特角色参考图**",
+  "outputContent": "人物已成功替换为虚拟模特的视频",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/98b5372acb4341c29436d81edb372874/25913a3db862da12f64fa951fb83bc923624b0c4.png",
+  "resultType": 3,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=3ec06256f1144dfd9628ef3b6d53c7a7",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/98b5372acb4341c29436d81edb372874/92cfc618ca7f5c12f1d1d15b29395c284de4641d.mp4"
+  ],
+  "hasPublicSkillContent": true
+}

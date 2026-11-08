@@ -1,0 +1,33 @@
+{
+  "name": "张奕AI中式天宫美学",
+  "templateUuid": "a0f58f99d23648698d387ad9329d85f8",
+  "skillUuid": "5fd14788c8934864aa08e2122c5344bf",
+  "skillKey": "chinese-heavenly-palace-prompter-61f1227c04aa48bb8a67440d8b685a46",
+  "version": "1.0.0",
+  "namespace": "libtv-user-generated",
+  "description": "生成中式天宫电影感绘图提示词和视频提示词",
+  "author": "elatesy",
+  "ownerId": 906270,
+  "tags": [],
+  "likeCount": 9,
+  "usePv": 16,
+  "useUv": 13,
+  "publishAt": "2026-08-21 00:19:42",
+  "snapshotId": 39223,
+  "useScenario": "1. 生成中式天宫、东方仙侠、云海悬浮宫殿等绘图提示词。\n2. 将已有天宫图片改写成图生视频提示词。\n3. 为 5 秒左右的短视频设计快速运镜、云海翻涌、瀑布、飞鸟或神兽动作。\n4. 根据参考视频拉片，批量输出对应分镜绘图提示词与视频提示词。\n5. 修复人物过大、云海静止、瀑布不动、神兽动作太弱、镜头缺乏冲击力等问题。\n6. 生成巨龙、鲲、仙鸟、白鹤、神兽与中式天宫结合的宏大东方幻想场景。",
+  "inputType": "直接告诉我你想生成的画面即可。可以提供一句主题、参考图、参考视频、已有提示词或具体构图要求。\n\n推荐输入格式：\n\n主题：\n主体建筑：\n云海 / 瀑布 / 神兽：\n人物数量与服装：\n人物比例：\n构图：\n光线与色调：\n画幅：\n是否需要视频提示词：\n视频想要的运镜和动态：\n\n示例 1：\n“生成一个左侧巨大天宫、中央两名小人物、右侧云海巨龙的绘图提示词和视频提示词，人物要小，巨龙动作要明显。”",
+  "outputContent": "根据用户的主题、参考图、参考视频、已有提示词或构图要求，输出可直接复制使用的中文提示词。\n\n默认输出：\n\n1. 【绘图提示词】\n包含镜头构图、天宫建筑、云海层次、人物比例与位置、材质、光线、色彩、画幅和负面限制。\n\n2. 【对应图生视频提示词】\n包含快速稳定的运镜路径、人物动作、云海快速翻涌、瀑布高速下落、飞鸟快速扇翼飞行、巨龙/鲲/神兽的大幅度动作，以及建筑、人物比例、光线和色调稳定规则。",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/61f1227c04aa48bb8a67440d8b685a46/4e9e0e50245a168425a5f642b7ede73ba3a917b3.png",
+  "resultType": 2,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=a0f58f99d23648698d387ad9329d85f8",
+  "files": [
+    "SKILL.md",
+    "references/prompt-modules.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/61f1227c04aa48bb8a67440d8b685a46/4e9e0e50245a168425a5f642b7ede73ba3a917b3.png"
+  ],
+  "hasPublicSkillContent": true
+}

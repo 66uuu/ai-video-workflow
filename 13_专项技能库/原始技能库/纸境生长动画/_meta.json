@@ -1,0 +1,32 @@
+{
+  "name": "纸境生长动画",
+  "templateUuid": "15cbf7a04ea143bbb72d649881346650",
+  "skillUuid": "10d01b2e41124d64b0ae81bdc4547e28",
+  "skillKey": "watercolor-landscape-growth-9adb22d9bb0541e893e81f30ae6b595f",
+  "version": "1.0.6",
+  "namespace": "libtv-user-generated",
+  "description": "手绘角色漫步，水彩世界随脚步生长的治愈动画",
+  "author": "林月半子的AI笔记",
+  "ownerId": 314397,
+  "tags": [],
+  "likeCount": 23,
+  "usePv": 9,
+  "useUv": 8,
+  "publishAt": "2026-07-14 22:00:53",
+  "snapshotId": 27090,
+  "useScenario": "想要治愈系、绘本感的短动画时使用：品牌氛围片、儿童内容、公益短片、音乐可视化、社交媒体循环短视频。给一个主角设定（如\"穿橙色雨衣的小女孩\"），即可产出纸面手绘世界围绕主角逐渐上色生长的单镜头动画。",
+  "inputType": "文本输入。必填：主角一句话设定。可选：风格参考视频、同伴生物（默认蓝鲸）、主题世界（默认海洋，可换森林/星空/花园）、一暖一冷两",
+  "outputContent": "一支 16:9、10-20 秒的单镜头手绘动画视频，含背景音乐：从白纸黑线涂鸦开始，主角行走中水彩从画面边缘浸染，世界逐渐生长上色并温柔包裹主角，适合直接发布或循环播放。",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/9adb22d9bb0541e893e81f30ae6b595f/d151e8e7b42690bc8699a5a8197990e0d9e51223.png",
+  "resultType": 3,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=15cbf7a04ea143bbb72d649881346650",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/9adb22d9bb0541e893e81f30ae6b595f/8199c954582f2508d0d03aad5a2fc8c52285c624.mp4"
+  ],
+  "hasPublicSkillContent": true
+}

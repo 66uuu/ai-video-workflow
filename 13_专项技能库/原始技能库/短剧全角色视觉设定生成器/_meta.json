@@ -1,0 +1,32 @@
+{
+  "name": "短剧全角色视觉设定生成器",
+  "templateUuid": "d9cf22b36e694ee791b37470223ab849",
+  "skillUuid": "b7ce84bdd0ac413bb49e9035ad432e48",
+  "skillKey": "drama-character-visual-generator-8d012fbe5b224c7bab64318012900756",
+  "version": "1.0.1",
+  "namespace": "libtv-user-generated",
+  "description": "提取剧本中所有出场角色，并为每个角色生成专业级全身三视图",
+  "author": "蛋白",
+  "ownerId": 10721429,
+  "tags": [],
+  "likeCount": 51,
+  "usePv": 58,
+  "useUv": 38,
+  "publishAt": "2026-09-14 09:47:01",
+  "snapshotId": 46026,
+  "useScenario": "适用于短剧、微短剧、竖屏剧、网剧、影视分镜、角色定妆照、AI角色海报、人物三视图、IP人物设定、剧本视觉开发等场景。\n\n用户只需要输入一段短剧剧本，本 Skill 会自动识别剧本中所有出场角色，并为每个角色生成完整的人物视觉设定和AI绘图提示词，包括角色身份、年龄、性别、妆容、服装、鞋履、色彩光影、氛围细节、画质要求和固定构图要求。",
+  "inputType": "如果有额外要求，也可以补充：\n1. 剧本类型：都市豪门 / 甜宠 / 复仇 / 霸总 / 古装 / 悬疑 / 家庭伦理等；\n2. 角色风格偏好：写实 / 高级商业海报 / 电影感 / 韩剧感 / 国风等；\n3. 是否需要所有路人角色；\n4. 是否需要为每个角色生成多套造型；\n5. 是否需要中英文双语提示词。\n输出后，可将每个角色的“完整AI绘图提示词”单独复制到AI绘图工具中生成角色图。",
+  "outputContent": "自动识别剧本中所有实际出场或需要视觉呈现的角色，并整理角色名、性别、年龄、身份/职业、剧情定位、性格气质和外貌核心和视觉关键词。风格定调、角色主体描述、妆容、服装、鞋履、色彩光影、氛围细节、画质要求和固定构图要求。\n每个角色均按照“画面左侧为人物全身三视图，右侧为面部正面特写”的角色设定图格式输出，要求全身图、正面图、自然站立、纯灰无缝背景、无影子、超高画质、16:9比例。",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/8d012fbe5b224c7bab64318012900756/4bd202dd656cf57f0571f6d8b1908d4f9c129448.png",
+  "resultType": 2,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=d9cf22b36e694ee791b37470223ab849",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/8d012fbe5b224c7bab64318012900756/64a6119d1411c3533a763d2b6a60c7664d90e2cf.png"
+  ],
+  "hasPublicSkillContent": true
+}

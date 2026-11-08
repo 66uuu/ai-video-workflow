@@ -1,0 +1,33 @@
+{
+  "name": "写实电影叙事—丫一吧",
+  "templateUuid": "ccf65762b0fa47738ff05927eca2bad1",
+  "skillUuid": "d080dbb12f584eec8fe819b9b7a57b4f",
+  "skillKey": "realistic-cinematic-storyboard-97732afae5b94b01974016375995e488",
+  "version": "1.0.3",
+  "namespace": "libtv-user-generated",
+  "description": "将小说自动转化为写实电影级分镜与 AI 视频 Prompt",
+  "author": "丫一吧",
+  "ownerId": 51974,
+  "tags": [],
+  "likeCount": 44,
+  "usePv": 78,
+  "useUv": 37,
+  "publishAt": "2026-09-03 15:15:43",
+  "snapshotId": 43158,
+  "useScenario": "用于将小说、剧本、故事梗概、人物设定和场景文本，转化为具有真实电影摄影质感的影视化视觉内容。它不仅负责生成画面提示词，还负责从“故事理解”一直处理到“镜头设计”和“连续性控制”。",
+  "inputType": "用户只需要提供与故事相关的叙事素材即可，例如剧本、小说章节、故事梗概、分集大纲、人物设定或单个场景描述。Skill 会根据输入内容自动提取人物、场景、时间、动作和情绪，并进一步生成写实电影分镜、镜头设计及 AI 视频 Prompt；素材越完整，人物与场景的连续性就越准确。",
+  "outputContent": "用户使用该 Skill 后，可获得一套完整的写实电影级影视化产物，包括：剧情与场景拆解、人物与环境设定、时间线、专业电影分镜、镜头景别与运动设计、灯光与构图方案，以及可直接用于 AI 视频生成的英文 Prompt 和 Negative Prompt。对于长篇项目，还会额外形成人物、场景、服装、道具和摄影风格的一致性控制方案，便于将小说或剧本持续制作成连续的电影、短剧或系列视频。",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/97732afae5b94b01974016375995e488/875fbdbb14bc05b71288a4de6ac46568463347c5.png",
+  "resultType": 2,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=ccf65762b0fa47738ff05927eca2bad1",
+  "files": [
+    "SKILL.md",
+    "Realistic Cinematic Story-to-Video Skill.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/97732afae5b94b01974016375995e488/875fbdbb14bc05b71288a4de6ac46568463347c5.png"
+  ],
+  "hasPublicSkillContent": true
+}

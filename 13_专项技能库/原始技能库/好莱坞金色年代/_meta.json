@@ -1,0 +1,33 @@
+{
+  "name": "好莱坞金色年代",
+  "templateUuid": "bfee7f8a1ef44d2c9b5dda3a4ad3475d",
+  "skillUuid": "1649f52b79164128a911729b782a20f3",
+  "skillKey": "hollywood-1920s-luxury-cinema-ba0668f063bd4d529989b935483a5995",
+  "version": "1.0.4",
+  "namespace": "libtv-user-generated",
+  "description": "打造考据准确的1920年代奢华电影镜头与长视频",
+  "author": "189****3983",
+  "ownerId": 9448569,
+  "tags": [],
+  "likeCount": 6,
+  "usePv": 2,
+  "useUv": 2,
+  "publishAt": "2026-08-16 14:44:23",
+  "snapshotId": 37483,
+  "useScenario": "这套 Skill 已包括：\n参考图职责分配与身份锁定\n1920年代整体色系和胶片质感\n男女主服装、妆发、流苏裙与首饰\n电影院、庄园、舞厅、餐厅、走廊、卧室\n真实光源、人物明暗与跨场景光线连续性\n导演分镜、运镜和七格故事板\nSeedance/LibTV 30 秒严格一镜到底\n换装、换景、画外音及最终绿幕片场揭示\n爵士乐、环境声和空间声场\n可直接套用的图片、场景、人物及视频提示词模板",
+  "inputType": "描述故事、画面或视频需求，并按需提供女主身份、服装首饰、场景结构、姿势构图、光影色调等参考图。说明参考图各自负责什么，例如“图1负责人物身份，图2负责建筑结构，图3负责服装，图4负责光影质感”。建议同时提供年代、地点、时长、画幅、人物动作、情绪、台词、声音、运镜方式，以及哪些元素必须保持不变。制作长视频时，可进一步说明是否一镜到底、空间行进路线、换装或换景节点。",
+  "outputContent": "输出可直接用于图像或视频模型的完整提示词，包括参考图职责分配、人物与服装设定、建筑空间、真实光源和明暗关系、色彩与35mm胶片质感、镜头景别、摄影机运动、表演动作、时间轴、音乐环境声及负面约束。根据任务类型，可生成单张电影画面提示词、人物三视图、结构不变的场景改造提示词、连续分镜故事板，或Seedance、LibTV适用的30秒严格一镜到底视频提示词。",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/ba0668f063bd4d529989b935483a5995/fec627c337af6da579ebeb6032b9a948b6adbaf9.png",
+  "resultType": 3,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=bfee7f8a1ef44d2c9b5dda3a4ad3475d",
+  "files": [
+    "SKILL.md",
+    "CINEMATIC-RULES.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/ba0668f063bd4d529989b935483a5995/787a1ea472017956bc9dabe0c85e7520a01edea3.mp4"
+  ],
+  "hasPublicSkillContent": true
+}

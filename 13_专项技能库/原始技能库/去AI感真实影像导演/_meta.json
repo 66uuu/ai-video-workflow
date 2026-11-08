@@ -1,0 +1,37 @@
+{
+  "name": "去AI感真实影像导演",
+  "templateUuid": "98253e1a4bdc4f6bada550d80170afc4",
+  "skillUuid": "e1520b0101f748f69b349d7e2bc1d783",
+  "skillKey": "realistic-film-director-b7e31db425514dc88549fce647d0efc6",
+  "version": "1.0.0",
+  "namespace": "libtv-user-generated",
+  "description": "家庭录像、伪纪录、复古影像，一句话出真实感成片。",
+  "author": "130****7537",
+  "ownerId": 126260,
+  "tags": [],
+  "likeCount": 215,
+  "usePv": 265,
+  "useUv": 159,
+  "publishAt": "2026-07-14 12:48:20",
+  "snapshotId": 26826,
+  "useScenario": "适合制作追求真实感的影像内容：家庭录像质感的怀旧短片、伪纪录片、老录像带风格视频、日常生活流片段、监控或偷拍视角的悬疑素材。当你觉得 AI 视频\"太干净、太顺滑、一眼假\"，想要有年代感、有瑕疵、像真实拍下来的画面时使用。",
+  "inputType": "描述你想要的场景或氛围即可（如\"一段韩国社区的日常感视频\"\"2005 年县城夏天的家庭录像\"）。Skill 会先通过几个选项和你",
+  "outputContent": "一支具有指定设备与年代质感的真实感成片，默认 30 到 60 秒（按 10 到 15 秒镜头单元组装，可加长）。画面带对应设备的物理缺陷特征（噪点、对焦搜索、曝光波动等），每个镜头含非完美事件，纯自然环境音无配乐，结尾有与拍摄者身份匹配的收束方式（如关机切黑）。",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/b7e31db425514dc88549fce647d0efc6/aec62d7c56f7d29928102ded9a80e822de823d3c.png",
+  "resultType": 3,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=98253e1a4bdc4f6bada550d80170afc4",
+  "files": [
+    "SKILL.md",
+    "上传指引.md",
+    "references/anti-ai-checklist.md",
+    "references/atmosphere-dictionary.md",
+    "references/camera-aesthetics.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/b7e31db425514dc88549fce647d0efc6/c05be10fce893a7dd165e9aa9517d3a790b68fdd.mp4",
+    "https://www.liblib.tv/canvas/chat-share?shareId=jWbBjvYpjj"
+  ],
+  "hasPublicSkillContent": true
+}

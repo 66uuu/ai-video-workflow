@@ -1,0 +1,32 @@
+{
+  "name": "分镜图生成器",
+  "templateUuid": "6bee595717b0484ca560bcfbba239935",
+  "skillUuid": "7f83f1653d6c4b5d86a8eb41ca2fee94",
+  "skillKey": "storyboard-generator-ac21935be56c4e8a93c00fb7572e660b",
+  "version": "1.0.1",
+  "namespace": "libtv-user-generated",
+  "description": "很牛逼的分镜图生成方法",
+  "author": "微信用户040e2b",
+  "ownerId": 2621737,
+  "tags": [],
+  "likeCount": 1,
+  "usePv": 5,
+  "useUv": 3,
+  "publishAt": "2026-08-17 16:37:27",
+  "snapshotId": 37805,
+  "useScenario": "哈哈哈啊",
+  "inputType": "哈哈哈",
+  "outputContent": "哈哈哈啊",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/ac21935be56c4e8a93c00fb7572e660b/b7554fd9536a174777a3d9c423286d8f64116ddf.png",
+  "resultType": 2,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=6bee595717b0484ca560bcfbba239935",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/ac21935be56c4e8a93c00fb7572e660b/8999dde4eb225678a6341aa9de79f4ddb53125a0.png"
+  ],
+  "hasPublicSkillContent": true
+}

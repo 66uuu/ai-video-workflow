@@ -1,0 +1,34 @@
+{
+  "name": "角色工业级三视图生成",
+  "templateUuid": "6ed0146e34cc46fcb692e2114954ed02",
+  "skillUuid": "1f508ca9aed14cf987419fd4ea54c822",
+  "skillKey": "character-industrial-three-view-6fe77fcad9614c799944a901d1cc568a",
+  "version": "1.0.1",
+  "namespace": "libtv-user-generated",
+  "description": "适用于角色工业级三视图设计",
+  "author": "JACKPOORS",
+  "ownerId": 1010805,
+  "tags": [],
+  "likeCount": 60,
+  "usePv": 91,
+  "useUv": 76,
+  "publishAt": "2026-07-21 14:36:58",
+  "snapshotId": 29521,
+  "useScenario": "角色设计，漫剧人物设计",
+  "inputType": "角色（图像参考，文本输入）",
+  "outputContent": "高质量工业级人物三视图，多角度人物视图",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/6fe77fcad9614c799944a901d1cc568a/0cfe79417a541c5e0315ea92ac998246b959dbfe.png",
+  "resultType": 2,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=6ed0146e34cc46fcb692e2114954ed02",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/6fe77fcad9614c799944a901d1cc568a/0cfe79417a541c5e0315ea92ac998246b959dbfe.png",
+    "https://libtv-res.liblib.art/upload-images/6fe77fcad9614c799944a901d1cc568a/9736c2e56d27bca06d0230a33204eee0b2cd5252.png",
+    "https://libtv-res.liblib.art/upload-images/6fe77fcad9614c799944a901d1cc568a/c915cccadaafae6ba43abe32faa349ca59443c11.png"
+  ],
+  "hasPublicSkillContent": true
+}

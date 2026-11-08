@@ -1,0 +1,32 @@
+{
+  "name": "时间推理，细节补漏",
+  "templateUuid": "e600f971dc0b47f9bab23312673fc2f4",
+  "skillUuid": "6c1b298d2bcd496fb105677d396ea964",
+  "skillKey": "temporal-reasoning-detailer-ba7009a2556b4eaca83c1da90336b7ce",
+  "version": "1.0.2",
+  "namespace": "libtv-user-generated",
+  "description": "时间推理，细节补漏",
+  "author": "微信用户59cd1c",
+  "ownerId": 10451316,
+  "tags": [],
+  "likeCount": 2,
+  "usePv": 3,
+  "useUv": 2,
+  "publishAt": "2026-08-15 14:10:07",
+  "snapshotId": 37216,
+  "useScenario": "任何有对白，但拿捏不住细节的场景。",
+  "inputType": "在一段提示词的最后，加入该SKILL作为补全。",
+  "outputContent": "得到一份无刻意放慢动作迎合台词，人物和环境微行为丰富的视频成品。",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/ba7009a2556b4eaca83c1da90336b7ce/c101e8e4916c35e8492b5254e1e5c927887c03ee.png",
+  "resultType": 3,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=e600f971dc0b47f9bab23312673fc2f4",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/ba7009a2556b4eaca83c1da90336b7ce/3c66180f56635bfce6d9a241584593d33b3eb8d6.mp4"
+  ],
+  "hasPublicSkillContent": true
+}

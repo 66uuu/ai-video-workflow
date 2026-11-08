@@ -1,0 +1,35 @@
+{
+  "name": "7³天宫电影镜头",
+  "templateUuid": "7ef38c70e34443d3b9083c854b1836a3",
+  "skillUuid": "c58ee606842f47bda3e0c15b208e1359",
+  "skillKey": "chinese-celestial-palace-video-fb2474fa43e649b29a80a2ec9f461479",
+  "version": "1.0.1",
+  "namespace": "libtv-user-generated",
+  "description": "雾气质感中式天庭图片+运镜视频全流程",
+  "author": "七的三次方",
+  "ownerId": 11235647,
+  "tags": [],
+  "likeCount": 2,
+  "usePv": 1,
+  "useUv": 1,
+  "publishAt": "2026-08-21 00:43:01",
+  "snapshotId": 39230,
+  "useScenario": "想生成雾气质感中式仙境天庭风格图片，并进一步生成对应运镜方式视频时使用",
+  "inputType": "用户描述想要的场景主题或构图意图（可选），其余由 Skill 内置风格锚点自动补全",
+  "outputContent": "一张雾蒙蒙中式天庭仙境风格图片 + 一段对应运镜方式的视频（共5种运镜可选）",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/fb2474fa43e649b29a80a2ec9f461479/2081361df03d632f4423b3c478647b6f102ea6b9.png",
+  "resultType": 3,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=7ef38c70e34443d3b9083c854b1836a3",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/fb2474fa43e649b29a80a2ec9f461479/5f6ce8b34b5e1c33a50aaec12a1abda06e993ce4.mp4",
+    "https://libtv-res.liblib.art/upload-images/fb2474fa43e649b29a80a2ec9f461479/37edd8227b7fcdd6dcc666fc991f1cff4dcf701b.mp4",
+    "https://libtv-res.liblib.art/upload-images/fb2474fa43e649b29a80a2ec9f461479/cfa5f01b7cda8ff51ae35f3e5ec2805d07ac8aa1.mp4",
+    "https://libtv-res.liblib.art/upload-images/fb2474fa43e649b29a80a2ec9f461479/545a3e43b550394ce014b92c892c460d3b02c348.mp4"
+  ],
+  "hasPublicSkillContent": true
+}

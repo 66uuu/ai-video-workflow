@@ -1,0 +1,32 @@
+{
+  "name": "角色资产图",
+  "templateUuid": "53a34ef347704263b133ec6829078c52",
+  "skillUuid": "6a0678e4bf494234a150421dc0d8e041",
+  "skillKey": "character-asset-prompt-builder-2c8a3e355a254e9e86ada0406d226752",
+  "version": "1.0.2",
+  "namespace": "libtv-user-generated",
+  "description": "角色资产图提示词",
+  "author": "胡小绿",
+  "ownerId": 9434443,
+  "tags": [],
+  "likeCount": 333,
+  "usePv": 435,
+  "useUv": 195,
+  "publishAt": "2026-07-15 00:04:37",
+  "snapshotId": 27132,
+  "useScenario": "简单描述转换角色资产图",
+  "inputType": "描述角色信息或者丢入剧本",
+  "outputContent": "角色板资产图",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/2c8a3e355a254e9e86ada0406d226752/13eae44efcf9ef320a1afebbc13694caf9a7af60.png",
+  "resultType": 2,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=53a34ef347704263b133ec6829078c52",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/2c8a3e355a254e9e86ada0406d226752/13eae44efcf9ef320a1afebbc13694caf9a7af60.png"
+  ],
+  "hasPublicSkillContent": true
+}

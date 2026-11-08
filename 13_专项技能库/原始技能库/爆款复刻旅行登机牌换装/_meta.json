@@ -1,0 +1,42 @@
+{
+  "name": "爆款复刻旅行登机牌换装",
+  "templateUuid": "58e7c443cca746d3884cab902d4be079",
+  "skillUuid": "c02d1ce8e0b44db89fa0fded7efeb95f",
+  "skillKey": "boarding-pass-travel-transition-5e17f63c20b64ca1a5571efe67cc2d04",
+  "version": "1.0.2",
+  "namespace": "libtv-user-generated",
+  "description": "上传角色卡，选择目的地，自动复刻抖音爆款丝滑旅行换装短片",
+  "author": "刘不住Wander",
+  "ownerId": 759898,
+  "tags": [
+    "自媒体创作"
+  ],
+  "likeCount": 92,
+  "usePv": 51,
+  "useUv": 43,
+  "publishAt": "2026-07-18 08:29:48",
+  "snapshotId": 28331,
+  "useScenario": "适合把原创角色卡快速变成时尚旅行换装视频。可用于个人 IP、穿搭内容、旅行主题短片、角色展示、品牌社媒素材和创意转场视频。",
+  "inputType": "上传一张清晰的角色卡即可开始。系统会自动判断是否直接使用角色图，或提取写实白底角色资产；确认旅行预览和四站服装后，即可生成登机牌",
+  "outputContent": "输出角色资产处理结果、北京上海广州大理四站服装分配、旅行换装预览图，以及一条 15 秒登机牌滑入连续换装视频提示词。默认同步生成时尚旅行电子 BGM 与护照、脚步、滑卡音效方案。",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/5e17f63c20b64ca1a5571efe67cc2d04/a0ca50162feb373a40d680d72a2ae19abe6b1d96.png",
+  "resultType": 3,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=58e7c443cca746d3884cab902d4be079",
+  "files": [
+    "SKILL.md",
+    "references/boarding-pass-transition-engine.md",
+    "references/character-asset-policy.md",
+    "references/image-generation-fallback-policy.md",
+    "references/video-reference-policy.md",
+    "references/wardrobe-assignment-policy.md",
+    "references/boarding-pass-asset-policy.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/5e17f63c20b64ca1a5571efe67cc2d04/852a2fc80bb910b7e6f056f0aa85987398459033.mp4",
+    "https://libtv-res.liblib.art/upload-images/5e17f63c20b64ca1a5571efe67cc2d04/da88fb2ca088834eda11221655c2f675c7298b21.mp4",
+    "https://libtv-res.liblib.art/upload-images/5e17f63c20b64ca1a5571efe67cc2d04/888f9d43d1ff2a76570e518fd7cd0d993011ac91.mp4"
+  ],
+  "hasPublicSkillContent": true
+}

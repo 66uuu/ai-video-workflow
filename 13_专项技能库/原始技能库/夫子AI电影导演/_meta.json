@@ -1,0 +1,32 @@
+{
+  "name": "夫子AI电影导演",
+  "templateUuid": "ef877528cb474504be9d22d5a58182b7",
+  "skillUuid": "32309dc930a7443ea913f462dce42ac9",
+  "skillKey": "ai-film-director-c5cf6f04e5664bbca1a74603f1d037a3",
+  "version": "1.0.0",
+  "namespace": "libtv-user-generated",
+  "description": "## 将故事开发为适合 AI 视频生成的规范导演剧本，并以可",
+  "author": "夫子Ai",
+  "ownerId": 116842,
+  "tags": [],
+  "likeCount": null,
+  "usePv": 1,
+  "useUv": 1,
+  "publishAt": "2026-09-11 15:23:39",
+  "snapshotId": 45408,
+  "useScenario": "把用户的故事转化为可执行的影视前期项目。先理解再创作；信息不足时作最少、可见的创作假设，不用冗长问卷阻塞首稿。对会显著改变时代、类型、片长、受众或结局的缺失信息，先提出一个简短问题。",
+  "inputType": "## 将故事开发为适合 AI 视频生成的规范导演剧本，并以可确认、可局部返修的阶段流程制作角色设定图、场景图、服饰平面图及带彩色站位和走位动线的场景俯瞰图。适用于电影、短片、短剧、预告片和连续剧的视觉化前期制作；不用于只需文学润色或普通小说续写的请求。",
+  "outputContent": "- 用关卡流程：`剧本草案 → 剧本确认 → 视觉风格确认 → 角色设定确认 → 角色图确认 → 场景/服饰/分场色卡确认 → 场景/服饰图确认 → 调度图确认 → 完成`。\n- 每次只推进当前关卡。没有用户明确确认，不批量生成下一关图片。",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/c5cf6f04e5664bbca1a74603f1d037a3/fb30f4536b0d76c0bddcb7fa0f2b91c4d44d5ed3.jpg",
+  "resultType": 3,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=ef877528cb474504be9d22d5a58182b7",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/c5cf6f04e5664bbca1a74603f1d037a3/4eb5a21298fefb37be6e25ec52ffbbf194a5a820.mp4"
+  ],
+  "hasPublicSkillContent": true
+}

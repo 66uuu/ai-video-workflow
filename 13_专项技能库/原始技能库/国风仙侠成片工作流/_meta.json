@@ -1,0 +1,38 @@
+{
+  "name": "国风仙侠成片工作流",
+  "templateUuid": "f2968280a15941018b19ba9956713cb2",
+  "skillUuid": "85d6effddc6644e193e11c539978198a",
+  "skillKey": "xianxia-cinematic-workflow-54ef20fc456e46f2bac3a0e580c7e4c8",
+  "version": "1.0.0",
+  "namespace": "libtv-user-generated",
+  "description": "一套从剧本到逐镜视频提示词的国风仙侠成片流水线",
+  "author": "xiiian",
+  "ownerId": 1164166,
+  "tags": [],
+  "likeCount": 22,
+  "usePv": 20,
+  "useUv": 13,
+  "publishAt": "2026-08-12 01:51:25",
+  "snapshotId": 36031,
+  "useScenario": "适用于所有国风/武侠/仙侠向的 AI 短剧、漫剧、动画短片、游戏过场 CG 的前期成片制作。当你有一个故事想法或一句话主题，需要一套能反复复用的成片流程（而不是单张图）时使用：它会走完「剧本 → 角色设定 → 场景设计 → 道具 → 分镜 → 逐镜视频提示词」的完整链条，全片共享同一套锁定的燕云十六州风格 DNA，换题材、换角色、换场景时流水线不变，只在风格锚点内替换主体。既能直接产出燕云风格成片",
+  "inputType": "输入一个故事的一句话主题或分场想法即可（例如「废柴皇子重生逆袭」）。可选补充：想要的角色设定、目标时长与画幅（默认 9:16、30–60 秒）、指定的题材或情节走向。Skill 会自动完成剧本扩写、角色立绘提示词、场景与道具提示词、分镜表、逐镜视频提示词的全流程编排，全程锁定同一套风格 DNA，无需自备风格词或参考图。",
+  "outputContent": "一整套可直接进生产的国风仙侠短剧前期资产：分场剧本、角色立绘生成提示词、场景与道具生成提示词、逐镜分镜表，以及每一个镜头对应的视频生成提示词（正向描述、可直接投喂生图/视频模型）。所有提示词共享同一套燕云十六州 AAA 3D 游戏渲染风格 DNA，产出即成片级、风格全程统一。",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/54ef20fc456e46f2bac3a0e580c7e4c8/8f3ebdbeefbb2387658c103202699898cb3422a6.png",
+  "resultType": 3,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=f2968280a15941018b19ba9956713cb2",
+  "files": [
+    "SKILL.md",
+    "templates/project-package.md",
+    "references/production-pipeline.md",
+    "references/style-recipe.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/54ef20fc456e46f2bac3a0e580c7e4c8/42bf59202529af0fca4f39623de920988a1f39f3.mp4",
+    "https://libtv-res.liblib.art/upload-images/54ef20fc456e46f2bac3a0e580c7e4c8/3a6dc51ce83e93fff666e4c68cf8cf663ac54e83.mp4",
+    "https://libtv-res.liblib.art/upload-images/54ef20fc456e46f2bac3a0e580c7e4c8/65e2b9bb44db8d74b2b589ea051f248cdb23343e.mp4",
+    "https://libtv-res.liblib.art/upload-images/54ef20fc456e46f2bac3a0e580c7e4c8/b25ce458f955e2da69e399a7c80355aee3836eb8.mp4"
+  ],
+  "hasPublicSkillContent": true
+}

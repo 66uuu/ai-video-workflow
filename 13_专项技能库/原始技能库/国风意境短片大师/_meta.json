@@ -1,0 +1,35 @@
+{
+  "name": "国风意境短片大师",
+  "templateUuid": "8dd5231a26be47d69e4bf614f7691e17",
+  "skillUuid": "9fbe061f4aa44dffbdaebe4ba7ae85bb",
+  "skillKey": "oriental-aesthetic-film-f1cd68423b354abba991fe16eb70fb0a",
+  "version": "1.0.1",
+  "namespace": "libtv-user-generated",
+  "description": "输入诗词或意境关键词，生成东方美学风格短片，含水墨、敦煌、仙",
+  "author": "Devilworld",
+  "ownerId": 610387,
+  "tags": [],
+  "likeCount": 31,
+  "usePv": 19,
+  "useUv": 10,
+  "publishAt": "2026-07-16 17:01:31",
+  "snapshotId": 27777,
+  "useScenario": "国风账号内容创作、传统文化宣传、品牌国风联名、汉服展示视频、东方美学短视频、节日节气主题片",
+  "inputType": "输入一句诗词或意境关键词，选择喜欢的国风细分风格，即可获得一套完整的东方美学意境短片方案。",
+  "outputContent": "意境分镜脚本 + 每镜AI提示词 + 国风配色方案 + 古典配乐建议的国风短视频制作完整方案",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/f1cd68423b354abba991fe16eb70fb0a/6037da1041537653cf7380bc9d6de1f19d2edb03.png",
+  "resultType": 3,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=8dd5231a26be47d69e4bf614f7691e17",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/f1cd68423b354abba991fe16eb70fb0a/6a6b9e95b89cc6c9d8c49df78cd50f6debb06d00.mp4",
+    "https://www.liblib.tv/canvas/share?spaceId=2909857&projectId=2f2e51d2f0b542df9c06cdd4b07d1dee",
+    "https://libtv-res.liblib.art/upload-images/f1cd68423b354abba991fe16eb70fb0a/362145ac9a3fdd661f6c75ae4155933e05423309.mp4",
+    "https://www.liblib.tv/canvas/share?spaceId=2961511&projectId=da14d837a3324f29bc0e74fe574e40b3"
+  ],
+  "hasPublicSkillContent": true
+}

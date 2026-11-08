@@ -1,0 +1,32 @@
+{
+  "name": "场景生活化真实感",
+  "templateUuid": "7a2fe1e546e14632be1de42f279211a7",
+  "skillUuid": "56d42b265f9b46d6a4e472b37bdfe198",
+  "skillKey": "lifestyle-interior-realism-61a0e9f7954f4d719e104bc484462a20",
+  "version": "1.0.5",
+  "namespace": "libtv-user-generated",
+  "description": "让室内场景图呈现生活化真实感",
+  "author": "180****3575",
+  "ownerId": 8561646,
+  "tags": [],
+  "likeCount": 8,
+  "usePv": 35,
+  "useUv": 22,
+  "publishAt": "2026-09-11 15:26:04",
+  "snapshotId": 45411,
+  "useScenario": "需要让室内场景图从\"样板间/广告图\"质感转变为\"真实有人居住\"的生活化风格时使用；适用于家居内容创作、产品场景图优化等场景",
+  "inputType": "一张室内场景参考图（如客厅、卧室等），以及期望的风格方向（随手拍质感 或 专业摄影+生活真实感）",
+  "outputContent": "调整后的室内场景图，呈现生活化真实感，可选随手拍风格或专业摄影+生活真实感风格",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/61a0e9f7954f4d719e104bc484462a20/a58112ea11a972f06dc95526622c5de564ae97e4.png",
+  "resultType": 2,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=7a2fe1e546e14632be1de42f279211a7",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/61a0e9f7954f4d719e104bc484462a20/a58112ea11a972f06dc95526622c5de564ae97e4.png"
+  ],
+  "hasPublicSkillContent": true
+}

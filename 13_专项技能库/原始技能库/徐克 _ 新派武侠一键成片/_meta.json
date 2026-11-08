@@ -1,0 +1,33 @@
+{
+  "name": "徐克 | 新派武侠一键成片",
+  "templateUuid": "b6851d88327a48498748928e954fce67",
+  "skillUuid": "9e1019a9499a44dfa9fecb4b5f68555a",
+  "skillKey": "tsui-hark-wuxia-generator-074be3667ece41bc8993cea11c99240e",
+  "version": "1.0.4",
+  "namespace": "libtv-user-generated",
+  "description": "顶级大导演思维驱动，一键生成徐克新派武侠美学大片！",
+  "author": "杭州金包银批发总部",
+  "ownerId": 10465270,
+  "tags": [],
+  "likeCount": 6,
+  "usePv": 18,
+  "useUv": 14,
+  "publishAt": "2026-09-22 20:01:39",
+  "snapshotId": 49260,
+  "useScenario": "适用于影视创作者、AIGC参赛选手及国潮品牌方，用于快速生成徐克新派武侠风格的电影级短片、预告片或品牌宣发片。高度适配“数字新国风”AIGC赛事申报，及需要极致东方美学与凌厉商业视觉的TVC制作。",
+  "inputType": "在对话框直接输入“一句话武侠创意”（包含：人物/时代/场景/是否打斗）。若有已生成的角色三视图或场景底图，可一并上传。本Skill将基于你的输入，强制调用【顶级大导演思维】底层16个MD规则体系，锁定徐克新派武侠美学，严格执行12步标准化流程，输出完整的工业化制片交付物。",
+  "outputContent": "120秒以内徐克新派武侠逐镜头分镜表、全套画面与视频生成提示词（附带首帧锁定与防崩规则）、剪映物理音效铺设方案及剪辑节奏指南，以及最终成片演示。",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/074be3667ece41bc8993cea11c99240e/21fb1fb4b114e702cbfdfbf3b44fa43aeb251b39.png",
+  "resultType": 3,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=b6851d88327a48498748928e954fce67",
+  "files": [
+    "SKILL.md",
+    "徐克_新派武侠视觉语法.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/074be3667ece41bc8993cea11c99240e/248a15e26c003046b09ba68acbe17cda38165942.mp4"
+  ],
+  "hasPublicSkillContent": true
+}

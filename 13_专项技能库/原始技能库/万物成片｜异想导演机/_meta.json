@@ -1,0 +1,33 @@
+{
+  "name": "万物成片｜异想导演机",
+  "templateUuid": "74e1e091aa094ebf9a8ba147f507ee55",
+  "skillUuid": "5e4601c1d19448c89cf67750feb13a53",
+  "skillKey": "imaginative-video-director-ea795b48e859446ea0ac5169a1d245be",
+  "version": "1.0.0",
+  "namespace": "libtv-user-generated",
+  "description": "《万物成片｜异想导演机》是一款导演型AI影像创作Skill",
+  "author": "阿勇AI创作",
+  "ownerId": 346578,
+  "tags": [],
+  "likeCount": 5,
+  "usePv": 1,
+  "useUv": 1,
+  "publishAt": "2026-08-12 02:29:47",
+  "snapshotId": 36037,
+  "useScenario": "适合从“一个想法”直接推进到完整影像方案，尤其适用于需要创意、电影感、艺术性和视觉记忆点的项目。",
+  "inputType": "使用《万物成片｜异想导演机》不需要掌握专业电影知识。你只需要提供一个创作起点。可以是一句话：“帮我拍一支60秒关于‘错过’的电影，不要俗套。”可以是一种情绪：“我想拍孤独，但不要人物哭。”可以是一个故事：“一个老人每天给已经去世的妻子留一盏灯。”可以是一个品牌需求：“帮我做一条60秒汽车广告，核心卖点是大空间，但不要拍成传统汽车TVC。”可以是一首歌：“根据这首歌做一支90秒音乐MV。”",
+  "outputContent": "根据用户项目类型，Skill将自动生成一套完整的“导演成片包”。",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/ea795b48e859446ea0ac5169a1d245be/9dac64baf7c0b4099bff51687c80fa3ea5d09c53.png",
+  "resultType": 3,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=74e1e091aa094ebf9a8ba147f507ee55",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/ea795b48e859446ea0ac5169a1d245be/5bef79ff931918132080466bd838003263a0b566.mp4",
+    "https://www.liblib.tv/canvas/chat-share?shareId=G1PjcIhMG2"
+  ],
+  "hasPublicSkillContent": true
+}

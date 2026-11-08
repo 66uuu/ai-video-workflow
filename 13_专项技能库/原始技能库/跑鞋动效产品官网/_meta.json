@@ -1,0 +1,32 @@
+{
+  "name": "跑鞋动效产品官网",
+  "templateUuid": "df6d1b6a73d1422aa87eb490c301105b",
+  "skillUuid": "399c6cfe01864a959d2097001a38d706",
+  "skillKey": "nike-landing-page-ui-e5c05143074646b7ae70a88b81ec6c2a",
+  "version": "1.0.1",
+  "namespace": "libtv-user-generated",
+  "description": "生成极具爆发力与动感的Nike官网风格产品落地页UI/UX演",
+  "author": "星美Fine",
+  "ownerId": 773892,
+  "tags": [],
+  "likeCount": 2,
+  "usePv": 0,
+  "useUv": 0,
+  "publishAt": "2026-08-11 13:56:05",
+  "snapshotId": 35754,
+  "useScenario": "用于生成运动品牌（Nike风格）产品落地页的UI/UX演示视频，适合跑鞋、运动装备等产品的电商展示、品牌宣传视频制作。",
+  "inputType": "产品图片（跑鞋或运动产品参考图）",
+  "outputContent": "15秒16:9全屏Nike风格产品落地页UI演示视频，包含：全屏网页UI、产品Hero展示、运动员赛道场景、网页滚动动效、UI交互动作、产品详情页收尾定格",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/e5c05143074646b7ae70a88b81ec6c2a/43e85ed2aab0afa0cef4987476d678efc1a77c85.png",
+  "resultType": 3,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=df6d1b6a73d1422aa87eb490c301105b",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/e5c05143074646b7ae70a88b81ec6c2a/2f4b018eff246c24a0e4a043d5f37961e059f105.mp4"
+  ],
+  "hasPublicSkillContent": true
+}

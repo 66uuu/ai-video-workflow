@@ -1,0 +1,32 @@
+{
+  "name": "七夕口红高端广告视频",
+  "templateUuid": "116dd32360304c608100bdccb3d2d181",
+  "skillUuid": "0dcab71c7f1840de9bac4018245c3948",
+  "skillKey": "lipstick-ad-video-creator-e5c05143074646b7ae70a88b81ec6c2a",
+  "version": "1.0.1",
+  "namespace": "libtv-user-generated",
+  "description": "上传口红色号图与模特图（可选），一键生成15秒七夕主题高端口",
+  "author": "星美Fine",
+  "ownerId": 773892,
+  "tags": [],
+  "likeCount": 1,
+  "usePv": 1,
+  "useUv": 1,
+  "publishAt": "2026-08-12 14:00:40",
+  "snapshotId": 36177,
+  "useScenario": "品牌七夕campaign、社交媒体口红广告短片生成",
+  "inputType": "口红产品图或色号参考图（必选）；模特面部图（可选）；品牌名与标语（可选）",
+  "outputContent": "一段15秒、16:9横屏的七夕主题高端口红广告短片，包含氛围建立、产品特写、模特演绎、品牌定格四个段落，全程连续镜头无硬切",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/e5c05143074646b7ae70a88b81ec6c2a/9d39f27ae3ff64eb2ac85eb44df8d8adf35093f8.png",
+  "resultType": 3,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=116dd32360304c608100bdccb3d2d181",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/e5c05143074646b7ae70a88b81ec6c2a/aba86aec69c5a4303267b114b9f3ecad89c2a5c4.mp4"
+  ],
+  "hasPublicSkillContent": true
+}

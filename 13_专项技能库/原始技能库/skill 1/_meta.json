@@ -1,0 +1,36 @@
+{
+  "name": "skill 1",
+  "templateUuid": "33ef17bedf494fa3b2a8ea6190647dbf",
+  "skillUuid": "ec1d0be7f43c4e27acd4492476fa9c20",
+  "skillKey": "movie-storyboard-character-7b01f4ca59f14322821674320e2abc1c",
+  "version": "1.0.0",
+  "namespace": "libtv-user-generated",
+  "description": "电影分镜及角色",
+  "author": "微信用户6e1882",
+  "ownerId": 11400999,
+  "tags": [],
+  "likeCount": 1,
+  "usePv": 2,
+  "useUv": 2,
+  "publishAt": "2026-08-22 10:40:57",
+  "snapshotId": 39628,
+  "useScenario": "电影",
+  "inputType": "电影",
+  "outputContent": "电影",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/7b01f4ca59f14322821674320e2abc1c/90266adb159ea3b31f738ddcc0fbcb658d37831a.png",
+  "resultType": 2,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=33ef17bedf494fa3b2a8ea6190647dbf",
+  "files": [
+    "SKILL.md",
+    "references/fight_clip_rules.md",
+    "references/iteration_manual.md",
+    "references/seedance_25_execution_model.md",
+    "references/v8_structure_template.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/7b01f4ca59f14322821674320e2abc1c/90266adb159ea3b31f738ddcc0fbcb658d37831a.png"
+  ],
+  "hasPublicSkillContent": true
+}

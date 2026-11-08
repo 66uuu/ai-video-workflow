@@ -1,0 +1,33 @@
+{
+  "name": "睡衣居家展示电商视频",
+  "templateUuid": "cd860c301290429c837906f16023203a",
+  "skillUuid": "64e3f5eef1d54fabb221bde3080848ba",
+  "skillKey": "sleepwear-video-showcase-e5c05143074646b7ae70a88b81ec6c2a",
+  "version": "1.0.1",
+  "namespace": "libtv-user-generated",
+  "description": "根据用户上传的睡衣产品平铺/挂拍图，自动识别产品特征、匹配场",
+  "author": "星美Fine",
+  "ownerId": 773892,
+  "tags": [],
+  "likeCount": 16,
+  "usePv": 1,
+  "useUv": 1,
+  "publishAt": "2026-07-16 01:15:33",
+  "snapshotId": 27543,
+  "useScenario": "电商睡衣/家居服产品的短视频内容生产，适用于需要快速产出30秒以上居家展示视频的商家或设计师。",
+  "inputType": "睡衣产品图（平铺或挂拍，必选）；可选：居家场景偏好、光线氛围、模特气质、场景风格",
+  "outputContent": "模特静态锚点图、居家场景空镜图、9段分镜视频（开篇空镜+模特入画+中段细节+空镜转场+结尾定格）、日式/法式/极简/复古风格BGM，最终合成含背景音乐的35秒成片",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/e5c05143074646b7ae70a88b81ec6c2a/30893fcaa122d48b44c5ff4cd25405b49661ee26.png",
+  "resultType": 3,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=cd860c301290429c837906f16023203a",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/e5c05143074646b7ae70a88b81ec6c2a/d927a817c35116f37cb84ab375a8bc514dd6df16.mp4",
+    "https://www.liblib.tv/canvas/share?spaceId=2904001&projectId=0943e62c2b5b48f88fc5b3e81fbdf8a8"
+  ],
+  "hasPublicSkillContent": true
+}

@@ -1,0 +1,41 @@
+{
+  "name": "镜叙｜电影感关键帧",
+  "templateUuid": "2355a6fbda9340bba9e59173688fa67d",
+  "skillUuid": "2ebc44309b494b0e95ff0442d2e52516",
+  "skillKey": "cinematic-keyframe-narrator-868748d4a560439c962cc3d87c437cc3",
+  "version": "1.0.0",
+  "namespace": "libtv-user-generated",
+  "description": "把创作想法变成可连续、可诊断的电影感关键帧",
+  "author": "空心木",
+  "ownerId": 7985787,
+  "tags": [],
+  "likeCount": 5,
+  "usePv": 4,
+  "useUv": 4,
+  "publishAt": "2026-09-03 10:26:23",
+  "snapshotId": 43060,
+  "useScenario": "适用于电影感单帧、封面、组图叙事、图生视频首尾帧、多镜头连续性设计，以及生成结果的审美诊断与单变量修复。面向 AI 影像创作者，不绑定特定模型或内容平台。",
+  "inputType": "输入主题、故事梗概或画面目标；可选提供主体设定、场景、情绪、画幅、镜头数量、参考图和目标生成平台。信息不完整时会采用合理默认值，关键创作取舍或额度消耗前再询问。",
+  "outputContent": "输出画幅建议、叙事拍点、可直接使用的生产提示词、主体与场景连续性锁、负面约束和验收标准；必要时提供失败诊断及单变量修复方案。",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/868748d4a560439c962cc3d87c437cc3/aa045810a5429db29b76cecb4a91941b77ad6b1d.png",
+  "resultType": 2,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=2355a6fbda9340bba9e59173688fa67d",
+  "files": [
+    "SKILL.md",
+    "DISTRIBUTION.md",
+    "README.md",
+    "references/aesthetic-patterns.md",
+    "references/diagnosis-and-repair.md",
+    "references/perceptual-hierarchy.md",
+    "references/platform-handoff.md",
+    "references/prompt-contract.md",
+    "references/testing-rubric.md",
+    "examples/yellow-lion-poles.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/868748d4a560439c962cc3d87c437cc3/1a1d4258ee07221873a6698bae5ec97b1db1e3c3.png"
+  ],
+  "hasPublicSkillContent": true
+}

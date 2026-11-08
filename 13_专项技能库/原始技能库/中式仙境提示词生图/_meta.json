@@ -1,0 +1,34 @@
+{
+  "name": "中式仙境提示词生图",
+  "templateUuid": "37e38c447ab2425e8bfcde6a98474766",
+  "skillUuid": "ab27ce6569384708b2fc2466073e2dde",
+  "skillKey": "chinese-fairyland-generator-ab054f0d45e0448da3fbf42085ab037a",
+  "version": "1.0.6",
+  "namespace": "libtv-user-generated",
+  "description": "一句诗词，一个关键词生成提示词，并一键生图",
+  "author": "刘里奥AIGC",
+  "ownerId": 2716757,
+  "tags": [],
+  "likeCount": 15,
+  "usePv": 23,
+  "useUv": 15,
+  "publishAt": "2026-08-21 18:32:45",
+  "snapshotId": 39467,
+  "useScenario": "输入诗句、成语或仙侠关键词，生成中式仙境风格AI绘画提示词，确认后选择模型直接生图",
+  "inputType": "诗句、成语、意象词、仙侠主题关键词等",
+  "outputContent": "中文描述段+英文关键词提示词+渲染参数，确认后选择模型，自动在左侧画布调用生图",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/ab054f0d45e0448da3fbf42085ab037a/db4954669ad403624c32a119a265f21239fe5d27.png",
+  "resultType": 2,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=37e38c447ab2425e8bfcde6a98474766",
+  "files": [
+    "SKILL.md",
+    "references/examples.md",
+    "references/prompt_template.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/ab054f0d45e0448da3fbf42085ab037a/db4954669ad403624c32a119a265f21239fe5d27.png"
+  ],
+  "hasPublicSkillContent": true
+}

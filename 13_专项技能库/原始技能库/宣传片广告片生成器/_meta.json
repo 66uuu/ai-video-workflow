@@ -1,0 +1,32 @@
+{
+  "name": "宣传片广告片生成器",
+  "templateUuid": "6fb032f0f8274af7ba8bc708d925eb3f",
+  "skillUuid": "5717dc42efa2438d9badc1e80de16e59",
+  "skillKey": "promo-ad-video-generator-44a775e9b5dc45fb859156d1364ee7d5",
+  "version": "1.0.4",
+  "namespace": "libtv-user-generated",
+  "description": "主题或文案→完整宣传/广告短视频",
+  "author": "微信用户451ac2",
+  "ownerId": 6999755,
+  "tags": [],
+  "likeCount": 12,
+  "usePv": 47,
+  "useUv": 39,
+  "publishAt": "2026-09-02 09:01:38",
+  "snapshotId": 42739,
+  "useScenario": "需要为品牌或产品制作宣传片、广告片时使用；支持从主题自动生成脚本，或直接基于现成文案合成视频",
+  "inputType": "品牌/产品信息、主题或现成文案、视觉风格、视频时长、配音风格或背景音乐偏好",
+  "outputContent": "一条包含脚本、分镜、画面、配音/背景音乐的完整宣传片或广告片视频",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/44a775e9b5dc45fb859156d1364ee7d5/9ab6111815d40a8f450f825616aaba132222be3a.png",
+  "resultType": 3,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=6fb032f0f8274af7ba8bc708d925eb3f",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/44a775e9b5dc45fb859156d1364ee7d5/faf5db42c42f5229da1f46a235f506868c7f21c3.mp4"
+  ],
+  "hasPublicSkillContent": true
+}

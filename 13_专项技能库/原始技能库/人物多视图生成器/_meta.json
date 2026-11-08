@@ -1,0 +1,32 @@
+{
+  "name": "人物多视图生成器",
+  "templateUuid": "e717760be4f74b168d7e7624faa69ded",
+  "skillUuid": "d607a1d4127d4cb2bd0ed8d96d8351a1",
+  "skillKey": "character-multiview-generator-acb2f6d591cb4f358323a3497f88c43d",
+  "version": "1.0.3",
+  "namespace": "libtv-user-generated",
+  "description": "多风格角色母版图+多视图设定研究板",
+  "author": "136****3836",
+  "ownerId": 8914074,
+  "tags": [],
+  "likeCount": 13,
+  "usePv": 28,
+  "useUv": 17,
+  "publishAt": "2026-09-06 17:16:49",
+  "snapshotId": 43869,
+  "useScenario": "需要为影视、动画、游戏、漫画、概念艺术或 AI 视频生成创建统一人物参考图时；分两阶段：先生成角色母版定妆照，再基于母版生成多视角设定研究板；支持写实、动漫、游戏 CG、概念插画等所有风格。",
+  "inputType": "第一阶段：人物小传文本；第二阶段：母版参考图 + 角色定位信息（角色定位、世界观、职业身份、族属/阵营/来源、当前状态、必须保留的特征、必须避免的方向、输出用途、画幅、视角数量）。",
+  "outputContent": "第一阶段：指定风格的角色中景母版图（定妆照）；第二阶段：横向超宽画布的多视角角色设定研究板（含全身视图、头部多角度、表情研究等八大模块）。",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/acb2f6d591cb4f358323a3497f88c43d/7c18213871c820c4d4c1f6799dbad5c5c96fc639.png",
+  "resultType": 2,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=e717760be4f74b168d7e7624faa69ded",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/acb2f6d591cb4f358323a3497f88c43d/7c18213871c820c4d4c1f6799dbad5c5c96fc639.png"
+  ],
+  "hasPublicSkillContent": true
+}

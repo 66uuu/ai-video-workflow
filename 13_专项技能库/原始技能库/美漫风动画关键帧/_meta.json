@@ -1,0 +1,32 @@
+{
+  "name": "美漫风动画关键帧",
+  "templateUuid": "13a32aed299547bc9903fd677c110d10",
+  "skillUuid": "5d0d542800e748e88edab22989f6a943",
+  "skillKey": "american-comic-keyframe-949e10ec37d74ca9aa728145429a64fd",
+  "version": "1.0.0",
+  "namespace": "libtv-user-generated",
+  "description": "一键生成粗描边、赛璐璐上色、强透视与高动态的原创美漫动画关键",
+  "author": "金宝KINGBOW",
+  "ownerId": 8595777,
+  "tags": [],
+  "likeCount": 7,
+  "usePv": 7,
+  "useUv": 5,
+  "publishAt": "2026-07-22 14:01:32",
+  "snapshotId": 29777,
+  "useScenario": "适用于原创超级英雄、科幻冒险、都市追逐、魔法战斗、怪物对决、角色出场、短动画宣传图和美漫风视频关键帧创作。",
+  "inputType": "输入角色身份、外观、动作、场景、情绪和希望的画幅即可。\n例如：一名操控火焰的街头英雄，从雨夜霓虹大楼顶端跃下，追击机械怪物，红橙与蓝紫色对比，横向16:9。\n也可以上传参考图，并说明需保留的角色姿势、构图、色彩或场景氛围。",
+  "outputContent": "输出一张原创美漫动画风单张关键帧：具有粗黑描边、赛璐璐色块、网点纹理、强动态姿势和电影化镜头构图；默认横向 16:9，无文字、无 Logo、无水印。",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/949e10ec37d74ca9aa728145429a64fd/aa65de90a7d537c274bc425f63e1fafbae9ac5eb.png",
+  "resultType": 2,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=13a32aed299547bc9903fd677c110d10",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/949e10ec37d74ca9aa728145429a64fd/aa65de90a7d537c274bc425f63e1fafbae9ac5eb.png"
+  ],
+  "hasPublicSkillContent": true
+}

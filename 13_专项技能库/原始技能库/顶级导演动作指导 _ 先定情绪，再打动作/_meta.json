@@ -1,0 +1,35 @@
+{
+  "name": "顶级导演动作指导 | 先定情绪，再打动作",
+  "templateUuid": "a96ab08f533346239d0d8d006635eac7",
+  "skillUuid": "33fc5927230540f49eeb38fd630afbc1",
+  "skillKey": "emotion-action-director-074be3667ece41bc8993cea11c99240e",
+  "version": "1.0.3",
+  "namespace": "libtv-user-generated",
+  "description": "一句话定情绪，5秒绝杀打斗，零穿模，一招定生死。",
+  "author": "杭州金包银批发总部",
+  "ownerId": 10465270,
+  "tags": [],
+  "likeCount": 2,
+  "usePv": 6,
+  "useUv": 6,
+  "publishAt": "2026-09-22 19:59:36",
+  "snapshotId": 49254,
+  "useScenario": "专为影视级动作短片、短剧、漫剧打斗场次、品牌TVC特效、非遗/IP神话宣传打造。\n告别AI动作戏“穿模”、“打斗像跳舞”、“一打多全崩”的行业痛点。适用于需要展现极强物理真实感、痛感与电影级审美的拍摄需求。任何人只需一句话情绪动机，即可获得具有“院线级”质感的动作大片。",
+  "inputType": "只需输入一句“为什么打”的情绪动机 + 主角三视图 + 场景图。\n（示例：九世轮回，她为爱而战；或：她为守护祖传国宝而战；或：他为了复仇杀回黑帮）\n输入后，系统会自动强制调用【父级：顶级大导演思维 | 观众为什么愿意看下一秒】的16个MD文件与100张导演决策卡，并严格按照《先定情绪，再打动作》的工业化流程，自动完成5秒绝杀分镜拆解、物理因果链锁定与音效设计。",
+  "outputContent": "交付一部具有院线级质感的完整动作短片（参考《守约》88秒实例）。\n包含：\n\n完整的电影级动作成片（零穿模、零变形）。\n\n对应画面的分镜脚本。\n\n纯物理音效设计方案（无BGM，骨裂/闷响/古钟声）。\n\n可直接复制的【画布标准化生产工作流】（资产锚点库），支持用户一键换皮。",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/074be3667ece41bc8993cea11c99240e/2c244c8cc128af965cdc0c76a5c4fecf122e5bdb.png",
+  "resultType": 3,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=a96ab08f533346239d0d8d006635eac7",
+  "files": [
+    "SKILL.md",
+    "副文件01：题材专属_视觉语法库（通用模板版）.md",
+    "副文件02：产品植入_防崩与锚定指令（通用模板版）.md",
+    "副文件03：神话，非遗，场景_资产锚点库（通用模板版）.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/074be3667ece41bc8993cea11c99240e/950fd66dcb8914b686086dacdfa8bdefdeb43e22.mp4"
+  ],
+  "hasPublicSkillContent": true
+}

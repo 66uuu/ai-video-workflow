@@ -1,0 +1,39 @@
+{
+  "name": "电影短片分镜 Skill",
+  "templateUuid": "439f5949becb40f79062391c23c276a4",
+  "skillUuid": "9eb0dbbffa3c435abd59e69c8f9c2a1e",
+  "skillKey": "cinematic-storyboard-generator-9f8ed6ffb60e4997b1c419b62349c607",
+  "version": "1.0.2",
+  "namespace": "libtv-user-generated",
+  "description": "专业电影级分镜图片生成（避免自动化视频浪费API）",
+  "author": "Nononon",
+  "ownerId": 9253906,
+  "tags": [],
+  "likeCount": 14,
+  "usePv": 18,
+  "useUv": 14,
+  "publishAt": "2026-08-01 12:07:36",
+  "snapshotId": 32534,
+  "useScenario": "影视级别短片、漫剧、广告片、MV等",
+  "inputType": "故事输入 →skill产出(节拍+文字分镜+prompt) →生图工具执行prompt →分镜图片交付",
+  "outputContent": "单镜PNG图片（每镜一张）—— 带有镜号、时长、景别标注、台词字幕条、运动箭头的分镜图\n    - 命名：storyboard-{项目名}-S{场号}-{镜号}.png\n    - 例：storyboard-thriller-S01-03.png\n  2. 分镜表长图 ——每场镜头按镜号横向排列拼成的多格分镜表（storyboard sheet），方便整体浏览\n    - 命名：storyboar",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/9f8ed6ffb60e4997b1c419b62349c607/8ae7b2c7a0136b32c8cdbb610a32107b49c63490.png",
+  "resultType": 2,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=439f5949becb40f79062391c23c276a4",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/9f8ed6ffb60e4997b1c419b62349c607/ae6997255e40e97a123dcff6dac137e9ddf87903.png",
+    "https://www.liblib.tv/canvas/chat-share?shareId=NXlZa7Ngnx",
+    "https://libtv-res.liblib.art/upload-images/9f8ed6ffb60e4997b1c419b62349c607/b7d0cbfc786ea67de376090bc418bcb99a2029a0.png",
+    "https://www.liblib.tv/canvas/chat-share?shareId=NXlZa7Ngnx",
+    "https://libtv-res.liblib.art/upload-images/9f8ed6ffb60e4997b1c419b62349c607/8ae7b2c7a0136b32c8cdbb610a32107b49c63490.png",
+    "https://www.liblib.tv/canvas/chat-share?shareId=NXlZa7Ngnx",
+    "https://libtv-res.liblib.art/upload-images/9f8ed6ffb60e4997b1c419b62349c607/fffa0e3962f503b7af7a65cdd18e1fa0fed50762.png",
+    "https://www.liblib.tv/canvas/chat-share?shareId=Ay05Rui2bf"
+  ],
+  "hasPublicSkillContent": true
+}

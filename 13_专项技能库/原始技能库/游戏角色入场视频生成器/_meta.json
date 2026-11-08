@@ -1,0 +1,32 @@
+{
+  "name": "游戏角色入场视频生成器",
+  "templateUuid": "fe17bf8cb6c6459ebd748705d213abe3",
+  "skillUuid": "bf855e3e1dfd4038a2756d1d519a4fc2",
+  "skillKey": "game-character-entrance-video-e5c05143074646b7ae70a88b81ec6c2a",
+  "version": "1.0.1",
+  "namespace": "libtv-user-generated",
+  "description": "上传任意游戏角色图，AI自动识别角色美术风格",
+  "author": "星美Fine",
+  "ownerId": 773892,
+  "tags": [],
+  "likeCount": 5,
+  "usePv": 3,
+  "useUv": 3,
+  "publishAt": "2026-08-04 22:19:03",
+  "snapshotId": 33379,
+  "useScenario": "用户上传游戏角色图，需要快速生成风格匹配的游戏入场宣传视频；适用于游戏宣传、角色展示、短视频内容创作等场景。",
+  "inputType": "自由输入玩家ID、等级、装备名称、场景偏好，上传图片生成视频",
+  "outputContent": "自动识别角色风格(赛博朋克/奇幻/现代/科幻等),智能匹配对应UI、装备、场景与色调,生成15秒连贯入场视频。可自定义玩家ID、等级、装备名称、场景偏好。",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/e5c05143074646b7ae70a88b81ec6c2a/40ccea7b7eb1ce77a0d533773a2a1ff55c9cf312.png",
+  "resultType": 3,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=fe17bf8cb6c6459ebd748705d213abe3",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/e5c05143074646b7ae70a88b81ec6c2a/be7b4d70c26505371489c280dc77577f160409ed.mp4"
+  ],
+  "hasPublicSkillContent": true
+}

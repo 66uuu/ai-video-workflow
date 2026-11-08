@@ -1,0 +1,35 @@
+{
+  "name": "全能变身特效视频",
+  "templateUuid": "70229d2548bc409ab473811b731cfd53",
+  "skillUuid": "646c4b43e31e4239a429ec31efb6117a",
+  "skillKey": "dual-image-to-video-6fe77fcad9614c799944a901d1cc568a",
+  "version": "1.0.0",
+  "namespace": "libtv-user-generated",
+  "description": "双图生成多风格全能变身特效视频",
+  "author": "JACKPOORS",
+  "ownerId": 1010805,
+  "tags": [],
+  "likeCount": 15,
+  "usePv": 12,
+  "useUv": 8,
+  "publishAt": "2026-09-05 20:17:49",
+  "snapshotId": 43706,
+  "useScenario": "需要制作人物变身、变装、变形、风格变换等各类特效视频时使用，支持服装换装、超级英雄变身、动漫风格转换、年龄变化、季节/场景切换等多种变身类型",
+  "inputType": "人物/角色锚定图（图片A）、变身目标图（图片B），以及变身类型和特效描述词",
+  "outputContent": "一段包含多风格变身过渡特效的视频片段",
+  "coverUrl": "https://libtv-res.liblib.art/sd-gen-save-img/genius_playground/image/6fe77fcad9614c799944a901d1cc568a/884641585_c6a97f42bad24f8bbd315872b13daa1e.png",
+  "resultType": 3,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=70229d2548bc409ab473811b731cfd53",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/6fe77fcad9614c799944a901d1cc568a/4d5d01c54fd7d1941e57aca81f8bf4d6cc5a3e19.mp4",
+    "https://libtv-res.liblib.art/upload-images/6fe77fcad9614c799944a901d1cc568a/b59631750b3ecdda00c2105273d49ac9abf082bf.mp4",
+    "https://libtv-res.liblib.art/upload-images/6fe77fcad9614c799944a901d1cc568a/9de09bcd0567df4a45231d7b90d7167359063da0.mp4",
+    "https://libtv-res.liblib.art/upload-images/6fe77fcad9614c799944a901d1cc568a/cf525b9f97160994a7905562d3e6c69aed9f4e33.mp4"
+  ],
+  "hasPublicSkillContent": true
+}

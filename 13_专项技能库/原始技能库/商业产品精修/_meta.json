@@ -1,0 +1,34 @@
+{
+  "name": "商业产品精修",
+  "templateUuid": "d559026bec674bd5803a8bebd803ee11",
+  "skillUuid": "ea0cb4f991474aab9da8e2c01bf8453c",
+  "skillKey": "commercial-product-retoucher-6fe77fcad9614c799944a901d1cc568a",
+  "version": "1.0.2",
+  "namespace": "libtv-user-generated",
+  "description": "适用于各类电商产品精修",
+  "author": "JACKPOORS",
+  "ownerId": 1010805,
+  "tags": [],
+  "likeCount": 10,
+  "usePv": 10,
+  "useUv": 9,
+  "publishAt": "2026-07-24 12:50:58",
+  "snapshotId": 30340,
+  "useScenario": "针对于商业产品图片专业精修，面向电商静物、3C数码、美妆、首饰、家居等品类，完成透视校正、瑕疵清理、光影重构、材质质感还原、色彩校准、背景优化，输出符合电商商用标准产品图。",
+  "inputType": "上传产品图片，skill触发关键词：（产品精修、商品修图、白底图精修、静物精修、电商图片修图、高低频修图、产品图片调色）",
+  "outputContent": "产品精修图，电商产品修图",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/6fe77fcad9614c799944a901d1cc568a/5051b7380244e92a31bda5985ff9c923e7e8047d.png",
+  "resultType": 2,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=d559026bec674bd5803a8bebd803ee11",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/6fe77fcad9614c799944a901d1cc568a/33031e3936097b90c75cddab983a2922ad10cce8.png",
+    "https://libtv-res.liblib.art/upload-images/6fe77fcad9614c799944a901d1cc568a/afe716b14442b9f7ccf24dfde1a3f593a4f8be15.png",
+    "https://libtv-res.liblib.art/upload-images/6fe77fcad9614c799944a901d1cc568a/5051b7380244e92a31bda5985ff9c923e7e8047d.png"
+  ],
+  "hasPublicSkillContent": true
+}

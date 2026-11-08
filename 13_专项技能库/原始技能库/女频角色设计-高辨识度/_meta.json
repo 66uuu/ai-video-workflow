@@ -1,0 +1,35 @@
+{
+  "name": "女频角色设计-高辨识度",
+  "templateUuid": "d65f4bf84d37475db77f5107dff0df8a",
+  "skillUuid": "d1da464f31d44a49953728c679a4f2f7",
+  "skillKey": "female-drama-character-visual-developer-9d59e4f8c2af4bb9b1f4f4d2692df421",
+  "version": "1.0.2",
+  "namespace": "libtv-user-generated",
+  "description": "从剧本人设出发，打造高辨识度、不撞脸、可持续复用的AI仿真人",
+  "author": "130****0233",
+  "ownerId": 9774347,
+  "tags": [],
+  "likeCount": 12,
+  "usePv": 20,
+  "useUv": 13,
+  "publishAt": "2026-09-10 13:54:49",
+  "snapshotId": 44949,
+  "useScenario": "适用于仿真人女频短剧、短片、影视项目的角色视觉开发。当剧本中的男女主及重要配角形象不够具体、容易生成模板脸、角色之间辨识度不足，或需要从人物身份、性格、经历反推外貌、发型与气质时使用。也适用于已有角色设定但需要进一步建立高辨识度母脸和统一角色资产的情况。",
+  "inputType": "提供完整剧本、剧情梗概、角色介绍或已有角色设定。AI先识别角色并建立角色清单，再逐步生成角色小传、视觉解码、Face DNA与发型DNA；每个阶段均可补充或修改设定，确认后再生成英文母脸描述词、中文对照及角色多视图描述词。",
+  "outputContent": "分阶段输出角色清单、角色关系、角色小传、核心矛盾、视觉年龄、审美定位、骨相与五官设计、Face DNA、发型DNA、皮肤与身份纹理、默认表情、身形体态；确认角色视觉方案后，输出高辨识度英文母脸生成描述词及中文对照，最后基于已确认母脸输出正面、左右3/4侧面、左右侧脸等统一角色多视图描述词。",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/9d59e4f8c2af4bb9b1f4f4d2692df421/c1b1cf06b5a5b8613a52b83e769b234aaa411f04.png",
+  "resultType": 2,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=d65f4bf84d37475db77f5107dff0df8a",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/9d59e4f8c2af4bb9b1f4f4d2692df421/2668578d5b3a0e83667f7b4099bb76525d930b69.png",
+    "https://libtv-res.liblib.art/upload-images/9d59e4f8c2af4bb9b1f4f4d2692df421/8277e9959f290b5a7f27fca290b64e2118ee08d5.png",
+    "https://libtv-res.liblib.art/upload-images/9d59e4f8c2af4bb9b1f4f4d2692df421/a0418e1a9de6d5603f0b52f9fb9e855656359476.png",
+    "https://libtv-res.liblib.art/upload-images/9d59e4f8c2af4bb9b1f4f4d2692df421/91c4c4c0bf310a34ef5309a5789d1ba63a1dfc2c.png"
+  ],
+  "hasPublicSkillContent": true
+}

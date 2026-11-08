@@ -1,0 +1,32 @@
+{
+  "name": "赛璐璐风职业短片生成器",
+  "templateUuid": "96ca820abb9a47e28f0b360fa9f42aa9",
+  "skillUuid": "49a2012bc9854bdb86c995afd664fe7e",
+  "skillKey": "cel-shaded-animator-10f43772ef194fbda818c96f85af92b8",
+  "version": "1.0.1",
+  "namespace": "libtv-user-generated",
+  "description": "上传人物图+场景，生成15秒动画短片",
+  "author": "bkz不可知",
+  "ownerId": 60705,
+  "tags": [],
+  "likeCount": 3,
+  "usePv": 1,
+  "useUv": 1,
+  "publishAt": "2026-09-14 23:52:34",
+  "snapshotId": 46328,
+  "useScenario": "为真实人物生成有仪式感的职业短片，需要cel-shaded手绘质感+暖金光氛围+1镜连续叙事风格时使用",
+  "inputType": "人物参考图（必须）+ 职业/场景设定（必须）+ 动作节拍序列（可选）",
+  "outputContent": "15秒 cel-shaded 3D动画短片，1镜到底，人物外貌与参考图保持一致",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/10f43772ef194fbda818c96f85af92b8/b270aa718d386ad283495cf6b3b12e9e3859014c.png",
+  "resultType": 3,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=96ca820abb9a47e28f0b360fa9f42aa9",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/10f43772ef194fbda818c96f85af92b8/30555d61757e8274a6550e64cd5d4d6d6b7c0c4e.mp4"
+  ],
+  "hasPublicSkillContent": true
+}

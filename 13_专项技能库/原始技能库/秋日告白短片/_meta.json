@@ -1,0 +1,32 @@
+{
+  "name": "秋日告白短片",
+  "templateUuid": "99c604e7a68449f59ee25a4b878ae27a",
+  "skillUuid": "bcb161f7d1a848c7917fe86a2a4c73dc",
+  "skillKey": "autumn-confession-film-planner-e5c05143074646b7ae70a88b81ec6c2a",
+  "version": "1.0.2",
+  "namespace": "libtv-user-generated",
+  "description": "35秒日剧告白短片完整制作指南",
+  "author": "星美Fine",
+  "ownerId": 773892,
+  "tags": [],
+  "likeCount": 5,
+  "usePv": 1,
+  "useUv": 1,
+  "publishAt": "2026-08-01 09:21:39",
+  "snapshotId": 32504,
+  "useScenario": "生成日剧风格情感短片，特别是秋日告白类场景，适配可灵视频模型完整制作流程。整合v1/v2/v3全部调优经验：闭嘴负向词扩充、雪色控制、降雪量强化（铺天盖地/能见度降低/背景遮盖）、动作顺序约束（先说话再拥抱）、大远景构图（人物占画面1/5）、BGM生成与合成。",
+  "inputType": "上传人物图片加入以下文案：\n最简输入：\n帮我生成一个秋日告白短片，男孩在银杏树下向女孩告白，初雪时女孩回答。\n完整输入：\n女主角叫小夏，长发，穿卡其色风衣；男主角叫阿树，短发，藏蓝围巾。故事发生在京都枫叶季。关键台词：阿树说“从第一次见你，我就没想过别人”；小夏回答“我也是，从很久以前”。时长40秒。情绪从犹豫紧张到释然感动。",
+  "outputContent": "35秒成片视频，含7个分镜、5个锚点图片、日系弦乐钢琴BGM、完整日语台词表与后期声音合成指南。所有调优经验（闭嘴画外音、白雪控制、降雪量强化、动作顺序约束、大远景构图）均已整合。",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/e5c05143074646b7ae70a88b81ec6c2a/9ccfd993e8cc83b3eaa4ae920b57149d18bfc428.png",
+  "resultType": 3,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=99c604e7a68449f59ee25a4b878ae27a",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/e5c05143074646b7ae70a88b81ec6c2a/56e748cc4468467d98618c50ca530da88a44fd4f.MP4"
+  ],
+  "hasPublicSkillContent": true
+}

@@ -1,0 +1,43 @@
+{
+  "name": "AI漫剧提示词生成",
+  "templateUuid": "210364237a6c4608adf0f98c32e000bc",
+  "skillUuid": "e3992fb8254e4846b8264fcff37bb29e",
+  "skillKey": "manga-shot-planner-c28b613014f648aa9b2264500e7bf886",
+  "version": "1.0.6",
+  "namespace": "libtv-user-generated",
+  "description": "分析剧本后进行拆分生成，带角色绑定、场景、运镜、时长控制",
+  "author": "安逸",
+  "ownerId": 2293215,
+  "tags": [],
+  "likeCount": 137,
+  "usePv": 199,
+  "useUv": 100,
+  "publishAt": "2026-07-14 20:24:58",
+  "snapshotId": 27051,
+  "useScenario": "你手上有一份完整的 AI 漫剧剧本（含台词、动作描写、场景说明），需要把它交给即梦（Seedance）逐段生成视频分镜。但即梦不认识剧本格式——它需要每段 15 秒以内的、带角色绑定图和镜头指令的结构化提示词。手动拆段、配绑定区、算时长、写镜头语言，一套流程下来极其耗时且容易出错。这个技能就是自动化这一整套转换流程的。",
+  "inputType": "直接给出完整的漫剧剧本文本（台词+动作+场景），技能会先做人物关系分析和场景理解。可选告知是否需要修改默认核心设定（如风格用\"2",
+  "outputContent": "一份结构化的分段提示词文档，每段包含：① 原文对照区（剧本原文逐字保留，零删改）；② 角色绑定区（@图片1 场景、@图片2 起按优先级绑定出场角色）；③ 目前的状态（上段结尾的静态定格画面）；④ 核心需求（从起点出发推进剧情，含 【X到X秒】 格式的时间轴标记、镜头语言嵌入、微表情融合）。段落间以 --- 分隔，复制可直接逐段粘贴到即梦中生成。",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/c28b613014f648aa9b2264500e7bf886/4a538a1602a39e40a2b9fd8c1c668adbe49868a0.png",
+  "resultType": 3,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=210364237a6c4608adf0f98c32e000bc",
+  "files": [
+    "SKILL.md",
+    "references/人物关系分析模板.md",
+    "references/剧本样本.md",
+    "references/动态变化追踪表.md",
+    "references/即梦违禁词库.md",
+    "references/微表情数据库.md",
+    "references/时长估算参考.md",
+    "references/模板格式.md",
+    "references/空间层次示例库.md",
+    "references/规则说明.md",
+    "references/运镜体系参考.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/c28b613014f648aa9b2264500e7bf886/4c88783fd85eebf8429e9499ac3ac0226f472807.mp4",
+    "https://www.liblib.tv/canvas/chat-share?shareId=z6C7YLJsIH"
+  ],
+  "hasPublicSkillContent": true
+}

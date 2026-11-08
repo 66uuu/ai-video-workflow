@@ -1,0 +1,32 @@
+{
+  "name": "跨境服装AI视频SOP自动化流程",
+  "templateUuid": "e78b7fade7714d49b3c36088b49c5e14",
+  "skillUuid": "220ff8a067d54c5e9fb5fc45b902b9a9",
+  "skillKey": "ugc-fashion-video-planner-67dcdcf2a93c49aebde3a42fbc830e3e",
+  "version": "1.0.1",
+  "namespace": "libtv-user-generated",
+  "description": "通过一步步询问你的方式帮你挖掘出你想要的内容告诉AI具体方案",
+  "author": "199****1409",
+  "ownerId": 248883,
+  "tags": [],
+  "likeCount": 1,
+  "usePv": 2,
+  "useUv": 2,
+  "publishAt": "2026-09-16 05:48:25",
+  "snapshotId": 46716,
+  "useScenario": "For fashion sellers planning 30s UGC ads on TikTok Reels Shorts",
+  "inputType": "Product images front and back plus style info",
+  "outputContent": "English script, shot list, Hook options, reference images, final video",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/67dcdcf2a93c49aebde3a42fbc830e3e/b44dcb35d497db99477e3251e8de009ec1ba8ed9.png",
+  "resultType": 3,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=e78b7fade7714d49b3c36088b49c5e14",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/67dcdcf2a93c49aebde3a42fbc830e3e/b57bb85a8a410b376c0e862ae5ad6ff150e685f7.mp4"
+  ],
+  "hasPublicSkillContent": true
+}

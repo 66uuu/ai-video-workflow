@@ -1,0 +1,32 @@
+{
+  "name": "东方古典赛博机械传说",
+  "templateUuid": "1c30831ec20f4a94b7f2b2f957368726",
+  "skillUuid": "7d639fe3c33b4ee38aa81046fc00443e",
+  "skillKey": "oriental-cyber-mechanical-42a98d5f83a242568e1adfecc620ed3e",
+  "version": "1.0.0",
+  "namespace": "libtv-user-generated",
+  "description": "将中式东方美学与赛博机械感融合",
+  "author": "赛赛_Cecilia",
+  "ownerId": 4351068,
+  "tags": [],
+  "likeCount": 11,
+  "usePv": 6,
+  "useUv": 5,
+  "publishAt": "2026-07-29 12:35:06",
+  "snapshotId": 31663,
+  "useScenario": "东方建筑宏大场面，传统中式美学融入赛博风格机械式的未来奇幻感",
+  "inputType": "一句话内容梗概或想要的场景描述",
+  "outputContent": "40秒东方传奇机械风格，精美磅礴",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/42a98d5f83a242568e1adfecc620ed3e/7476c6a55ed9ee7d6b369f7dc6ec78001024eb0c.png",
+  "resultType": 3,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=1c30831ec20f4a94b7f2b2f957368726",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/42a98d5f83a242568e1adfecc620ed3e/f56fe39491810c01ab6bf8ee54ac8f2e824aa997.mp4"
+  ],
+  "hasPublicSkillContent": true
+}

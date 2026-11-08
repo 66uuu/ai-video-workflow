@@ -1,0 +1,32 @@
+{
+  "name": "短剧·导演级全流程编排",
+  "templateUuid": "c3b391f1944e411f90efacb2a0653601",
+  "skillUuid": "f20c4e2142654ecf97c79db4484392c3",
+  "skillKey": "short-drama-director-orchestrator-4a424605a3c547b19f949c2a36ad7126",
+  "version": "1.0.4",
+  "namespace": "libtv-user-generated",
+  "description": "短剧导演级全流程编排（专属版）",
+  "author": "超人强",
+  "ownerId": 10965648,
+  "tags": [],
+  "likeCount": 1,
+  "usePv": 9,
+  "useUv": 4,
+  "publishAt": "2026-09-05 17:36:39",
+  "snapshotId": 43682,
+  "useScenario": "输入短剧剧本，按专业导演工作流依次产出切点、分镜、资产、画布节点等全流程内容，视频节点不含字幕，每个镜头含光影描述",
+  "inputType": "短剧剧本文本（含场号、时间、地点、人物、服装、道具、动作、台词等结构信息）",
+  "outputContent": "切点清单、逐镜头分析（含光影描述）、分场剧本、全量资产清单、画布结构占位（无字幕视频节点）、文件记录",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/4a424605a3c547b19f949c2a36ad7126/791032efd607ccb31e2f39a7f8feee1e860765ce.png",
+  "resultType": 2,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=c3b391f1944e411f90efacb2a0653601",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/4a424605a3c547b19f949c2a36ad7126/791032efd607ccb31e2f39a7f8feee1e860765ce.png"
+  ],
+  "hasPublicSkillContent": true
+}

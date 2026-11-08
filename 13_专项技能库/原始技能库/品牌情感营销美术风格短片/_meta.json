@@ -1,0 +1,35 @@
+{
+  "name": "品牌情感营销美术风格短片",
+  "templateUuid": "c77d4b5852104d05a6bf36f6189b6afb",
+  "skillUuid": "23b13bb3c0b247c1b655866fd85fa82e",
+  "skillKey": "telecom-emotional-ad-creator-b18c2b05e2764e28ab28e57b519697f0",
+  "version": "1.0.1",
+  "namespace": "libtv-user-generated",
+  "description": "面向运营类情感营销广告片（如中国移动10086温情系列等）",
+  "author": "一元AIGC",
+  "ownerId": 381027,
+  "tags": [],
+  "likeCount": 22,
+  "usePv": 9,
+  "useUv": 5,
+  "publishAt": "2026-08-04 18:14:34",
+  "snapshotId": 33328,
+  "useScenario": "各类营销运营温情美术风格的场景（中国移动、电信、手机等）、AI创意场景、TVC、影视大片等",
+  "inputType": "一句话输入自己想要的基本故事即可",
+  "outputContent": "品牌情感营销美术风格短片",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/b18c2b05e2764e28ab28e57b519697f0/6cc04d4dec90588fb0ccd7144d49eb09b55c9665.png",
+  "resultType": 3,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=c77d4b5852104d05a6bf36f6189b6afb",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/b18c2b05e2764e28ab28e57b519697f0/518cc8764ecec5f4f336204ad2ed72acc65ec99b.mp4",
+    "https://libtv-res.liblib.art/upload-images/b18c2b05e2764e28ab28e57b519697f0/95781ce59a05e2239cee6c64b6b8f471ab561201.mp4",
+    "https://libtv-res.liblib.art/upload-images/b18c2b05e2764e28ab28e57b519697f0/bd96bcfbac79c920860aaef7adb925568353f1b2.mp4",
+    "https://libtv-res.liblib.art/upload-images/b18c2b05e2764e28ab28e57b519697f0/e5922c10e586dac0d0c4555350e5aaefc2328637.mp4"
+  ],
+  "hasPublicSkillContent": true
+}

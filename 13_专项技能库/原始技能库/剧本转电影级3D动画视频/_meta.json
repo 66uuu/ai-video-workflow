@@ -1,0 +1,32 @@
+{
+  "name": "剧本转电影级3D动画视频",
+  "templateUuid": "02549be003d141fb891398dcd518693c",
+  "skillUuid": "2ff297e427064ea5ab9ee4618a5bca08",
+  "skillKey": "script-to-cinematic-3d-8d012fbe5b224c7bab64318012900756",
+  "version": "1.0.1",
+  "namespace": "libtv-user-generated",
+  "description": "将剧本自动拆解为角色设定、场景设计等，最后生成完整视频方案。",
+  "author": "蛋白",
+  "ownerId": 10721429,
+  "tags": [],
+  "likeCount": 168,
+  "usePv": 253,
+  "useUv": 197,
+  "publishAt": "2026-09-14 09:46:35",
+  "snapshotId": 46024,
+  "useScenario": "适用于将短剧剧本、小说片段、故事大纲、分场剧情或一句话创意，快速转化为可执行的视频制作方案。尤其适合制作 AI 短剧、3D 动画短片、末世科幻短片、玄幻战斗短片、暗黑史诗预告片、竖屏高燃剧情视频、分镜脚本、AI 绘图提示词、AI 视频提示词、配音文案、音效方案和剪辑时间轴。",
+  "inputType": "如果没有说明，Skill 将默认按照 60-90 秒、竖屏 9:16、电影级 3D 动画质感进行生成。\n示例：\n“帮我把下面这个",
+  "outputContent": "1. 项目概览：片名、类型、时长、画幅、风格、核心卖点、开头钩子和结尾设计。\n2. 剧情优化版：将原始剧本改写成更适合视频呈现的版本。\n3. 角色设定表：包含外貌、服装、性格、武器、能力、表演关键词和统一提示词。\n4. 场景设定表：包含地点、视觉风格、光照、材质、氛围和关键元素。\n5. 分场脚本：将剧情拆分成可拍摄、可生成的视频场次。\n6. 详细分镜表：包含镜头时长、景别、运镜、画面内容\n等",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/8d012fbe5b224c7bab64318012900756/55d30a2d7091599783e4e07d0156805f7f50f8bc.jpeg",
+  "resultType": 2,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=02549be003d141fb891398dcd518693c",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/8d012fbe5b224c7bab64318012900756/55d30a2d7091599783e4e07d0156805f7f50f8bc.jpeg"
+  ],
+  "hasPublicSkillContent": true
+}

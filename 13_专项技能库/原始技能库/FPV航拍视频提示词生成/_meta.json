@@ -1,0 +1,32 @@
+{
+  "name": "FPV航拍视频提示词生成",
+  "templateUuid": "2d9a07edefeb42309a188c0b7fe17bae",
+  "skillUuid": "9e1bb2c966894caea9c476a85a92e9fe",
+  "skillKey": "fpv-trajectory-prompt-generator-4e762e8f4cdb4d8eae7e9cf12f06ad0d",
+  "version": "1.0.4",
+  "namespace": "libtv-user-generated",
+  "description": "上传轨迹图自动生成FPV提示词",
+  "author": "一只疑水鱼",
+  "ownerId": 2494497,
+  "tags": [],
+  "likeCount": 16,
+  "usePv": 39,
+  "useUv": 23,
+  "publishAt": "2026-08-24 21:55:53",
+  "snapshotId": 40319,
+  "useScenario": "用户有一张带红色轨迹标注的参考图（鸟瞰图、场景图等），想按照标注的飞行路径生成第一人称FPV航拍穿梭视频提示词，并可直接生成视频。",
+  "inputType": "带红色轨迹箭头标注的参考图，可选补充：风格、色调、速度、结尾方式。",
+  "outputContent": "完整的FPV航拍穿梭视频提示词，以及可直接生成的视频。",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/4e762e8f4cdb4d8eae7e9cf12f06ad0d/d7a6e5fae53626c6606059e361fe5e23e20c1768.png",
+  "resultType": 3,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=2d9a07edefeb42309a188c0b7fe17bae",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/4e762e8f4cdb4d8eae7e9cf12f06ad0d/316d49bce1441546d3f54d5ef4922eedd5bf0384.mp4"
+  ],
+  "hasPublicSkillContent": true
+}

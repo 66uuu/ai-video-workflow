@@ -1,0 +1,32 @@
+{
+  "name": "灰烬之城-年代黑帮剧创作",
+  "templateUuid": "6f2d15956d54421fa2957a52d80ef595",
+  "skillUuid": "4d6f82428b4b44489cbd66ee66a966d6",
+  "skillKey": "city-ashes-period-gangster-drama-fc2287d298214899b2ac4046fc9ebc81",
+  "version": "1.0.6",
+  "namespace": "libtv-user-generated",
+  "description": "基于《灰烬之城》原创年代黑帮连续剧的完整创作工作流。",
+  "author": "辣条",
+  "ownerId": 10192286,
+  "tags": [],
+  "likeCount": 1,
+  "usePv": 0,
+  "useUv": 0,
+  "publishAt": "2026-08-16 22:48:36",
+  "snapshotId": 37570,
+  "useScenario": "创作具有东方根源、年代感、家族权力主题的原创黑帮连续剧。用户提供剧情文本，AI负责世界观建立、锚点生成、分镜拆解、视频批量生成和成片合成。",
+  "inputType": "剧情文本、人物设定、对白、场景描述、风格参考图",
+  "outputContent": "锚点图片节点、分镜视频节点、BGM音频、旁白配音、合成成片",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/fc2287d298214899b2ac4046fc9ebc81/fdae2900c048d0b6d520f21f99cd2d20746b65ac.png",
+  "resultType": 3,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=6f2d15956d54421fa2957a52d80ef595",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/fc2287d298214899b2ac4046fc9ebc81/116ce0267e2ac70c48328a2ccdd5a01114f4423e.MOV"
+  ],
+  "hasPublicSkillContent": true
+}

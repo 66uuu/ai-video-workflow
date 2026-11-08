@@ -1,0 +1,32 @@
+{
+  "name": "西幻权谋",
+  "templateUuid": "9f20298267e24bd2ad7e17f102c01bd0",
+  "skillUuid": "3240293423e8421f8b40c9cd60fd5cf6",
+  "skillKey": "western-fantasy-intrigue-7f963bfbe1b04fe9abd98ff07e909231",
+  "version": "1.0.2",
+  "namespace": "libtv-user-generated",
+  "description": "生成国外真人AI短剧",
+  "author": "Indifirm",
+  "ownerId": 9682770,
+  "tags": [],
+  "likeCount": 9,
+  "usePv": 6,
+  "useUv": 4,
+  "publishAt": "2026-08-05 19:31:33",
+  "snapshotId": 33683,
+  "useScenario": "西幻权谋",
+  "inputType": "输入一句话剧情或题材即可。例如：一名现代人穿越到王朝末年的边关，附身在一名悍卒身上，在蛮族压境、权臣当道的绝境中逆袭。",
+  "outputContent": "约2分钟国外真人AI短剧制作方案。包含标题、类型、一句话卖点、默认规格、视觉风格（三色调色+BGM双面叙事）、三名明显欧洲人角色设定、角色四视图生成提示词、关键道具四视图生成提示词、至少两个复杂宏大建筑场景、场景生成提示词、核心剧情钩子、3-5秒或6-8秒短镜头分镜（含调色和BGM标签）、人物站位与朝向、中文对白及情绪注释、少量动作戏、运镜、音效、制作建议、禁止项和一致性约束。",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/7f963bfbe1b04fe9abd98ff07e909231/7e7a5c86d7f347cf7a02e2ebce503291a263ab5c.jpg",
+  "resultType": 3,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=9f20298267e24bd2ad7e17f102c01bd0",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/7f963bfbe1b04fe9abd98ff07e909231/cc4226de513f0710c1e19e068da85280d8b43e44.mp4"
+  ],
+  "hasPublicSkillContent": true
+}

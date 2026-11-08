@@ -1,0 +1,39 @@
+{
+  "name": "建筑建造生长动画视频",
+  "templateUuid": "5cc49a638f3a4d0a9139cfe2132a31ae",
+  "skillUuid": "6f607bcbb33940cf893aadc4af7fc60c",
+  "skillKey": "architectural-growth-animator-5e17f63c20b64ca1a5571efe67cc2d04",
+  "version": "1.0.3",
+  "namespace": "libtv-user-generated",
+  "description": "选择你想要的建筑，自动生成建筑的详细拆解图和建造组装视频",
+  "author": "刘不住Wander",
+  "ownerId": 759898,
+  "tags": [],
+  "likeCount": 67,
+  "usePv": 33,
+  "useUv": 28,
+  "publishAt": "2026-07-18 08:30:10",
+  "snapshotId": 28333,
+  "useScenario": "适合历史建筑、地标建筑、原创概念建筑和单体建筑模型展示。可用于建筑科普、文旅内容、设计汇报、城市地标短片、建筑品牌展示和 AI 建造过程视频。",
+  "inputType": "输入知名建筑名称，或上传一张单体建筑图片；可指定建筑风格和还原方向。Skill 会依次生成完整模型、结构拆解、材料构件和 8 格",
+  "outputContent": "输出建筑风格与结构分析、四张建筑参考资产、8 个连续建造阶段，以及一条共同引用四图的 15 秒建筑建造动画提示词。默认同步生成匹配建筑风格的无歌词 BGM 与构件装配音效方案。",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/5e17f63c20b64ca1a5571efe67cc2d04/ac64a8dfb2ed93fc1ca6f5b83ab0a8aef82fa4bb.png",
+  "resultType": 3,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=5cc49a638f3a4d0a9139cfe2132a31ae",
+  "files": [
+    "SKILL.md",
+    "references/building-style-adapter.md",
+    "references/construction-asset-pipeline.md",
+    "references/image-generation-fallback-policy.md",
+    "references/video-reference-policy.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/5e17f63c20b64ca1a5571efe67cc2d04/17b07c63bc50b6b70c5ba051de3cc01cae7487e8.mp4",
+    "https://libtv-res.liblib.art/upload-images/5e17f63c20b64ca1a5571efe67cc2d04/fc0f9a0d2e9cd921f9cab9cc5cb7660980dae3a8.mp4",
+    "https://libtv-res.liblib.art/upload-images/5e17f63c20b64ca1a5571efe67cc2d04/9b0963a40bca1b5f9de021589705cc1093f7fd60.mp4",
+    "https://libtv-res.liblib.art/upload-images/5e17f63c20b64ca1a5571efe67cc2d04/0261f38d6c5cfcb3a97e951c7dee42687a461c1e.mp4"
+  ],
+  "hasPublicSkillContent": true
+}

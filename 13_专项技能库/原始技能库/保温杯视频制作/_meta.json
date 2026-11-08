@@ -1,0 +1,32 @@
+{
+  "name": "保温杯视频制作",
+  "templateUuid": "5b108585435f4de1a2073ef6d28d641b",
+  "skillUuid": "6559f67172044dde80fecfa7a1702f73",
+  "skillKey": "vacuum-flask-ad-creator-6378f150f7974ef8a1c34c89e6e4c75b",
+  "version": "1.0.2",
+  "namespace": "libtv-user-generated",
+  "description": "输入白底图细节图就可以一键生成产品视频",
+  "author": "hhhhhhhh",
+  "ownerId": 2932086,
+  "tags": [],
+  "likeCount": 11,
+  "usePv": 64,
+  "useUv": 6,
+  "publishAt": "2026-08-04 12:58:47",
+  "snapshotId": 33167,
+  "useScenario": "用于电商产品视觉制作场景，根据产品图片快速生成卖点展示视频方案。适用于保温杯、家居用品、美妆、3C产品等需要展示外观、结构、功能、细节和使用场景的产品视频制作。",
+  "inputType": "上传产品白底图、细节图或场景图，并提**品卖点信息。Skill 会根据产品特点自动规划视频结构，包括外观展示、结构拆解、功能演示、细节特写、底部展示、人物使用场景等内容，并生成完整的视频分镜脚本和AI视频生成提示词。",
+  "outputContent": "输出一套完整的产品卖点展示视频方案，包括视频定位、镜头顺序、画面描述、镜头运动、卖点展示方式以及AI视频生成提示词。最终产出可直接用于电商详情页、短视频平台、广告投放的视频制作参考。",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/6378f150f7974ef8a1c34c89e6e4c75b/cf5b4ff45ffe4a7c6484075588990e354a2183bd.png",
+  "resultType": 3,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=5b108585435f4de1a2073ef6d28d641b",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/6378f150f7974ef8a1c34c89e6e4c75b/921d6dff551a9fe1770accf090c9a934f9373622.mp4"
+  ],
+  "hasPublicSkillContent": true
+}

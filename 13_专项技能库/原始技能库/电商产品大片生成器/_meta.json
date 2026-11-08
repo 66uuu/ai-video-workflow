@@ -1,0 +1,35 @@
+{
+  "name": "电商产品大片生成器",
+  "templateUuid": "464d5bb1efa841108782763d9b0c332b",
+  "skillUuid": "14fe5c80145c4924ab29aea95b5ba3ec",
+  "skillKey": "ecommerce-product-video-planner-f1cd68423b354abba991fe16eb70fb0a",
+  "version": "1.0.1",
+  "namespace": "libtv-user-generated",
+  "description": "输入产品品类与卖点，一键生成电影级电商主图视频方案，自动匹配",
+  "author": "Devilworld",
+  "ownerId": 610387,
+  "tags": [],
+  "likeCount": 51,
+  "usePv": 66,
+  "useUv": 54,
+  "publishAt": "2026-07-16 15:55:16",
+  "snapshotId": 27737,
+  "useScenario": "电商主图视频制作、产品种草短片、品牌新品发布、抖音好物分享、直播间产品切片、详情页动态展示",
+  "inputType": "输入产品品类和核心卖点，选择偏好的风格调性，即可获得一套专业的产品视频拍摄与生成方案。",
+  "outputContent": "产品分镜脚本 + 每镜AI生成提示词 + 布光运镜方案 + 配乐字幕建议的完整电商视频制作文档",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/f1cd68423b354abba991fe16eb70fb0a/c269e3e346bddc1dd022793004e1d6961d0ced3b.png",
+  "resultType": 3,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=464d5bb1efa841108782763d9b0c332b",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/f1cd68423b354abba991fe16eb70fb0a/358be8a46e871d5dbcdc9960b4a1976fdeb8f432.mp4",
+    "https://www.liblib.tv/canvas/share?spaceId=2908882&projectId=5c95612c643f4461ba7bcf7a4c22a4ab",
+    "https://libtv-res.liblib.art/upload-images/f1cd68423b354abba991fe16eb70fb0a/4b8d3dbe0e91dd8e4a3d10ff6bab9a749a664e1c.mp4",
+    "https://www.liblib.tv/canvas/share?spaceId=2946671&projectId=5d7bc99bf9a446af8c8e45ee36d1d3df"
+  ],
+  "hasPublicSkillContent": true
+}

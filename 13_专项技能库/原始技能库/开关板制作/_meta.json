@@ -1,0 +1,32 @@
+{
+  "name": "开关板制作",
+  "templateUuid": "927c64f46b844b1d83b6384b42c399b3",
+  "skillUuid": "f7f6fda8f6484fd6850273993bc62886",
+  "skillKey": "drama-slate-builder-a7eddd38119f4cd596d6710c9a9bb753",
+  "version": "1.0.9",
+  "namespace": "libtv-user-generated",
+  "description": "一键生成大剧开关板",
+  "author": "Daemon",
+  "ownerId": 2065630,
+  "tags": [],
+  "likeCount": 1,
+  "usePv": 4,
+  "useUv": 2,
+  "publishAt": "2026-08-11 10:47:32",
+  "snapshotId": 35693,
+  "useScenario": "大剧开关板",
+  "inputType": "大剧开关板",
+  "outputContent": "1个背景底图，1张开板图，1张关板图，1个2s以内的开板视频，1个2s以内的关板视频",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/a7eddd38119f4cd596d6710c9a9bb753/78deca1c88d6edafb4e08b3f1bc548ada6ed3837.png",
+  "resultType": 2,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=927c64f46b844b1d83b6384b42c399b3",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/a7eddd38119f4cd596d6710c9a9bb753/f44780ed39c9a568d0a91bbe112ceb57c7e5f562.png"
+  ],
+  "hasPublicSkillContent": true
+}

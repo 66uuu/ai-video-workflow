@@ -1,0 +1,34 @@
+{
+  "name": "AE动态音乐海报",
+  "templateUuid": "c67a63ab95874675bea83105831cff08",
+  "skillUuid": "d025550b120941d3a4d2d0cb2fae84c7",
+  "skillKey": "dark-tide-music-visualizer-e5c05143074646b7ae70a88b81ec6c2a",
+  "version": "1.0.2",
+  "namespace": "libtv-user-generated",
+  "description": "上传参考图作为首帧，一键生成15秒连贯海报音乐视觉短片。",
+  "author": "星美Fine",
+  "ownerId": 773892,
+  "tags": [],
+  "likeCount": 17,
+  "usePv": 9,
+  "useUv": 9,
+  "publishAt": "2026-08-05 01:07:45",
+  "snapshotId": 33414,
+  "useScenario": "用户上传暗潮/赛博/地下音乐风格等海报图片，需要生成15秒动态视频海报；支持单图首帧、全能参考，首尾帧双图锁定两种模式；文案、配色、音乐类型、片尾署名均可自定义。",
+  "inputType": "参考图（1-2张）+ 可选文案/配色/音乐类型/片尾署名",
+  "outputContent": "15秒暗潮风格动态海报视频，包含：海报元素解析报告、文案配色确认、完整Minimax H3提示词、配色参考表",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/e5c05143074646b7ae70a88b81ec6c2a/393cc1e84a3d0a8b78e2074c81c8485016ebbd02.jpg",
+  "resultType": 3,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=c67a63ab95874675bea83105831cff08",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/e5c05143074646b7ae70a88b81ec6c2a/42d66b358265fcc990bb6087632cded94de7c4e2.mp4",
+    "https://libtv-res.liblib.art/upload-images/e5c05143074646b7ae70a88b81ec6c2a/e3024af8cce724816adb5fa7225a55e0ff35c2fb.mp4",
+    "https://libtv-res.liblib.art/upload-images/e5c05143074646b7ae70a88b81ec6c2a/1f0b5a6fffe824c5cfaefcfc6c474c9c9a890c69.mp4"
+  ],
+  "hasPublicSkillContent": true
+}

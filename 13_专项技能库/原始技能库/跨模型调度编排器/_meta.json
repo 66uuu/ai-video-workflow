@@ -1,0 +1,32 @@
+{
+  "name": "跨模型调度编排器",
+  "templateUuid": "ebfce03188e54632b01ff07f68a01f4d",
+  "skillUuid": "dfbb5e0224ce486baf9831695fe016b1",
+  "skillKey": "multi-model-orchestrator-3f04004128804c279b27eb0ea6781ed1",
+  "version": "1.0.0",
+  "namespace": "libtv-user-generated",
+  "description": "分镜一键生成多模型最优调度蓝图",
+  "author": "JokerLL",
+  "ownerId": 10925824,
+  "tags": [],
+  "likeCount": 3,
+  "usePv": 0,
+  "useUv": 0,
+  "publishAt": "2026-07-25 02:06:59",
+  "snapshotId": 30545,
+  "useScenario": "需要用多个AI视频模型协作完成一段完整视频时，输入分镜列表，自动生成每个镜头的最优模型分配方案",
+  "inputType": "输入分镜脚本或场景列表→系统拆解每个镜头的运动强度/一致性/特效需求→匹配模型能力矩阵→输出调度蓝图含路由表/工作流链/降级方案",
+  "outputContent": "分镜-模型路由表、工作流链类型、一致性锚点配置、积分消耗预估、并行批次规划、失败恢复预案",
+  "coverUrl": null,
+  "resultType": 1,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=ebfce03188e54632b01ff07f68a01f4d",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/3f04004128804c279b27eb0ea6781ed1/95b1ce61aed846ab14de08fc40aecfcf1e8aafb2.md"
+  ],
+  "hasPublicSkillContent": true
+}

@@ -1,0 +1,32 @@
+{
+  "name": "暗黑悬疑漫剧全流程导演",
+  "templateUuid": "11cb8a209d784b36b7cc802025a1238d",
+  "skillUuid": "af86ee35837945e5a919f8de01ca1f7d",
+  "skillKey": "dark-suspense-comic-director-3f04004128804c279b27eb0ea6781ed1",
+  "version": "1.0.2",
+  "namespace": "libtv-user-generated",
+  "description": "从一句话灵感到成片，一键完成暗黑悬疑风格AI漫剧的剧本、分镜",
+  "author": "JokerLL",
+  "ownerId": 10925824,
+  "tags": [],
+  "likeCount": 8,
+  "usePv": 10,
+  "useUv": 8,
+  "publishAt": "2026-07-24 22:58:08",
+  "snapshotId": 30524,
+  "useScenario": "适用于短视频创作者、短剧制作团队、自媒体运营者需要快速生成暗黑悬疑风格AI漫剧的场景。用户可能有一个故事灵感但缺乏完整的制作流程和工具操作经验，通过该Skill可以一键完成从创意到成片的全链路制作。特别适合：悬疑/恐怖/规则怪谈类短视频创作、番茄短故事可视化改编、抖音/快手悬疑短剧批量生产、品牌暗黑风格TVC创作。",
+  "inputType": "用户输入一句话故事想法即可开始。例如：\"一个夜班外卖员接到一单送到4楼的订单，但那栋楼只有3层\"。可选提供画风偏好（暗黑写实/水墨国风/赛博朋克）、时长偏好（60/90/180秒）、主角设定等附加信息。Skill会自动完成剧本创作→分镜规划→画面生成→配音音效→剪辑合成的完整流程，最终输出成片及配套脚本。",
+  "outputContent": "1. 完整暗黑悬疑短剧本（含场景描述、对话、音效标注）\n2. 分镜脚本（3-8个分镜，含景别/运镜/画面/时长/转场）\n3. AI漫剧成片视频（60-180秒，含字幕和配音）\n4. 各分镜画面生成prompt记录（方便用户复用和调整）",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/3f04004128804c279b27eb0ea6781ed1/0458e1cb2c5df5db0c4b311dfbe5007899ad3bf1.jpg",
+  "resultType": 3,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=11cb8a209d784b36b7cc802025a1238d",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/3f04004128804c279b27eb0ea6781ed1/2cb7d155cb518ae04c26ed0742d39ba6f3d68144.mp4"
+  ],
+  "hasPublicSkillContent": true
+}

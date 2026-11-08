@@ -1,0 +1,32 @@
+{
+  "name": "明亮手绘拼贴风绘本",
+  "templateUuid": "b0c54a8993bd49ccb7db899988b180c0",
+  "skillUuid": "87558b43222f47678e805ee3ff5a2d2b",
+  "skillKey": "bright-hand-drawn-collage-42a98d5f83a242568e1adfecc620ed3e",
+  "version": "1.0.0",
+  "namespace": "libtv-user-generated",
+  "description": "现实对象变被阳光晒热的手工海报，带有童真风格的趣味拼贴绘本",
+  "author": "赛赛_Cecilia",
+  "ownerId": 4351068,
+  "tags": [],
+  "likeCount": 9,
+  "usePv": 8,
+  "useUv": 8,
+  "publishAt": "2026-07-31 15:15:29",
+  "snapshotId": 32358,
+  "useScenario": "适用于童话绘本，商业海报设计，童真手绘风格，课件PPT",
+  "inputType": "上传任意物品主题照片或一句话描述主体形状",
+  "outputContent": "40秒手绘风格拼贴动画",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/42a98d5f83a242568e1adfecc620ed3e/e80d70c7218ddc602fe107168a45e63347321450.png",
+  "resultType": 3,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=b0c54a8993bd49ccb7db899988b180c0",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/42a98d5f83a242568e1adfecc620ed3e/c1e749909a00b5617fc1322ab2fde424499c331e.mp4"
+  ],
+  "hasPublicSkillContent": true
+}

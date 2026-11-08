@@ -1,0 +1,32 @@
+{
+  "name": "赛博朋克动画故事短片导演",
+  "templateUuid": "8f7b8a12eb0b44d8b41b08ca65fa868d",
+  "skillUuid": "ab66243bb695420d8d0af6febf2c77c1",
+  "skillKey": "cyberpunk-animation-director-ef77fa37cc044640a7aadddfe3022cb9-ab66243b",
+  "version": "1.0.0",
+  "namespace": "libtv-user-generated",
+  "description": "输入一个故事创意，一键生成电影级赛博朋克动画短片。",
+  "author": "视觉新青年",
+  "ownerId": 4364112,
+  "tags": [],
+  "likeCount": 13,
+  "usePv": 8,
+  "useUv": 7,
+  "publishAt": "2026-07-16 12:58:01",
+  "snapshotId": 27654,
+  "useScenario": "AI动画短片创作\n\n适合制作：\n\n科幻动画故事\n未来城市冒险\n机器人剧情\nAI世界观短片\n未来战争故事\n\n例如：\n\n“一个机器人在废弃城市寻找自己的创造者”\n\n自动生成完整动画电影方案。",
+  "inputType": "输入你的创意\n\n只需要告诉AI：\n\n你想讲什么故事。\n\n例如：\n\n“未来城市里，一个维修机器人意外发现人类留下的秘密。”\n\n无需",
+  "outputContent": "Skill会生成完整动画制作方案：世界观设定、角色设计、完整剧情、电影级分镜脚本、AI视频生成Prompt、运镜设计",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/ef77fa37cc044640a7aadddfe3022cb9/5b7eee2a3959a4d2e332d34932616f831454ba1f.png",
+  "resultType": 3,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=8f7b8a12eb0b44d8b41b08ca65fa868d",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/ef77fa37cc044640a7aadddfe3022cb9/b24fa85b32bb23d6472cd98ec9baeed4882d4ba6.mp4"
+  ],
+  "hasPublicSkillContent": true
+}

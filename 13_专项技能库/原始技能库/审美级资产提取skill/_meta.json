@@ -1,0 +1,32 @@
+{
+  "name": "审美级资产提取skill",
+  "templateUuid": "80bb5d78741f429da4ef48e6161b2b99",
+  "skillUuid": "069042eb69af49b4947b40561cd68b70",
+  "skillKey": "aesthetic-asset-extractor-1fabd7e3958345a893d8d7e4a37868f0",
+  "version": "1.0.0",
+  "namespace": "libtv-user-generated",
+  "description": "不仅能够提取资产，还嵌入了很多美术和其他辅助创作功能（多视图",
+  "author": "AIGC佬猫",
+  "ownerId": 1096368,
+  "tags": [],
+  "likeCount": 26,
+  "usePv": 28,
+  "useUv": 20,
+  "publishAt": "2026-07-18 00:29:43",
+  "snapshotId": 28296,
+  "useScenario": "资产创作效果不理想，没有美感，提供人设多视图多锁定资产提示词。",
+  "inputType": "放入剧本，开始即可。",
+  "outputContent": "降低专业门槛：内嵌了美术专业知识（如画风判定、材质描述），防止AI“自由发挥，消灭模糊描述，避免资产遗漏，统一批量生产标准。\n它把杂乱的小说情节，转化为一套可直接复制粘贴、批量生成高质量视觉资产（立绘、场景、道具图）的标准化提示词工程方案",
+  "coverUrl": null,
+  "resultType": 1,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=80bb5d78741f429da4ef48e6161b2b99",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/1fabd7e3958345a893d8d7e4a37868f0/3b4a6e263bdddda2031dc2860fc128917a25b450.md"
+  ],
+  "hasPublicSkillContent": true
+}

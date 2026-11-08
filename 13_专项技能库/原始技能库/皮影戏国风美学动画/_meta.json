@@ -1,0 +1,35 @@
+{
+  "name": "皮影戏国风美学动画",
+  "templateUuid": "a3b433192b4747c685278ecfac178b69",
+  "skillUuid": "bf78a5b2e2594e739ee8b84822831267",
+  "skillKey": "shadow-puppet-animation-1880886b42cc43ddb951847092928422",
+  "version": "1.0.0",
+  "namespace": "libtv-user-generated",
+  "description": "适用于非遗皮影戏传统文化动画影创作，一键呈现皮影戏动画",
+  "author": "TTyears万年",
+  "ownerId": 224634,
+  "tags": [],
+  "likeCount": 49,
+  "usePv": 52,
+  "useUv": 17,
+  "publishAt": "2026-07-16 11:43:36",
+  "snapshotId": 27625,
+  "useScenario": "适用于非遗皮影戏动画制作，高品质一键产出。视觉呈现具有国风美学和历史叙事感。",
+  "inputType": "输入一句文化创意概要、剧本、简要故事梗慨。",
+  "outputContent": "输出脚本、角色/场景资产包、音乐/配音、分镜图、分镜视频、视频成片。可生成独立皮影动画。",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/1880886b42cc43ddb951847092928422/abac9cf67046ba3a95c6b1a75ac55e9b2965f806.png",
+  "resultType": 3,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=a3b433192b4747c685278ecfac178b69",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/1880886b42cc43ddb951847092928422/0c174831434956ae7f65aa5555e52aa24dc2e4ce.mp4",
+    "https://libtv-res.liblib.art/upload-images/1880886b42cc43ddb951847092928422/f6e560fbf940868e4d56a87ad05fc8f3ec3d8c30.png",
+    "https://libtv-res.liblib.art/upload-images/1880886b42cc43ddb951847092928422/7656be3171478cdc98f42cc02c8bcfed219ca4ef.png",
+    "https://libtv-res.liblib.art/upload-images/1880886b42cc43ddb951847092928422/5202cf53cde3b10bff9b8ad0695e40a98db044ba.png"
+  ],
+  "hasPublicSkillContent": true
+}

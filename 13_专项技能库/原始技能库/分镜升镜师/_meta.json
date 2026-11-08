@@ -1,0 +1,33 @@
+{
+  "name": "分镜升镜师",
+  "templateUuid": "f1f568b7399b41059006bfe91d5755ae",
+  "skillUuid": "108c9ed6b4e24071bc75a1a71f53bfb5",
+  "skillKey": "cinematic-storyboard-upgrader-3d776a2ef18c4c1287eacdf8dc9ad747",
+  "version": "1.0.3",
+  "namespace": "libtv-user-generated",
+  "description": "把普通分镜升级成有镜头语言的专业导演分镜",
+  "author": "超然物外",
+  "ownerId": 2913877,
+  "tags": [],
+  "likeCount": 239,
+  "usePv": 639,
+  "useUv": 219,
+  "publishAt": "2026-07-16 11:52:08",
+  "snapshotId": 27635,
+  "useScenario": "适用于短剧、漫剧、广告、剧情短片、AI电影、产品视频和自媒体内容的分镜优化。用户输入普通脚本、已有分镜或一段剧情后，Skill会分析叙事目的、人物关系和情绪节奏，补充景别、机位、构图、人物调度、视线关系、运镜、转场、声音与镜头时长，将平铺直叙的画面升级为可直接用于AI生图和图生视频的专业导演分镜。",
+  "inputType": "输入一段剧情、普通脚本或已有分镜，并说明视频时长、画面比例、视觉风格和使用的AI模型。例如：“两个人在大殿门口对峙，白衣男子拿剑",
+  "outputContent": "输出原分镜问题诊断、导演升级思路、情绪曲线、镜头数量与时长规划，以及包含景别、机位、构图、人物调度、视线关系、运镜、转场、声音和画面内容的完整分镜表。根据用户需求补充逐镜生图提示词、图生视频提示词、连续性约束和后期剪辑建议。",
+  "coverUrl": null,
+  "resultType": 1,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=f1f568b7399b41059006bfe91d5755ae",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/3d776a2ef18c4c1287eacdf8dc9ad747/c0ddb6efa1c9c84fcf0e8ae136e3fcb3e67ca6e2.md",
+    "https://www.liblib.tv/canvas/chat-share?shareId=4qgEWa7tMl"
+  ],
+  "hasPublicSkillContent": true
+}

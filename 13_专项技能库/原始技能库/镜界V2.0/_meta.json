@@ -1,0 +1,32 @@
+{
+  "name": "镜界V2.0",
+  "templateUuid": "978b47c9dfcd484d9fbc3848961a46dd",
+  "skillUuid": "fd1cc3a349664594949e0c06b303b57b",
+  "skillKey": "visual-prompt-director-ccb3f07a3ef44aea82830db90df5ff6e",
+  "version": "1.0.0",
+  "namespace": "libtv-user-generated",
+  "description": "是一套面向图片生成与视觉开发的通用导演提示词专家。",
+  "author": "Astra",
+  "ownerId": 8350831,
+  "tags": [],
+  "likeCount": 6,
+  "usePv": 2,
+  "useUv": 2,
+  "publishAt": "2026-08-11 21:08:05",
+  "snapshotId": 35973,
+  "useScenario": "这个 Skill 适用于所有需要进行图片生成与视觉设计控制的场景，包括：从零生成图片、参考图反推与风格转译、多图融合、角色/生物/道具/场景资产设计、世界观视觉开发、海报与商业 KV、电影定帧、概念艺术、写实摄影、插画漫画、二次元以及 3D/CG 动画风格等任务，也可用于 *** Image、********** 等不同图片模型的提示词编写。一句话概括就是：只要你的任务涉及“把一个视觉想法变成稳定",
+  "inputType": "使用时只需提供：画面内容、参考图/参考风格、画幅比例、目标模型（*** Image / **********）和核心限制。例如：“使用镜界导演，参考这张图的构图和光影，生成16:9东方未来城市，适配MJ V8。”系统会自动判断任务类型，并统一处理构图、空间、色彩、光影、材质、主体和禁止项，输出可直接复制使用的完整提示词。",
+  "outputContent": "输出内容为可直接复制使用的完整图片提示词，根据任务自动覆盖场景设定、核心视觉设计、构图、人物与尺度、空间层级、色彩、光影、材质、视觉焦点、最终气质与严格禁止项；并可针对 *** Image、********** 等模型调整表达方式与参数。",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/ccb3f07a3ef44aea82830db90df5ff6e/e543137febb6d705a4a777863b2a3b8e89acf6e6.png",
+  "resultType": 2,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=978b47c9dfcd484d9fbc3848961a46dd",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/ccb3f07a3ef44aea82830db90df5ff6e/e543137febb6d705a4a777863b2a3b8e89acf6e6.png"
+  ],
+  "hasPublicSkillContent": true
+}

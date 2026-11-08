@@ -1,0 +1,32 @@
+{
+  "name": "佛国净土天宫视频生成",
+  "templateUuid": "4764ec86a74f4a4e9e1e0a26bd41ed78",
+  "skillUuid": "ad923734d0494c799ed1e28e617a9ebe",
+  "skillKey": "buddhist-pure-land-video-creator-06d5e047104242a69ef4b26103f7692b",
+  "version": "1.0.2",
+  "namespace": "libtv-user-generated",
+  "description": "中式佛国净土美学视频创作流程",
+  "author": "159****1223",
+  "ownerId": 10361161,
+  "tags": [],
+  "likeCount": 1,
+  "usePv": 1,
+  "useUv": 1,
+  "publishAt": "2026-09-19 14:03:16",
+  "snapshotId": 47955,
+  "useScenario": "制作中式佛国净土美学主题视频，适用于短视频创作、佛教文化内容创作、东方仙境美学视觉内容生产",
+  "inputType": "中式天宫仙境美学参考图（1-6张）+ 佛国净土主题（如灵山净土、妙喜世界等）",
+  "outputContent": "佛国净土天宫主题高清视频（IMAX电影级，超写实，含视频高清增强）",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/06d5e047104242a69ef4b26103f7692b/57b8cb54558c4ed34bc118c33f1e6397a6066bd3.png",
+  "resultType": 3,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=4764ec86a74f4a4e9e1e0a26bd41ed78",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/06d5e047104242a69ef4b26103f7692b/96f13ba92b58c92edfc0f1a371fff8d0df3b8a73.mp4"
+  ],
+  "hasPublicSkillContent": true
+}

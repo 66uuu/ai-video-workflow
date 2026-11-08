@@ -1,0 +1,35 @@
+{
+  "name": "巨物出图压迫感",
+  "templateUuid": "6d4405eb4ff94c19a68d98a821895ee2",
+  "skillUuid": "64bfe688ec5f4789bf56e972698c646f",
+  "skillKey": "giant-scale-cinematics-60c7487143cc469c919620f18fa6986e",
+  "version": "1.0.1",
+  "namespace": "libtv-user-generated",
+  "description": "当你想出任何灾难片，但是不知道怎么描述，或者描述比较少时",
+  "author": "zzh",
+  "ownerId": 9762422,
+  "tags": [],
+  "likeCount": 20,
+  "usePv": 53,
+  "useUv": 30,
+  "publishAt": "2026-08-05 17:40:04",
+  "snapshotId": 33647,
+  "useScenario": "使用在出现难已描述的画面，或者不知道该如何产生史诗级场面时使用",
+  "inputType": "来一张城市被巨兽破坏，那个巨兽就像灵笼中的怪物一样，\n画面展示人类的太空飞船像一粒尘埃，在黑洞接近奇点的位置，这个黑洞大到整个画面都要吞不下了，旁边是一颗恒星，比任何星球都要大，但在黑洞前像一颗小球出一张2.35:1的图片，画面展示人类的太空飞船像一粒尘埃，在黑洞接近奇点的位置，这个黑洞大到整个画面都要吞不下了，旁边是一颗恒星，比任何星球都要大，但在黑洞前像一颗小球",
+  "outputContent": "一张非常壮观的图片",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/60c7487143cc469c919620f18fa6986e/435b3e0c78292d8c9c71d56d27324eefba187a71.png",
+  "resultType": 2,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=6d4405eb4ff94c19a68d98a821895ee2",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/60c7487143cc469c919620f18fa6986e/435b3e0c78292d8c9c71d56d27324eefba187a71.png",
+    "https://libtv-res.liblib.art/upload-images/60c7487143cc469c919620f18fa6986e/d78f729ae223a9b300f3090c690c24d9c1d21052.png",
+    "https://libtv-res.liblib.art/upload-images/60c7487143cc469c919620f18fa6986e/31328886ee7d158139140cc23e99de796544fb60.jpg",
+    "https://libtv-res.liblib.art/upload-images/60c7487143cc469c919620f18fa6986e/cd83e020c5211635c0e09996d091fea484e7a13f.jpg"
+  ],
+  "hasPublicSkillContent": true
+}

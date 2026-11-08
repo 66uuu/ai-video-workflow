@@ -1,0 +1,32 @@
+{
+  "name": "你的想法变成大片！",
+  "templateUuid": "ee3bf67952e442b8b6f42317ccc28e4e",
+  "skillUuid": "f5786023f7ac4f7ba45650551cebbec7",
+  "skillKey": "cinematic-blockbuster-pipeline-dd0991854c4f4da794f5f9eecc6a7d9a",
+  "version": "1.0.2",
+  "namespace": "libtv-user-generated",
+  "description": "给一个想法直至整合成片的完整流水线，四大锚点锁死一致性",
+  "author": "火锅炖麻辣烫炒冰淇淋🍦",
+  "ownerId": 1487314,
+  "tags": [],
+  "likeCount": 20,
+  "usePv": 13,
+  "useUv": 8,
+  "publishAt": "2026-08-04 18:02:36",
+  "snapshotId": 33317,
+  "useScenario": "专业影视，真人影视创作全流程——短片、竖屏短剧、广告/TVC、MV、宣传片、剧情短视频。适用于只有一句话想法想快速出专业分镜，或已有分镜草稿想扩写成可投喂 AI 视频工具的落地脚本，或需要从分镜一路推进到素材生产和成片的完整项目",
+  "inputType": "提供以下任一即可开工：①一句话故事想法 ②故事大纲 ③基础分镜草稿。可选补充：题材类型、目标时长、画幅比例、风格参考、角色设定、已有定妆照/场景照。无需任何专业知识，给出想法后 SKILL 会自动完成剧本拆解、锚点建立、分镜扩写、素材清单和视频生成执行手册",
+  "outputContent": "①项目信息表 ②人物/场景/道具/配音四大锚点表 ③按 15 秒镜头组组织的专业分镜表（每镜 1-3 秒、绝对时间码、景别/角度/运镜/画面描述/台词配音/音效/入点转场/出点衔接）④音效音乐总清单 ⑤素材需求总表与素材图生成提示词 ⑥组-素材对照表与逐镜视频生成提示词 ⑦整合成片执行方案",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/dd0991854c4f4da794f5f9eecc6a7d9a/2144ab5c4b0e284acebb42f92e37a361b6c4acbc.jpg",
+  "resultType": 3,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=ee3bf67952e442b8b6f42317ccc28e4e",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/dd0991854c4f4da794f5f9eecc6a7d9a/8b524a091e20ebc9ebf52fc2dde9cd6d62343234.mov"
+  ],
+  "hasPublicSkillContent": true
+}

@@ -1,0 +1,38 @@
+{
+  "name": "韦斯安德斯电影风景SKILL",
+  "templateUuid": "5ac237aba08246cd94f30b685bcf7394",
+  "skillUuid": "624df0f93a844115aa26ad80f7e424dd",
+  "skillKey": "wes-anderson-cinematic-landscape-b85befd035a84c7d99b6927cfa3fa3c5",
+  "version": "1.0.0",
+  "namespace": "libtv-user-generated",
+  "description": "韦斯安德斯的电影风格",
+  "author": "星球的AI畅想",
+  "ownerId": 1619666,
+  "tags": [],
+  "likeCount": 1,
+  "usePv": 1,
+  "useUv": 1,
+  "publishAt": "2026-09-10 23:50:56",
+  "snapshotId": 45208,
+  "useScenario": "特定的韦斯安德斯的马卡龙颜色镜头",
+  "inputType": "【主体人物】+【环境】+【主要色系】+【光影参数】",
+  "outputContent": "图片",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/b85befd035a84c7d99b6927cfa3fa3c5/365b962e2ffaf078f14b841a31f0cd9bc84cebee.png",
+  "resultType": 2,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=5ac237aba08246cd94f30b685bcf7394",
+  "files": [
+    "SKILL.md",
+    "style_rules.md",
+    "checklist.md",
+    "examples.md",
+    "negative_prompts.md",
+    "prompt_formula.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/b85befd035a84c7d99b6927cfa3fa3c5/365b962e2ffaf078f14b841a31f0cd9bc84cebee.png",
+    "https://libtv-res.liblib.art/upload-images/b85befd035a84c7d99b6927cfa3fa3c5/e3ab5218008e0bf9c2a119f458ae0e0de9f67804.png"
+  ],
+  "hasPublicSkillContent": true
+}

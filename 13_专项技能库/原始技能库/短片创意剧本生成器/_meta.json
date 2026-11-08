@@ -1,0 +1,32 @@
+{
+  "name": "短片创意剧本生成器",
+  "templateUuid": "a290e1b60cc84d508add0f1aa8662c5f",
+  "skillUuid": "01c9c4e50252458cb55f0398b608cc59",
+  "skillKey": "short-film-script-planner-0eb7cd0ed38246869cf23ad5923afd49",
+  "version": "1.0.2",
+  "namespace": "libtv-user-generated",
+  "description": "从零生成短片创意、剧本与拍摄方案",
+  "author": "182****3880",
+  "ownerId": 7127615,
+  "tags": [],
+  "likeCount": 5,
+  "usePv": 16,
+  "useUv": 13,
+  "publishAt": "2026-09-05 16:53:07",
+  "snapshotId": 43665,
+  "useScenario": "任何时候需要短片创作灵感、剧本方向或拍摄制作方案时均可使用，适合创作者在开拍前或构思阶段使用",
+  "inputType": "主题、情绪或关键词（也可以什么都不输入，让 Agent 自由发散）",
+  "outputContent": "创意灵感方向、完整剧本、真人/动漫拍摄建议、风格元素、适用平台工具及提示词写作架构",
+  "coverUrl": null,
+  "resultType": 1,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=a290e1b60cc84d508add0f1aa8662c5f",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/0eb7cd0ed38246869cf23ad5923afd49/c0ecdf5c41c59602ec5acfaac9973c25ac482703.md"
+  ],
+  "hasPublicSkillContent": true
+}

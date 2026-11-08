@@ -1,0 +1,32 @@
+{
+  "name": "角色设定图生成器",
+  "templateUuid": "70c529f686ca48b9aed6855cebf43921",
+  "skillUuid": "19e5a02e846542e8951a184dfd3937d1",
+  "skillKey": "multi-angle-character-concept-art-aa3eede3b47a41fea48a08d6fc53de7f",
+  "version": "1.0.1",
+  "namespace": "libtv-user-generated",
+  "description": "多角度角色形象图生成工具",
+  "author": "橘子导演",
+  "ownerId": 11161493,
+  "tags": [],
+  "likeCount": 1,
+  "usePv": 1,
+  "useUv": 1,
+  "publishAt": "2026-09-19 15:42:18",
+  "snapshotId": 47993,
+  "useScenario": "短剧、漫画、游戏等项目前期角色设定阶段，需要生成多角度统一风格角色形象时使用",
+  "inputType": "角色描述文字（外貌、性格、服装等）+ 指定画风（写实/二次元/像素风等）",
+  "outputContent": "统一外貌、服装、配色的角色正面图，可按需继续生成侧面、背面图",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/aa3eede3b47a41fea48a08d6fc53de7f/e1a7fc8063641e95fccba06366420a773c83fbe0.png",
+  "resultType": 2,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=70c529f686ca48b9aed6855cebf43921",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/aa3eede3b47a41fea48a08d6fc53de7f/e1a7fc8063641e95fccba06366420a773c83fbe0.png"
+  ],
+  "hasPublicSkillContent": true
+}

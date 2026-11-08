@@ -1,0 +1,32 @@
+{
+  "name": "饮品商业产品宣传视频",
+  "templateUuid": "8bdfb3a8f12341c29f6d5091d8af83b9",
+  "skillUuid": "d8f0167962f7402abee89f5a2789e4c5",
+  "skillKey": "commercial-video-style-replicator-e5c05143074646b7ae70a88b81ec6c2a",
+  "version": "1.0.4",
+  "namespace": "libtv-user-generated",
+  "description": "电影级商业视频，总时长15秒。高饱和度、色彩鲜明，配合节奏",
+  "author": "星美Fine",
+  "ownerId": 773892,
+  "tags": [],
+  "likeCount": 14,
+  "usePv": 11,
+  "useUv": 9,
+  "publishAt": "2026-08-03 16:38:29",
+  "snapshotId": 32938,
+  "useScenario": "用户有参考视频片段、产品图和人物素材，希望复刻参考视频的视觉风格，快速生成一条15秒商业短视频。",
+  "inputType": "上传产品图、人物角色图，文案，自动解析运镜/色调/排版风（适合饮料饮品类）",
+  "outputContent": "15秒 Minimax H3 竖屏&横屏商业产品视频，包含：风格复刻报告、分段提示词、最终合成视频节点",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/e5c05143074646b7ae70a88b81ec6c2a/f5080a5c2f2226d7e6acba5b6df3f62fd175cfb5.png",
+  "resultType": 3,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=8bdfb3a8f12341c29f6d5091d8af83b9",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/e5c05143074646b7ae70a88b81ec6c2a/4bbf47245e3d5d96d6129ef4e48533641dbf1d0c.mp4"
+  ],
+  "hasPublicSkillContent": true
+}

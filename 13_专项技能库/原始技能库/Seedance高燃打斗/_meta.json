@@ -1,0 +1,32 @@
+{
+  "name": "Seedance高燃打斗",
+  "templateUuid": "cfd50d01e75947a2b3ae803dc519cb54",
+  "skillUuid": "024b698218624c8eb1de397c226eefa6",
+  "skillKey": "intense-combat-prompt-generator-2a27ad63f3834dafbea45063a23e644b",
+  "version": "1.0.0",
+  "namespace": "libtv-user-generated",
+  "description": "Seedance 2.0高燃打斗提示词生成",
+  "author": "微信用户11ff43",
+  "ownerId": 11294362,
+  "tags": [],
+  "likeCount": 13,
+  "usePv": 39,
+  "useUv": 28,
+  "publishAt": "2026-09-02 17:31:34",
+  "snapshotId": 42901,
+  "useScenario": "用户需要生成4–15秒高燃快节奏近身打斗视频提示词时，包括国风武侠、水墨动画、东方废土、奇幻动作、兵器对决等场景，支持T2V/I2V/R2V/FLF2V及视频延续模式",
+  "inputType": "打斗场景描述、角色信息、时长、画面比例、美术风格、参考图/视频（可选）",
+  "outputContent": "可直接用于 Seedance 2.0 的高密度近身打斗提示词，含镜头契约、动作脊柱、空间锚点与物理反馈",
+  "coverUrl": null,
+  "resultType": 1,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=cfd50d01e75947a2b3ae803dc519cb54",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/2a27ad63f3834dafbea45063a23e644b/2c2f3bf20251f1275743c3abf1610a421d12eb3e.md"
+  ],
+  "hasPublicSkillContent": true
+}

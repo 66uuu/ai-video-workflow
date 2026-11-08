@@ -1,0 +1,33 @@
+{
+  "name": "少女写真一键成片<仲哥>",
+  "templateUuid": "0cb17794c817487fbb58903d65ec1c8f",
+  "skillUuid": "11942df924464619843a12eacb669d34",
+  "skillKey": "girl-portrait-mv-b8231ab59a67475aa8aaf5ddb3231e4e",
+  "version": "1.0.2",
+  "namespace": "libtv-user-generated",
+  "description": "用一张图就可以完成一整段短片的超强skill，而且吸睛",
+  "author": "仲哥",
+  "ownerId": 8761278,
+  "tags": [],
+  "likeCount": 8,
+  "usePv": 4,
+  "useUv": 3,
+  "publishAt": "2026-07-18 12:40:15",
+  "snapshotId": 28393,
+  "useScenario": "要做mv写真的时候用该skill可以极大的减少时间，用一张图就可以完成一共15秒的视频",
+  "inputType": "上传图片，或者指定图片，即可生成15秒写真视频",
+  "outputContent": "15秒的超美mv，同时配有画面和音乐音效",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/b8231ab59a67475aa8aaf5ddb3231e4e/6f746bd0e14dbeed6e60f152aa57f23d3787946c.png",
+  "resultType": 3,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=0cb17794c817487fbb58903d65ec1c8f",
+  "files": [
+    "SKILL.md",
+    "meinv.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/b8231ab59a67475aa8aaf5ddb3231e4e/76b0d5e3be6690a1265334a2fb1553929c07903a.mp4"
+  ],
+  "hasPublicSkillContent": true
+}

@@ -1,0 +1,32 @@
+{
+  "name": "大师级电影感图片提示词",
+  "templateUuid": "e628b5b368914f758f1b22c1a5aee987",
+  "skillUuid": "30423673999949f784ef55819fcbbe3b",
+  "skillKey": "image-prompt-builder-0a88962ad9bf41668381d23440015181",
+  "version": "1.0.2",
+  "namespace": "libtv-user-generated",
+  "description": "把用户的画面想法整理为可直接使用的生图提示词",
+  "author": "AIGC爱好者",
+  "ownerId": 8532816,
+  "tags": [],
+  "likeCount": 381,
+  "usePv": 660,
+  "useUv": 338,
+  "publishAt": "2026-07-14 12:16:47",
+  "snapshotId": 26819,
+  "useScenario": "如果用户说画面太脏了的时候，可以用该技能优化提示词",
+  "inputType": "用户反馈效果不满意时，根据问题改写提示词：\n\n问题调整方向太\n脏、太乱减少背景碎纹理、粒子、杂色和无关细节太锐\n、太数码降低硬边",
+  "outputContent": "默认只输出 1-3 段连续提示词，不添加字段标题，不展示分析过程。\n\n提示词通常按以下顺序组织：\n\n主体、动作或展示目的，以及镜头视角。\n场景层级、光线和色彩。\n细节控制，以及当前任务最相关的少数避免项。\n要求：\n\n开头先写画面中最重要的内容。\n使用明确选择，不写多个备选方案。\n只保留会明显影响画面的细节。\n不堆砌空泛质量词。\n不额外解释内部判断过程。",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/0a88962ad9bf41668381d23440015181/87621085d8cc382cb246fe97734b8b5844191bcf.png",
+  "resultType": 2,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=e628b5b368914f758f1b22c1a5aee987",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/0a88962ad9bf41668381d23440015181/87621085d8cc382cb246fe97734b8b5844191bcf.png"
+  ],
+  "hasPublicSkillContent": true
+}

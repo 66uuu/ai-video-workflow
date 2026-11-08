@@ -1,0 +1,33 @@
+{
+  "name": "武侠动作导演V8.0 - 副本",
+  "templateUuid": "e30bc051cf6a4753a175a782cce0c66e",
+  "skillUuid": "0a2070225e7d4d7a8ca1d9c331a3fac8",
+  "skillKey": "wuxia-action-director-2a6426bee60d439591b95bfdc7c5130b",
+  "version": "1.0.0",
+  "namespace": "libtv-user-generated",
+  "description": "一条龙生成武侠打斗视频：自动产出分层资产锚点图、按节点-节拍",
+  "author": "爱吃猫的鱼",
+  "ownerId": 4521403,
+  "tags": [],
+  "likeCount": 3,
+  "usePv": 5,
+  "useUv": 4,
+  "publishAt": "2026-09-10 16:24:08",
+  "snapshotId": 45053,
+  "useScenario": "武侠、仙侠、古装题材的动作戏/打斗戏制作。已有剧本或打斗描述，需要角色不串脸、动作有打击感、镜头语言丰富、节奏够快的打斗片段",
+  "inputType": "输入剧本正文或一句打斗描述（如\"竹林夜战，白衣剑客对黑衣刀客\"），可补充总时长、画幅、人物设定、武器、风格基调",
+  "outputContent": "画布上的分层资产锚点图（含三视图）、主体库登记、按节点-节拍结构重排的分镜生成器组（停在待生成状态，用户手动点击生成）",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/2a6426bee60d439591b95bfdc7c5130b/d6741c9d1651ea0645ba383a4a5e4e64a3ba82f1.png",
+  "resultType": 3,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=e30bc051cf6a4753a175a782cce0c66e",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/2a6426bee60d439591b95bfdc7c5130b/fbf00890f62e6cc4f47dd85812b16d622f5fb498.MP4",
+    "https://libtv-res.liblib.art/upload-images/2a6426bee60d439591b95bfdc7c5130b/0ddf95397b8f234b60e39c35517b796543cda5db.MP4"
+  ],
+  "hasPublicSkillContent": true
+}

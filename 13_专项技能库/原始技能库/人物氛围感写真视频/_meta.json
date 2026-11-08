@@ -1,0 +1,35 @@
+{
+  "name": "人物氛围感写真视频",
+  "templateUuid": "09530dd10f4141f68ef7d9f008cd0308",
+  "skillUuid": "5f7d1d075a8d4a49a5105bdc1407c348",
+  "skillKey": "cinematic-portrait-video-planner-f1cd68423b354abba991fe16eb70fb0a",
+  "version": "1.0.1",
+  "namespace": "libtv-user-generated",
+  "description": "输入人物风格与场景，生成电影感人像短片方案，含情绪、光影、构",
+  "author": "Devilworld",
+  "ownerId": 610387,
+  "tags": [],
+  "likeCount": 12,
+  "usePv": 12,
+  "useUv": 12,
+  "publishAt": "2026-07-16 18:53:33",
+  "snapshotId": 27823,
+  "useScenario": "个人形象短片、写真动态视频、博主自我介绍、品牌模特展示、人像摄影作品集、情侣纪念视频",
+  "inputType": "输入人物风格关键词和场景设定，选择想要的情绪基调，即可获得一套电影感人像短片完整制作方案。",
+  "outputContent": "人像分镜脚本 + 每镜AI提示词 + 布光运镜方案 + 情绪配乐参考的氛围感写真视频完整制作文档",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/f1cd68423b354abba991fe16eb70fb0a/d6cea9a9f02e1a56b87ce01ebbfe2f6dc6c585f4.png",
+  "resultType": 3,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=09530dd10f4141f68ef7d9f008cd0308",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/f1cd68423b354abba991fe16eb70fb0a/6406d4f4f592ee1ae0bf2bb4bb809154cb22a819.mp4",
+    "https://www.liblib.tv/canvas/share?spaceId=2951324&projectId=4d99ba34e8c7455f926f71cb2acdf07a",
+    "https://libtv-res.liblib.art/upload-images/f1cd68423b354abba991fe16eb70fb0a/19b75504b5273922a2ff089c7cfbd82c109104e3.mp4",
+    "https://www.liblib.tv/canvas/share?spaceId=2973882&projectId=a96df2f0296f4cdca2c366d181897d83"
+  ],
+  "hasPublicSkillContent": true
+}

@@ -1,0 +1,32 @@
+{
+  "name": "维伦纽瓦科幻电影美学",
+  "templateUuid": "5aebadecfd4d4cfab1881d887c64198b",
+  "skillUuid": "ae90c8a52d82490cb7c2fc9db6bb4def",
+  "skillKey": "villeneuve-scifi-cinematics-ef77fa37cc044640a7aadddfe3022cb9",
+  "version": "1.0.2",
+  "namespace": "libtv-user-generated",
+  "description": "深度还原维伦纽瓦标志性科幻美学，适用15秒-5分钟电影短片",
+  "author": "视觉新青年",
+  "ownerId": 4364112,
+  "tags": [],
+  "likeCount": 29,
+  "usePv": 36,
+  "useUv": 29,
+  "publishAt": "2026-07-15 15:23:42",
+  "snapshotId": 27325,
+  "useScenario": "通过提炼现代科幻电影中的宏大空间、未来文明、孤独叙事和沉浸式视觉语言，将用户简单的文字创意转化为具有电影质感的原创科幻作品。",
+  "inputType": "不用学习电影导演知识，只需输入一个想法，即可生成具有史诗科幻电影质感的原创作品。",
+  "outputContent": "最终输出：\n\n✅ 完整故事\n\n✅ 人物设定\n\n✅ 三视图Prompt\n\n✅ 分镜脚本\n\n✅ Wan2.2视频Prompt\n\n✅ 配音稿\n\n✅ 音乐Prompt\n\n✅ 字幕方案",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/ef77fa37cc044640a7aadddfe3022cb9/d107e83125aae556df528052773e9a031cda6688.png",
+  "resultType": 3,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=5aebadecfd4d4cfab1881d887c64198b",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/ef77fa37cc044640a7aadddfe3022cb9/6b5abc3cbc4474de372986e2a9ac4b12986902bd.mp4"
+  ],
+  "hasPublicSkillContent": true
+}

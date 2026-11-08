@@ -1,0 +1,37 @@
+{
+  "name": "Seedance电影镜头",
+  "templateUuid": "664db9e843a44fda83dab50a8a882477",
+  "skillUuid": "c0155c3cfbeb4260af7b6b8bba34e7cc",
+  "skillKey": "cinematic-shot-planner-cca409ade58949f1ac4e6dae6d804d3d",
+  "version": "1.0.0",
+  "namespace": "libtv-user-generated",
+  "description": "把场景想法转化为包含站位、镜头、动作时间、物理、灯光、对白和",
+  "author": "AIGC肖学长",
+  "ownerId": 498532,
+  "tags": [],
+  "likeCount": 90,
+  "usePv": 119,
+  "useUv": 69,
+  "publishAt": "2026-08-12 02:47:27",
+  "snapshotId": 36039,
+  "useScenario": "适用于Seedance 2.0和Higgsfield Seedance的文生视频、图生视频及多参考视频提示词，包括电影单镜头、对白戏、动作戏、人物特写、复杂站位、多人镜头、受控剪辑和失败提示词修复。",
+  "inputType": "输入当前镜头的场景、人物、动作和时长；有参考素材时注明每个@标签代表谁或什么。可补充台词、镜头运动、光线和失败问题。示例：“@ZERO和@BOY在能源塔顶，第一帧两人都出现，零冲向正在消散的少年，10秒单镜头，蓝白逆光，无台词。”",
+  "outputContent": "输出可直接粘贴到Seedance 2.0或Higgsfield Seedance的英文视频生成提示词，包含当前镜头所需的参考控制、第一帧、空间站位、镜头、动作时间、物理、灯光和声音规则。",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/cca409ade58949f1ac4e6dae6d804d3d/840d7086a3dde0f1e24189d9a475e83ce6195cfe.png",
+  "resultType": 3,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=664db9e843a44fda83dab50a8a882477",
+  "files": [
+    "SKILL.md",
+    "CINEDANCE HIGGSFIELD SKILL.md",
+    "CINEDANCE HIGGSFIELD SKILL2.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/cca409ade58949f1ac4e6dae6d804d3d/a80b5094091b92c7a39f241a452624502abc496d.mp4",
+    "https://libtv-res.liblib.art/upload-images/cca409ade58949f1ac4e6dae6d804d3d/108d3b5c0e5cf7bd7ed0a7f848e249784c241f8d.mp4",
+    "https://libtv-res.liblib.art/upload-images/cca409ade58949f1ac4e6dae6d804d3d/1e9c90ee7f115a1fe005407186821fd73dc84b32.mp4",
+    "https://libtv-res.liblib.art/upload-images/cca409ade58949f1ac4e6dae6d804d3d/2a0cfa7b47c1ce9def4ec6249dc94a650af33ff0.mp4"
+  ],
+  "hasPublicSkillContent": true
+}

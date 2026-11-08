@@ -1,0 +1,35 @@
+{
+  "name": "东方巨构 | 情绪大片一键成片",
+  "templateUuid": "97127efaeb464d90a1bad393638dea12",
+  "skillUuid": "caae0207480648e29c587c6989a8d4dd",
+  "skillKey": "oriental-cinematic-megastructure-074be3667ece41bc8993cea11c99240e",
+  "version": "1.0.5",
+  "namespace": "libtv-user-generated",
+  "description": "调用【顶级大导演思维】，一键生成冷调留白东方电影级巨构大片！",
+  "author": "杭州金包银批发总部",
+  "ownerId": 10465270,
+  "tags": [],
+  "likeCount": 9,
+  "usePv": 12,
+  "useUv": 10,
+  "publishAt": "2026-09-22 20:02:29",
+  "snapshotId": 49262,
+  "useScenario": "适用于需要极致压抑、辽阔苍凉、清冷寂寥等东方情绪的电影级短片制作。无论是品牌TVC、情绪大片、国风短剧，还是非遗文化宣传片，只需一句情绪词，即可一键生成具有强电影质感的“东方巨构”级大片。",
+  "inputType": "三步极简操作：\n\n给情绪：在对话框中输入一句情绪词，或一句画面意象描述（例：“大雪中的孤舟，极致压抑”）。\n\n选风格：系统已默认加载【顶级大导演思维】底层引擎，自动匹配【东方巨构_专属防崩与美学禁则】的文件，严格执行冷调（青灰#7082A8）、留白、胶片质感，杜绝一切廉价CG塑料感。\n\n一键生成：点击生成按钮，系统自动产出完整的电影级情绪大片成片（无AI乱码、无穿模）。",
+  "outputContent": "一部具备极高美学水准、冷调留白极佳的电影级情绪大片成片（MP4格式）。\n附赠：完整分镜脚本、情绪决策卡，以及全套专属美学防崩参数。",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/074be3667ece41bc8993cea11c99240e/2554d01a7834fb1bcf4dcd163c8cffb4e0ba089d.png",
+  "resultType": 3,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=97127efaeb464d90a1bad393638dea12",
+  "files": [
+    "SKILL.md",
+    "【东方巨构_专属防崩与美学禁则.md】.md",
+    "【东方巨构_情绪调性与镜头决策卡.md】.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/074be3667ece41bc8993cea11c99240e/6b3f4b02af52ead68d112f1bd795c71341bd97e5.mp4",
+    "https://libtv-res.liblib.art/upload-images/074be3667ece41bc8993cea11c99240e/aa32a5981b1c891c046449b86dc0c2c89a539ef1.mp4"
+  ],
+  "hasPublicSkillContent": true
+}

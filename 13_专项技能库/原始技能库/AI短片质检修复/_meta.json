@@ -1,0 +1,32 @@
+{
+  "name": "AI短片质检修复",
+  "templateUuid": "66af9b07f09f483c85cdb7d64806a992",
+  "skillUuid": "b1b6978422054c99bb8f7b693fa9c4bc",
+  "skillKey": "video-quality-inspector-fixer-fc90127e45224b3dbc353ef70178b69b",
+  "version": "1.0.1",
+  "namespace": "libtv-user-generated",
+  "description": "逐镜找出连续性、镜头、节奏和声音问题，只重做真正失败的部分。",
+  "author": "小葵小丹",
+  "ownerId": 596837,
+  "tags": [],
+  "likeCount": 22,
+  "usePv": 12,
+  "useUv": 10,
+  "publishAt": "2026-07-15 17:16:56",
+  "snapshotId": 27383,
+  "useScenario": "适合AI短片、广告、MV、漫剧和粗剪交片前检查，也适合已有成片出现变脸、穿模、跳轴、闪烁、节奏拖沓、字幕或音画问题时低成本返修。",
+  "inputType": "上传成片、粗剪或按顺序排列的镜头；最好同时提供剧本、分镜、角色场景参考和交付规格，并说明最在意的问题或返修预算。",
+  "outputContent": "带时间码的P0/P1/P2质检报告、最小返修计划、逐镜验收标准、替换镜头、修订声音字幕和复检后的最终成片。",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/fc90127e45224b3dbc353ef70178b69b/540a3ca82c8083e6f988124f8a77453ec987b0ff.png",
+  "resultType": 3,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=66af9b07f09f483c85cdb7d64806a992",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/fc90127e45224b3dbc353ef70178b69b/540a3ca82c8083e6f988124f8a77453ec987b0ff.png"
+  ],
+  "hasPublicSkillContent": true
+}

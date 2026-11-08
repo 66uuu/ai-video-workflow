@@ -1,0 +1,33 @@
+{
+  "name": "魔幻仙侠玄幻剧真人质感",
+  "templateUuid": "d5ede7ac2d104a968ea0daf7fa39e5eb",
+  "skillUuid": "f22ec88258c245388f7631eb739d60a4",
+  "skillKey": "live-action-fantasy-c18414452f144fb4b49219aa1dee2a30",
+  "version": "1.0.1",
+  "namespace": "libtv-user-generated",
+  "description": "生成爆款风格的真人质感，魔幻仙侠玄幻剧",
+  "author": "青木家",
+  "ownerId": 3435944,
+  "tags": [],
+  "likeCount": 23,
+  "usePv": 32,
+  "useUv": 24,
+  "publishAt": "2026-07-27 14:09:52",
+  "snapshotId": 31007,
+  "useScenario": "内容创作者 营销/品牌方 教育/文化机构 个人爱好者",
+  "inputType": "上传剧本。确实视频比例和横屏竖屏例（16：9横屏 720P ）即可生成，如果有精细的人物设定与风格设定也可以一起上传。",
+  "outputContent": "40秒左右的真人质感，魔幻仙侠玄幻剧，一键直出成片",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/c18414452f144fb4b49219aa1dee2a30/773a4ae960a77bcea2240483d36fb224a3892e0c.png",
+  "resultType": 3,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=d5ede7ac2d104a968ea0daf7fa39e5eb",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/c18414452f144fb4b49219aa1dee2a30/25e83e69a59b4baee3028859754d28458d444519.mp4",
+    "https://libtv-res.liblib.art/upload-images/c18414452f144fb4b49219aa1dee2a30/885db7029a6b6e8b1249285bf80da4e730014d46.mp4"
+  ],
+  "hasPublicSkillContent": true
+}

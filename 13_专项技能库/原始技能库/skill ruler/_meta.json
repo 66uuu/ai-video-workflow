@@ -1,0 +1,32 @@
+{
+  "name": "skill ruler",
+  "templateUuid": "c1182f69459e43169e1c74a81562695c",
+  "skillUuid": "eedb29358d614ea9bd0a529582100f67",
+  "skillKey": "martial-arts-fiction-workflow-321629cc01df40829d1bea9f6f733157",
+  "version": "1.0.2",
+  "namespace": "libtv-user-generated",
+  "description": "核心规则：不适用自动生成图片和视频",
+  "author": "181****3819",
+  "ownerId": 10142450,
+  "tags": [],
+  "likeCount": 5,
+  "usePv": 5,
+  "useUv": 5,
+  "publishAt": "2026-07-14 16:41:20",
+  "snapshotId": 26956,
+  "useScenario": "用于武侠短片创作全流程，控制生成节奏、模型选择和提示词输出方式。每次对话开始时加载，确保工作流按用户偏好执行，不自动生成内容。",
+  "inputType": "用户的创作需求、参考图、场景描述或分镜内容",
+  "outputContent": "纯文字提示词输出，包含：完整正向提示词、负面约束、推荐模型、画幅、分辨率、锚点引用说明。不调用任何生成工具，由用户自行复制到画布节点执行。",
+  "coverUrl": null,
+  "resultType": 1,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=c1182f69459e43169e1c74a81562695c",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/321629cc01df40829d1bea9f6f733157/6b592dcf378fedac4382c9d60aa0709dae030dc6.md"
+  ],
+  "hasPublicSkillContent": true
+}

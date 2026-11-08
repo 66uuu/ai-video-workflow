@@ -1,0 +1,37 @@
+{
+  "name": "GVA-Blender V14.3",
+  "templateUuid": "616db8680b7f492b8f5cadde7a637ec2",
+  "skillUuid": "e9a6e7add799423b9afd86ae599652f1",
+  "skillKey": "architectural-digital-twin-collaborator-7f1145154dc743d7bf26bdd85e1fc8bf",
+  "version": "1.0.6",
+  "namespace": "libtv-user-generated",
+  "description": "全球级建筑数字孪生协同智体",
+  "author": "153****2225",
+  "ownerId": 9966525,
+  "tags": [],
+  "likeCount": 1,
+  "usePv": 27,
+  "useUv": 2,
+  "publishAt": "2026-09-17 21:14:19",
+  "snapshotId": 47389,
+  "useScenario": "针对建筑工程图、建筑外观及室内装修、室内环境设计都可以通过我们这个智能体生成你想要的设计风格或者准确的空间场景。",
+  "inputType": "上传你的工程图，就可以精准解读并生成你想要的场景图",
+  "outputContent": "通过你上传的工程图，还可以制作视频加图片。",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/7f1145154dc743d7bf26bdd85e1fc8bf/ce477cf4ce0bf8d9bde120036b64cc05dacee6f8.png",
+  "resultType": 2,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=616db8680b7f492b8f5cadde7a637ec2",
+  "files": [
+    "SKILL.md",
+    "gva_v14.3_blender.md",
+    "gva_v14.3_parser.md",
+    "gva_v14.3_algorithms.md",
+    "project_config_template.md",
+    "style_library_v3.0.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/7f1145154dc743d7bf26bdd85e1fc8bf/f68ac4a564bf15a2580024a9c6bf4b1b52643012.png"
+  ],
+  "hasPublicSkillContent": true
+}

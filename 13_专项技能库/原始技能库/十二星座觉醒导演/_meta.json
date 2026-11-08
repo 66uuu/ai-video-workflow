@@ -1,0 +1,36 @@
+{
+  "name": "十二星座觉醒导演",
+  "templateUuid": "9fe4ddc1bbb14e238c339656ccdbacdb",
+  "skillUuid": "c0763876002a4eac9a543070441f2b7d",
+  "skillKey": "zodiac-awakening-director-ef77fa37cc044640a7aadddfe3022cb9",
+  "version": "1.0.11",
+  "namespace": "libtv-user-generated",
+  "description": "输入星座名称与角色首尾图，自动匹配专属变身星座",
+  "author": "视觉新青年",
+  "ownerId": 4364112,
+  "tags": [],
+  "likeCount": 12,
+  "usePv": 4,
+  "useUv": 4,
+  "publishAt": "2026-07-17 11:22:07",
+  "snapshotId": 28029,
+  "useScenario": "适用于十二星座神女变身视频、系列短视频、统一IP觉醒视频、奇幻CG角色展示。支持同系列统一风格下，不同星座采用不同变身方式，减少重复感并提升辨识度。",
+  "inputType": "输出一条5秒、9:16的星座觉醒视频；必要时先输出角色前后图方案、镜头结构和二次优化建议。",
+  "outputContent": "输出一条5秒、9:16的星座觉醒视频，包含专属变身路径、角色台词、酷飒邪魅配音、统一背景音乐和最终女神亮相。",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/ef77fa37cc044640a7aadddfe3022cb9/4f80adfdc4ddabee5f6b2e11b8079937443a67cf.png",
+  "resultType": 3,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=9fe4ddc1bbb14e238c339656ccdbacdb",
+  "files": [
+    "SKILL.md",
+    "STYLE_BIBLE.md",
+    "TRANSFORMATION_LIBRARY.md",
+    "ZODIAC_LIBRARY.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/ef77fa37cc044640a7aadddfe3022cb9/bca3fef882b7d37e781cc1ee78910185d4dfb675.mp4",
+    "https://libtv-res.liblib.art/upload-images/ef77fa37cc044640a7aadddfe3022cb9/ebd5b906aeda39b0fc1820be0dde762bbb262fa6.mp4"
+  ],
+  "hasPublicSkillContent": true
+}

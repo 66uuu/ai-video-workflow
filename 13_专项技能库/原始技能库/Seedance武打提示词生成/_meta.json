@@ -1,0 +1,32 @@
+{
+  "name": "Seedance武打提示词生成",
+  "templateUuid": "9f3ae5dd66da495aae0aa32b97017357",
+  "skillUuid": "277fe30c5ee341c19cd25f00e33c045e",
+  "skillKey": "anime-fight-prompt-builder-2a27ad63f3834dafbea45063a23e644b",
+  "version": "1.0.0",
+  "namespace": "libtv-user-generated",
+  "description": "二次元打戏视频提示词生成",
+  "author": "微信用户11ff43",
+  "ownerId": 11294362,
+  "tags": [],
+  "likeCount": 5,
+  "usePv": 7,
+  "useUv": 5,
+  "publishAt": "2026-09-02 17:31:07",
+  "snapshotId": 42900,
+  "useScenario": "需要为Seedance 2.0生成二次元/武侠/格斗风格打戏视频提示词时使用",
+  "inputType": "对战角色、视觉风格、场景需求、战斗节奏及特殊要求",
+  "outputContent": "可直接用于Seedance 2.0的15秒标准分镜提示词（含运镜、特效、攻防、叙事完整结构）",
+  "coverUrl": null,
+  "resultType": 1,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=9f3ae5dd66da495aae0aa32b97017357",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/2a27ad63f3834dafbea45063a23e644b/d1c23a7dc926b1ead72e40ff5d0e99ee097ccd4a.md"
+  ],
+  "hasPublicSkillContent": true
+}

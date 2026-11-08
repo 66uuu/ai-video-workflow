@@ -1,0 +1,35 @@
+{
+  "name": "图像提示词生成与反推器",
+  "templateUuid": "3a6aebba44ba48cbbb45c68926a48a9d",
+  "skillUuid": "2983fd330b404726bf0812e169c17ece",
+  "skillKey": "image-prompt-reverse-generator-4365669396174c29a5ca2c1ff8dc230d",
+  "version": "1.0.1",
+  "namespace": "libtv-user-generated",
+  "description": "导演视角与逆向解析的全能型 AI 画面提示词助手",
+  "author": "猫不见",
+  "ownerId": 1859871,
+  "tags": [],
+  "likeCount": 55,
+  "usePv": 176,
+  "useUv": 69,
+  "publishAt": "2026-07-28 12:02:20",
+  "snapshotId": 31311,
+  "useScenario": "日常写 prompt 出图，想要导演视角的自然语言描述而非参数堆砌；\n上传参考图反推可用的 prompt；\n同一画面想试不同风格方向（写实抓拍、电影剧照、商业海报等）；\n只想快速抽一版锁定核心要素的短 prompt 测试模型。",
+  "inputType": "默认模式：直接描述画面，输出 2-4 段导演视角 prompt。\n极简模式：描述后加\"极简\"或\"抽卡\"，输出 1 段锁定核心的短 prompt。\n变体模式：描述后加\"三版\"或\"变体\"，输出同画面多风格版本。\n拆解模式：上传图片或说\"拆解\"，输出完整 prompt 加关键词分析表。",
+  "outputContent": "完整可用的自然语言 prompt（中文），按画幅→风格→场景→镜头观察关系→主体动作情绪→光线氛围→景深→拍摄损失→摄影机设置→色调胶片的顺序组织。不写成参数清单，像导演在描述一个镜头，信息完整但给模型留构图发挥空间；必要时融入略软焦点、运动模糊、局部过曝等拍摄损失以降低 AI 感。",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/4365669396174c29a5ca2c1ff8dc230d/619750f8028c119740f9346b286e1e0835adfd54.png",
+  "resultType": 2,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=3a6aebba44ba48cbbb45c68926a48a9d",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/4365669396174c29a5ca2c1ff8dc230d/c65a11736e9a510b6f8ca58bbe5a392c7b1309a2.png",
+    "https://www.liblib.tv/canvas/chat-share?shareId=S6mGI0pS02",
+    "https://libtv-res.liblib.art/upload-images/4365669396174c29a5ca2c1ff8dc230d/dca1213f3e13332da506c13e280199f6d41a0fa0.png",
+    "https://www.liblib.tv/canvas/chat-share?shareId=D3uREhISwR"
+  ],
+  "hasPublicSkillContent": true
+}

@@ -1,0 +1,35 @@
+{
+  "name": "一句话生成电影画面",
+  "templateUuid": "d7eeb7b772594c8fb86e6769ed7794d2",
+  "skillUuid": "a109d77a32e94a02b99f2bba09de6307",
+  "skillKey": "cinematic-prompt-builder-f4d3bcb2ab534578927d3eab3c77e49f",
+  "version": "1.0.13",
+  "namespace": "libtv-user-generated",
+  "description": "简单一句话就能生成您的理想的电影画面",
+  "author": "<手机号-已脱敏>",
+  "ownerId": 10771643,
+  "tags": [],
+  "likeCount": 1,
+  "usePv": 4,
+  "useUv": 4,
+  "publishAt": "2026-09-21 16:53:23",
+  "snapshotId": 48816,
+  "useScenario": "用户有画面构想但不熟悉提示词写法，或想快速生成高质量电影感提示词时使用",
+  "inputType": "用户用自然语言描述想要的画面（场景、人物、氛围、风格等均可）",
+  "outputContent": "一段完整、可直接用于生成等电影感提示词，含景别、光线、色调、人物、空间层次等维度",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/f4d3bcb2ab534578927d3eab3c77e49f/80954739a52bba3f5c52453e1e880ea28e4f76ef.png",
+  "resultType": 2,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=d7eeb7b772594c8fb86e6769ed7794d2",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/f4d3bcb2ab534578927d3eab3c77e49f/f3d188294018d691b884a1895d1fc8cdfded2d43.JPG",
+    "https://libtv-res.liblib.art/upload-images/f4d3bcb2ab534578927d3eab3c77e49f/74216d99c800055cf6510f924ca2606ba2f0709f.JPG",
+    "https://libtv-res.liblib.art/upload-images/f4d3bcb2ab534578927d3eab3c77e49f/e3f99a3441fa3e61de6aca96ff73a14b30854f86.JPG",
+    "https://libtv-res.liblib.art/upload-images/f4d3bcb2ab534578927d3eab3c77e49f/3855a846a32960f3e872f0318dfe12157d9a4573.png"
+  ],
+  "hasPublicSkillContent": true
+}

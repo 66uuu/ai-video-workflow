@@ -1,0 +1,32 @@
+{
+  "name": "思乃泡图片修复skill",
+  "templateUuid": "8323178d410349309f75beb85f64f271",
+  "skillUuid": "d8ab0f8f87b447109ebe008e8a0fe5ea",
+  "skillKey": "ai-image-restorer-fbfcecef2d084e80be71357acb30cd09",
+  "version": "1.0.4",
+  "namespace": "libtv-user-generated",
+  "description": "修复 AI 生成图的模糊/噪点/材质丢失",
+  "author": "思乃泡",
+  "ownerId": 4824136,
+  "tags": [],
+  "likeCount": 32,
+  "usePv": 101,
+  "useUv": 40,
+  "publishAt": "2026-09-02 00:34:25",
+  "snapshotId": 42717,
+  "useScenario": "AI 生成图反复迭代后出现清晰度下降、材质丢失、杂色噪点、画面变脏等质量问题时",
+  "inputType": "一张有问题的 AI 生成图（模糊/噪点/材质丢失/脏色），可选上传产品参考图",
+  "outputContent": "经过白模重绘、线稿重绘或一键优化处理后的高质量修复图，或优化提示词",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/fbfcecef2d084e80be71357acb30cd09/97fd73d2b473bce90ec4bdfd391af10cc13adcc8.png",
+  "resultType": 2,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=8323178d410349309f75beb85f64f271",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/fbfcecef2d084e80be71357acb30cd09/97fd73d2b473bce90ec4bdfd391af10cc13adcc8.png"
+  ],
+  "hasPublicSkillContent": true
+}

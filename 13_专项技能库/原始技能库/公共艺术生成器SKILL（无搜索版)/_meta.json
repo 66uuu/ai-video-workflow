@@ -1,0 +1,32 @@
+{
+  "name": "公共艺术生成器SKILL（无搜索版)",
+  "templateUuid": "2a7d2b69465344a5ad55d77c625d6f7c",
+  "skillUuid": "1e924e944a6e4278b44cce2ba7a7fab9",
+  "skillKey": "public-art-generator-b85befd035a84c7d99b6927cfa3fa3c5",
+  "version": "1.0.0",
+  "namespace": "libtv-user-generated",
+  "description": "一句话生成不同材质的公共艺术",
+  "author": "星球的AI畅想",
+  "ownerId": 1619666,
+  "tags": [],
+  "likeCount": 4,
+  "usePv": 5,
+  "useUv": 2,
+  "publishAt": "2026-08-23 08:15:04",
+  "snapshotId": 39828,
+  "useScenario": "多种材质的公共艺术生产",
+  "inputType": "[主体描述] + [材质系统] + [环境背景] + [视角构图] + [光影调性] 就可以生成",
+  "outputContent": "一张超写实的公共艺术设计作品",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/b85befd035a84c7d99b6927cfa3fa3c5/0efbe0f28990a7e144d5bab6a48ce39d196b5991.jpg",
+  "resultType": 2,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=2a7d2b69465344a5ad55d77c625d6f7c",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/b85befd035a84c7d99b6927cfa3fa3c5/6ca8671b107a76daba444379877e183ab1ac2f7f.png"
+  ],
+  "hasPublicSkillContent": true
+}

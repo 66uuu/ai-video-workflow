@@ -1,0 +1,32 @@
+{
+  "name": "2D手绘传统国风美学",
+  "templateUuid": "bf81c18329d8484581c8244f87089509",
+  "skillUuid": "d1bb7fd170084cd78352b36dd2ebf50b",
+  "skillKey": "oriental-hand-drawn-aesthetic-42a98d5f83a242568e1adfecc620ed3e",
+  "version": "1.0.3",
+  "namespace": "libtv-user-generated",
+  "description": "自概念艺术与东方幻想美学融合，自动生成复古手绘国风质感影片",
+  "author": "赛赛_Cecilia",
+  "ownerId": 4351068,
+  "tags": [],
+  "likeCount": 8,
+  "usePv": 9,
+  "useUv": 8,
+  "publishAt": "2026-07-25 22:14:07",
+  "snapshotId": 30725,
+  "useScenario": "本 Skill 专精于将概念艺术与东方幻想美学融合，生成具有数字手绘质感的视频内容。它能够将抽象的故事梗概转化为包含戏剧性光影、水彩肌理和叙事张力的动态短片，适用于高品质视觉化创作。",
+  "inputType": "用户可以输入剧本内容。角色设定、世界观介绍或一句话梗概。",
+  "outputContent": "富有质感的手绘2D风格奇幻国风影片",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/42a98d5f83a242568e1adfecc620ed3e/32a74e6562e85aeb6e3263fdb48cb729422d157d.png",
+  "resultType": 3,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=bf81c18329d8484581c8244f87089509",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/42a98d5f83a242568e1adfecc620ed3e/6d447da074eac5bb8dde72922e369ff358e1f0e5.mp4"
+  ],
+  "hasPublicSkillContent": true
+}

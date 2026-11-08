@@ -1,0 +1,35 @@
+{
+  "name": "多人对话戏分镜生成",
+  "templateUuid": "805dca7835fb42de93baec1779a56c66",
+  "skillUuid": "abacf50c607e4f2da495f79e9488d23e",
+  "skillKey": "multi-person-dialogue-storyboard-431590b021c143a0b10d6988d3c3a50c",
+  "version": "1.0.3",
+  "namespace": "libtv-user-generated",
+  "description": "遵循轴线原则，生成尽量少穿帮的多人对话戏剧情",
+  "author": "Zz",
+  "ownerId": 5927302,
+  "tags": [],
+  "likeCount": 15,
+  "usePv": 21,
+  "useUv": 16,
+  "publishAt": "2026-08-04 12:30:13",
+  "snapshotId": 33162,
+  "useScenario": "多人对话戏",
+  "inputType": "输入人设图告知人设图对应的人物名称，在上传剧本，这个skill的工作流程是先通过上帝视角来标记出来人物在剧情中的位置，你也可以通过手动标记的方式来告知skill人物应该在的位置（这里的标记可以用ps或者平台自带的标记功能来完成），然后skill在通过分析剧本来完成分镜图的创作。",
+  "outputContent": "多人对话戏分镜",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/431590b021c143a0b10d6988d3c3a50c/4f118682c9e9fda10ccdb6c42bbbf60a4fd50a91.png",
+  "resultType": 2,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=805dca7835fb42de93baec1779a56c66",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/431590b021c143a0b10d6988d3c3a50c/4f118682c9e9fda10ccdb6c42bbbf60a4fd50a91.png",
+    "https://libtv-res.liblib.art/upload-images/431590b021c143a0b10d6988d3c3a50c/7efbe613a58a8c59ad94724cc0895164c5474ed0.png",
+    "https://libtv-res.liblib.art/upload-images/431590b021c143a0b10d6988d3c3a50c/7a65003a13d08ecda082f023066a75c2f9e4dfaf.png",
+    "https://libtv-res.liblib.art/upload-images/431590b021c143a0b10d6988d3c3a50c/524f9aaf4e332ef966d238eb5c3a260745d11d71.png"
+  ],
+  "hasPublicSkillContent": true
+}

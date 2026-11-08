@@ -1,0 +1,32 @@
+{
+  "name": "影片级逼真人像提示词",
+  "templateUuid": "ebca2105c4d5457ea1a450cbe15c5347",
+  "skillUuid": "4caacd45045f449e8e2cba858dafe381",
+  "skillKey": "photorealistic-portrait-prompt-d730d1714257982f8b74ccf8507cb437",
+  "version": "1.0.0",
+  "namespace": "libtv-user-generated",
+  "description": "年龄+性别，生成照片级真人肖像提示词，打造自然真实AI人像",
+  "author": "方块格子",
+  "ownerId": 3216,
+  "tags": [],
+  "likeCount": 36,
+  "usePv": 73,
+  "useUv": 52,
+  "publishAt": "2026-09-09 23:11:12",
+  "snapshotId": 44804,
+  "useScenario": "适用于生成照片级逼真人像提示词，包括青年、中年、老年人物，以及自然人像、纪实人像、电影感人像、棚拍人像等。可根据年龄、性别及个性化外貌特征，快速生成具体、真实、非AI模板脸的人像提示词。",
+  "inputType": "输入 年龄+性别 即可；Skill 会自动补全合理设定，无需参考图，也无需反复确认。",
+  "outputContent": "输出一套可直接用于AI生图的照片级逼真人像方案，包括「人物设定」「完整中文提示词」「英文拟真增强词」「负面提示词」。重点强化真实年龄特征、自然五官比例、皮肤毛孔与细节、真实发丝、自然表情、专业摄影光影与照片质感。",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/d730d1714257982f8b74ccf8507cb437/b20e4ab28c92011f8df2cc98cb8c0572a112ab96.jpg",
+  "resultType": 2,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=ebca2105c4d5457ea1a450cbe15c5347",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/d730d1714257982f8b74ccf8507cb437/b20e4ab28c92011f8df2cc98cb8c0572a112ab96.jpg"
+  ],
+  "hasPublicSkillContent": true
+}

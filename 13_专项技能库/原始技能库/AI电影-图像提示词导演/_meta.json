@@ -1,0 +1,34 @@
+{
+  "name": "AI电影-图像提示词导演",
+  "templateUuid": "8622cd79f2984da9a556be81c5507cda",
+  "skillUuid": "d74ee5d07ec24220ab70413ba66cf1bf",
+  "skillKey": "cinematic-prompt-director-cca409ade58949f1ac4e6dae6d804d3d",
+  "version": "1.0.0",
+  "namespace": "libtv-user-generated",
+  "description": "为角色、场景、道具和图片修改任务选择合适模型，并生成精确。",
+  "author": "AIGC肖学长",
+  "ownerId": 498532,
+  "tags": [],
+  "likeCount": 52,
+  "usePv": 44,
+  "useUv": 21,
+  "publishAt": "2026-08-12 02:46:20",
+  "snapshotId": 36038,
+  "useScenario": "适用于AI人物选角图、角色设定、肖像、电影场景、环境概念图、道具图、产品式物件展示，以及对现有图片进行元素替换、文字修改、材质修复、局部调整和反打视角生成。",
+  "inputType": "描述要生成的图片，或上传原图并说明需要修改的唯一主要内容。最好同时提供目标模型、主体、环境、构图、光线、配色和必须保留的元素。示例：“为Soul Cinema设计暴雨中的赛博朋克能源塔顶场景，低机位，蓝白逆光，画面中不出现人物。”",
+  "outputContent": "输出推荐模型、可直接使用的英文图像提示词和必要的平台设置建议。编辑已有图片时，输出明确的CHANGE与PRESERVE EXACTLY指令，确保只修改指定内容。",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/cca409ade58949f1ac4e6dae6d804d3d/415617db21ee84e84ac3f97d8cb4494dd1dd09a8.png",
+  "resultType": 2,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=8622cd79f2984da9a556be81c5507cda",
+  "files": [
+    "SKILL.md",
+    "LIRA SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/cca409ade58949f1ac4e6dae6d804d3d/cd73c85ca86c254e7397e77a68f15412eb116712.png",
+    "https://libtv-res.liblib.art/upload-images/cca409ade58949f1ac4e6dae6d804d3d/189639ed746d36bdb25880cc31ac9ba949172ec0.png"
+  ],
+  "hasPublicSkillContent": true
+}

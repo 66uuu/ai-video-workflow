@@ -1,0 +1,32 @@
+{
+  "name": "角色服饰设计与提取工作流",
+  "templateUuid": "404b846235fd4a39a45c01118090e533",
+  "skillUuid": "34bc84eae8414453b731868570d5d78b",
+  "skillKey": "character-outfit-extractor-a61831400c7c42e3a7f1b92b708c8018",
+  "version": "1.0.1",
+  "namespace": "libtv-user-generated",
+  "description": "根据参考服饰图，生成角色人物及三视图，再将服装提取为白底写实",
+  "author": "佩奇佩奇",
+  "ownerId": 10408965,
+  "tags": [],
+  "likeCount": 20,
+  "usePv": 16,
+  "useUv": 12,
+  "publishAt": "2026-08-04 11:26:41",
+  "snapshotId": 33138,
+  "useScenario": "适用于角色服饰设计、换装展示、服装白底图提取、电商产品图制作等场景。输入参考服饰图片，输出角色人物图、三视图、打底服及各套服饰的白底写实提取图。",
+  "inputType": "参考服饰图片（1张或多张）、可选的人物基础形象图",
+  "outputContent": "1. 人物生成图（含参考服饰风格的角色形象）\\n2. 人物三视图（正面、侧面、背面）\\n3. 人物打底服图（无外层服饰的基础形象）\\n4. 服饰提取图（每套服装单独提取至白底，写实风格，保留光影/材质/质感）",
+  "coverUrl": "https://libtv-res.liblib.art/sd-gen-save-img/genius_playground/image/a61831400c7c42e3a7f1b92b708c8018/832675080_c1c28f22bd97424eb66e57c4c09b5e6c.png",
+  "resultType": 2,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=404b846235fd4a39a45c01118090e533",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/a61831400c7c42e3a7f1b92b708c8018/6a294a3e4909e0c3304d0d28c1381b95b193b75c.png"
+  ],
+  "hasPublicSkillContent": true
+}

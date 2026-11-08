@@ -1,0 +1,32 @@
+{
+  "name": "胶片电影Skill",
+  "templateUuid": "aefea4cd9c3b43c3a0b507c023c23227",
+  "skillUuid": "af52f605b9e14b588ab59903ae9daa4a",
+  "skillKey": "film-cinematic-35mm-b35a452e51174337ad24d8c3392c950b",
+  "version": "1.0.0",
+  "namespace": "libtv-user-generated",
+  "description": "适配Seedance2.5，固定35mm胶片电影风格",
+  "author": "刀哥聊AI",
+  "ownerId": 4962815,
+  "tags": [],
+  "likeCount": 79,
+  "usePv": 45,
+  "useUv": 28,
+  "publishAt": "2026-08-11 16:59:03",
+  "snapshotId": 35869,
+  "useScenario": "需要胶片质感，做AI电影",
+  "inputType": "输入剧本和故事即可",
+  "outputContent": "严谨详细的分镜提示词",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/b35a452e51174337ad24d8c3392c950b/e891bdaec1d1e2b07be655e1d15cb7f13b0c281a.png",
+  "resultType": 3,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=aefea4cd9c3b43c3a0b507c023c23227",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/b35a452e51174337ad24d8c3392c950b/610ade99b47a91c735daea4af73c31045fe7d0e1.mp4"
+  ],
+  "hasPublicSkillContent": true
+}

@@ -1,0 +1,32 @@
+{
+  "name": "品牌LOGO吉祥物开场动画",
+  "templateUuid": "3771e787e4394a13ae274a4d51ad7399",
+  "skillUuid": "b97e880a0999425cac341a1e79c35ed4",
+  "skillKey": "brand-mascot-logo-opener-6fe77fcad9614c799944a901d1cc568a",
+  "version": "1.0.2",
+  "namespace": "libtv-user-generated",
+  "description": "LOGO+吉祥物开场动画视频生成流程",
+  "author": "JACKPOORS",
+  "ownerId": 1010805,
+  "tags": [],
+  "likeCount": 3,
+  "usePv": 12,
+  "useUv": 10,
+  "publishAt": "2026-09-05 20:17:59",
+  "snapshotId": 43707,
+  "useScenario": "用户需要为品牌/项目生成一段开场标识动画视频，画面包含品牌LOGO、吉祥物形象、调侃字幕，配合人声音轨。适用于品牌开场、项目片头、活动标识动画等场景。",
+  "inputType": "①LOGO分镜参考图；②吉祥物参考图；③字幕文案（3行以内）；④人声音轨文件（mp3/wav）。",
+  "outputContent": "品牌开场动画视频：LOGO下落归位、吉祥物趴上LOGO、字幕依次弹出，配合人声音轨，纯白背景3D卡通质感，时长约5秒。",
+  "coverUrl": "https://libtv-res.liblib.art/sd-gen-save-img/genius_playground/image/6fe77fcad9614c799944a901d1cc568a/881070401_f582b5d1d39a49a6ac59ca745850cda4.png",
+  "resultType": 3,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=3771e787e4394a13ae274a4d51ad7399",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/6fe77fcad9614c799944a901d1cc568a/4a8af6883d15aaf274523cf9670e602bb595ca2e.mp4"
+  ],
+  "hasPublicSkillContent": true
+}

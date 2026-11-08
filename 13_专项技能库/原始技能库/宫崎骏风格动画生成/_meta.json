@@ -1,0 +1,32 @@
+{
+  "name": "宫崎骏风格动画生成",
+  "templateUuid": "4e3db28938c04e619c15a6545b785fef",
+  "skillUuid": "57745f82d3a44236a29bb5da4da0afe1",
+  "skillKey": "ghibli-style-animator-370ab81b5a6b49399605ddbfb2e4f29c",
+  "version": "1.0.1",
+  "namespace": "libtv-user-generated",
+  "description": "宫崎骏动画风格，适用动画短片及创意广告",
+  "author": "177****6809",
+  "ownerId": 7209377,
+  "tags": [],
+  "likeCount": 20,
+  "usePv": 12,
+  "useUv": 10,
+  "publishAt": "2026-07-17 12:38:50",
+  "snapshotId": 28066,
+  "useScenario": "该skill适用于想要制作日系手绘风短片，让你也能成为自己童话的主角",
+  "inputType": "人物设定，例如角色外貌，性格以及核心特征，剧情梗概，时代背景，幻想或者现实题材",
+  "outputContent": "每一步都可以停止，续写的剧本，生成人物资产，完整的分镜故事板预览，最终成片",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/370ab81b5a6b49399605ddbfb2e4f29c/fc65c45718bea78ff1a9bfc9f55f5f84d0a5ba86.png",
+  "resultType": 3,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=4e3db28938c04e619c15a6545b785fef",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/370ab81b5a6b49399605ddbfb2e4f29c/fd33fd1a98e4a325fdd556c5c9c25a5fa37728da.mp4"
+  ],
+  "hasPublicSkillContent": true
+}

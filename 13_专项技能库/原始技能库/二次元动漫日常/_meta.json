@@ -1,0 +1,32 @@
+{
+  "name": "二次元动漫日常",
+  "templateUuid": "1bf26729a9954c50874b912e6e46c734",
+  "skillUuid": "e3f843185ced49d6950b6d2d7b44f94c",
+  "skillKey": "anime-daily-lifestyle-e7f84839d906496f93efb979bcf425d9",
+  "version": "1.0.1",
+  "namespace": "libtv-user-generated",
+  "description": "二次元风格",
+  "author": "XIGUA",
+  "ownerId": 2463304,
+  "tags": [],
+  "likeCount": 13,
+  "usePv": 60,
+  "useUv": 38,
+  "publishAt": "2026-07-20 16:20:09",
+  "snapshotId": 29234,
+  "useScenario": "任何",
+  "inputType": "让用户输入一个故事的大纲",
+  "outputContent": "最终生成一条90秒的二次元动画视频",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/e7f84839d906496f93efb979bcf425d9/d78ca2525987cb7bd04075c7576121325262f8cf.png",
+  "resultType": 3,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=1bf26729a9954c50874b912e6e46c734",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/e7f84839d906496f93efb979bcf425d9/dc28e11d1adb460053a87d7bbcacbc136d5b6b9f.mp4"
+  ],
+  "hasPublicSkillContent": true
+}

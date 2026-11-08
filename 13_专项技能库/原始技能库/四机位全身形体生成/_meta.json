@@ -1,0 +1,32 @@
+{
+  "name": "四机位全身形体生成",
+  "templateUuid": "6a68f81a7a7d4e0d8ef87869407cf97e",
+  "skillUuid": "2405721039594eb498b63c5d5d0f376a",
+  "skillKey": "four-view-body-generator-eeef351df5ab4cbc99cdd67b6c33ebf2",
+  "version": "1.0.2",
+  "namespace": "libtv-user-generated",
+  "description": "输入角色照+服装描述生成四机位全身图",
+  "author": "微信用户6e97ce",
+  "ownerId": 5028802,
+  "tags": [],
+  "likeCount": 2,
+  "usePv": 2,
+  "useUv": 1,
+  "publishAt": "2026-09-06 22:51:04",
+  "snapshotId": 43918,
+  "useScenario": "需要为角色生成标准四机位全身形体图时使用，适用于服装设计验证、角色资产建立、多视角形体一致性锁定等场景",
+  "inputType": "角色正面全身照或肖像照 + 目标服装描述（文字）",
+  "outputContent": "四张独立全身图：正面 / 侧面 / 背面 / 45°副相，形体严格遵循小林 BODY Core 1.5.0 数据",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/eeef351df5ab4cbc99cdd67b6c33ebf2/f80ef1c50528307976755ba4b56d8a913eb9dc8c.png",
+  "resultType": 2,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=6a68f81a7a7d4e0d8ef87869407cf97e",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/eeef351df5ab4cbc99cdd67b6c33ebf2/f80ef1c50528307976755ba4b56d8a913eb9dc8c.png"
+  ],
+  "hasPublicSkillContent": true
+}

@@ -1,0 +1,33 @@
+{
+  "name": "东方修行哲思意境视觉导演",
+  "templateUuid": "c73415b5a8c24ffd99440b6aa0c94136",
+  "skillUuid": "5d4406aff3574e099a02cc04f753d559",
+  "skillKey": "oriental-zen-visual-director-f574471b318b491695503813e0f553cf",
+  "version": "1.0.0",
+  "namespace": "libtv-user-generated",
+  "description": "输入哲思文案或一句主题，自动生成统一风格的中式修行图片与视频",
+  "author": "迈克的AiGC世界",
+  "ownerId": 381175,
+  "tags": [],
+  "likeCount": null,
+  "usePv": 3,
+  "useUv": 3,
+  "publishAt": "2026-09-23 23:36:47",
+  "snapshotId": 49688,
+  "useScenario": "适用于道家哲思、修心感悟、人生体悟、传统文化等内容的视觉化创作。可将“修行、无相、清净自持、看淡得失、返璞归真”等抽象主题，转化为仙阙、宗门、山水、神兽、抚琴、御剑、渡劫和第一人称修行奇观，制作具有电影质感的哲思短片。",
+  "inputType": "可以直接粘贴一段哲学、道家、修心或人生感悟文案，也可以只输入一个主题，让Skill先创作旁白文案。Skill会自动拆分12至18个视觉段落，为每个镜头编写不超过1024字符的Style Image V8.2提示词，并生成四张候选图片。选图后，自动生成对应的中文图生视频提示词和可灵3.0视频。也可上传已有图片，直接进入视频阶段",
+  "outputContent": "输出一篇可直接配音的哲思文案、对应的视觉叙事方案，以及默认12至18组统一中式修行电影质感的16:9候选图片。确认图片后，每张图继续输出一段220至320字的中文视频提示词和一个5秒、16:9、电影级可灵3.0视频。",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/f574471b318b491695503813e0f553cf/31a2b2b114189ea7e5dd06b47ddcb865e448653b.png",
+  "resultType": 3,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=c73415b5a8c24ffd99440b6aa0c94136",
+  "files": [
+    "SKILL.md",
+    "skill-square-fields.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/f574471b318b491695503813e0f553cf/9d010e1dc342d2be09a3a406dbdc2febd8c5942b.mp4"
+  ],
+  "hasPublicSkillContent": true
+}

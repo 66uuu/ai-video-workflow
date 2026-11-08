@@ -1,0 +1,32 @@
+{
+  "name": "活动开场FPV视频制作",
+  "templateUuid": "fb8b83dcd6994ecba6487466e27b881d",
+  "skillUuid": "f03e2c03221c4dd28f1ed62749f999b9",
+  "skillKey": "fpv-event-opening-video-92e7c0bc2c2348a2b9283592cf15e45d",
+  "version": "1.0.2",
+  "namespace": "libtv-user-generated",
+  "description": "活动开场FPV穿越视频+正门合成图",
+  "author": "越极",
+  "ownerId": 2945380,
+  "tags": [],
+  "likeCount": 4,
+  "usePv": 3,
+  "useUv": 3,
+  "publishAt": "2026-09-07 22:07:06",
+  "snapshotId": 44212,
+  "useScenario": "为线下活动制作开场宣传视频，将活动主视觉、场地实景、室内舞台整合成一条FPV穿越机一镜到底的开场视频，同时生成正门合成图",
+  "inputType": "活动主视觉设计稿、正门建筑原图、城市航拍大景、室内舞台参考图、舞台风格参考图",
+  "outputContent": "正门合成图（活动主视觉贴图合成到正门建筑）+ 活动开场视频（约9秒FPV一镜到底）",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/92e7c0bc2c2348a2b9283592cf15e45d/dc2406b33d870b0ebec2688c72aeb64d497d85de.png",
+  "resultType": 3,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=fb8b83dcd6994ecba6487466e27b881d",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/92e7c0bc2c2348a2b9283592cf15e45d/39147dd50a5a19b813cfeed5144e737d40bf0704.mp4"
+  ],
+  "hasPublicSkillContent": true
+}

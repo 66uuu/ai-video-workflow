@@ -1,0 +1,32 @@
+{
+  "name": "户外灰底模特图",
+  "templateUuid": "33b24a9c90eb40579ea3389d70c1a402",
+  "skillUuid": "8bf24412e3ab448594da6cd98bd7651c",
+  "skillKey": "outdoor-model-scene-transformer-a29c7926b632433d8ebc929c26ce9438",
+  "version": "1.0.1",
+  "namespace": "libtv-user-generated",
+  "description": "灰底模特图置入户外场景专用版",
+  "author": "173****4373",
+  "ownerId": 11180842,
+  "tags": [],
+  "likeCount": null,
+  "usePv": 1,
+  "useUv": 1,
+  "publishAt": "2026-08-24 14:27:01",
+  "snapshotId": 40132,
+  "useScenario": "用户想把灰底模特放进户外场景（草甸、雪山、湖景、山野等）时使用，支持批量处理多张灰底图",
+  "inputType": "灰底模特图（一张或多张）+ 参考场景图（一张），可附加文字说明",
+  "outputContent": "模特置于户外场景中的商业合成图，天空主导背景，光影自然，无贴图感",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/a29c7926b632433d8ebc929c26ce9438/fd8d591acbc2c0b5bb4031033cecfbf271cef4a7.png",
+  "resultType": 2,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=33b24a9c90eb40579ea3389d70c1a402",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/a29c7926b632433d8ebc929c26ce9438/fd8d591acbc2c0b5bb4031033cecfbf271cef4a7.png"
+  ],
+  "hasPublicSkillContent": true
+}

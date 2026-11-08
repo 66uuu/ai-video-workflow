@@ -1,0 +1,35 @@
+{
+  "name": "剧本分析3D角色+场景",
+  "templateUuid": "d1d85716283c4847806de452140c523f",
+  "skillUuid": "15d11c00bbe24ed58f1f047c50b82216",
+  "skillKey": "3d-character-design-planner-8d012fbe5b224c7bab64318012900756",
+  "version": "1.0.9",
+  "namespace": "libtv-user-generated",
+  "description": "输出内容包含角色三视图+场景图",
+  "author": "蛋白",
+  "ownerId": 10721429,
+  "tags": [],
+  "likeCount": 334,
+  "usePv": 631,
+  "useUv": 329,
+  "publishAt": "2026-09-14 09:44:41",
+  "snapshotId": 46021,
+  "useScenario": "短剧虚拟数字人前期美术设定：给短剧每一位出场主角、配角制作标准化 3D 建模参考图；\n短剧 CG 镜头场景原画生成：根据剧本剧情生成对应室内 / 室外写实 CG 场景渲染图；\nAI 批量生图工作流：统一渲染参数、美术风格，避免角色、场景画风割裂；\n3D 建模师资产参考：提供完整 PBR 材质、高模烘焙、UV、光影工业化参数，降低建模沟通成本；",
+  "inputType": "输入完整短剧剧本文本，包含出场人物介绍、人物性格外貌、故事发生地点、剧情时间（白天 / 夜晚 / 室内昏暗/室内明亮 / 冷调/",
+  "outputContent": "完整剧本美术拆解分析（人物气质总结 + 场景氛围总结）；\n所有出场角色分构图正向渲染提示词（可直接复制 AI 绘图，包含 UE5/PBR/ 光追全套工业参数）；\n角色专用负面提示词（规避撞脸、建模瑕疵、构图崩坏）；\n匹配剧本剧情的配套场景 CG 正向渲染提示词；\n场景专用负面提示词（规避穿模、画面杂乱、光影失真、低模劣质效果）。",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/8d012fbe5b224c7bab64318012900756/3e94cd59e0954020d5b997575e3b119465161ea5.png",
+  "resultType": 2,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=d1d85716283c4847806de452140c523f",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/8d012fbe5b224c7bab64318012900756/3e94cd59e0954020d5b997575e3b119465161ea5.png",
+    "https://libtv-res.liblib.art/upload-images/8d012fbe5b224c7bab64318012900756/ffa305047762887f1f20d03bab4ed9d4949be5b6.png",
+    "https://libtv-res.liblib.art/upload-images/8d012fbe5b224c7bab64318012900756/9753aae99667c91d1af91b48d541260fc9ebe374.png",
+    "https://libtv-res.liblib.art/upload-images/8d012fbe5b224c7bab64318012900756/eb935f3dc73464d608ce40f3d5f1eff03eac20cd.png"
+  ],
+  "hasPublicSkillContent": true
+}

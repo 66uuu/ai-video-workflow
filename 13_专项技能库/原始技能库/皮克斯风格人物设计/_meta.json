@@ -1,0 +1,33 @@
+{
+  "name": "皮克斯风格人物设计",
+  "templateUuid": "b5b13d7cb1564a49a4e26d9653171f0f",
+  "skillUuid": "73b01741ae31469fbb3eb535bf8023f7",
+  "skillKey": "pixar-character-designer-124ce50377454f69bc64c09b50e20837",
+  "version": "1.0.0",
+  "namespace": "libtv-user-generated",
+  "description": "仅用于制作皮克斯风格角色三视图的人物角儿美术设计",
+  "author": "AI创可贴",
+  "ownerId": 9598362,
+  "tags": [],
+  "likeCount": 40,
+  "usePv": 61,
+  "useUv": 41,
+  "publishAt": "2026-07-14 15:10:41",
+  "snapshotId": 26899,
+  "useScenario": "仅用于制作皮克斯风格角色三视图的美术设计。不包含场景、动物、机器人等，只用于人；",
+  "inputType": "输入你想要的角色类型，性别、年龄、大概长相、角色特点，肤色等",
+  "outputContent": "皮克斯美术风格角色，三视图，人物正面半身照，全身正面、侧面、背面照，白底，比例16:9",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/124ce50377454f69bc64c09b50e20837/1c4824fb111390f990bc7c34b37ca362686467aa.png",
+  "resultType": 2,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=b5b13d7cb1564a49a4e26d9653171f0f",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/124ce50377454f69bc64c09b50e20837/1c4824fb111390f990bc7c34b37ca362686467aa.png",
+    "https://libtv-res.liblib.art/upload-images/124ce50377454f69bc64c09b50e20837/4407b2635ff06c785409bae258dd56b9734e3892.png"
+  ],
+  "hasPublicSkillContent": true
+}

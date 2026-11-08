@@ -1,0 +1,34 @@
+{
+  "name": "恐怖后室氛围爆款视频",
+  "templateUuid": "60e673aace2c4971a02859275b8fe85f",
+  "skillUuid": "f7cccf6350c44b3fa1bd80ad899dc0ff",
+  "skillKey": "afterlife-escape-creative-suite-5de625e86d1143e6a4fd948ca25ec34b",
+  "version": "1.0.2",
+  "namespace": "libtv-user-generated",
+  "description": "双视角专业运镜・全层级环境定制・游戏级恐怖氛围",
+  "author": "Jookei",
+  "ownerId": 8663873,
+  "tags": [],
+  "likeCount": 8,
+  "usePv": 17,
+  "useUv": 13,
+  "publishAt": "2026-07-27 22:09:49",
+  "snapshotId": 31174,
+  "useScenario": "后室阈限视觉创作 Skill | 双视角专业运镜・全层级环境定制・游戏级恐怖氛围\n专为 Backrooms 后室题材打造的全链路视觉创作工具，内置经典层级模板，支持第一 / 第三人称双视角切换，1-5 级恐怖强度可调，可一键生成游戏概念原画、运镜分镜脚本。支持 Jump Scare 等多种恐怖强度配置；从概念到含 BGM 成片全流程交付。\n- 恐怖游戏场景策划\n- 后室主题短视频\n- 后室同人创作",
+  "inputType": "第一步：启动 Skill，确认基础方向\n1. 选择最终交付形式：游戏概念原画 / 运镜分镜脚本 / AI 视频提示词 / 环境设定文档 / 其他定制形式\n2. 选择场景层级：经典层级（直接报编号，如「Level 0」） / 自定义层级（一句话描述核心特征，如「全是废弃手术室的医院层级」）\n第二步：确认核心体验参数\n第三步：细节风格定制（可选，无要求可跳过）\n第四步：参数核对与生成",
+  "outputContent": "锚点清单、分镜表（含LVL向量指令）、图像资产、分镜视频节点、BGM节点、合成成片。\n\n采用分层引导式交互逻辑，从交付形式、层级选择、视角方案、恐怖强度到细节定制，逐步确认需求，内置默认兜底方案，新手也能快速上手，确保输出结果完全匹配预期。",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/5de625e86d1143e6a4fd948ca25ec34b/f3df9ee01a7ec91976661ce0966cf065d3a8b1ef.jpg",
+  "resultType": 3,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=60e673aace2c4971a02859275b8fe85f",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/5de625e86d1143e6a4fd948ca25ec34b/e81c5c7f5053ebaa090663b86caeb83c00b56075.mp4",
+    "https://libtv-res.liblib.art/upload-images/5de625e86d1143e6a4fd948ca25ec34b/3b6c0f35fa3fd6aae59eb34510911e9aae86f752.mp4",
+    "https://libtv-res.liblib.art/upload-images/5de625e86d1143e6a4fd948ca25ec34b/633da57c6f9430a3e7e0158294ae9962d0ad9df2.mp4"
+  ],
+  "hasPublicSkillContent": true
+}

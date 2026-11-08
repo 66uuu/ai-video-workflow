@@ -1,0 +1,33 @@
+{
+  "name": "16:9横屏女性成长短片",
+  "templateUuid": "7ba34931c0bc4c26a57d81b1a0f14527",
+  "skillUuid": "5c5047c0a5ff45d28f04e5776ab89ae0",
+  "skillKey": "female-growth-short-film-ac8e0c09484a4ed3a8b035faf67d68bc",
+  "version": "1.0.0",
+  "namespace": "libtv-user-generated",
+  "description": "生成16:9横屏写实女性成长短片，输出视频成片",
+  "author": "刘蓬君涵睿",
+  "ownerId": 9006475,
+  "tags": [],
+  "likeCount": 17,
+  "usePv": 2,
+  "useUv": 2,
+  "publishAt": "2026-07-23 17:40:08",
+  "snapshotId": 30137,
+  "useScenario": "用于创作横版剧情短片、项目演示案例、女性成长主题视频、AI短剧横版成片",
+  "inputType": "输入核心冲突、情绪基调、主角设定和时长，自动生成16:9横屏写实女性成长短片视频",
+  "outputContent": "生成16:9横屏写实女性成长短片成片",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/ac8e0c09484a4ed3a8b035faf67d68bc/0bb67a283f7ce9f598b6be497c831751fdb79e2a.jpg",
+  "resultType": 3,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=7ba34931c0bc4c26a57d81b1a0f14527",
+  "files": [
+    "SKILL.md",
+    "reference.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/ac8e0c09484a4ed3a8b035faf67d68bc/97d8db923c272cdb2220951f05c84cd24a5fedf4.mp4"
+  ],
+  "hasPublicSkillContent": true
+}

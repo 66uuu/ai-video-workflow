@@ -1,0 +1,35 @@
+{
+  "name": "国风动漫宇宙",
+  "templateUuid": "09f39da6253d4df5823ed8d85513634f",
+  "skillUuid": "6b9a464a3e5e4625bf9540729f3dbec0",
+  "skillKey": "classic-chinese-animation-creator-ab12b15ad4d84afc9dfebef33fd2feb7",
+  "version": "1.0.2",
+  "namespace": "libtv-user-generated",
+  "description": "一键创作具有《大闹天宫》《哪吒闹海》《山水情》气质的国风动画",
+  "author": "HUANGHUANGTU",
+  "ownerId": 6593815,
+  "tags": [],
+  "likeCount": 21,
+  "usePv": 28,
+  "useUv": 16,
+  "publishAt": "2026-07-17 17:02:44",
+  "snapshotId": 28167,
+  "useScenario": "技能用途\n本Ski深度还原「中国学派」动画美学(如《大闹天宫》、《山水情》)，通过工笔重彩、水墨晕染及戏曲程式化动作设计，为用户生成专业的国风动画剧本、角色设定及视频生成提示词。",
+  "inputType": "适用输入\n核心输入:一句话故事创意或简短剧情描述(建议10字以上)\n可选输入:角色参考图、场景风格参考、期望时长。\n操作步骤\n1",
+  "outputContent": "输出要求\n分镜脚本:包含景别、运镜、画面描述及中英文视频提示词。\n角色设定卡:包含五官特征、服饰纹样、色彩锚点及戏曲化动作建议。\n关键帧方案:提供开场、高潮、结局的视觉逻辑描述。",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/ab12b15ad4d84afc9dfebef33fd2feb7/390b0e4eb215b859c0ce7f9286668e44b5bd5aff.png",
+  "resultType": 3,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=09f39da6253d4df5823ed8d85513634f",
+  "files": [
+    "SKILL.md",
+    "references/character-template.md",
+    "references/cinematography-guide.md",
+    "references/guofeng-aesthetics.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/ab12b15ad4d84afc9dfebef33fd2feb7/3102061cdf5aee4bd4d4e62ee0aa95a8e8686bc1.mp4"
+  ],
+  "hasPublicSkillContent": true
+}

@@ -1,0 +1,32 @@
+{
+  "name": "精品短剧",
+  "templateUuid": "054577f83ca049a09d3b2d64a98eadb0",
+  "skillUuid": "e1846f890c224cc481b16d0ee22961a7",
+  "skillKey": "premium-short-drama-creator-85f0c093482a4db68b92c07bfb65e336",
+  "version": "1.0.12",
+  "namespace": "libtv-user-generated",
+  "description": "专业影视工业的“导演+编剧+摄影+剪辑”全流程",
+  "author": "139****4926",
+  "ownerId": 10973939,
+  "tags": [],
+  "likeCount": 47,
+  "usePv": 116,
+  "useUv": 35,
+  "publishAt": "2026-08-05 10:28:56",
+  "snapshotId": 33469,
+  "useScenario": "短剧创作者快速将创意落地为可制作资产；AI视频生成师获得标准化提示词生产流程；短剧工作室统一团队工作流，提升批量生产效率；内容创业者在 LibTV 平台用 AI 进行短剧创作。",
+  "inputType": "提供故事创意或脚本，指定类型（悬疑/爱情/动作/喜剧等）、视觉模式（真人/动漫/CG）、集数和时长。Skill自动采集缺失信息并引导完成项目初始化。示例输入：\"帮我做一个真人悬疑短剧，主角是外卖员，捡到手机看到未来视频，3集每集60秒。\"",
+  "outputContent": "项目信息表、故事开发、生产圣经、LibTV主体库注册、剧集拆解、分镜表、图片提示词（五大强制模块）、视频提示词（六大强制要素）、音频与剪辑计划（EDL）、连续性检查报告（PASS/WARNING/CONFLICT）。结构化输出，可直接在 LibTV 节点中执行。",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/85f0c093482a4db68b92c07bfb65e336/1d265f1a3f0eefc0a7681ec8e9880acfc4973e4b.jpg",
+  "resultType": 3,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=054577f83ca049a09d3b2d64a98eadb0",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/85f0c093482a4db68b92c07bfb65e336/6537f5f9e9a644743dcf7233b10c563cd0771fc7.mp4"
+  ],
+  "hasPublicSkillContent": true
+}

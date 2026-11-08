@@ -1,0 +1,32 @@
+{
+  "name": "家具电商详情页-87",
+  "templateUuid": "2b8c9cd9f03a4f408b048ac207485877",
+  "skillUuid": "88b0a7a2d78542d3b3197d168c35d909",
+  "skillKey": "furniture-detail-page-builder-f2ac4a9f25064cac9bf96e98b6f75ed7",
+  "version": "1.0.1",
+  "namespace": "libtv-user-generated",
+  "description": "一套完整的家具电商详情页图片生成工作流，涵盖品牌首屏、卖点拆",
+  "author": "87",
+  "ownerId": 644223,
+  "tags": [],
+  "likeCount": 27,
+  "usePv": 35,
+  "useUv": 15,
+  "publishAt": "2026-08-04 19:12:18",
+  "snapshotId": 33344,
+  "useScenario": "用户上传家具产品图后，希望一键生成完整电商详情页所需全套图片素材，适用于椅子、桌子、柜子、沙发等各类实木/软体家具。",
+  "inputType": "用户提**品图（必须）、三视图（可选）、参考风格图（可选）、产品卖点文案（可选）",
+  "outputContent": "1. 品牌首屏视觉（1张）- 建立高级感，大场景+产品主体\n2. 核心卖点拆解（2张）- 卖点特写+文字排版\n3. 人体工学舒适展示（3张）- 人物使用场景，背影/侧面/特写\n4. 生活场景展示（4张）- 书房/茶室/餐厅/客厅等不同场景\n5. 产品细节展示（3张）- 木纹/皮革/榫卯/五金等工艺微距\n6. 选材材质溯源科普（2张）- 产地溯源信息图+木材等级对比\n7. 尺寸参数表（1张）",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/f2ac4a9f25064cac9bf96e98b6f75ed7/c08355601539be5c5c1de2ffa6ae2f5bca545a32.png",
+  "resultType": 2,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=2b8c9cd9f03a4f408b048ac207485877",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/f2ac4a9f25064cac9bf96e98b6f75ed7/c08355601539be5c5c1de2ffa6ae2f5bca545a32.png"
+  ],
+  "hasPublicSkillContent": true
+}

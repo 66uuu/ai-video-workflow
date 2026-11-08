@@ -1,0 +1,37 @@
+{
+  "name": "mj电影级提示词v8.1",
+  "templateUuid": "e2a700ac641343b5aa6daca97eee2d11",
+  "skillUuid": "99cca3261ed0457c939a6567b0693187",
+  "skillKey": "midjourney-cinematic-prompt-0a88962ad9bf41668381d23440015181",
+  "version": "1.0.3",
+  "namespace": "libtv-user-generated",
+  "description": "把用户的画面想法、剧本、或模糊需求转化为专业级 MJ 提示词",
+  "author": "AIGC爱好者",
+  "ownerId": 8532816,
+  "tags": [],
+  "likeCount": 198,
+  "usePv": 264,
+  "useUv": 140,
+  "publishAt": "2026-07-14 23:56:14",
+  "snapshotId": 27131,
+  "useScenario": "把用户的画面想法、剧本、或模糊需求转化为专业级 MJ 提示词。覆盖：写实摄影、电影感肖像、产品摄影、概念插画、动漫等全部场景。触发词：写提示词、提示词、prompt、MJ、**********、出图、生图、画面、镜头、帮我写prompt、剧本转提示词、反推风格、文生图、文生图提示词、画面想法、generate prompt",
+  "inputType": "当用户给画面想法时直接构建提示词；当用户给剧本时从剧本反推视觉风格再写提示词；当用户不确定风格时推荐 2-3 个差异化风格方向并",
+  "outputContent": "每次输出必须包含以下结构（除非用户只要提示词本身）：\n\n### 1. 风格判断（1-2 句）\n\n说明你选择了什么风格、为什么。若是剧本反推，附「剧本 → 视觉要素」映射。\n\n### 2. 最终提示词（可直接复制）\n\n英文，连续段落，按骨架五段顺序排列，末尾跟参数。这是用户直接复制粘贴到 MJ 的部分。\n\n### 3. 中文逐段注释\n\n用表格或列表标注每段对应的视觉职能，让用户理解结构。",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/0a88962ad9bf41668381d23440015181/87621085d8cc382cb246fe97734b8b5844191bcf.png",
+  "resultType": 2,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=e2a700ac641343b5aa6daca97eee2d11",
+  "files": [
+    "SKILL.md",
+    "references/iteration-workflow.md",
+    "references/examples.md",
+    "references/prompt-anatomy.md",
+    "references/materials-and-light.md",
+    "references/parameters-v81.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/0a88962ad9bf41668381d23440015181/87621085d8cc382cb246fe97734b8b5844191bcf.png"
+  ],
+  "hasPublicSkillContent": true
+}

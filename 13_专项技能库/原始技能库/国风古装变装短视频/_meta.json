@@ -1,0 +1,32 @@
+{
+  "name": "国风古装变装短视频",
+  "templateUuid": "5782b8e569b84ed3a3d917e940b56b30",
+  "skillUuid": "370b469c1bb146f2ab040e5e67d9c0e0",
+  "skillKey": "guofeng-costume-transformation-6fe77fcad9614c799944a901d1cc568a",
+  "version": "1.0.3",
+  "namespace": "libtv-user-generated",
+  "description": "适用于国风变装短视频生成",
+  "author": "JACKPOORS",
+  "ownerId": 1010805,
+  "tags": [],
+  "likeCount": 11,
+  "usePv": 7,
+  "useUv": 6,
+  "publishAt": "2026-07-23 22:44:22",
+  "snapshotId": 30211,
+  "useScenario": "短视频古风变装短视频制作",
+  "inputType": "上传人物照片，文生图。",
+  "outputContent": "变装短视频，人物图，场景图。",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/6fe77fcad9614c799944a901d1cc568a/3b1aa6d151a681982428b8d1b7d5c06b62c2ec10.png",
+  "resultType": 3,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=5782b8e569b84ed3a3d917e940b56b30",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/6fe77fcad9614c799944a901d1cc568a/f9aa4ae5d3814bae6ac849f5da7e035ef4a885ed.mp4"
+  ],
+  "hasPublicSkillContent": true
+}

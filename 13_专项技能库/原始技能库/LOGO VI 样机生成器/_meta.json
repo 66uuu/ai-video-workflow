@@ -1,0 +1,35 @@
+{
+  "name": "LOGO VI 样机生成器",
+  "templateUuid": "4c01de70592c416b8d2667bcdc68cfd2",
+  "skillUuid": "e2051c6b2c394455b5e72433af5ee4d7",
+  "skillKey": "logo-vi-mockup-e20ffb9f022d4ac5bf7b5494a9c4fb38",
+  "version": "1.0.3",
+  "namespace": "libtv-user-generated",
+  "description": "上传LOGO自动适配VI样机效果图",
+  "author": "JARVA_AI",
+  "ownerId": 275361,
+  "tags": [],
+  "likeCount": 2,
+  "usePv": 3,
+  "useUv": 3,
+  "publishAt": "2026-08-28 00:14:01",
+  "snapshotId": 41497,
+  "useScenario": "品牌方或设计师需要快速预览 LOGO 在真实 VI 场景中的应用效果，或为客户展示 VI 落地方案时使用",
+  "inputType": "上传 LOGO 图片（必填），可选补充品牌风格关键词和主色调偏好",
+  "outputContent": "3～5 个 VI 样机场景的真实感 AI 效果图，附带可复用的图像提示词",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/e20ffb9f022d4ac5bf7b5494a9c4fb38/7cab68e4429614fbc338383e4be571c366259b11.png",
+  "resultType": 2,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=4c01de70592c416b8d2667bcdc68cfd2",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/e20ffb9f022d4ac5bf7b5494a9c4fb38/a63d20e4ae03735cc7b06c02da82bfa20f0dbde0.png",
+    "https://libtv-res.liblib.art/upload-images/e20ffb9f022d4ac5bf7b5494a9c4fb38/d6c2e00a6bbc09cfab10d53ca3726968a84b6a89.png",
+    "https://libtv-res.liblib.art/upload-images/e20ffb9f022d4ac5bf7b5494a9c4fb38/b2c9c9aaf127a27a327f7a104b4c0cfeed18d4ff.png",
+    "https://libtv-res.liblib.art/upload-images/e20ffb9f022d4ac5bf7b5494a9c4fb38/4e73edfeda4a83cea7681d193eff395187123e70.png"
+  ],
+  "hasPublicSkillContent": true
+}

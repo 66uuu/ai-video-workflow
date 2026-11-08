@@ -1,0 +1,35 @@
+{
+  "name": "中式宋式美学电影分镜人物—悠船模型SKILL",
+  "templateUuid": "7061edc00b2e40bfb686274802bbfb93",
+  "skillUuid": "5c8bc6d3fb21494c8f61de7ef256e191",
+  "skillKey": "chinese-aesthetic-realism-b85befd035a84c7d99b6927cfa3fa3c5",
+  "version": "1.0.11",
+  "namespace": "libtv-user-generated",
+  "description": "超写实的中式美学人物和场景",
+  "author": "星球的AI畅想",
+  "ownerId": 1619666,
+  "tags": [],
+  "likeCount": 45,
+  "usePv": 100,
+  "useUv": 62,
+  "publishAt": "2026-09-11 20:38:34",
+  "snapshotId": 45521,
+  "useScenario": "电影级角色分镜生成\n如果用MJ模型一定要给Agent+一句话：全部提示词需要在1000个字符数（计空格）以内。",
+  "inputType": "中式宋式美学电影分镜+填入角色+服装+阳光+构图等信息扩充 。建议使用MJ V8.2模型",
+  "outputContent": "超写实电影级角色分镜",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/b85befd035a84c7d99b6927cfa3fa3c5/d7adf218b0cf66832a3a3d0a0dbc160bbc5b3c5a.png",
+  "resultType": 2,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=7061edc00b2e40bfb686274802bbfb93",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/b85befd035a84c7d99b6927cfa3fa3c5/6247d2954df3488d7749a49bbd995841a41536d7.png",
+    "https://libtv-res.liblib.art/upload-images/b85befd035a84c7d99b6927cfa3fa3c5/a7fb970f81ec92f1a0834900e44ac2d88319f160.png",
+    "https://libtv-res.liblib.art/upload-images/b85befd035a84c7d99b6927cfa3fa3c5/5a1ccd1687ac3a5ab775776757db31591ce002b4.png",
+    "https://libtv-res.liblib.art/upload-images/b85befd035a84c7d99b6927cfa3fa3c5/b145d84a92b06510098dc77c400a35fd4bb9c635.png"
+  ],
+  "hasPublicSkillContent": true
+}

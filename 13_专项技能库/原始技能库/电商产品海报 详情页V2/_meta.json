@@ -1,0 +1,34 @@
+{
+  "name": "电商产品海报 详情页V2",
+  "templateUuid": "cd6a62db6f874a208e8359ba07093795",
+  "skillUuid": "6c2595f603b947ed964a2d3a213beae9",
+  "skillKey": "ecommerce-product-poster-d7ed112b9ed44092882621dd66be0788-6c2595f6",
+  "version": "1.0.1",
+  "namespace": "libtv-user-generated",
+  "description": "根据用户提供的产品白底图与参考图，学习参考图的风格、构图与内",
+  "author": "AIGC",
+  "ownerId": 856605,
+  "tags": [],
+  "likeCount": 12,
+  "usePv": 5,
+  "useUv": 5,
+  "publishAt": "2026-08-07 16:09:02",
+  "snapshotId": 34554,
+  "useScenario": "电商平台产品主图、详情页Banner、营销海报等场景，适用于需要快速复刻竞品或参考图风格、批量生成多模型对比方案的电商视觉创作需求。",
+  "inputType": "1. 产品白底图（必须）；2. 风格参考图（必须）；3. 比例选择；4. 模型选择；5. 是否需要排版文字（可选）",
+  "outputContent": "按用户选定比例与模型，生成电商产品海报图片节点，并附配套电商文案（主标题、副标题、卖点文案、行动号召）。",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/d7ed112b9ed44092882621dd66be0788/8a9b018e00298072aadc874566f62f63f0ba9705.jpg",
+  "resultType": 2,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=cd6a62db6f874a208e8359ba07093795",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/d7ed112b9ed44092882621dd66be0788/8a9b018e00298072aadc874566f62f63f0ba9705.jpg",
+    "https://libtv-res.liblib.art/upload-images/d7ed112b9ed44092882621dd66be0788/0806610d91d272138b48fceaad85e3cf6df15755.jpg",
+    "https://libtv-res.liblib.art/upload-images/d7ed112b9ed44092882621dd66be0788/4b53f2ec0cd39bd02192c758b3c3a60e9a0ed3d0.jpg"
+  ],
+  "hasPublicSkillContent": true
+}

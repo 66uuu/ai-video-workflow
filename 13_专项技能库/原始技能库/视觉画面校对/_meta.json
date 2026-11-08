@@ -1,0 +1,32 @@
+{
+  "name": "视觉画面校对",
+  "templateUuid": "7297239b6c144100bbaa1ac5a67ac131",
+  "skillUuid": "25948f81221b4c7390b5ac46acffaa41",
+  "skillKey": "visual-scene-proofreader-e791db092caa47258db4ad567a512bb5",
+  "version": "1.0.0",
+  "namespace": "libtv-user-generated",
+  "description": "视觉",
+  "author": "蓝枫",
+  "ownerId": 452824,
+  "tags": [],
+  "likeCount": 20,
+  "usePv": 48,
+  "useUv": 17,
+  "publishAt": "2026-08-18 09:55:06",
+  "snapshotId": 37976,
+  "useScenario": "分析画面，提供画面优化方向",
+  "inputType": "上传你需要处理或者分析的视觉图",
+  "outputContent": "分析画面的内容或调用视觉模型重新生成图片",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/e791db092caa47258db4ad567a512bb5/1ced56f57dccd842a4ec42a53a084c37faba5b19.jpg",
+  "resultType": 2,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=7297239b6c144100bbaa1ac5a67ac131",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/e791db092caa47258db4ad567a512bb5/1deec95fd3142cfa542c944df6f0a3174d8607d5.jpg"
+  ],
+  "hasPublicSkillContent": true
+}

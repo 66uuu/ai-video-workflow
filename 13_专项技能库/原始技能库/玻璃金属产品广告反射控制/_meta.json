@@ -1,0 +1,36 @@
+{
+  "name": "玻璃金属产品广告反射控制",
+  "templateUuid": "e2f70558d90446e4b33f271d9508440f",
+  "skillUuid": "8086cf57c77a467d8db4ece714e8b74e",
+  "skillKey": "glass-metal-reflection-refiner-fc90127e45224b3dbc353ef70178b69b",
+  "version": "1.0.0",
+  "namespace": "libtv-user-generated",
+  "description": "把玻璃和金属的乱反光，变成连续、可设计、能说明材质的广告高光",
+  "author": "小葵小丹",
+  "ownerId": 596837,
+  "tags": [],
+  "likeCount": 7,
+  "usePv": 2,
+  "useUv": 2,
+  "publishAt": "2026-07-17 16:36:09",
+  "snapshotId": 28150,
+  "useScenario": "适合香水、酒瓶、化妆品、珠宝、家电、3C 与其他玻璃或金属商品的广告、转台视频、电商主图和 AI 视频。重点解决碎高光、房间或摄影机倒影、标签扫白、金属发灰、玻璃像塑料和旋转时高光跳变。",
+  "inputType": "上传无品牌或已授权的产品多角度图或视频，说明材质、尺寸、机位、运动、场地、可用灯具、白卡黑卡、必须保真的标签和最终画幅时长；信息",
+  "outputContent": "材质与卖点证据表、机位运动约束、反射地图、英雄高光与器材替代、五姿态连续性表、分层拍摄或 AI 逐镜提示、症状返修和验收报告。",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/fc90127e45224b3dbc353ef70178b69b/e96ddb2625354148d61f2da3171bd830e5a117bb.png",
+  "resultType": 3,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=e2f70558d90446e4b33f271d9508440f",
+  "files": [
+    "SKILL.md",
+    "research-notes.md",
+    "deliverable-template.md",
+    "examples.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/fc90127e45224b3dbc353ef70178b69b/0eff668549ba1d4824511a9481daa58d64203aa9.mp4",
+    "https://libtv-res.liblib.art/upload-images/fc90127e45224b3dbc353ef70178b69b/63d2a8269e7f844bd1d13863c2634963d85754c8.mp4"
+  ],
+  "hasPublicSkillContent": true
+}

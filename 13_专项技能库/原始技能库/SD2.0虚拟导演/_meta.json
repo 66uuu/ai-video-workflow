@@ -1,0 +1,32 @@
+{
+  "name": "SD2.0虚拟导演",
+  "templateUuid": "5294a0601c4e48bf96fa52d44122cbce",
+  "skillUuid": "aa08dee9e7184b07a93ddc240cf5fdc4",
+  "skillKey": "virtual-cinematic-director-1fabd7e3958345a893d8d7e4a37868f0",
+  "version": "1.0.0",
+  "namespace": "libtv-user-generated",
+  "description": "把你 1 句话的感官需求，自动翻译成包含镜头参数、物理推演和",
+  "author": "AIGC佬猫",
+  "ownerId": 1096368,
+  "tags": [],
+  "likeCount": 7,
+  "usePv": 5,
+  "useUv": 4,
+  "publishAt": "2026-07-18 00:18:26",
+  "snapshotId": 28290,
+  "useScenario": "“把模糊的人类想法，变成精准的 Seedance 2.0 生成指令”\n当你需要调用 Volcengine/Ark 等 API 时，利用技能中的“200字硬压缩”规则，在保证质量的前提下节约 Token 成本。\n强视觉质感，多镜头连贯性，用此技能的“翻车修复手册”来重写 Prompt，而非盲目重试。",
+  "inputType": "复制，粘贴进对话窗口的 “系统提示词（System Prompt）” 或 “自定义指令” 框中。之后，你只需像跟导演说话一样输入",
+  "outputContent": "把 1 句话的感官需求，自动翻译成包含镜头参数、物理推演和平台踩坑经验的 200 字精准指令",
+  "coverUrl": null,
+  "resultType": 1,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=5294a0601c4e48bf96fa52d44122cbce",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/1fabd7e3958345a893d8d7e4a37868f0/4852111337681b21928cd268f34848c5fff8d90d.md"
+  ],
+  "hasPublicSkillContent": true
+}

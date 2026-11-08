@@ -1,0 +1,34 @@
+{
+  "name": "AI电影打斗提示词",
+  "templateUuid": "bb64aa4589b34d33a35b134a165aee15",
+  "skillUuid": "cf84cf560b9648b7998cb12b884d5b53",
+  "skillKey": "cinematic-fight-choreographer-cca409ade58949f1ac4e6dae6d804d3d",
+  "version": "1.0.0",
+  "namespace": "libtv-user-generated",
+  "description": "把用户的场景写成可执行的动作调度。优先保证动作清楚、空间稳定",
+  "author": "AIGC肖学长",
+  "ownerId": 498532,
+  "tags": [
+    "专业影视"
+  ],
+  "likeCount": 503,
+  "usePv": 618,
+  "useUv": 371,
+  "publishAt": "2026-08-17 14:20:31",
+  "snapshotId": 37733,
+  "useScenario": "适用于 AI 电影、AI 短片和文生视频中的打斗场面设计。可用于近身格斗、武器战、一镜到底、多人混战、追逐战、机甲战、巨兽战及大型战场。也能诊断和修改动作混乱、人物瞬移、肢体穿模、武器变化、打击感不足、镜头乱晃、角色外形不一致等问题。",
+  "inputType": "提供故事梗概、角色设定或需要表现的打斗场景，并尽量说明视频时长、画幅、拍摄形式、战斗地点、参与角色、武器、胜负结果和视觉风格。也可以上传人物参考图、场景图或已有提示词。信息不完整时，Skill 会根据场景补充合理的动作、空间和镜头设计。\n使用示例\n“写一段15秒雨夜巷战，女主对战两名持械歹徒，一镜到底，写实电影风。”\n“优化这段打斗提示词，解决人物瞬移、武器变化和动作不连贯的问题。”",
+  "outputContent": "输出一套可直接用于 AI 视频生成的打斗场面提示词，包含角色与武器锁定、场景空间关系、分秒动作设计、攻防因果、受击反应、环境反馈、镜头运动、声音设计、连续性要求、负面限制及最终画面。根据场景类型自动控制动作密度，减少穿模、瞬移、换脸和武器漂移。",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/cca409ade58949f1ac4e6dae6d804d3d/233f5443bf8ce0ae98af8986b35ed8a0574c4a1f.png",
+  "resultType": 3,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=bb64aa4589b34d33a35b134a165aee15",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/cca409ade58949f1ac4e6dae6d804d3d/8d099a4c3a9f435f61efebe19f477597fd7e775c.mp4"
+  ],
+  "hasPublicSkillContent": true
+}

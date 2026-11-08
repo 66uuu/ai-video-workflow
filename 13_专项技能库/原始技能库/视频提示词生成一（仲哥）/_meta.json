@@ -1,0 +1,32 @@
+{
+  "name": "视频提示词生成一（仲哥）",
+  "templateUuid": "7090ed889f3e4ac8bfd3befd4d6b1be7",
+  "skillUuid": "015052ff8ff445f08255defc3fd06c31",
+  "skillKey": "image-to-video-prompt-b8231ab59a67475aa8aaf5ddb3231e4e",
+  "version": "1.0.0",
+  "namespace": "libtv-user-generated",
+  "description": "图生提示词：根据图片即可生成12-15s的视频提示词",
+  "author": "仲哥",
+  "ownerId": 8761278,
+  "tags": [],
+  "likeCount": 7,
+  "usePv": 31,
+  "useUv": 6,
+  "publishAt": "2026-07-18 15:35:31",
+  "snapshotId": 28423,
+  "useScenario": "该skill可以一键生成提示词，将图片上传即可生成12秒或者15秒的短片提示词，复制到即梦或者即梦分身即可使用。建议上传6张到12张图片，以保证画面切换自然",
+  "inputType": "上传图片即可，比如一个人物多个镜头，和场景",
+  "outputContent": "一段适用于其他平台的提示词文本，用于直接复制到即梦等平台，文生视频",
+  "coverUrl": null,
+  "resultType": 1,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=7090ed889f3e4ac8bfd3befd4d6b1be7",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/b8231ab59a67475aa8aaf5ddb3231e4e/391e381267af04235136a826bf9587cc52ebb6e9.md"
+  ],
+  "hasPublicSkillContent": true
+}

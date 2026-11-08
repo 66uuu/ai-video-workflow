@@ -1,0 +1,32 @@
+{
+  "name": "人物三视图生成器",
+  "templateUuid": "d08aea28285c4a7baf70c3e5a77048fb",
+  "skillUuid": "01158879a668497986ac4d9b02d7f6f4",
+  "skillKey": "character-model-sheet-generator-c54837ab5c3c4b12a0bca82ad42f988d",
+  "version": "1.0.3",
+  "namespace": "libtv-user-generated",
+  "description": "输入角色图片，生成三视图+特写",
+  "author": "155****6288",
+  "ownerId": 9495249,
+  "tags": [],
+  "likeCount": 12,
+  "usePv": 40,
+  "useUv": 28,
+  "publishAt": "2026-08-23 17:23:33",
+  "snapshotId": 39921,
+  "useScenario": "短剧、动漫、游戏等角色设计阶段，需要生成标准化单人角色参考图时使用；不适用于多人场景或非单一角色需求。",
+  "inputType": "人物参考图片（主要依据）+ 可选文字补充说明（如风格、特征等）；有冲突时以图片为准。",
+  "outputContent": "两张图：①三视图组合图（正/侧/背面上半身+服装配饰拆分+全身照） 4K；②人物脸部4K高清特写。",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/c54837ab5c3c4b12a0bca82ad42f988d/e07157e84e6f15c5497934fef42f780d1eed819f.png",
+  "resultType": 2,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=d08aea28285c4a7baf70c3e5a77048fb",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/c54837ab5c3c4b12a0bca82ad42f988d/e07157e84e6f15c5497934fef42f780d1eed819f.png"
+  ],
+  "hasPublicSkillContent": true
+}

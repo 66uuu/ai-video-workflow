@@ -1,0 +1,35 @@
+{
+  "name": "图像高清修复",
+  "templateUuid": "53c0657771e749d2ba20b50a6f667509",
+  "skillUuid": "e655b3a937c5425b939228a8281b79d6",
+  "skillKey": "image-hd-restorer-d7ed112b9ed44092882621dd66be0788",
+  "version": "1.0.0",
+  "namespace": "libtv-user-generated",
+  "description": "对模糊、低分辨率、有噪点或压缩损伤的图片进行高清修复与放大",
+  "author": "AIGC",
+  "ownerId": 856605,
+  "tags": [
+    "通用技能"
+  ],
+  "likeCount": 145,
+  "usePv": 187,
+  "useUv": 113,
+  "publishAt": "2026-07-26 20:07:49",
+  "snapshotId": 30857,
+  "useScenario": "适用于低分辨率图片放大、模糊照片修复、人像面部增强、老照片清晰化、商品图片优化、风景照片细节提升、动漫插画高清化、截图去噪、JPEG 压缩痕迹处理等场景。\n\n该 Skill 适合处理主体和基本结构仍然可辨认的图片。对于严重失焦、人物面部过小、细节完全丢失或大面积遮挡的图片，可以改善整体观感，但无法保证准确恢复真实细节。",
+  "inputType": "上传一张需要高清修复的图片，并说明具体要求。可以直接使用自然语言描述，例如：\n“把这张图片放大 4 倍并提升清晰度。”“修复这张模糊人像，保留人物原本的五官和肤质。”\n“去除噪点和压缩痕迹，不要改变图片内容。”\n“修复这张老照片的划痕、褪色和模糊问题。”\n“将这张动漫图片高清化，保持原来的线条和画风。”没有额外要求时，Skill 会默认保持原图比例和内容，进行自然去噪、细节增强、轻度锐化和高清放大",
+  "outputContent": "输出一张经过高清修复和分辨率提升的图片。修复结果将尽量保持原始构图、人物特征、物体形态、文字内容和画面风格，同时减少模糊、噪点、锯齿及压缩痕迹。\n\n默认提供自然修复版本；对于复杂图片，可同时提供自然修复版和增强修复版，方便用户对比选择。",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/d7ed112b9ed44092882621dd66be0788/05b26ffb5e370de00eb3323173d7c36378511067.png",
+  "resultType": 2,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=53c0657771e749d2ba20b50a6f667509",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/d7ed112b9ed44092882621dd66be0788/05b26ffb5e370de00eb3323173d7c36378511067.png",
+    "https://libtv-res.liblib.art/upload-images/d7ed112b9ed44092882621dd66be0788/88f65105b47fe01de58375b0f09814a0a826ef50.gif"
+  ],
+  "hasPublicSkillContent": true
+}

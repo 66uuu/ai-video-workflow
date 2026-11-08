@@ -1,0 +1,39 @@
+{
+  "name": "Qstar 启星亲子",
+  "templateUuid": "fa228a61824e49629313d0b38229b81f",
+  "skillUuid": "633a27164abc48ac916c7dba0ba1be7c",
+  "skillKey": "parent-child-video-creator-88f2a4208c4a4d4b882fed08723ac1c1",
+  "version": "1.0.2",
+  "namespace": "libtv-user-generated",
+  "description": "根据产品资料策划短视频脚本，并创建对应脚本，剪辑生成完整视频",
+  "author": "画生",
+  "ownerId": 377386,
+  "tags": [],
+  "likeCount": 4,
+  "usePv": 2,
+  "useUv": 2,
+  "publishAt": "2026-07-30 15:24:21",
+  "snapshotId": 32077,
+  "useScenario": "根据产品资料策划短视频脚本，并创建对应脚本，剪辑生成完整视频",
+  "inputType": "上传产品材料，或提供一个主题方向",
+  "outputContent": "1分钟左右的产品情绪短片",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/88f2a4208c4a4d4b882fed08723ac1c1/5f6780fd288eea9d9f110f422f29b42a6f3c05e7.jpg",
+  "resultType": 3,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=fa228a61824e49629313d0b38229b81f",
+  "files": [
+    "SKILL.md",
+    "PACKAGE.md",
+    "skills/qstar-script-material/SKILL.md",
+    "skills/qstar-script-creation/SKILL.md",
+    "workflows/02-video-with-narration.md",
+    "workflows/01-script-routing-and-storyboard.md",
+    "workflows/03-bgm-subtitles-final-edit.md",
+    "references/qstar-brand-guidelines.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/88f2a4208c4a4d4b882fed08723ac1c1/6a172576f46417a1839b8065a63018148e88caa8.mp4"
+  ],
+  "hasPublicSkillContent": true
+}

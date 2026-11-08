@@ -1,0 +1,32 @@
+{
+  "name": "视频创作全流程",
+  "templateUuid": "15f7cb9bbff34351bcb97d6840bcc822",
+  "skillUuid": "0088678d7a4f439c955b42be7a784f51",
+  "skillKey": "video-production-workflow-e1da8ff3e6c7471eaf59a3630ecda7e1",
+  "version": "1.0.1",
+  "namespace": "libtv-user-generated",
+  "description": "一句话生成完整短剧（剧本→分镜→成片）、复刻视频风格做 TV",
+  "author": "微信用户b0ce5b",
+  "ownerId": 9478001,
+  "tags": [],
+  "likeCount": 1,
+  "usePv": 1,
+  "useUv": 1,
+  "publishAt": "2026-08-14 17:25:24",
+  "snapshotId": 37038,
+  "useScenario": "一句话生成短剧/漫剧、复刻视频/TVC、音乐MV、产品广告片、教育视频、分镜故事板。",
+  "inputType": "一句话生成完整短剧（剧本→分镜→成片）、复刻视频风格做 TVC/宣传片、用音乐生成 MV、产品展示片制作",
+  "outputContent": "覆盖剧本生成、分镜设计、视频生成、批量下载的完整工作流。",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/e1da8ff3e6c7471eaf59a3630ecda7e1/09a0ae0039ae64acc68f2780b7599ab68f40c714.png",
+  "resultType": 3,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=15f7cb9bbff34351bcb97d6840bcc822",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/e1da8ff3e6c7471eaf59a3630ecda7e1/cf5304d35441e43b7fa6df0ebeffa581d57e691e.mp4"
+  ],
+  "hasPublicSkillContent": true
+}

@@ -1,0 +1,32 @@
+{
+  "name": "数字人口播 skill",
+  "templateUuid": "85feecd629b14a6ca470737669440819",
+  "skillUuid": "58ffede8c1c94e9b8bb64f4eb57394fd",
+  "skillKey": "digital-human-script-writer-10f43772ef194fbda818c96f85af92b8",
+  "version": "1.0.0",
+  "namespace": "libtv-user-generated",
+  "description": "写数字人视频的口播脚本和提词稿。",
+  "author": "bkz不可知",
+  "ownerId": 60705,
+  "tags": [],
+  "likeCount": 12,
+  "usePv": 42,
+  "useUv": 40,
+  "publishAt": "2026-08-10 16:27:17",
+  "snapshotId": 35518,
+  "useScenario": "做数字人带货、知识口播",
+  "inputType": "说\"帮我写个数字人口播稿\"",
+  "outputContent": "分段口播文案 + 制作建议。",
+  "coverUrl": null,
+  "resultType": 1,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=85feecd629b14a6ca470737669440819",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/10f43772ef194fbda818c96f85af92b8/cfa338009b997390260d115ad0dd5a4079477686.md"
+  ],
+  "hasPublicSkillContent": true
+}

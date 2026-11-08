@@ -1,0 +1,35 @@
+{
+  "name": "万能封面制作skill",
+  "templateUuid": "b9f99e6133dd439ead4aa4fd89b9c42b",
+  "skillUuid": "b9311effb98f43da92020ffb7e9f6322",
+  "skillKey": "universal-cover-designer-431590b021c143a0b10d6988d3c3a50c",
+  "version": "1.0.6",
+  "namespace": "libtv-user-generated",
+  "description": "通过用户的一句话来制作各式各样的封面设计",
+  "author": "Zz",
+  "ownerId": 5927302,
+  "tags": [],
+  "likeCount": 7,
+  "usePv": 7,
+  "useUv": 7,
+  "publishAt": "2026-08-08 16:13:46",
+  "snapshotId": 34828,
+  "useScenario": "各式各样的封面制作，电商，视频，杂志等等封面的制作",
+  "inputType": "需要告知skill这个封面的用途，比如说：电商大图，视频封面，海报等等，然后提出自己的要求即可，如果有文字标题需要告诉skill，【重点！！：在使用之前请使用image2的图片模型进行生成。】需要告知skill封面的比例",
+  "outputContent": "充满设计感的封面",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/431590b021c143a0b10d6988d3c3a50c/60839dfa2dc814585e0ef6d1bbdfda4c036cbdd2.png",
+  "resultType": 2,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=b9f99e6133dd439ead4aa4fd89b9c42b",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/431590b021c143a0b10d6988d3c3a50c/eab68eb860e7ebe659e32eb5948fe7104f52edaa.png",
+    "https://libtv-res.liblib.art/upload-images/431590b021c143a0b10d6988d3c3a50c/4f231dce42d3361db95012ee2b311e039901b76c.png",
+    "https://libtv-res.liblib.art/upload-images/431590b021c143a0b10d6988d3c3a50c/3f95d2349cb0770813c41b379cafe4f9feb899be.png",
+    "https://libtv-res.liblib.art/upload-images/431590b021c143a0b10d6988d3c3a50c/60839dfa2dc814585e0ef6d1bbdfda4c036cbdd2.png"
+  ],
+  "hasPublicSkillContent": true
+}

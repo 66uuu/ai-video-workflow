@@ -1,0 +1,32 @@
+{
+  "name": "角色全身立绘生成",
+  "templateUuid": "4a1cf5bbccf7445e81f87cb0a107a394",
+  "skillUuid": "a707003c7e1445d2b88845131dad0d1e",
+  "skillKey": "portrait-to-white-studio-shot-b16deefadc2a4861bef95675b91f33be",
+  "version": "1.0.3",
+  "namespace": "libtv-user-generated",
+  "description": "输入人物参考图，生成白底全身立绘图",
+  "author": "千寻",
+  "ownerId": 8861394,
+  "tags": [],
+  "likeCount": 6,
+  "usePv": 3,
+  "useUv": 3,
+  "publishAt": "2026-09-06 14:19:29",
+  "snapshotId": 43830,
+  "useScenario": "有真实人物参考图，需要生成白底全身棚拍风格图，用于短剧、影视、电商、穿搭展示、服装上新等场景",
+  "inputType": "一张人物参考图（户外/自然场景人像，特写或半身均可）",
+  "outputContent": "白底全身棚拍风格图，保留人物面部特征、发型、气质，服装替换为目标穿搭",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/b16deefadc2a4861bef95675b91f33be/3dbe08667a99bb637fb63754b329f4f0d0239d90.jpg",
+  "resultType": 2,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=4a1cf5bbccf7445e81f87cb0a107a394",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/b16deefadc2a4861bef95675b91f33be/3dbe08667a99bb637fb63754b329f4f0d0239d90.jpg"
+  ],
+  "hasPublicSkillContent": true
+}

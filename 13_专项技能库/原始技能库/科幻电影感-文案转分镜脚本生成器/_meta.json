@@ -1,0 +1,32 @@
+{
+  "name": "科幻电影感-文案转分镜脚本生成器",
+  "templateUuid": "9361ccb3478549bf83c32f76c25a1b50",
+  "skillUuid": "1e3d8553de7b4d68bff18339086ca25b",
+  "skillKey": "copy-to-storyboard-script-f6976456c4f541ca92fa97b9ff7a2273",
+  "version": "1.0.1",
+  "namespace": "libtv-user-generated",
+  "description": "输入文案，逐条生成视频分镜脚本",
+  "author": "丸雀仙子",
+  "ownerId": 11676514,
+  "tags": [],
+  "likeCount": 2,
+  "usePv": 3,
+  "useUv": 3,
+  "publishAt": "2026-09-17 01:39:36",
+  "snapshotId": 47040,
+  "useScenario": "需要将文案拆解为视频分镜脚本，用于指导视频拍摄或AI生成视频的制作环节",
+  "inputType": "一段长视频文案（建议1分钟以上的内容）",
+  "outputContent": "逐条分镜脚本，包含分镜编号、时长建议、画面描述、摄影机走位、提示词、台词",
+  "coverUrl": null,
+  "resultType": 1,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=9361ccb3478549bf83c32f76c25a1b50",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/f6976456c4f541ca92fa97b9ff7a2273/367d7eeb9649281bf390477c0680f988c179cc72.md"
+  ],
+  "hasPublicSkillContent": true
+}

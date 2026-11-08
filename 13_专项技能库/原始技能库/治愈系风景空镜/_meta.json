@@ -1,0 +1,35 @@
+{
+  "name": "治愈系风景空镜",
+  "templateUuid": "22b30b733af64fc19d7f9fd205ea8877",
+  "skillUuid": "69d8e12632d54ac29d27c6bacaaf887b",
+  "skillKey": "healing-landscape-shot-915d97f2438a42929b8ca71a6e4bfb4d",
+  "version": "1.0.1",
+  "namespace": "libtv-user-generated",
+  "description": "没有人物的风景空镜",
+  "author": "小铁大侠",
+  "ownerId": 10896526,
+  "tags": [],
+  "likeCount": 12,
+  "usePv": 26,
+  "useUv": 17,
+  "publishAt": "2026-07-25 19:53:27",
+  "snapshotId": 30691,
+  "useScenario": "视频场景搭建，短视频风景素材。",
+  "inputType": "场景，天气，时间，运镜",
+  "outputContent": "视频文件",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/915d97f2438a42929b8ca71a6e4bfb4d/8f629b4e62ffcb7606c45b670106a9f8a39b3669.png",
+  "resultType": 3,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=22b30b733af64fc19d7f9fd205ea8877",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/915d97f2438a42929b8ca71a6e4bfb4d/9ba8124b44a11bda70ed0a5f3fa75c898c66148c.mp4",
+    "https://www.liblib.tv/canvas/chat-share?shareId=t7ISr3weGF",
+    "https://libtv-res.liblib.art/upload-images/915d97f2438a42929b8ca71a6e4bfb4d/4590c537bd243a614b44e34201087206c72ca45f.mp4",
+    "https://www.liblib.tv/canvas/chat-share?shareId=YIyg7eTxPh"
+  ],
+  "hasPublicSkillContent": true
+}

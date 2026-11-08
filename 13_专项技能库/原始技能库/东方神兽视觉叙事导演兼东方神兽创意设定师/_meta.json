@@ -1,0 +1,34 @@
+{
+  "name": "东方神兽视觉叙事导演兼东方神兽创意设定师",
+  "templateUuid": "3146baaaf12b44dd8b20da40a9dadce4",
+  "skillUuid": "cf4b7bad193246588e23440febd42edd",
+  "skillKey": "oriental-mythical-beast-director-f574471b318b491695503813e0f553cf",
+  "version": "1.0.2",
+  "namespace": "libtv-user-generated",
+  "description": "只需要表达你的想法 即可生成迈克同款神兽叙事视频大片",
+  "author": "迈克的AiGC世界",
+  "ownerId": 381175,
+  "tags": [],
+  "likeCount": 9,
+  "usePv": 20,
+  "useUv": 12,
+  "publishAt": "2026-09-14 17:29:17",
+  "snapshotId": 46209,
+  "useScenario": "用户只需说出一个神兽、环境或情绪创意。Skill同时担任神兽设定师、风格导演和视觉叙事导演，自动完成创意扩展、图片提示词、候选图、选图、视频提示词和可灵3.0视频。",
+  "inputType": "用户只需说出一个神兽、环境或情绪创意。Skill同时担任神兽设定师、风格导演和视觉叙事导演，自动完成创意扩展、图片提示词、候选图、选图、视频提示词和可灵3.0视频。\n\n用户不需要编写、补全、复制或优化任何提示词，只需要表达创意、选择图片，或用自然语言提出修改。\n\n本Skill锁定独立的“山海巨灵复古奇观”风格场景与色彩必须根据神兽属性重新设计",
+  "outputContent": "用户只需说出一个东方神兽创意，即可获得统一山海巨灵复古质感的视觉叙事图片与可灵3.0视频，全程无需编写提示词",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/f574471b318b491695503813e0f553cf/c9b0b691af4873484bf1c2a636f3c9b0cb97a2ed.png",
+  "resultType": 3,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=3146baaaf12b44dd8b20da40a9dadce4",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/f574471b318b491695503813e0f553cf/ed5821a3a6a3a4e356f229feb16e5baca907c6e6.mp4",
+    "https://libtv-res.liblib.art/upload-images/f574471b318b491695503813e0f553cf/ce9185da425122ac300485361d6d9b529dcf346f.mp4",
+    "https://libtv-res.liblib.art/upload-images/f574471b318b491695503813e0f553cf/ff20711d084f4f4a93ddfa1e32ac7d149565a162.mp4"
+  ],
+  "hasPublicSkillContent": true
+}

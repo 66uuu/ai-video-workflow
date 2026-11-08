@@ -1,0 +1,35 @@
+{
+  "name": "提示词工程师",
+  "templateUuid": "c4b391afb4ec428d84cd5febe50b8381",
+  "skillUuid": "1490c12d47d64053ba8350a01fcaacd4",
+  "skillKey": "prompt-optimizer-abb1b4cefb5d4c2cab270d66aef15544",
+  "version": "1.0.0",
+  "namespace": "libtv-user-generated",
+  "description": "将模糊想法转化为清晰、高效的AI提示词",
+  "author": "柿子AICG",
+  "ownerId": 9163240,
+  "tags": [],
+  "likeCount": 48,
+  "usePv": 291,
+  "useUv": 35,
+  "publishAt": "2026-07-21 10:45:05",
+  "snapshotId": 29438,
+  "useScenario": "我已创建了完整的 SKILL.md 文件，包含以下结构：\n做什么：将用户模糊想法转化为清晰、结构化的AI提示词\n需要什么输入：任务描述、目标受众、输出格式、现有提示词、约束条件、示例\n怎么做：分析任务→选择结构→设计框架→优化语言→迭代优化→提供建议\n产出什么：优化后的提示词、结构分析、改进建议、使用模板、调试指南\n什么时候问你：用户想法模糊、对AI输出不满意、需要针对特定模型设计提示词时",
+  "inputType": "1. 内容创作：文章、文案、故事、报告等\n2. 编程辅助：代码生成、调试、解释、重构\n3. 数据分析：数据处理、可视化、洞察提取",
+  "outputContent": "1. 内容创作：文章、文案、故事、报告等\n2. 编程辅助：代码生成、调试、解释、重构\n3. 数据分析：数据处理、可视化、洞察提取\n4. 学术研究：文献综述、论文写作、研究设计\n5. 商业应用：营销文案、客户支持、商业计划\n6. AI视频/图像生成：提示词设计、风格控制、细节调整\n7. 对话系统：聊天机器人、角色扮演、多轮对话设计",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/abb1b4cefb5d4c2cab270d66aef15544/c370eaae46ece119d607e2159d7d42bef0e56ddf.png",
+  "resultType": 3,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=c4b391afb4ec428d84cd5febe50b8381",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/abb1b4cefb5d4c2cab270d66aef15544/0f5d1e7bfb5b7b0cbe958b29503d53f409fbc8bb.mp4",
+    "https://libtv-res.liblib.art/upload-images/abb1b4cefb5d4c2cab270d66aef15544/0d746e757a8603efae9133855eeed0576cfc9637.mp4",
+    "https://libtv-res.liblib.art/upload-images/abb1b4cefb5d4c2cab270d66aef15544/ebde5a255a662eec41798ea36d387218ec4d4a43.mp4",
+    "https://libtv-res.liblib.art/upload-images/abb1b4cefb5d4c2cab270d66aef15544/c2b9b28b6d5a2b3ae9ddc189a624d3ee84a020b4.mp4"
+  ],
+  "hasPublicSkillContent": true
+}

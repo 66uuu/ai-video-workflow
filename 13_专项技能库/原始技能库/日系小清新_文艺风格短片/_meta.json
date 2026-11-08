@@ -1,0 +1,32 @@
+{
+  "name": "日系小清新/文艺风格短片",
+  "templateUuid": "19941bbd9dd246d184f61bb7efacafda",
+  "skillUuid": "b33cf874113d4d41a08de4fd728e8685",
+  "skillKey": "japanese-aesthetic-film-creator-b64ed659cc764b0595b151bf49d5b868",
+  "version": "1.0.2",
+  "namespace": "libtv-user-generated",
+  "description": "专为日系小清新与文艺胶片风格短片设计，全流程一站式创作SOP",
+  "author": "AIGC野生包",
+  "ownerId": 4621635,
+  "tags": [],
+  "likeCount": 33,
+  "usePv": 55,
+  "useUv": 39,
+  "publishAt": "2026-08-12 01:28:16",
+  "snapshotId": 36026,
+  "useScenario": "本Skill适合所有希望制作日系小清新、文艺胶片、森女系、治愈系风格短视频的创作者，无需专业影视背景，按流程即可产出商业级质感短片。",
+  "inputType": "七大步骤，每步确认完成后再进入下一环节：\n①需求输入：主题、风格关键词、人物设定\n②资产设计：制作角色锚点，确认后持续复用，保障画面统一。\n③分镜规划：四幕拆分，单段 10-15 秒，规划转场逻辑，输出分镜表存档。\n④视频生成：指令绑定角色、场景锚点，标注运镜方式，分批生成\n⑤BGM 制作：治愈配乐，节拍适配剪辑节奏。\n⑥封面设计：输出封面，字压人排版，文艺杂志质感。\n⑦合成成片：依照分镜排布素材",
+  "outputContent": "①视频成片：MV 级运镜，统一日系胶片色调，具备商业短片质感。\n②分镜表：包含画面内容、锚点引用、镜头描述、运镜\n③锚点清单：角色、场景、构图、时序锚点\n④封面图：3:4 竖版、16:9 横版，主体突出，采用文艺杂志排版。\n⑤BGM 音频：治愈纯音乐或日系流行曲，时长适配成片。\n⑥章节封面：单场景独立封面，适配系列发布。\n⑦创意方案文档：风格定位、视觉规范、场景逻辑，支撑后续延展创作",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/b64ed659cc764b0595b151bf49d5b868/337c117b0ae25b4c2c03d939e39ed15f9e92a1e9.png",
+  "resultType": 3,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=19941bbd9dd246d184f61bb7efacafda",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/b64ed659cc764b0595b151bf49d5b868/0e14a0519c0c7e0a449e3806fa539f964b7b8ba4.mp4"
+  ],
+  "hasPublicSkillContent": true
+}

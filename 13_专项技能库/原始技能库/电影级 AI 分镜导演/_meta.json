@@ -1,0 +1,32 @@
+{
+  "name": "电影级 AI 分镜导演",
+  "templateUuid": "c0a09eda8d114397a87541282e128cec",
+  "skillUuid": "4eaa81281a634a129cfbb6f41b2ddfe0",
+  "skillKey": "cinematic-storyboard-director-8202932176ac485b9572011074a9f39c",
+  "version": "1.0.1",
+  "namespace": "libtv-user-generated",
+  "description": "别再乱试Prompt，剧本直接变分镜",
+  "author": "LibTV",
+  "ownerId": 5924079,
+  "tags": [],
+  "likeCount": 1103,
+  "usePv": 2891,
+  "useUv": 1377,
+  "publishAt": "2026-09-24 11:26:14",
+  "snapshotId": 49754,
+  "useScenario": "适合AI短片、微电影、竖屏短剧、小说视频化、广告片、MV、预告片和动态漫画创作。尤其适合剧本不会拆镜头、Prompt反复试错、角色场景不统一、视频生成容易翻车的创作者。",
+  "inputType": "上传故事或剧本，可补充画幅、时长、风格、角色和目标模型。Skill会按五阶段带你完成：拆分镜、建资产、写生图Prompt、写视频",
+  "outputContent": "输出项目诊断、导演预分析、电影级镜头卡、角色/场景/道具资产库、静态分镜图Prompt、Seedance视频运动指令、剪辑后期方案和最终导演验片报告。",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/8202932176ac485b9572011074a9f39c/731596b2ab2eb684e1b6d9f673cc0cf6d231ac84.png",
+  "resultType": 3,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=c0a09eda8d114397a87541282e128cec",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/8202932176ac485b9572011074a9f39c/3cb50bbb7691198b997d261e1763903bc2e40afd.mp4"
+  ],
+  "hasPublicSkillContent": true
+}

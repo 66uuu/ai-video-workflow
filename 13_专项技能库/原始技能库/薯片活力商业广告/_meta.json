@@ -1,0 +1,32 @@
+{
+  "name": "薯片活力商业广告",
+  "templateUuid": "ca6a70cf31804e838db97a69db03c3f2",
+  "skillUuid": "91f79bb3964644008c13a621a665e77a",
+  "skillKey": "zingmei-poster-animator-e5c05143074646b7ae70a88b81ec6c2a",
+  "version": "1.0.3",
+  "namespace": "libtv-user-generated",
+  "description": "上传一张四口味合集海报，一键生成15秒横屏动画",
+  "author": "星美Fine",
+  "ownerId": 773892,
+  "tags": [],
+  "likeCount": 3,
+  "usePv": 0,
+  "useUv": 0,
+  "publishAt": "2026-08-11 13:59:28",
+  "snapshotId": 35760,
+  "useScenario": "用户上传ZingMei四口味薯片合集海报，系统基于海报生成15秒16:9竖屏动画广告：纯渐变空间背景随口味切换动态变色，四口味分区依次脉冲发光弹出、薯片爆散、弹性文字登场，结尾薯片漩涡冻结环绕海报，ZingMei品牌logo定格收尾。",
+  "inputType": "ZingMei四口味合集海报图片（含四个口味包装，品牌设计统一，无水印残留）；可选：口味名称、渐变色偏好",
+  "outputContent": "基于图片生成15秒竖屏动画广告,四个口味(Classic、Tomato、BBQ、Spicy)依次激活,纯渐变空间背景随口味变色,最终薯片漩涡冻结环绕海报定格。",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/e5c05143074646b7ae70a88b81ec6c2a/b587db5a03e3604e7e104e2e3c93b91d070243af.png",
+  "resultType": 3,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=ca6a70cf31804e838db97a69db03c3f2",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/e5c05143074646b7ae70a88b81ec6c2a/cfec8e7fe15f48c9da56a6489e40562fec6efd60.mp4"
+  ],
+  "hasPublicSkillContent": true
+}

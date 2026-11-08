@@ -1,0 +1,34 @@
+{
+  "name": "中式美学微电影",
+  "templateUuid": "b1dbb0ec6ebb4d698f88ecd8fd5deab1",
+  "skillUuid": "a152af54815c4705a378050d4c3d91a1",
+  "skillKey": "chinese-aesthetic-film-4d06129429a5484d8fee9d503f7225bc",
+  "version": "1.0.0",
+  "namespace": "libtv-user-generated",
+  "description": "将一句话变成属于你的中式美学",
+  "author": "韩周佳",
+  "ownerId": 8820917,
+  "tags": [],
+  "likeCount": 12,
+  "usePv": 3,
+  "useUv": 2,
+  "publishAt": "2026-07-16 12:10:36",
+  "snapshotId": 27648,
+  "useScenario": "微电影，短片，中式美学",
+  "inputType": "可以生成视频，三视图，场景图",
+  "outputContent": "将剧本，故事变成中式美学微电影",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/4d06129429a5484d8fee9d503f7225bc/0618dd0797d114e585fc25d05095641052e57394.png",
+  "resultType": 3,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=b1dbb0ec6ebb4d698f88ecd8fd5deab1",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/4d06129429a5484d8fee9d503f7225bc/30f4a33fa59cfd8d200f3988c314f9a361dccc38.mp4",
+    "https://www.liblib.tv/canvas/share?spaceId=2473752&projectId=f6042f94cd1a4aacaeaf380258bf842e",
+    "https://libtv-res.liblib.art/upload-images/4d06129429a5484d8fee9d503f7225bc/67af2b46640a92e5fb49c9217fe10b2cb6c97b9d.mp4"
+  ],
+  "hasPublicSkillContent": true
+}

@@ -1,0 +1,32 @@
+{
+  "name": "短剧全流程一键出片",
+  "templateUuid": "0c6330c41a734c6bb4fe320a8434b43f",
+  "skillUuid": "e25bd12765064013a39fdb926c78876e",
+  "skillKey": "script-to-3d-drama-video-8d012fbe5b224c7bab64318012900756",
+  "version": "1.0.3",
+  "namespace": "libtv-user-generated",
+  "description": "把短剧剧本自动拆分，依次生成美术和视频，最终合成为完整视频。",
+  "author": "蛋白",
+  "ownerId": 10721429,
+  "tags": [],
+  "likeCount": 8,
+  "usePv": 7,
+  "useUv": 6,
+  "publishAt": "2026-09-22 19:58:37",
+  "snapshotId": 49251,
+  "useScenario": "该 Skill 适用于将短剧剧本或网文文本转化为完整短视频的创作场景。覆盖甜宠、逆袭、虐恋、霸总、穿越、复仇、悬疑、都市职场等高热度短剧题材。面向短视频内容创作者、短剧制作团队、网文IP改编方等用户群体，支持从剧本切分到成片输出的自动化流程，旨在帮助创作者以较低成本批量产出具备爆款潜质的短剧内容。",
+  "inputType": "1.剧本：直接粘贴短剧剧本文本，也可上传 .txt / .docx / .pdf 剧本文件。\n2.风格偏好（可选）：指定短剧题材类型（如甜宠、逆袭等）、画面风格倾向（如3D次世代CG质感、超写实渲染等）、画面比例（16:9横屏或9:16竖屏短剧）。\n3.角色信息（可选）：用户可提供角色形象需求，若不提供，系统将自动从剧本中提取角色信息并生成\n4.音频偏好（可选）：可指定配音音色风格、BGM风格等",
+  "outputContent": "角色：含三视图（正面、侧面、背面全身）及脸部正面特写\n场景：场景的全景设定图，无人物\n分镜：基于剧本逐镜头生成的画面图或短视频片段，角色与场景形象全片保持一致。\n配音：每个角色配音\n背景音：场景情绪的BGM及动作/环境音效。\n字幕：无字幕\n完整视频：将以上所有素材合成为完整的分集短剧视频文件（.mp4格式），含画面动态化处理、音频混合、调色后处理，每集时长1-3分钟，支持1080p/4K输出。",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/8d012fbe5b224c7bab64318012900756/58cf2c830d525aaaaf3d7524d82fcff3bdbf8786.png",
+  "resultType": 3,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=0c6330c41a734c6bb4fe320a8434b43f",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/8d012fbe5b224c7bab64318012900756/5c8f2d92bdd1c868f9c8d913865e8c3694fdc790.mp4"
+  ],
+  "hasPublicSkillContent": true
+}

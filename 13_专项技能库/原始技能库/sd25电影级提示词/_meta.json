@@ -1,0 +1,32 @@
+{
+  "name": "sd25电影级提示词",
+  "templateUuid": "7b94472df0f6461e935f6623216a622b",
+  "skillUuid": "f55c8f51f1db4ecab61c94c4051b7303",
+  "skillKey": "cinematic-video-prompt-engineer-0a88962ad9bf41668381d23440015181",
+  "version": "1.0.0",
+  "namespace": "libtv-user-generated",
+  "description": "Seedance 2.5 提示词工程师。把用户的视频创意转化",
+  "author": "AIGC爱好者",
+  "ownerId": 8532816,
+  "tags": [],
+  "likeCount": 230,
+  "usePv": 463,
+  "useUv": 147,
+  "publishAt": "2026-07-14 14:56:59",
+  "snapshotId": 26894,
+  "useScenario": "Seedance 2.5 提示词工程师。把用户的视频创意转化为标准 Seedance 2.5 视频生成提示词、Seedance提示词、文生视频、视频脚本转提示词、运镜语言、多镜头叙事、音视频联合生成、唇形同步、角色一致性。",
+  "inputType": "触发词：Seedance、seedance 2.5、视频提示词、视频生成、文生视频、运镜、推镜头、拉镜头、video promp",
+  "outputContent": "提示词结构公式（角色设定→时间线→画面风格→音频要求）；@引用语法；时间分段写法（>10秒必须分段）；12种运镜语言库；三种音频模式；音色设定（自定义/参考音频）；双语字幕写法；角色一致性三步法；质量检查清单。所有输出均为中文，输入可为任何语言。",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/0a88962ad9bf41668381d23440015181/9022c1e1d4eb4faf73f6504fa02ebd9db812ed3d.png",
+  "resultType": 3,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=7b94472df0f6461e935f6623216a622b",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/0a88962ad9bf41668381d23440015181/443438355f90309c29ad213c71842d51e65ab686.mp4"
+  ],
+  "hasPublicSkillContent": true
+}

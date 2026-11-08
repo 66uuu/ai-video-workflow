@@ -1,0 +1,37 @@
+{
+  "name": "佳丽电影感口播分镜故事板",
+  "templateUuid": "a4d829c11b7f4478ba33937bfc94f5fd",
+  "skillUuid": "97e94b4c6cd2412ab9f880788931a205",
+  "skillKey": "cinematic-talking-head-storyboard-864ff500113e44ddb2c8b61f9a0d929f",
+  "version": "1.0.0",
+  "namespace": "libtv-user-generated",
+  "description": "给对应文案和主角角色卡即可生成对应的分镜故事板",
+  "author": "佳丽",
+  "ownerId": 8595958,
+  "tags": [],
+  "likeCount": 3,
+  "usePv": 4,
+  "useUv": 3,
+  "publishAt": "2026-08-24 19:31:00",
+  "snapshotId": 40280,
+  "useScenario": "用于将人物/产品参考图、台词和场景要求转化为电影级静态分镜故事板。适合短视频、广告、剧情片、双人对话、多人场景和情绪特写，重点解决人物一致性、对白归属、多人站位、180度轴线、真实肤质、镜头连续性及文字排版问题。",
+  "inputType": "上传人物或产品参考图，并提供台词、说话者、视频时长、场景、宫格数量、画面比例和光影风格等要求。\n双人问答请说明人物A和人物B的身份；如果没有说明，Skill默认由人物A负责“问”、人物B负责“答”，并采用画面内现场对话，不会擅自改成旁白或画外音。\n多人场景可以指定初始站位；未指定时，Skill会自动建立空间地图，锁定人物的左右位置、前后层级、朝向、视线及180度轴线，保持所有镜头的站位连续。",
+  "outputContent": "默认输出一份可直接用于图像模型的结构化故事板提示词；支持图像生成时，可进一步生成完整静态分镜图。\n输出包含：\n- 人物与产品参考图职责\n- 宫格排版及图文分离规则\n- 台词归属表与现场对话关系\n- 多人物空间地图及180度轴线\n- 人物外貌、服装和站位一致性\n- 逐镜头时间、景别、机位、焦段与光圈\n- 运镜、动态跟焦、光位、景深及转场",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/864ff500113e44ddb2c8b61f9a0d929f/41ce30a0f799d4e166b1cc82cfbb4526624d69a4.png",
+  "resultType": 2,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=a4d829c11b7f4478ba33937bfc94f5fd",
+  "files": [
+    "SKILL.md",
+    "references/dialogue-spatial-continuity.md",
+    "references/portrait-realism-emotion.md",
+    "references/storyboard-template.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/864ff500113e44ddb2c8b61f9a0d929f/f53585c770da25d8e2ba01a07136762a8a1c39ec.png",
+    "https://libtv-res.liblib.art/upload-images/864ff500113e44ddb2c8b61f9a0d929f/28ee9468d74aa1ada522c5bc85e47c9cc205517b.png",
+    "https://libtv-res.liblib.art/upload-images/864ff500113e44ddb2c8b61f9a0d929f/b5b89ee5efe59b7182295ba7597a342ecaa60c25.png"
+  ],
+  "hasPublicSkillContent": true
+}

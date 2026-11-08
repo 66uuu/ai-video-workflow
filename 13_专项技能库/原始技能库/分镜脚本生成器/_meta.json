@@ -1,0 +1,35 @@
+{
+  "name": "分镜脚本生成器",
+  "templateUuid": "b34633826a814c68a3786fb05cd5dc2b",
+  "skillUuid": "1d627b8a9d8d49c9992a3770117e65f4",
+  "skillKey": "storyboard-script-generator-d711f42ff4e248abb509c1ff3bc6f644-1d627b8a",
+  "version": "1.0.0",
+  "namespace": "libtv-user-generated",
+  "description": "输入主题时长风格，输出逐秒分镜脚本",
+  "author": "Liana",
+  "ownerId": 10889281,
+  "tags": [
+    "短剧漫剧"
+  ],
+  "likeCount": 142,
+  "usePv": 243,
+  "useUv": 187,
+  "publishAt": "2026-08-01 23:43:23",
+  "snapshotId": 32659,
+  "useScenario": "不会写分镜、想把模糊视频想法变成可执行逐秒脚本的人；适配悬疑/奇幻/食品饮品等多风格",
+  "inputType": "对话框输入：主题 / 时长 / 风格，如\"暗黑奇幻手游PV / 30秒 / 悬疑史诗\"",
+  "outputContent": "逐秒分镜文本（镜号/秒数/画面/旁白/BGM/音效）+ 末尾可复用资产清单（MJ提示词/BGM类型/钩子模板）",
+  "coverUrl": null,
+  "resultType": 1,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=b34633826a814c68a3786fb05cd5dc2b",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/d711f42ff4e248abb509c1ff3bc6f644/6dcafc96f0cfcf8282a1edaf900ab4d64f14967d.md",
+    "https://libtv-res.liblib.art/upload-images/d711f42ff4e248abb509c1ff3bc6f644/9784e68f03e7a89489cf5457b4bc3c93d2cf1fdc.md"
+  ],
+  "hasPublicSkillContent": true
+}

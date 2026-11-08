@@ -1,0 +1,32 @@
+{
+  "name": "场景写实重建",
+  "templateUuid": "14f6ef5d00db4458b66e53f290b8c461",
+  "skillUuid": "87fa1b223d034697982317e955953efb",
+  "skillKey": "abandoned-scene-reconstruction-56712ea8418c45078ef7539e49f67c88",
+  "version": "1.0.7",
+  "namespace": "libtv-user-generated",
+  "description": "废弃场景图→深度/线稿→写实重建",
+  "author": "195****1555",
+  "ownerId": 7907914,
+  "tags": [],
+  "likeCount": 5,
+  "usePv": 17,
+  "useUv": 13,
+  "publishAt": "2026-09-10 09:42:11",
+  "snapshotId": 44852,
+  "useScenario": "需要对场景图进行高质量写实重建，修正透视畸变，建立清晰空间纵深层次时使用",
+  "inputType": "一张废弃室内场景图（赛博朋克风格，有丁达尔光效、冷灰色调为佳）",
+  "outputContent": "电影级高质量写实重建图，严格保留原图构图、视角、空间结构和光线氛围",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/56712ea8418c45078ef7539e49f67c88/f062e13f4676ae4ade8468e0725a7b234b0fd6ed.jpg",
+  "resultType": 2,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=14f6ef5d00db4458b66e53f290b8c461",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/56712ea8418c45078ef7539e49f67c88/c3ad4427cda36aa8f4c05676c9be7fb736caf076.png"
+  ],
+  "hasPublicSkillContent": true
+}

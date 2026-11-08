@@ -1,0 +1,35 @@
+{
+  "name": "404末日废墟",
+  "templateUuid": "bbd0308a119741fe92af4f8d0735af73",
+  "skillUuid": "319a153e80cf4b04b2b4ab7e429bf940",
+  "skillKey": "post-apocalyptic-ruin-renderer-4078a729478147e9a393ea6d06cb4598",
+  "version": "1.0.4",
+  "namespace": "libtv-user-generated",
+  "description": "生成超写实的末日废墟风格图片",
+  "author": "404星球实验室",
+  "ownerId": 2983613,
+  "tags": [],
+  "likeCount": 3,
+  "usePv": 4,
+  "useUv": 4,
+  "publishAt": "2026-08-13 15:20:38",
+  "snapshotId": 36602,
+  "useScenario": "末日废墟超写实质感",
+  "inputType": "请按这个格式输入你想要的场景即可：你是一个专业的摄影师，现在需要规划四个不同的XXX图片 .",
+  "outputContent": "# 90年代末日爱情电影摄影质感",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/4078a729478147e9a393ea6d06cb4598/5107b0549e5f888a51d179cb04419335a55ff13c.png",
+  "resultType": 2,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=bbd0308a119741fe92af4f8d0735af73",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/4078a729478147e9a393ea6d06cb4598/69e8b6f03d432968e49f47d2ca92f6a85327cabb.png",
+    "https://libtv-res.liblib.art/upload-images/4078a729478147e9a393ea6d06cb4598/f3b0921397dcdca72ff28fd858be20db38dc0260.png",
+    "https://libtv-res.liblib.art/upload-images/4078a729478147e9a393ea6d06cb4598/1c3a07741386ba969a38395cec7b2c4d51c507e7.png",
+    "https://libtv-res.liblib.art/upload-images/4078a729478147e9a393ea6d06cb4598/7d1c4dd773256b658dade7eb2a411ca5315d70a4.png"
+  ],
+  "hasPublicSkillContent": true
+}

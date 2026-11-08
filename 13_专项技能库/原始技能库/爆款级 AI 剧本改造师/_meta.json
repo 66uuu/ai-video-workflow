@@ -1,0 +1,32 @@
+{
+  "name": "爆款级 AI 剧本改造师",
+  "templateUuid": "11c69b26e91a4d77a6bc7ce4ff2ce426",
+  "skillUuid": "4e00a8ac384e4591a0d36d48649205ef",
+  "skillKey": "viral-script-reformer-8202932176ac485b9572011074a9f39c",
+  "version": "1.0.6",
+  "namespace": "libtv-user-generated",
+  "description": "把AI味剧本改造成高冲突爆款视频脚本",
+  "author": "LibTV",
+  "ownerId": 5924079,
+  "tags": [],
+  "likeCount": 220,
+  "usePv": 514,
+  "useUv": 225,
+  "publishAt": "2026-09-08 17:06:12",
+  "snapshotId": 44395,
+  "useScenario": "适合处理AI生成剧本、小说片段、短剧大纲、剧情创意、口播旁白、广告脚本和视频文案，帮助创作者解决AI味重、人物僵硬、剧情平淡、开头无吸引力、台词不自然、缺少画面感等问题，将普通文本改造成更适合AI视频创作和短剧制作的爆款脚本。优化完成后，可继续使用《电影级 AI 视觉资产导演》Skill，将剧本拆解为角色、场景、道具和关键帧参考资产，为后续视频生成做准备。",
+  "inputType": "输入你的故事、剧本、小说片段或视频创意，可补充题材、时长、风格和目标用途。Skill会先分析文本AI感、剧情冲突、人物塑造和视频",
+  "outputContent": "输出文本AI味分析、视频化评分、去AI味优化版、角色语言增强、爆款开头方案、短剧结构优化、台词/旁白/动作拆分、生成风险提示和分镜前文本。优化完成后，可交给《电影级 AI 分镜导演》Skill继续拆分镜头卡、资产和视频指令。",
+  "coverUrl": null,
+  "resultType": 1,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=11c69b26e91a4d77a6bc7ce4ff2ce426",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/8202932176ac485b9572011074a9f39c/5f56046953ac2c137b031a1771441f1fe14a2b5c.md"
+  ],
+  "hasPublicSkillContent": true
+}

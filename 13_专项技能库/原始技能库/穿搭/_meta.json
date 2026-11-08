@@ -1,0 +1,32 @@
+{
+  "name": "穿搭",
+  "templateUuid": "49e034e639d94ffcb6bf087b7ccecfc2",
+  "skillUuid": "21750634f1324414a4420613c55c0fa2",
+  "skillKey": "fashion-outfit-stylist-eedeeee612ae456c8bab06c2605e7a53",
+  "version": "1.0.1",
+  "namespace": "libtv-user-generated",
+  "description": "一个专业的服装搭配、人物形象生成，服装展示",
+  "author": "哎",
+  "ownerId": 7904280,
+  "tags": [],
+  "likeCount": 26,
+  "usePv": 18,
+  "useUv": 12,
+  "publishAt": "2026-07-21 10:48:55",
+  "snapshotId": 29440,
+  "useScenario": "电商详情页搭配方案\n针对单款服装单品（如收腹裤、防晒衣、西装外套），Skill 快速生成多套上下装搭配方案 + 场景化人物形象描述，可直接用于商品详情页、主图文案，提升商品场景感。\n短视频 / 直播穿搭脚本\n输出「场景 + 穿搭 + 展示动作」的完整脚本框架，搭配对应人物形象设定，适合服装类短视频口播、穿搭变装视频、直播选品话术的快速创作。",
+  "inputType": "人物基础：性别、大致年龄、身高体重 / 身材类型（如梨形 / 小个子 / 微胖）\n核心场景：穿搭使用的具体场合（如日常通勤 /",
+  "outputContent": "穿搭展示视频",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/eedeeee612ae456c8bab06c2605e7a53/b5d6bd6fc1f9be1a3899990225150abd309f84da.png",
+  "resultType": 2,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=49e034e639d94ffcb6bf087b7ccecfc2",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/eedeeee612ae456c8bab06c2605e7a53/f7a2109f6a5c130c8c49521d313b186268f5f1ae.png"
+  ],
+  "hasPublicSkillContent": true
+}

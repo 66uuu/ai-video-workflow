@@ -1,0 +1,33 @@
+{
+  "name": "鬼武者战斗场景生成",
+  "templateUuid": "124f81f1b42f4eaa8f7963dddfc69257",
+  "skillUuid": "ac4e1bbb684c4669a8d914ff26fc22df",
+  "skillKey": "onimusha-battle-scene-10f43772ef194fbda818c96f85af92b8",
+  "version": "1.0.2",
+  "namespace": "libtv-user-generated",
+  "description": "角色图转鬼武者风格战斗场景",
+  "author": "bkz不可知",
+  "ownerId": 60705,
+  "tags": [],
+  "likeCount": null,
+  "usePv": 2,
+  "useUv": 2,
+  "publishAt": "2026-09-14 08:40:38",
+  "snapshotId": 46011,
+  "useScenario": "用户有一张角色图，想将其转化为《鬼武者》风格的武士鬼战士，生成电影化动作战斗场景",
+  "inputType": "一张角色参考图片，以及可选的战斗动作/敌人/招式描述",
+  "outputContent": "一段《鬼武者》游戏风格的电影化战斗场景视频或图像",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/10f43772ef194fbda818c96f85af92b8/da605e7da9038b56379ea34a774b061275d9d216.png",
+  "resultType": 3,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=124f81f1b42f4eaa8f7963dddfc69257",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/10f43772ef194fbda818c96f85af92b8/2de351b58fcf858b9c2986474ae796f7dfad9b35.mp4",
+    "https://libtv-res.liblib.art/upload-images/10f43772ef194fbda818c96f85af92b8/61da74e476463a345e85320554b38065bdce6d4a.mp4"
+  ],
+  "hasPublicSkillContent": true
+}

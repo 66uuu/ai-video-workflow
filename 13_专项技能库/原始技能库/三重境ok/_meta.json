@@ -1,0 +1,32 @@
+{
+  "name": "三重境ok",
+  "templateUuid": "b7d473c033be4b598bad84b46800d190",
+  "skillUuid": "cf6268ff3e3b443f92ad8738b7cc9243",
+  "skillKey": "triple-realm-vision-e850d8f368524201bb90ebfc85c733b4",
+  "version": "1.0.3",
+  "namespace": "libtv-user-generated",
+  "description": "三重境ok",
+  "author": "193****3230",
+  "ownerId": 4356288,
+  "tags": [],
+  "likeCount": null,
+  "usePv": 12,
+  "useUv": 3,
+  "publishAt": "2026-09-16 11:42:17",
+  "snapshotId": 46788,
+  "useScenario": "三重境ok",
+  "inputType": "三重境ok",
+  "outputContent": "三重境ok",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/e850d8f368524201bb90ebfc85c733b4/dcd3c834b373e2eec8fa5ee1dcbc82d25f7c5921.png",
+  "resultType": 2,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=b7d473c033be4b598bad84b46800d190",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/e850d8f368524201bb90ebfc85c733b4/dcd3c834b373e2eec8fa5ee1dcbc82d25f7c5921.png"
+  ],
+  "hasPublicSkillContent": true
+}

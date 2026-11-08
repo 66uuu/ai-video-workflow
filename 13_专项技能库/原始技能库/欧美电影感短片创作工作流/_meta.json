@@ -1,0 +1,35 @@
+{
+  "name": "欧美电影感短片创作工作流",
+  "templateUuid": "9bdc6dbf3ff84f60a532fd0e0423f3b3",
+  "skillUuid": "ae01b6f798364b53a1415b9d40573407",
+  "skillKey": "western-cinematic-film-workflow-230ab98f82834203a7d3c058a20fc9d2",
+  "version": "1.0.1",
+  "namespace": "libtv-user-generated",
+  "description": "从零到成片的欧美电影感短片完整创作工作流，涵盖角色设定、场景",
+  "author": "Junwei",
+  "ownerId": 8528135,
+  "tags": [],
+  "likeCount": 13,
+  "usePv": 117,
+  "useUv": 18,
+  "publishAt": "2026-08-11 21:47:59",
+  "snapshotId": 35985,
+  "useScenario": "用户想要创作一部有完整叙事的欧美电影感短片或MV，需要从人物设定开始，经过场景建立、故事线规划、分镜设计、视频生成到最终合成的完整工作流。",
+  "inputType": "用户提供的创作方向：片子类型（谍战/爱情/动作等）、主角人设描述、故事概念、视觉风格偏好",
+  "outputContent": "完整短片成片视频，包含：角色锚点图（三视图）、场景锚点图、完整分镜表文件、各分镜视频节点、背景配乐、最终合成成片",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/230ab98f82834203a7d3c058a20fc9d2/78d55aa754b09db3b484716f00fe5c9a5c2bfebc.png",
+  "resultType": 3,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=9bdc6dbf3ff84f60a532fd0e0423f3b3",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/230ab98f82834203a7d3c058a20fc9d2/9a8e0a2a4bbc34313b038c2a521192aaa65d936e.mov",
+    "https://www.liblib.tv/canvas/chat-share?shareId=4XMD1lb2dz",
+    "https://libtv-res.liblib.art/upload-images/230ab98f82834203a7d3c058a20fc9d2/a4440ddba41bdae7820c4f5ef34ed32389ca6728.mov",
+    "https://www.liblib.tv/canvas/chat-share?shareId=82wrgoN96b"
+  ],
+  "hasPublicSkillContent": true
+}

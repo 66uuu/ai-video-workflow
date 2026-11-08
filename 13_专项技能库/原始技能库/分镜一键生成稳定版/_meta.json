@@ -1,0 +1,32 @@
+{
+  "name": "分镜一键生成稳定版",
+  "templateUuid": "ea9ca2f67aed47d3a4cd87511b4f3f3c",
+  "skillUuid": "8a9cab3842be463db4cdae9c9b3563c2",
+  "skillKey": "cinematic-storyboard-workflow-431590b021c143a0b10d6988d3c3a50c",
+  "version": "1.0.7",
+  "namespace": "libtv-user-generated",
+  "description": "一键成片的分镜工作流",
+  "author": "Zz",
+  "ownerId": 5927302,
+  "tags": [],
+  "likeCount": 10,
+  "usePv": 2,
+  "useUv": 2,
+  "publishAt": "2026-08-10 16:33:40",
+  "snapshotId": 35521,
+  "useScenario": "各种剧情短片的制作",
+  "inputType": "上传剧本以及人设图来进行分镜的生成，需要提前告诉skill分镜制作的图片比例，如：16：9等等，然后通过分镜图来完成视频的创作",
+  "outputContent": "剧本的完整分镜图",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/431590b021c143a0b10d6988d3c3a50c/ae83581d883b8237918145b2132d0463209b8c4e.png",
+  "resultType": 3,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=ea9ca2f67aed47d3a4cd87511b4f3f3c",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/431590b021c143a0b10d6988d3c3a50c/9ac25bbe68f32f955f0e809c1de56838d1331d2c.mov"
+  ],
+  "hasPublicSkillContent": true
+}

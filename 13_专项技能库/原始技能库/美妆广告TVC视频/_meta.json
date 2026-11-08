@@ -1,0 +1,32 @@
+{
+  "name": "美妆广告TVC视频",
+  "templateUuid": "92698d5020024373b87b325aafd54f3b",
+  "skillUuid": "2056708a9c0e4304bcd93480b03d1298",
+  "skillKey": "beauty-ad-tvc-6fe77fcad9614c799944a901d1cc568a",
+  "version": "1.0.1",
+  "namespace": "libtv-user-generated",
+  "description": "适用于制作宣传TVC美妆类广告",
+  "author": "JACKPOORS",
+  "ownerId": 1010805,
+  "tags": [],
+  "likeCount": 13,
+  "usePv": 10,
+  "useUv": 9,
+  "publishAt": "2026-07-17 12:50:26",
+  "snapshotId": 28067,
+  "useScenario": "适用于美妆短视频广告TVC视频制作",
+  "inputType": "产品与人物；广告旁白词。",
+  "outputContent": "人物产品图,分镜图prompt，完整成片",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/6fe77fcad9614c799944a901d1cc568a/8a4deb8efd03be6507105f07c54ea1db942284c5.jpg",
+  "resultType": 3,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=92698d5020024373b87b325aafd54f3b",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/6fe77fcad9614c799944a901d1cc568a/c0776a0c0820e7099b36d20af7254575dbae8741.mp4"
+  ],
+  "hasPublicSkillContent": true
+}

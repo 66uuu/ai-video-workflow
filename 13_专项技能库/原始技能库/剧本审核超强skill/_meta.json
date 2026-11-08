@@ -1,0 +1,32 @@
+{
+  "name": "剧本审核超强skill",
+  "templateUuid": "2cc15ef6a2df4c6e921d1bed2f6ad1e2",
+  "skillUuid": "b3c62c35c94c4313b1a0da49b947178b",
+  "skillKey": "script-review-analyzer-1fabd7e3958345a893d8d7e4a37868f0",
+  "version": "1.0.0",
+  "namespace": "libtv-user-generated",
+  "description": "剧本爆款逻辑拆解成 25 个可量化的硬指标，帮你审稿",
+  "author": "AIGC佬猫",
+  "ownerId": 1096368,
+  "tags": [],
+  "likeCount": 42,
+  "usePv": 74,
+  "useUv": 34,
+  "publishAt": "2026-07-18 00:50:18",
+  "snapshotId": 28304,
+  "useScenario": "不具备审稿能力，对剧情节奏把握不好，对修改无法提出合适建议，大量人工审稿效率底下，普通AI对话审稿专业度不够。",
+  "inputType": "输入 ”开始“后，按指示操作",
+  "outputContent": "这个 Skill 是用来把“网文/剧本”翻译成“投产比数据”的工具。它帮团队在开拍前就筛掉 80% 的扑街货，确保留下来的剧本不仅看得爽，而且用 AI 做得出来",
+  "coverUrl": null,
+  "resultType": 1,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=2cc15ef6a2df4c6e921d1bed2f6ad1e2",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/1fabd7e3958345a893d8d7e4a37868f0/c0f87f031fc0015c51e7e37689938dfab6a8029d.md"
+  ],
+  "hasPublicSkillContent": true
+}

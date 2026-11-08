@@ -1,0 +1,32 @@
+{
+  "name": "文创详情页工作流",
+  "templateUuid": "753039b7de724c368f2343d2cc7e196a",
+  "skillUuid": "d896724f8ca6448482c0c56682a7fba1",
+  "skillKey": "plush-badge-ecommerce-display-341cee05670649388d2bf81b7a1b938d",
+  "version": "1.0.11",
+  "namespace": "libtv-user-generated",
+  "description": "输入产品原图，生成全套电商展示图",
+  "author": "莫小良",
+  "ownerId": 781790,
+  "tags": [],
+  "likeCount": 8,
+  "usePv": 33,
+  "useUv": 8,
+  "publishAt": "2026-09-10 11:46:47",
+  "snapshotId": 44908,
+  "useScenario": "毛绒吧唧/徽章类产品上新时，需要快速生成一整套电商详情页展示图的场景",
+  "inputType": "产品单品正面图（多款SKU）、侧面图、背面图、包装图、包装组合图、手拿参考图、平铺排列参考图",
+  "outputContent": "10张电商详情页展示图：主视觉方图/横版、正背双面展示、双款正面方图、五款平铺/侧面组合、手持场景及精修、佩戴场景、包装场景",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/341cee05670649388d2bf81b7a1b938d/45acbb64d7794b591b16d58b6d22808beefb14a1.png",
+  "resultType": 2,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=753039b7de724c368f2343d2cc7e196a",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/341cee05670649388d2bf81b7a1b938d/67aeb2db34cc343adb11e31b82ce6ec5a596b623.png"
+  ],
+  "hasPublicSkillContent": true
+}

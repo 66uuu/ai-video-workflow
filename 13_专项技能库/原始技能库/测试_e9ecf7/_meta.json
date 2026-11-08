@@ -1,0 +1,30 @@
+{
+  "name": "测试",
+  "templateUuid": "e9ecf77a7ade4fb9abd6718e003ad967",
+  "skillUuid": "740a8faf3a094da0a990240a643c75d3",
+  "skillKey": "test-utility-ac98679282744ee89193d9cfbfe936ac",
+  "version": "1.0.1",
+  "namespace": "libtv-user-generated",
+  "description": "测试",
+  "author": "狮子の心",
+  "ownerId": 84373,
+  "tags": [],
+  "likeCount": null,
+  "usePv": 7,
+  "useUv": 1,
+  "publishAt": "2026-08-12 22:43:41",
+  "snapshotId": 36379,
+  "useScenario": "测试",
+  "inputType": "测试",
+  "outputContent": "测试",
+  "coverUrl": null,
+  "resultType": 2,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=e9ecf77a7ade4fb9abd6718e003ad967",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [],
+  "hasPublicSkillContent": true
+}

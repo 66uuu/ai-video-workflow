@@ -1,0 +1,40 @@
+{
+  "name": "灵感具现化",
+  "templateUuid": "79821ce6d6794a0f8b339e9e78e416df",
+  "skillUuid": "6cb457c7930e42f08649564158a533cf",
+  "skillKey": "viral-script-storyboard-wizard-106377da0aad432bb006edca051a39d2",
+  "version": "1.0.1",
+  "namespace": "libtv-user-generated",
+  "description": "把一句话灵感变成对标爆款、短剧剧本 、分镜、AI素材提示词",
+  "author": "微信用户9cd4f9",
+  "ownerId": 11887780,
+  "tags": [],
+  "likeCount": null,
+  "usePv": 0,
+  "useUv": 0,
+  "publishAt": "2026-09-23 13:50:22",
+  "snapshotId": 49502,
+  "useScenario": "- 想写短剧 / 剧情短片剧本，但不会写、没思路\n- 有一个故事灵感 / 点子 / 梗概，想扩写成完整剧本\n- 要求 \"对标爆款\"\" 按爆款套路写 \" 的剧本创作\n- 需要带专业分镜脚本（可直接拍摄）的剧本\n- 需要剧本配套的 AI 生成图片 / 视频提示词\n- 上一部剧本的续写衔接\n- 适合竖屏微短剧、剧情短片，单部独立成篇",
+  "inputType": "1. 直接说触发语，例如：\"帮我写个短剧剧本，灵感是……\" 或 \"写个带分镜的竖屏短剧脚本\"\n2. 它先联网拆解爆款短剧，提炼爆款公式（为什么火、钩子节奏、反转时机）\n3. 然后分批问你几个选择题（题材、元素、人物、时长、画面风格、是否用热梗），每个推荐都附分析；拿不准就说 \"你定\"\n4. 问完先给你完整剧情故事（从头读到尾的全篇叙事稿），你说 \"可以\" 后才展开成正式剧本\n5. 最后交付",
+  "outputContent": "1. 剧情文档：完整剧情故事（全篇叙事稿：起因→发展→冲突→反转→高潮→结局）+ 剧名与一句话梗概 + 人物档案 + 分场剧情大纲 + 彩蛋伏笔设计点 + 热梗清单 + 整体画面风格说明\n2. 剧本 + 分镜文档**（Word）：完整分场剧本正文 + 每场戏的 13 字段专业分镜表（镜号 / 段落 / 景别 / 场景美术 / 画面构图 / 人物动作 / 摄像机镜头 / 摄影参数 / 镜",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/106377da0aad432bb006edca051a39d2/9b4a1db55ed5af8cee798c015b7253ee684f748c.jpeg",
+  "resultType": 2,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=79821ce6d6794a0f8b339e9e78e416df",
+  "files": [
+    "SKILL.md",
+    "references/ai-prompts.md",
+    "references/bestseller-analysis.md",
+    "references/easter-eggs.md",
+    "references/interview.md",
+    "references/memes.md",
+    "references/script-format.md",
+    "references/topics.md",
+    "references/visual-style.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/106377da0aad432bb006edca051a39d2/9b4a1db55ed5af8cee798c015b7253ee684f748c.jpeg"
+  ],
+  "hasPublicSkillContent": true
+}

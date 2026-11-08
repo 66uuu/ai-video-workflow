@@ -1,0 +1,32 @@
+{
+  "name": "剧本转提示词战斗增强版",
+  "templateUuid": "7d9ad44476b04fdfb6f3fd653b907f7b",
+  "skillUuid": "99b8c8ebddff457e8e9fa848cabc370f",
+  "skillKey": "combat-scene-prompt-builder-1fabd7e3958345a893d8d7e4a37868f0",
+  "version": "1.0.0",
+  "namespace": "libtv-user-generated",
+  "description": "重点战斗部分嵌入",
+  "author": "AIGC佬猫",
+  "ownerId": 1096368,
+  "tags": [],
+  "likeCount": 42,
+  "usePv": 81,
+  "useUv": 39,
+  "publishAt": "2026-07-18 00:22:44",
+  "snapshotId": 28292,
+  "useScenario": "不会进行战斗描述",
+  "inputType": "战斗部分剧本投入，开始。",
+  "outputContent": "嵌入大量战斗技巧，六维战斗设计和脚本分镜转换结合。让每一个战斗场景的分镜都达到好莱坞超A级动作大片标准。",
+  "coverUrl": null,
+  "resultType": 1,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=7d9ad44476b04fdfb6f3fd653b907f7b",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/1fabd7e3958345a893d8d7e4a37868f0/82cbd98699ab01f0553745edec68b4f4b1c0c601.md"
+  ],
+  "hasPublicSkillContent": true
+}

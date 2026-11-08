@@ -1,0 +1,36 @@
+{
+  "name": "生成角色三视图设定图",
+  "templateUuid": "8765e80f90fe46018e9548c39509aa8d",
+  "skillUuid": "2106dbd1d5754cf68594c0ce074a8d23",
+  "skillKey": "character-three-view-sheet-54ef20fc456e46f2bac3a0e580c7e4c8",
+  "version": "1.0.0",
+  "namespace": "libtv-user-generated",
+  "description": "一键生成纯白背景、左脸特写+右侧正/侧/背全身三视图",
+  "author": "xiiian",
+  "ownerId": 1164166,
+  "tags": [
+    "短剧漫剧"
+  ],
+  "likeCount": 56,
+  "usePv": 115,
+  "useUv": 73,
+  "publishAt": "2026-08-13 00:00:23",
+  "snapshotId": 36409,
+  "useScenario": "适用于需要为角色制作标准设定图/参考图的场景：AI 短片与漫剧的角色资产管理、游戏与动画的角色设定、插画师建立角色档案、同人创作锁定人物形象。当你已有一张人物图（真人照、二次元立绘、三渲二角色皆可），想快速产出一张可复用、可对齐、多视角统一的角色设定图时使用。",
+  "inputType": "上传一张含人物的图片（单人、面部清晰无遮挡、光线均匀效果最好，半身或全身都可）。Skill 会自动分析人物的脸型、五官、发型发色、服装配饰与画风，输出一段可直接复制到图生图输入框的提示词，用来生成设定图。若一张图里有多个人物，指定以哪一位为主角即可。",
+  "outputContent": "一张横构图角色设定图：纯白无缝背景，左侧为人物脸部特写，右侧为同一角色的全身正面/侧面/背面三视图（等高对齐），全图无任何文字、水印或标注，且三个视角与特写严格保持同一张脸、同一套服装与配色。",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/54ef20fc456e46f2bac3a0e580c7e4c8/522aa221f0bd218d0950f010865fca14a01b46cd.png",
+  "resultType": 2,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=8765e80f90fe46018e9548c39509aa8d",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/54ef20fc456e46f2bac3a0e580c7e4c8/522aa221f0bd218d0950f010865fca14a01b46cd.png",
+    "https://libtv-res.liblib.art/upload-images/54ef20fc456e46f2bac3a0e580c7e4c8/8c92df616f32e3fd1f7a73b59a7f1ac66c8c86b3.png",
+    "https://libtv-res.liblib.art/upload-images/54ef20fc456e46f2bac3a0e580c7e4c8/ea96af3c9fb5fd7dfebf1802b6a6b72d51d649ee.png"
+  ],
+  "hasPublicSkillContent": true
+}

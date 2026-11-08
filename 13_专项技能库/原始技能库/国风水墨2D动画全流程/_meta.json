@@ -1,0 +1,32 @@
+{
+  "name": "国风水墨2D动画全流程",
+  "templateUuid": "417344e1e20449f689c3979aac5a16ce",
+  "skillUuid": "76bcbd8ffc054d2a81f710fb6bbf2473",
+  "skillKey": "ink-wash-2d-animator-2374e238b8224b8a8986bbf7ca86ca39",
+  "version": "1.0.2",
+  "namespace": "libtv-user-generated",
+  "description": "用户描述故事/主题，自动完成分镜策划、锚点建立、逐段视频生成",
+  "author": "丹枫",
+  "ownerId": 7647975,
+  "tags": [],
+  "likeCount": 20,
+  "usePv": 27,
+  "useUv": 18,
+  "publishAt": "2026-08-10 23:29:25",
+  "snapshotId": 35617,
+  "useScenario": "用户有国风水墨动画创作需求，需要从故事描述出发，走完分镜策划、锚点建立、视频生成、音频混合、合成成片的全流程制作。视频比例由用户在流程开始时指定。",
+  "inputType": "用户文字需求（故事/剧情/主题）；可选上传：角色图、场景图、风格参考图、音频（主旋律/辅助音效/旁白/环境音）",
+  "outputContent": "国风水墨2D动画成片（比例由用户指定，720p），含画面与主旋律、环境音、旁白、辅助音效完整混音",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/2374e238b8224b8a8986bbf7ca86ca39/38745e7d90f768802af6f9f8bb3329ef56738ee6.png",
+  "resultType": 3,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=417344e1e20449f689c3979aac5a16ce",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/2374e238b8224b8a8986bbf7ca86ca39/7c6012a54693a8ef0dab5d02fdc8be382c08c8d2.mp4"
+  ],
+  "hasPublicSkillContent": true
+}

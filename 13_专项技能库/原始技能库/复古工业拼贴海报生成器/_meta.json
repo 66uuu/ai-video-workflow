@@ -1,0 +1,35 @@
+{
+  "name": "复古工业拼贴海报生成器",
+  "templateUuid": "42a40ca1f404467fa7c40aaae2ac2551",
+  "skillUuid": "835d77c109a74fe59046599765e00ad1",
+  "skillKey": "retro-industrial-collage-poster-e5c05143074646b7ae70a88b81ec6c2a",
+  "version": "1.0.1",
+  "namespace": "libtv-user-generated",
+  "description": "上传素材，生成复古工业拼贴海报提示词",
+  "author": "星美Fine",
+  "ownerId": 773892,
+  "tags": [],
+  "likeCount": 4,
+  "usePv": 3,
+  "useUv": 3,
+  "publishAt": "2026-08-31 10:57:21",
+  "snapshotId": 42174,
+  "useScenario": "需要生成融合工业景观与自然元素的复古拼贴海报时使用，适合环境主题创作",
+  "inputType": "可选上传：人物图、工业场景图、自然元素图、建筑街道图；可选配色方案（默认黑灰绿+深米色+浅琥珀色）；可选画幅比例（默认4:5）",
+  "outputContent": "复古工业拼贴海报提示词",
+  "coverUrl": "https://libtv-res.liblib.art/sd-gen-save-img/genius_playground/image/e5c05143074646b7ae70a88b81ec6c2a/892471065_c8ca743e51b9478680045dfdbfa05035.png",
+  "resultType": 2,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=42a40ca1f404467fa7c40aaae2ac2551",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/e5c05143074646b7ae70a88b81ec6c2a/12aa68b6ec1afc767fef42dfa1b23abb4d98e926.png",
+    "https://libtv-res.liblib.art/upload-images/e5c05143074646b7ae70a88b81ec6c2a/691e4f4f8820dbbbd39b5800e85db908a84b36be.png",
+    "https://libtv-res.liblib.art/upload-images/e5c05143074646b7ae70a88b81ec6c2a/ee3e9683f3c0a43b51adbee3e595dda89adba798.png",
+    "https://libtv-res.liblib.art/upload-images/e5c05143074646b7ae70a88b81ec6c2a/1cca619d992e28115699983885b0f13998800e1e.png"
+  ],
+  "hasPublicSkillContent": true
+}

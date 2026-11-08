@@ -1,0 +1,32 @@
+{
+  "name": "精品剧本拆解-长沙空镜",
+  "templateUuid": "7e15150b88844110ba081422da6b33e2",
+  "skillUuid": "2d34ed60e6f841f8a632f21de4e76c28",
+  "skillKey": "script-storyboard-breakdown-18da3da440cc4cc5b044a8fe40255f49",
+  "version": "1.0.0",
+  "namespace": "libtv-user-generated",
+  "description": "把剧本拆解为分镜脚本提示词",
+  "author": "130****9509",
+  "ownerId": 10678881,
+  "tags": [],
+  "likeCount": 34,
+  "usePv": 47,
+  "useUv": 21,
+  "publishAt": "2026-07-15 14:50:27",
+  "snapshotId": 27312,
+  "useScenario": "把剧本拆解为分镜脚本提示词",
+  "inputType": "输入剧本1章",
+  "outputContent": "分镜脚本和提示词，可以直接用于seedance",
+  "coverUrl": null,
+  "resultType": 1,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=7e15150b88844110ba081422da6b33e2",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/18da3da440cc4cc5b044a8fe40255f49/873436b54641680dad73759aa8112bc0828935b8.md"
+  ],
+  "hasPublicSkillContent": true
+}

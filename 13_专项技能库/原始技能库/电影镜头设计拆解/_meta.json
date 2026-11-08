@@ -1,0 +1,33 @@
+{
+  "name": "电影镜头设计拆解",
+  "templateUuid": "0bc8a877f8004c738d2c526986e6be4c",
+  "skillUuid": "aad55eb64604409881228e76c4717074",
+  "skillKey": "cinematic-shot-breakdown-9288121dc64a4f5d8a90819cf0c038a4",
+  "version": "1.0.0",
+  "namespace": "libtv-user-generated",
+  "description": "根据剧情、场景或镜头想法，从叙事目的、景别、构图、机位、运动",
+  "author": "151****0038",
+  "ownerId": 9314838,
+  "tags": [],
+  "likeCount": 99,
+  "usePv": 116,
+  "useUv": 74,
+  "publishAt": "2026-07-14 13:20:22",
+  "snapshotId": 26837,
+  "useScenario": "适用于把一句话剧情、脚本片段、分镜想法、AI 视频提示词或已有影片镜头，整理成专业镜头方案。可用于导演阐述、分镜设计、短片创作、影视分析、拍摄准备、AI 视频生成提示词优化，以及检查一个镜头是否具备清晰叙事目的和可执行的画面设计。",
+  "inputType": "用户输入剧情片段、场景描述、镜头想法或已有镜头，并说明希望得到的结果类型，例如“帮我拆解这个镜头”“把这段剧情设计成电影镜头”“",
+  "outputContent": "输出完整的电影镜头拆解或镜头设计方案，包括叙事目的、景别、构图、机位、镜头运动、焦距与景深、光线、色彩、场面调度、表演、美术道具、声音、节奏、剪辑关系和技术参数。根据用户用途，可额外输出一段可直接用于分镜、拍摄或 AI 视频生成的镜头描述。",
+  "coverUrl": null,
+  "resultType": 1,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=0bc8a877f8004c738d2c526986e6be4c",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/9288121dc64a4f5d8a90819cf0c038a4/785cc038c5ab1ec9f79b0aa2550a3277f0c74ce6.md",
+    "https://www.liblib.tv/canvas/share?spaceId=2751747&projectId=6076b0f44a284540a2b44b834ec92863"
+  ],
+  "hasPublicSkillContent": true
+}

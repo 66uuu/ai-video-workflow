@@ -1,0 +1,34 @@
+{
+  "name": "AI影视角色表演导演",
+  "templateUuid": "2566954f9ee94b29b78cea90f96699cd",
+  "skillUuid": "c2bbbbfbc28440e591050198558b87dd",
+  "skillKey": "character-acting-director-cca409ade58949f1ac4e6dae6d804d3d",
+  "version": "1.0.0",
+  "namespace": "libtv-user-generated",
+  "description": "把角色心理、关系与冲突转化为可被AI视频模型执行的动作、眼神",
+  "author": "AIGC肖学长",
+  "ownerId": 498532,
+  "tags": [],
+  "likeCount": 94,
+  "usePv": 206,
+  "useUv": 64,
+  "publishAt": "2026-08-12 02:48:41",
+  "snapshotId": 36040,
+  "useScenario": "适用于AI电影、短剧、短视频镜头的角色表演设计，包括角色表演母版、对白戏、冲突戏、情绪特写、多人反应、动作后的余韵，以及修复人物表情僵硬、眼神空洞、动作机械、只会“展示情绪”等问题。",
+  "inputType": "输入角色设定、人物关系和当前场景，并说明角色此刻想得到什么。可附台词、镜头时长、参考角色标签或现有视频提示词。示例：“少女维修师发现同伴即将消失，她想阻止对方离开，但不愿承认自己的恐惧。请设计8秒镜头的表演。”",
+  "outputContent": "输出可直接加入AI视频提示词的英文角色表演段落；需要时同时提供角色表演母版、固定声音提示词，以及表演节拍和修改说明。",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/cca409ade58949f1ac4e6dae6d804d3d/372495a168e667e2203896075ffaf5fb87b374e4.png",
+  "resultType": 3,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=2566954f9ee94b29b78cea90f96699cd",
+  "files": [
+    "SKILL.md",
+    "ACTING SKILL.md",
+    "PART IV.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/cca409ade58949f1ac4e6dae6d804d3d/a80b5094091b92c7a39f241a452624502abc496d.mp4"
+  ],
+  "hasPublicSkillContent": true
+}

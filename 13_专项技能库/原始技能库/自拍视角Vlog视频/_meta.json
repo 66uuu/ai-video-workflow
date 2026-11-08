@@ -1,0 +1,33 @@
+{
+  "name": "自拍视角Vlog视频",
+  "templateUuid": "eaab14a475a34cfa936f9364ffd315d2",
+  "skillUuid": "705f56e4a0964884b50ab7cd728faa9b",
+  "skillKey": "selfie-pov-vlog-ab7a96d9870f46d2a6243869b18b9c03",
+  "version": "1.0.0",
+  "namespace": "libtv-user-generated",
+  "description": "基于场景描述生成符合真实物理规律的自拍视角短视频。",
+  "author": "132****5033",
+  "ownerId": 9749344,
+  "tags": [],
+  "likeCount": 13,
+  "usePv": 37,
+  "useUv": 21,
+  "publishAt": "2026-08-15 11:26:07",
+  "snapshotId": 37175,
+  "useScenario": "适用于所有需要生成自拍类短视频的创作场景，包括但不限于：\n\n手持自拍类：边走边拍、对着镜头说话、探店打卡、日常记录、旅行 vlog\n固定机位类：居家记录、做饭 vlog、健身记录、穿搭展示、多人合影、延时自拍\n第一人称类：沉浸式探店、运动记录、手工制作、骑行 / 徒步 POV 视角\n内容创作者：抖音 / 视频号 / 小红书等平台的自拍类短视频批量生成",
+  "inputType": "用户只需用自然语言描述想要的自拍场景即可，次对话时提到「自拍」「vlog」「第一视角」等关键词即可触发。\n基础输入（必需）：\n- 自拍场景描述（如 \"女生在海边手持手机自拍，对着镜头笑\"）\n可选补充信息：\n- 自拍方式（手持 / 支架 / 头戴 / 胸戴，不说明则默认手持自拍）\n- 主角特征（性别、穿着、表情、动作）\n- 场景环境（地点、光线、背景）\n- 画幅比例\n- 风格要求",
+  "outputContent": "符合对应自拍场景物理视角与动作逻辑的自拍视角vlog短视频",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/ab7a96d9870f46d2a6243869b18b9c03/ccbe7b670e40b59f8fa523474c2d615ed2e0560b.png",
+  "resultType": 3,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=eaab14a475a34cfa936f9364ffd315d2",
+  "files": [
+    "SKILL.md",
+    "references/scene_specs.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/ab7a96d9870f46d2a6243869b18b9c03/26f474cb0edfe1e8c30680dcf1a8d963593aee32.mp4"
+  ],
+  "hasPublicSkillContent": true
+}

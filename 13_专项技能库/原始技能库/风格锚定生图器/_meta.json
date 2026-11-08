@@ -1,0 +1,32 @@
+{
+  "name": "风格锚定生图器",
+  "templateUuid": "9968246c10d243eaa4c016e4dc2f01db",
+  "skillUuid": "1ef6f46dd8214b10b7b7b279af39aba5",
+  "skillKey": "style-anchored-image-generator-f1cd68423b354abba991fe16eb70fb0a",
+  "version": "1.0.1",
+  "namespace": "libtv-user-generated",
+  "description": "指定风格+内容，直出风格化图像",
+  "author": "Devilworld",
+  "ownerId": 610387,
+  "tags": [],
+  "likeCount": 1,
+  "usePv": 4,
+  "useUv": 4,
+  "publishAt": "2026-09-08 17:59:05",
+  "snapshotId": 44415,
+  "useScenario": "需要快速生成带有特定视觉风格的图像时使用，例如日系胶片感、赛博朋克、美式电影感等风格",
+  "inputType": "风格名称（如\"日系胶片感\"）+ 内容描述（如\"一个女孩站在雨夜街头\"）",
+  "outputContent": "一张带有指定视觉风格的图像",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/f1cd68423b354abba991fe16eb70fb0a/7b0f0d90c7ec7d214f4199f43500fba97048fea8.png",
+  "resultType": 2,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=9968246c10d243eaa4c016e4dc2f01db",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/f1cd68423b354abba991fe16eb70fb0a/7b0f0d90c7ec7d214f4199f43500fba97048fea8.png"
+  ],
+  "hasPublicSkillContent": true
+}

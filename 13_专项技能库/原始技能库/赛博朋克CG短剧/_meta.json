@@ -1,0 +1,33 @@
+{
+  "name": "赛博朋克CG短剧",
+  "templateUuid": "8219e94f29414cc499422d87b1ca16e6",
+  "skillUuid": "8352d20e50a347aba0e01caf0ff70cdb",
+  "skillKey": "cyberpunk-cg-drama-planner-575ec3acba074aac894f693b84ca1850",
+  "version": "1.0.0",
+  "namespace": "libtv-user-generated",
+  "description": "一句话创意变身赛博朋克CG动漫单集短剧方案",
+  "author": "曼话AI",
+  "ownerId": 506487,
+  "tags": [],
+  "likeCount": 60,
+  "usePv": 66,
+  "useUv": 42,
+  "publishAt": "2026-07-14 14:12:09",
+  "snapshotId": 26860,
+  "useScenario": "适用于需要快速将一句话创意、角色设定或主题，转化为赛博朋克CG风格动漫单集短剧完整创作方案的场景，包括剧情短片、角色预告、世界观概念片等。",
+  "inputType": "输入核心创意/角色/主题（文本），可选提供时长、画幅、风格偏好等要求，Skill 将自动补全并生成完整方案。",
+  "outputContent": "输出单集剧本、角色/场景/道具资产锚点、分镜表、图像与视频生成 prompt（含负面提示词）以及剪辑建议。",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/575ec3acba074aac894f693b84ca1850/f9c16b2cee9c58bd2dd4ab53c95fe318cd5887a2.png",
+  "resultType": 3,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=8219e94f29414cc499422d87b1ca16e6",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/575ec3acba074aac894f693b84ca1850/274443abcac5b5ac14f06bae644d670ac85eb13c.mp4",
+    "https://kol.liblib.tv/canvas/chat-share?shareId=3VU9V2RuNa"
+  ],
+  "hasPublicSkillContent": true
+}

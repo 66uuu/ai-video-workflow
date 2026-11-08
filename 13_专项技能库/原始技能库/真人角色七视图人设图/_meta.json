@@ -1,0 +1,35 @@
+{
+  "name": "真人角色七视图人设图",
+  "templateUuid": "879ee7f046964834a7c0dc753413572f",
+  "skillUuid": "8c68924330f84965b94c9cc3a45b7012",
+  "skillKey": "character-turnaround-generator-4cbb9119e654432da6d857c2241f1627",
+  "version": "1.0.2",
+  "namespace": "libtv-user-generated",
+  "description": "根据图片或描述生成真人七视图人设图",
+  "author": "HP天理",
+  "ownerId": 9470638,
+  "tags": [],
+  "likeCount": 109,
+  "usePv": 283,
+  "useUv": 123,
+  "publishAt": "2026-08-18 03:04:18",
+  "snapshotId": 37945,
+  "useScenario": "适合制作真人角色统一人设图，可用于AI图片、短片和连续角色参考。支持已有角色扩展、纯文字创建、人物换装，以及多图组合人物脸、发型、身材、服装和鞋子；参考信息不完整时，会根据已有特征保守补全侧面、背面及未展示部分。",
+  "inputType": "支持三种输入：①只上传人物图，适合角色已经确定；②只写人物描述，适合从零设计；③图片+文字或多张图片，适合精确组合。多图时请写清“图1参考人物、图2参考服装、图3参考鞋子”等职责，并说明哪些必须保留、修改或删除；未说明部分由Skill自然补全。",
+  "outputContent": "输出1张16:9真人七视图角色设定图：左侧为正面、90°侧面、背面三个完整全身视图，右侧为正面、左3/4、右3/4、侧面四个头肩特写。自动保持人物脸、年龄、发型、身材、服装和鞋子统一，并检查人物漂移、缺图、裁切和版式错误。",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/4cbb9119e654432da6d857c2241f1627/144fe74025da99adefcabce3bf1182b35399d49c.png",
+  "resultType": 2,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=879ee7f046964834a7c0dc753413572f",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/4cbb9119e654432da6d857c2241f1627/144fe74025da99adefcabce3bf1182b35399d49c.png",
+    "https://libtv-res.liblib.art/upload-images/4cbb9119e654432da6d857c2241f1627/ac896127773b5d947b42d37ea3426d3a1946c046.png",
+    "https://libtv-res.liblib.art/upload-images/4cbb9119e654432da6d857c2241f1627/67ab2222b5af29b0e8ff8ea6ee8ce7fa8aedb00a.png",
+    "https://libtv-res.liblib.art/upload-images/4cbb9119e654432da6d857c2241f1627/33144a0c17a128a7a21ea30c3f26545fac4bcc8f.png"
+  ],
+  "hasPublicSkillContent": true
+}

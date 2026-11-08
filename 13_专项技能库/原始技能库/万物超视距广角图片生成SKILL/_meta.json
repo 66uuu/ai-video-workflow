@@ -1,0 +1,35 @@
+{
+  "name": "万物超视距广角图片生成SKILL",
+  "templateUuid": "ed6b15b7cb20423ea6b129a634c06472",
+  "skillUuid": "9cc20b61f62a4774bf5e161e9e67875d",
+  "skillKey": "ultra-wide-panoramic-vision-b85befd035a84c7d99b6927cfa3fa3c5",
+  "version": "1.0.0",
+  "namespace": "libtv-user-generated",
+  "description": "超过3个维度的视野广角",
+  "author": "星球的AI畅想",
+  "ownerId": 1619666,
+  "tags": [],
+  "likeCount": 8,
+  "usePv": 6,
+  "useUv": 6,
+  "publishAt": "2026-08-24 00:56:00",
+  "snapshotId": 40017,
+  "useScenario": "任何主题的超视距广角构图生成",
+  "inputType": "电影 21:9 宽画幅、超广角镜头 (Ultra-wide angle)，XXXXX主题，有XXXXX细节",
+  "outputContent": "万物超视距广角图片生成",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/b85befd035a84c7d99b6927cfa3fa3c5/86a273161c8497fbb4c5803b11544f4b9a4f9d31.png",
+  "resultType": 2,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=ed6b15b7cb20423ea6b129a634c06472",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/b85befd035a84c7d99b6927cfa3fa3c5/86a273161c8497fbb4c5803b11544f4b9a4f9d31.png",
+    "https://libtv-res.liblib.art/upload-images/b85befd035a84c7d99b6927cfa3fa3c5/45f48ce879eff0618e057b85a64c0ae7aee5f979.jpg",
+    "https://libtv-res.liblib.art/upload-images/b85befd035a84c7d99b6927cfa3fa3c5/e760a07474688b2542b49879462e61c4eea29c65.png",
+    "https://libtv-res.liblib.art/upload-images/b85befd035a84c7d99b6927cfa3fa3c5/33518fb6bd7b41245ced7571a9aea8e5cd3e624d.png"
+  ],
+  "hasPublicSkillContent": true
+}

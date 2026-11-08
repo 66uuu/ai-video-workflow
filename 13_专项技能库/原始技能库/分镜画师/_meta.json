@@ -1,0 +1,35 @@
+{
+  "name": "分镜画师",
+  "templateUuid": "4c4f70078e4a42d1b6851fd525a22195",
+  "skillUuid": "a976e96de9164bf9a2561c8e19df194d",
+  "skillKey": "cinematic-storyboarder-ca454cb62d7946388824bf408f5b3918",
+  "version": "1.0.0",
+  "namespace": "libtv-user-generated",
+  "description": "分镜画师——把你的视觉想法拆成电影级分镜 + 中英对照画面",
+  "author": "直觉Binary",
+  "ownerId": 10286872,
+  "tags": [],
+  "likeCount": 9,
+  "usePv": 6,
+  "useUv": 5,
+  "publishAt": "2026-07-30 14:44:06",
+  "snapshotId": 32058,
+  "useScenario": "🎨 文字→画面：描述一个场景/氛围，直接生成中英对照画面提示词\n🎬 故事→分镜：讲一段剧情，自动拆分镜头序列（远景→中景→特写），每镜配画面+风格参数\n🎥 风格设计：为每个镜头指定胶片型号、镜头、布光、色调等电影级参数\n📦 开箱即用：内置完整电影术语速查手册，复制提示词直接投喂 AI 绘图/视频工具",
+  "inputType": "输入内容：描述你想要的画面或故事，支持以下任意形式：\n\n一句话概念，如「赛博朋克雨夜街头，孤独的人站在霓虹灯下」\n情绪/氛围描述，如「温暖治愈的夏日海边回忆」\n故事梗概或剧本片段，如「主角在沙漠中追逐最后一班列车」\n也可以直接给一个主题词，如「高速信息流」「孤独与自由」\n提交后自动生成多镜头分镜方案，每个镜头附带中英对照画面提示词和电影级风格参数。",
+  "outputContent": "多镜头分镜方案，包含：\n\n3-12 个分镜序列（含镜号、主题、景别、构图、主色调）\n每个分镜的中英对照画面提示词（描述画面内容）\n每个分镜的中英对照风格提示词（胶片、镜头、布光、色调参数）\n一张分镜总览表，一目了然",
+  "coverUrl": null,
+  "resultType": 1,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=4c4f70078e4a42d1b6851fd525a22195",
+  "files": [
+    "SKILL.md",
+    "references/术语速查③-风格工程.md",
+    "references/术语速查①-成像镜头.md",
+    "references/术语速查②-画面光影.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/ca454cb62d7946388824bf408f5b3918/c085786a6b6cd450840d3a3732773fd1893c63b7.md"
+  ],
+  "hasPublicSkillContent": true
+}

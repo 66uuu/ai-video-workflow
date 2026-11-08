@@ -1,0 +1,35 @@
+{
+  "name": "文章转漫画生成器",
+  "templateUuid": "bf2c74e6a6c84cd39f42dbd67b9d2c75",
+  "skillUuid": "2b2b6b3582fd411b99b0bbc565309e43",
+  "skillKey": "article-to-comic-28ade6a6773f4d8681f109fd7580331c",
+  "version": "1.0.5",
+  "namespace": "libtv-user-generated",
+  "description": "文章/故事一键改编为漫画",
+  "author": "微信用户59419d",
+  "ownerId": 11365957,
+  "tags": [],
+  "likeCount": 1,
+  "usePv": 7,
+  "useUv": 5,
+  "publishAt": "2026-09-07 08:59:20",
+  "snapshotId": 43945,
+  "useScenario": "将小说、故事、散文、新闻等文字内容改编为完整漫画页，适合内容创作、家族记忆可视化、故事分镜等场景",
+  "inputType": "文章原文（必填）+ 漫画风格/格数/画质/比例（可选）",
+  "outputContent": "角色设定卡 + 分镜脚本 + 逐格 AI 漫画图片（附对话与音效标注）",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/28ade6a6773f4d8681f109fd7580331c/a82b107324e422759535b9ded2e25070591aecb1.png",
+  "resultType": 2,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=bf2c74e6a6c84cd39f42dbd67b9d2c75",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/28ade6a6773f4d8681f109fd7580331c/a82b107324e422759535b9ded2e25070591aecb1.png",
+    "https://libtv-res.liblib.art/upload-images/28ade6a6773f4d8681f109fd7580331c/ddaf48c1754bfbde07a92b743c4a6606f37ee963.png",
+    "https://libtv-res.liblib.art/upload-images/28ade6a6773f4d8681f109fd7580331c/822984aa412f9528f86cb25188c6ded4e2f0a58a.png",
+    "https://libtv-res.liblib.art/upload-images/28ade6a6773f4d8681f109fd7580331c/faea3925ac11d5f95cf76ed09daf6e99723426e0.png"
+  ],
+  "hasPublicSkillContent": true
+}

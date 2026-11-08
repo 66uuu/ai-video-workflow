@@ -1,0 +1,32 @@
+{
+  "name": "吉卜力治愈系动漫短片制作",
+  "templateUuid": "fc546cfbc31e40b2ac99e0ae8f24fc8d",
+  "skillUuid": "473bc176325b484da314ddc0b1f7429e",
+  "skillKey": "ghibli-anime-short-film-2565a71a7a6545aca6c81a4a73b242e2",
+  "version": "1.0.1",
+  "namespace": "libtv-user-generated",
+  "description": "从脚本到成片的治愈系动漫短片全流程，支持宫崎骏/吉卜力画风",
+  "author": "Ricky",
+  "ownerId": 9485415,
+  "tags": [],
+  "likeCount": 7,
+  "usePv": 15,
+  "useUv": 12,
+  "publishAt": "2026-08-19 08:56:48",
+  "snapshotId": 38320,
+  "useScenario": "适用于以下场景：\n1. 创作者有故事脚本或主题方向，需要快速产出完整动漫短片\n2. 需要生成宫崎骏/吉卜力/新海诚等治愈系手绘风格的动画短片\n3. 短视频平台内容创作（小红书/抖音/视频号），目标时长30-120秒\n4. 品牌方定制治愈系动画短片（文旅/农产品/生活方式）\n5. 个人IP账号的系列动画内容批量生产",
+  "inputType": "请提供以下信息即可开始制作：\n1. 故事脚本或主题方向（如\"夏天在溪水里冰西瓜\"）\n2. 目标时长（建议30-120秒，最优60-90秒）\n3. 画风偏好（宫崎骏/吉卜力/新海诚/通用治愈系）\n4. 画面比例（9：16竖版优先，或16:9横版）\n5. 是否需要BGM/旁白/字幕",
+  "outputContent": "交付以下完整制作包：\n1. 定稿剧本（含时间轴、画面描述、音效提示）\n2. 资产设定文档（角色形象、场景设定、道具清单及AI提示词）\n3. 故事板分镜图（含每镜构图、景别、运镜方式、转场方式）\n4. 分屏视频（各镜头独立生成的视频片段）\n5. BGM选曲建议或生成提示词\n6. 完整成片（含剪辑节奏建议、字幕时间轴）",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/2565a71a7a6545aca6c81a4a73b242e2/e4c704a4b60c8f38abf5115c77c144b0c03bc2d9.png",
+  "resultType": 3,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=fc546cfbc31e40b2ac99e0ae8f24fc8d",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/2565a71a7a6545aca6c81a4a73b242e2/a4ba8d83c856f2cfffcc3f4a83deec7f81e22860.mp4"
+  ],
+  "hasPublicSkillContent": true
+}

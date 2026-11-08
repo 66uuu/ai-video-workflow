@@ -1,0 +1,32 @@
+{
+  "name": "首尾帧视频提示词助手工具",
+  "templateUuid": "8bad2cc8fd30430c9d6747e9218258f1",
+  "skillUuid": "6e539b2f80444879b69d2daf03fca86e",
+  "skillKey": "start-end-frame-prompt-optimizer-b85befd035a84c7d99b6927cfa3fa3c5",
+  "version": "1.0.4",
+  "namespace": "libtv-user-generated",
+  "description": "专用于首尾帧视频的优化",
+  "author": "星球的AI畅想",
+  "ownerId": 1619666,
+  "tags": [],
+  "likeCount": 17,
+  "usePv": 21,
+  "useUv": 13,
+  "publishAt": "2026-07-29 17:41:54",
+  "snapshotId": 31829,
+  "useScenario": "Seedance 2.0 视频首尾帧提示词优化助手",
+  "inputType": "建议：写清楚输出视频720P，时间X秒，出视频比例（如9:16、16:9）\n从图1的XXX，到XXX最终呈现图2的最终效果。镜头1: 0-2S，XXX；镜头2:2-6S，XXX。使用镜头：XXX， 镜头推移效果：XXX，要求视频节奏感强，效果丰富。\n需要简单描述图1是什么， 图2是什么， 镜头1: X秒-X秒是什么镜头 ，镜头2: X秒-X秒是什么镜头\n最后写入：自动匹配视频风格生成音频效",
+  "outputContent": "Seedance 2.0 首尾帧提示词自动助手 | 优化提示词",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/b85befd035a84c7d99b6927cfa3fa3c5/e26533d39874b71d95351abeb45f9454d4393c45.png",
+  "resultType": 3,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=8bad2cc8fd30430c9d6747e9218258f1",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/b85befd035a84c7d99b6927cfa3fa3c5/56ea47d2ed0ce638828775783aef6e6e3b46d350.mp4"
+  ],
+  "hasPublicSkillContent": true
+}

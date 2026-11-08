@@ -1,0 +1,36 @@
+{
+  "name": "光影镜头导演",
+  "templateUuid": "cb53200a60524920b26eed481efa6f1c",
+  "skillUuid": "7ca925909d254546a78ce063645da439",
+  "skillKey": "cinematic-lighting-director-50e31a241ba4455ca090e8a09c2781a3",
+  "version": "1.0.0",
+  "namespace": "libtv-user-generated",
+  "description": "将简单描述，参考图、或一小段剧情，转译成一张极具氛围的图片",
+  "author": "Whitelang",
+  "ownerId": 6125227,
+  "tags": [],
+  "likeCount": 43,
+  "usePv": 29,
+  "useUv": 19,
+  "publishAt": "2026-07-21 17:48:04",
+  "snapshotId": 29605,
+  "useScenario": "适合将参考照片、电影截图、一句话场景或短剧情转化为单幅图片方案。可用于复刻参考图的色调、光影、构图和成像质感，也可设计电影镜头、氛围人像、叙事场景、梦幻画面及概念性视觉。尤其适合解决普通提示词容易出现的糖水感、面部光影平、色调失真、柔焦变脏和随机红蓝杂光等问题。",
+  "inputType": "上传参考图，或简单描述主体、动作、场景和气氛即可，例如：“下雪天的日系女生特写，安静怀旧”“冰原上的骑士面对远处尸群，全景”。\n",
+  "outputContent": "默认输出画面意图、构图空间、色调光影、摄影成像等分板块分析，随后输出一条可直接用于 AI 出图的中文提示词。提示词包含摄影机型号、镜头、焦段、光圈、景深及必要的光学效果。用户只要提示词时直接输出提示词；用户要求出图时继续生成单幅图片。",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/50e31a241ba4455ca090e8a09c2781a3/57f631102c77b7a1f635b7253e4f86a47a8455a6.png",
+  "resultType": 2,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=cb53200a60524920b26eed481efa6f1c",
+  "files": [
+    "SKILL.md",
+    "image-prompt-director/SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/50e31a241ba4455ca090e8a09c2781a3/d05bdd553fb6e3c204b0f46ebc7214042f0fe9fa.png",
+    "https://libtv-res.liblib.art/upload-images/50e31a241ba4455ca090e8a09c2781a3/536c244cd228f7c4633069d1226654f40c411631.png",
+    "https://libtv-res.liblib.art/upload-images/50e31a241ba4455ca090e8a09c2781a3/e2463c26e6b361b0889cc74df084e07731e7e8f7.png",
+    "https://libtv-res.liblib.art/upload-images/50e31a241ba4455ca090e8a09c2781a3/d4743ebca355540634e9387b090083fbb9816f35.png"
+  ],
+  "hasPublicSkillContent": true
+}

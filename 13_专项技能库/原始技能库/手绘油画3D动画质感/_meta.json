@@ -1,0 +1,32 @@
+{
+  "name": "手绘油画3D动画质感",
+  "templateUuid": "b210bac85e084a53b8d8d394caf77c7b",
+  "skillUuid": "2bb2d1a400544cf3ad3084eb8f2ff60e",
+  "skillKey": "arcane-oil-3d-animator-d3f14626c6264b19b0800a65cded7816",
+  "version": "1.0.1",
+  "namespace": "libtv-user-generated",
+  "description": "用于创作双城之战风格的手绘油画质感的三维动画视频。",
+  "author": "黄蓝菌子",
+  "ownerId": 8208333,
+  "tags": [],
+  "likeCount": 157,
+  "usePv": 266,
+  "useUv": 99,
+  "publishAt": "2026-07-15 15:37:55",
+  "snapshotId": 27333,
+  "useScenario": "用于创作「手绘油画质感三维动画风格」AI 视频。适合根据画布中的角色、场景、道具和参考图，完成画面风格统一、短片构思、分镜设计、关键帧描述、图片/视频提示词生成。适用于 15-60 秒动画短片、角色展示、剧情短片、教程视频和作品集片段；不适用于纯写实、真人实拍、普通二次元、普通游戏 CG 或长篇连续剧。",
+  "inputType": "用户可输入角色设定、场景参考、道具参考、故事梗概、剧本内容、画布素材、风格参考、视频时长或发布平台。至少提供一个核心信息即可，例",
+  "outputContent": "输出一套可执行的手绘油画质感三维动画 AI 视频方案，包括风格统一建议、短片构思、分镜设计、关键帧描述、图片/视频提示词、剪辑建议和生成风险提醒。最终可用于制作 15-60 秒风格化动画短片、角色展示、剧情短片、教程案例或作品集片段。",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/d3f14626c6264b19b0800a65cded7816/e4124a19b10f663ae2fb7f2c94fbc828a2a29c93.png",
+  "resultType": 3,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=b210bac85e084a53b8d8d394caf77c7b",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/d3f14626c6264b19b0800a65cded7816/15c1060b18b06fc1dac964b1621947b1bc33e27e.mp4"
+  ],
+  "hasPublicSkillContent": true
+}

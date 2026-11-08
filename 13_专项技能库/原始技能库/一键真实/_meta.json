@@ -1,0 +1,32 @@
+{
+  "name": "一键真实",
+  "templateUuid": "c396f04665134e72bf68542ecad46868",
+  "skillUuid": "b622b35b8609494e8be95cabde1aea20",
+  "skillKey": "realism-enhancer-a45340c6704344578c0f884b55121a00",
+  "version": "1.0.1",
+  "namespace": "libtv-user-generated",
+  "description": "一键真实",
+  "author": "T先生",
+  "ownerId": 2765057,
+  "tags": [],
+  "likeCount": 29,
+  "usePv": 29,
+  "useUv": 21,
+  "publishAt": "2026-09-06 16:40:15",
+  "snapshotId": 43860,
+  "useScenario": "将图片更加真实精细化，真实感",
+  "inputType": "直接给参考图，一键输出",
+  "outputContent": "对应参考的图片",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/a45340c6704344578c0f884b55121a00/8df7d0487468baf062ee26abf172bb7a881eb98f.png",
+  "resultType": 2,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=c396f04665134e72bf68542ecad46868",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/a45340c6704344578c0f884b55121a00/8df7d0487468baf062ee26abf172bb7a881eb98f.png"
+  ],
+  "hasPublicSkillContent": true
+}

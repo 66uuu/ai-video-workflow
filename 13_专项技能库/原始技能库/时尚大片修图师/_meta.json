@@ -1,0 +1,32 @@
+{
+  "name": "时尚大片修图师",
+  "templateUuid": "d5d75d3346ce4d1ebd67ae9ce87cac8f",
+  "skillUuid": "0c21b264aa1e479d8464cc2206c70869",
+  "skillKey": "fashion-editorial-retoucher-18becde47b76467ab1d92a304dee2de3",
+  "version": "1.0.1",
+  "namespace": "libtv-user-generated",
+  "description": "上传照片，AI全自动修出时尚大片感",
+  "author": "微信用户94d5b2",
+  "ownerId": 3036478,
+  "tags": [],
+  "likeCount": 1,
+  "usePv": 4,
+  "useUv": 3,
+  "publishAt": "2026-09-12 11:50:52",
+  "snapshotId": 45618,
+  "useScenario": "用户希望将普通照片全自动修成时尚大片质感成片时使用；不适用于纯风景照、产品图或需要逐步确认的场景",
+  "inputType": "用户上传一张人像或时尚类照片，可附加简短风格描述（可选）",
+  "outputContent": "修图成片 + AI自检报告（各项处理内容及达标理由）",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/18becde47b76467ab1d92a304dee2de3/d84edd6117b18615440e9836dbdaccefccb08fa7.png",
+  "resultType": 2,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=d5d75d3346ce4d1ebd67ae9ce87cac8f",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/18becde47b76467ab1d92a304dee2de3/d84edd6117b18615440e9836dbdaccefccb08fa7.png"
+  ],
+  "hasPublicSkillContent": true
+}

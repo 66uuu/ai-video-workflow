@@ -1,0 +1,35 @@
+{
+  "name": "金属产品精修",
+  "templateUuid": "9c3c47989a44421f89ea38cddfa79537",
+  "skillUuid": "90a8ca3f4bd7445c97da57b096c4038e",
+  "skillKey": "metal-product-refiner-d7ed112b9ed44092882621dd66be0788",
+  "version": "1.0.0",
+  "namespace": "libtv-user-generated",
+  "description": "专业电商级金属产品精修工作流。无需参考图，直接根据训练知识对",
+  "author": "AIGC",
+  "ownerId": 856605,
+  "tags": [],
+  "likeCount": 5,
+  "usePv": 4,
+  "useUv": 3,
+  "publishAt": "2026-08-11 21:45:55",
+  "snapshotId": 35984,
+  "useScenario": "电商产品主图精修，适用于金属零件、五金配件、厨电、工业品、机械产品等需要专业白底精修的场景。用户只需上传一张产品实拍照，即可快速获得多模型精修对比图。",
+  "inputType": "用户上传的产品实拍照片（支持金属零件、五金配件、家电、工业品等各类金属产品）",
+  "outputContent": "白底电商产品精修效果图，使用 General image Pro、General image V2、Seedream 5.0 Pro 多模型并行生成，比例由用户选择，中文提示词，镜面/拉丝金属质感，产品完美无瑕",
+  "coverUrl": "https://libtv-res.liblib.art/sd-gen-save-img/genius_playground/image/d7ed112b9ed44092882621dd66be0788/858789347_0ea35d4a631a40e7a7c5a67ebf2d6f57.png?x-oss-process=image/format,png",
+  "resultType": 2,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=9c3c47989a44421f89ea38cddfa79537",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/d7ed112b9ed44092882621dd66be0788/9e7d09630225870e83cd1a4eef3bc5b1a67c8501.jpg",
+    "https://libtv-res.liblib.art/upload-images/d7ed112b9ed44092882621dd66be0788/6b8ddb8ba482dd649efd84b33d43ed225235f721.jpg",
+    "https://libtv-res.liblib.art/upload-images/d7ed112b9ed44092882621dd66be0788/40500f5251670669391d2f13ace07516198027b0.jpg",
+    "https://libtv-res.liblib.art/upload-images/d7ed112b9ed44092882621dd66be0788/e0f017c481de315f7d78656648e42ccfe1a4e1c5.jpg"
+  ],
+  "hasPublicSkillContent": true
+}

@@ -1,0 +1,32 @@
+{
+  "name": "4条男童内裤",
+  "templateUuid": "2403ea35066948ab9cfdcc1ecdad3d79",
+  "skillUuid": "7a2987b5dcac424daf7c63c3bf217440",
+  "skillKey": "underwear-background-modifier-dcfce58e62e342adae3ced3b96c49b7f",
+  "version": "1.0.11",
+  "namespace": "libtv-user-generated",
+  "description": "类型相同，具体内容不同",
+  "author": "180****3619",
+  "ownerId": 9924508,
+  "tags": [],
+  "likeCount": 1,
+  "usePv": 2,
+  "useUv": 1,
+  "publishAt": "2026-08-21 10:24:19",
+  "snapshotId": 39281,
+  "useScenario": "类型相同，具体内容不同",
+  "inputType": "类型相同，具体内容不同",
+  "outputContent": "产品图",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/dcfce58e62e342adae3ced3b96c49b7f/5837c04efb85ca1511fe20d12a86d71f98692416.jpeg",
+  "resultType": 2,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=2403ea35066948ab9cfdcc1ecdad3d79",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/dcfce58e62e342adae3ced3b96c49b7f/d5582b82bfc7e995f8b9f269f79728e1fc98fafd.png"
+  ],
+  "hasPublicSkillContent": true
+}

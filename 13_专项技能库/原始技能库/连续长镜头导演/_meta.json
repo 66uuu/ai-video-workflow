@@ -1,0 +1,32 @@
+{
+  "name": "连续长镜头导演",
+  "templateUuid": "3a0aa0425e964f419b03747388d111a4",
+  "skillUuid": "d6cd7637b17e40528cfe9c3b775d094f",
+  "skillKey": "long-take-sequencer-fbe549d22972429cb421a6462c4c898e",
+  "version": "1.0.9",
+  "namespace": "libtv-user-generated",
+  "description": "将长视频拆成连续片段，使多个 片段尽可能形成同一个完整长镜头",
+  "author": "微信用户cebfd8",
+  "ownerId": 11144008,
+  "tags": [],
+  "likeCount": 36,
+  "usePv": 35,
+  "useUv": 21,
+  "publishAt": "2026-09-04 12:06:27",
+  "snapshotId": 43360,
+  "useScenario": "适用于把自然语言故事、小说片段、剧本、广告创意或普通视频需求，转化为可执行的长视频生成方案。\n重点解决多镜头、跨场景和连续动作中的人物身份、服装、道具、空间、动作、时间、摄影机方向及视觉风格一致性问题。\n适合连续长镜头、剧情短片、动作场景、恐怖故事、动漫战斗和经典名著影视化等内容。",
+  "inputType": "直接输入故事、小说片段、剧情梗概或视频创意，无需提前写成专业视频 Prompt。\n建议同时提供目标时长、画面风格、画幅，以及已有的角色、场景或道具参考图。没有规定的普通视觉细节可由 Skill 补充，用户明确设定的剧情事实和参考素材始终优先。\nSkill 会先解析人物、事件、场景、道具和状态变化，建立 Continuity Bible、Visual Asset Bible 和 Continui",
+  "outputContent": "输出可执行的长视频连续性方案，包括：\n- 原始故事中的固定剧情事实与可视化改编\n- 角色、场景、核心道具和视觉风格设定\n- 角色身份参考、服装版本、场景角度和道具状态等参考资产计划\n- 全局故事描述、稳定 Subject ID 和逐镜头可见主体\n- Continuity Ledger 当前世界状态\n- 按事件复杂度划分的 Clip 计划\n- 每个 Clip 的 START STATE、ACTIO",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/fbe549d22972429cb421a6462c4c898e/318ebb1be32b5556f9229f5b84fe9fb40086f5ad.png",
+  "resultType": 3,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=3a0aa0425e964f419b03747388d111a4",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/fbe549d22972429cb421a6462c4c898e/dfd44102e9c99dd3fc6a9847ed03ef6b4a28557c.mp4"
+  ],
+  "hasPublicSkillContent": true
+}

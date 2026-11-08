@@ -1,0 +1,32 @@
+{
+  "name": "怪诞中式梦核超现实",
+  "templateUuid": "b0978584a3c0456081fe1a5d279aa9e1",
+  "skillUuid": "54aa38972eee4d90afbe0f2856428670",
+  "skillKey": "chinese-dreamcore-surrealism-42a98d5f83a242568e1adfecc620ed3e",
+  "version": "1.0.0",
+  "namespace": "libtv-user-generated",
+  "description": "生成怪诞梦核影片，中式元素，柔和色彩，电影机质感及运镜",
+  "author": "赛赛_Cecilia",
+  "ownerId": 4351068,
+  "tags": [],
+  "likeCount": 25,
+  "usePv": 15,
+  "useUv": 11,
+  "publishAt": "2026-07-26 22:40:18",
+  "snapshotId": 30876,
+  "useScenario": "中式梦核、怪诞短片、情绪表达、自媒体素材、影视创作。",
+  "inputType": "剧本梗概、主角参考图或一句话描述即可。",
+  "outputContent": "超现实主义怪诞风格中式梦核影片，模仿纪录片手法，电影级质感及运镜，超强梦核素材",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/42a98d5f83a242568e1adfecc620ed3e/d15756fcce5f65980908d292bf00e6d52e75fd3f.png",
+  "resultType": 3,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=b0978584a3c0456081fe1a5d279aa9e1",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/42a98d5f83a242568e1adfecc620ed3e/36dda53c0882e799eb1fe1245440857f0509fb74.mp4"
+  ],
+  "hasPublicSkillContent": true
+}

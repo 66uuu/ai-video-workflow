@@ -1,0 +1,34 @@
+{
+  "name": "yukioliam影视顶级分镜脚本生成",
+  "templateUuid": "faf49057cc0e4de8b6c70741088e0b80",
+  "skillUuid": "d54b7341860641bb83945cd097a5e194",
+  "skillKey": "professional-storyboard-script-builder-386f8fb8888144d08244bc98900261e5",
+  "version": "1.0.2",
+  "namespace": "libtv-user-generated",
+  "description": "融合三大顶级导演体系生成专业分镜脚本",
+  "author": "137****4562",
+  "ownerId": 11212135,
+  "tags": [
+    "专业影视"
+  ],
+  "likeCount": 28,
+  "usePv": 67,
+  "useUv": 47,
+  "publishAt": "2026-09-18 15:11:29",
+  "snapshotId": 47621,
+  "useScenario": "将任意类型剧本转化为可直接落地拍摄或AI视频生成的专业分镜脚本，适用于短片创作、AI视频生成、影视前期筹备",
+  "inputType": "用户提供任意类型剧本文本（恐怖/动作打斗/剧情/悬疑等），可附加类型说明或特殊要求",
+  "outputContent": "完整专业分镜脚本Markdown表格，含12列专业参数，台词100%还原，AI生成提示词直接可用",
+  "coverUrl": null,
+  "resultType": 1,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=faf49057cc0e4de8b6c70741088e0b80",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/386f8fb8888144d08244bc98900261e5/1cef9aa17cd15b329b132b88f6a205f724780002.md"
+  ],
+  "hasPublicSkillContent": true
+}

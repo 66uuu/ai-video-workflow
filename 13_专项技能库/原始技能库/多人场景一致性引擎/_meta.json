@@ -1,0 +1,32 @@
+{
+  "name": "多人场景一致性引擎",
+  "templateUuid": "9ebb9da644d8457b85e0c88f0c89ad31",
+  "skillUuid": "82fd1a675dd54350beddcdc92cf3661f",
+  "skillKey": "multi-character-consistency-3f04004128804c279b27eb0ea6781ed1",
+  "version": "1.0.0",
+  "namespace": "libtv-user-generated",
+  "description": "多角色同框外貌锁定与跨镜头一致性追踪",
+  "author": "JokerLL",
+  "ownerId": 10925824,
+  "tags": [],
+  "likeCount": 26,
+  "usePv": 30,
+  "useUv": 21,
+  "publishAt": "2026-07-25 01:40:51",
+  "snapshotId": 30544,
+  "useScenario": "短剧/漫剧多角色对话、同一故事多镜头连续生成、多人互动商业广告、系列视频固定角色IP保持",
+  "inputType": "1.描述每个角色的基本设定 2.系统构建5维度角色档案卡 3.设计角色间视觉差异化矩阵 4.按标准结构生成同框提示词 5.跨镜头逐字复制档案只替换场景动作 6.一致性自检",
+  "outputContent": "角色档案卡(5维度)+差异化矩阵表+同框完整提示词+跨镜头序列方案+自检报告",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/3f04004128804c279b27eb0ea6781ed1/d1c258ff5616a261ed6cbae9f2815534128e46fa.jpg",
+  "resultType": 2,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=9ebb9da644d8457b85e0c88f0c89ad31",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/3f04004128804c279b27eb0ea6781ed1/445b1201f0d16ac1cb555b04ad1c5c8e17bb5dfd.jpg"
+  ],
+  "hasPublicSkillContent": true
+}

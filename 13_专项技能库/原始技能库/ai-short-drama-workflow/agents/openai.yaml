@@ -1,0 +1,7 @@
+interface:
+  display_name: "AI 短剧制作工作流"
+  short_description: "从创意或需求到分镜、提示词、剪辑和交付"
+  default_prompt: "使用 $ai-short-drama-workflow，把我的 AI 视频创意或制作需求整理成可执行方案，包括结构、视觉设定、分镜、图片提示词、视频提示词、排期和质检。"
+
+policy:
+  allow_implicit_invocation: true

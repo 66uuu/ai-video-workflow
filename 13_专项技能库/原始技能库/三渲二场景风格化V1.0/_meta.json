@@ -1,0 +1,37 @@
+{
+  "name": "三渲二场景风格化V1.0",
+  "templateUuid": "33258dd7756046e79bf6283347f1243e",
+  "skillUuid": "f13ff077ba644cb9af7aa3cea7ee6ba9",
+  "skillKey": "anime-scene-architect-69e2ed27e7054f62a10f6220448e83c5",
+  "version": "1.0.10",
+  "namespace": "libtv-user-generated",
+  "description": "二游级三渲二场景风格化",
+  "author": "文螺丝",
+  "ownerId": 2616675,
+  "tags": [],
+  "likeCount": 2,
+  "usePv": 32,
+  "useUv": 6,
+  "publishAt": "2026-08-15 03:37:06",
+  "snapshotId": 37139,
+  "useScenario": "1. 生成纯场景类图片或视频：空镜、环境氛围图、场景概念设计、壁纸、背景板\n2. 只有简单想法（如\"一条废弃街道\"），需要扩写成结构完整、氛围丰富的场景提示词\n3. 想要特定二游的场景感，输出自动转译为安全风格词\n4. 与\"视觉增强Skill\"组合：本Skill定场景内容，对方定渲染质感，叠加获得完整效果\n5. 制作游戏风格的地图氛围展示、场景PV空镜、环境叙事画面",
+  "inputType": "生成场景图片时启用，输入简单场景想法即可自动扩写空间层次、氛围与光色。可与视觉增强Skill叠加使用，原场景设定永远优先。",
+  "outputContent": "1. 扩写后的完整纯场景提示词（含前中远三景层次、视觉锚点、时段天气光色、氛围叙事细节；视频版含环境动态与运镜），不含任何游戏名称，默认无人空镜\n2. 一句话设计思路：识别的场景流派、时段天气方案与扩写要点\n3. 锁定项确认：列出原提示词中原样保留的场景要素\n4. 与视觉增强Skill叠用时自动避让渲染词，只输出场景内容层",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/69e2ed27e7054f62a10f6220448e83c5/19949d53099f9ea909efef481f2bd737b7062b9c.png",
+  "resultType": 2,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=33258dd7756046e79bf6283347f1243e",
+  "files": [
+    "SKILL.md",
+    "references/complex-routes.md",
+    "references/lighting-and-materials.md",
+    "references/quality-gates.md",
+    "references/scene-routes.md",
+    "references/validated-patterns.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/69e2ed27e7054f62a10f6220448e83c5/19949d53099f9ea909efef481f2bd737b7062b9c.png"
+  ],
+  "hasPublicSkillContent": true
+}

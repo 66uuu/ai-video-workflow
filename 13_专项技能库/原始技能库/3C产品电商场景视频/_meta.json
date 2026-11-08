@@ -1,0 +1,33 @@
+{
+  "name": "3C产品电商场景视频",
+  "templateUuid": "4a41145dffd147cd978e5f016bb35d54",
+  "skillUuid": "b362f4616178425a926fa2c9cbace6f4",
+  "skillKey": "3c-product-scene-designer-bd11c96a1bc04c3a95b350cab5154630",
+  "version": "1.0.5",
+  "namespace": "libtv-user-generated",
+  "description": "通过 AI 技术快速批量生成电商投放所需的使用场景视频",
+  "author": "晓朵她爹",
+  "ownerId": 190169,
+  "tags": [],
+  "likeCount": 1,
+  "usePv": 3,
+  "useUv": 2,
+  "publishAt": "2026-09-15 15:51:58",
+  "snapshotId": 46508,
+  "useScenario": "3C数码产品上新或活动推广时，需要快速批量生成电商投放图；不适合需要高度定制化手工修图的场景",
+  "inputType": "产品图片、产品名称/核心卖点、目标受众描述、场景图张数；可选：海报卖点文案",
+  "outputContent": "第一步：指定数量的产品使用场景合成图；第二步：带文案排版的场景卖点海报图",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/bd11c96a1bc04c3a95b350cab5154630/1143a7e302b00feb9cea47545326b44c724f7640.png",
+  "resultType": 2,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=4a41145dffd147cd978e5f016bb35d54",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/bd11c96a1bc04c3a95b350cab5154630/1143a7e302b00feb9cea47545326b44c724f7640.png",
+    "https://libtv-res.liblib.art/upload-images/bd11c96a1bc04c3a95b350cab5154630/87861bc284a97bcb71b4614ca70d3ffa91fce9e4.png"
+  ],
+  "hasPublicSkillContent": true
+}

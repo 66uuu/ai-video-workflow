@@ -1,0 +1,35 @@
+{
+  "name": "云上宫阙skill",
+  "templateUuid": "25508606f3824b3f859e8e0d29cd3c51",
+  "skillUuid": "64fac99807564a4b9cf11d32abf46483",
+  "skillKey": "celestial-palace-concept-97a545b6f83840be85cdd1c52ca00dd5",
+  "version": "1.0.2",
+  "namespace": "libtv-user-generated",
+  "description": "生成云上宫阙设定图及视频",
+  "author": "未来奇点",
+  "ownerId": 8017218,
+  "tags": [],
+  "likeCount": 15,
+  "usePv": 50,
+  "useUv": 15,
+  "publishAt": "2026-08-20 17:50:32",
+  "snapshotId": 39130,
+  "useScenario": "用于生成电影级东方神话天宫、中国古建筑巨构与云海仙境图片。适合云上宫阙、皇家天宫、江南仙阙、盛唐神殿、悬空宫殿等场景，可根据用户偏好自动组合建筑风格、构图、光影、云海、植物与动物元素。",
+  "inputType": "用户可直接描述想要的天宫画面，或由 Skill 分步引导选择建筑风格、镜头构图、主视觉、云海空间、电影光线、植物动物和人物等偏好。若用户没有明确想法，可选择“推荐方案”，由 Skill 自动完成搭配并生成图片，紧接着根据用户选择是否生成视频。",
+  "outputContent": "根据用户选择生成一张 16:9 电影级超写实东方天宫图片。画面强调中国古建筑、巨构尺度、无边云海、真实空间关系、电影自然光影与高级材质，并自动避免建筑过密、中央巨柱、油画水墨感、过曝和廉价仙侠风。",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/97a545b6f83840be85cdd1c52ca00dd5/4098b1a830ed9b41329c59d8e525b9389a4716a1.png",
+  "resultType": 2,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=25508606f3824b3f859e8e0d29cd3c51",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/97a545b6f83840be85cdd1c52ca00dd5/8071febd8abd91a889738cfbe7da308694b1e94c.png",
+    "https://libtv-res.liblib.art/upload-images/97a545b6f83840be85cdd1c52ca00dd5/678285bff6b09e05e85ade5da84d6e253731f61e.png",
+    "https://libtv-res.liblib.art/upload-images/97a545b6f83840be85cdd1c52ca00dd5/7e93cf0f6b1039a1def252298537730b0ab1e4bb.png",
+    "https://libtv-res.liblib.art/upload-images/97a545b6f83840be85cdd1c52ca00dd5/bb7f68fd04eaf35a1d6f8f9257214ec0fe7adf23.png"
+  ],
+  "hasPublicSkillContent": true
+}

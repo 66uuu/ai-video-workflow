@@ -1,0 +1,32 @@
+{
+  "name": "国风动画电影创作大师",
+  "templateUuid": "a120e3417d13481ba92ce9222f29d043",
+  "skillUuid": "0d6ec8d56a6f48cfa3f389a7b36d0989",
+  "skillKey": "chinese-animation-architect-1880886b42cc43ddb951847092928422",
+  "version": "1.0.0",
+  "namespace": "libtv-user-generated",
+  "description": "适用神话传说、历史故事、武侠仙侠、民间传说等国风动画制作",
+  "author": "TTyears万年",
+  "ownerId": 224634,
+  "tags": [],
+  "likeCount": 87,
+  "usePv": 67,
+  "useUv": 39,
+  "publishAt": "2026-08-31 13:57:06",
+  "snapshotId": 42249,
+  "useScenario": "适用于中国传统神话（山海经、封神、西游记）、历史典故（三国、唐宋名人）、民间传说（白蛇传、梁祝）、诗词意境（将古诗转化为画面叙事）、武侠仙侠、国风悬疑、非遗文化等微电影题材制作，高品质一键产出。视觉呈现具有国风美学。",
+  "inputType": "输入一个历史题材创意概要、剧本、简要故事梗慨。",
+  "outputContent": "输出脚本、角色/场景资产包、音乐/配音、分镜图、分镜视频、视频成片。可生成独立微电影。",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/1880886b42cc43ddb951847092928422/b1afa3c8886d39a9553bb92c06d154b185ef2884.png",
+  "resultType": 3,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=a120e3417d13481ba92ce9222f29d043",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/1880886b42cc43ddb951847092928422/3c17222c4ee2ff12daa8308ce357d40d29e921b8.mp4"
+  ],
+  "hasPublicSkillContent": true
+}

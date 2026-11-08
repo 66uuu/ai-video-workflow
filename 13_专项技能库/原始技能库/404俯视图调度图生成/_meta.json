@@ -1,0 +1,35 @@
+{
+  "name": "404俯视图调度图生成",
+  "templateUuid": "a7cf943e7fba4e91b86bfc70b101130a",
+  "skillUuid": "e7d994bb80a04817bc17b317d4fc2bf6",
+  "skillKey": "twelve-processor-4078a729478147e9a393ea6d06cb4598",
+  "version": "1.0.1",
+  "namespace": "libtv-user-generated",
+  "description": "把剧情、短剧脚本、动作场面、职场权力反转故事、追逐打斗、一镜",
+  "author": "404星球实验室",
+  "ownerId": 2983613,
+  "tags": [],
+  "likeCount": 23,
+  "usePv": 24,
+  "useUv": 15,
+  "publishAt": "2026-08-20 16:08:09",
+  "snapshotId": 39056,
+  "useScenario": "## 把剧情、短剧脚本、动作场面、职场权力反转故事、追逐打斗、一镜到底视频创意，分步转成 AI 视频制作所需的九宫格空场景提示词、第九格俯视图提取提示词，以及按每 15 秒一段拆分的人物站位、移动轨迹和镜头路线俯视调度图提示词。\"",
+  "inputType": "发送简单运动故事剧本",
+  "outputContent": "## 人物站位、移动轨迹和镜头路线俯视调度图提示词。\"",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/4078a729478147e9a393ea6d06cb4598/547354a11a3791f310fdc96d6e13c147b58b101d.png",
+  "resultType": 2,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=a7cf943e7fba4e91b86bfc70b101130a",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/4078a729478147e9a393ea6d06cb4598/ba0ddbeb80fcc8c5e0927754f743ff525b8059a5.jpg",
+    "https://libtv-res.liblib.art/upload-images/4078a729478147e9a393ea6d06cb4598/6ca808aaeb0a766f89753539ca54140bd84b0b41.png",
+    "https://libtv-res.liblib.art/upload-images/4078a729478147e9a393ea6d06cb4598/9044af34a849de0c503a9460f4f7260d8b8801d1.jpg",
+    "https://libtv-res.liblib.art/upload-images/4078a729478147e9a393ea6d06cb4598/c8b842c1e46d7444f01b5bb461d5341fdb6aa4b4.png"
+  ],
+  "hasPublicSkillContent": true
+}

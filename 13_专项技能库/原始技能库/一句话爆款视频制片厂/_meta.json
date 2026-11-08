@@ -1,0 +1,33 @@
+{
+  "name": "一句话爆款视频制片厂",
+  "templateUuid": "fe9d5b6b18054732ab6328758e5d9319",
+  "skillUuid": "1bbcbb3b59e14a31a0528a2443174246",
+  "skillKey": "douyin-drama-script-creator-6b89c9d97f9c442f8b990c673f7d42db",
+  "version": "1.0.1",
+  "namespace": "libtv-user-generated",
+  "description": "基于您的一句灵感，通过多轮提问引导，一键生成爆款视频",
+  "author": "小炫龙",
+  "ownerId": 8658731,
+  "tags": [],
+  "likeCount": 14,
+  "usePv": 2,
+  "useUv": 2,
+  "publishAt": "2026-07-22 22:52:56",
+  "snapshotId": 29929,
+  "useScenario": "为您的一个灵感或创意最终生成完整视频成片。",
+  "inputType": "用户通过多轮对话逐步提供选题方向、账号人设、目标时长、画面比例、分辨率等信息。将视频创作拆解为三个独立推进层级:\n- **需求层(第1阶段)**: 明确视频主题、目标观众、情感基调、时长范围、视觉风格 — 这是剧本的核心约束\n- **剧本层(第2-3阶段)**: 完整故事线 → 分场脚本 → 多轮优化 — 固化内容结构\n- **分镜层(第4-5阶段)**: 将确认剧本转化为可执行的视觉指令 —",
+  "outputContent": "完整分镜脚本 + 锚点清单 + 使用 Seedance 2.0 生成的视频成片（时长/比例/分辨率可自定义）。",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/6b89c9d97f9c442f8b990c673f7d42db/2d09272fa3d0ae85dd245eff9eace506ee23a2c8.png",
+  "resultType": 3,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=fe9d5b6b18054732ab6328758e5d9319",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/6b89c9d97f9c442f8b990c673f7d42db/261590dc12b406183cc9d2add5cfe2427ef82344.mp4",
+    "https://libtv-res.liblib.art/upload-images/6b89c9d97f9c442f8b990c673f7d42db/17e9d1f0b04e002674cdd69ee48c5f94fbcfe616.mp4"
+  ],
+  "hasPublicSkillContent": true
+}

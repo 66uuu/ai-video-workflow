@@ -1,0 +1,32 @@
+{
+  "name": "建筑图片转漫游动画",
+  "templateUuid": "4b2404773145456ba8c11809e6d3a9ae",
+  "skillUuid": "f5d3ebe30147416ab3b7dc19c81d79af",
+  "skillKey": "cinematic-arch-walkthrough-170c9c2ceba441599a085a565ba83325",
+  "version": "1.0.0",
+  "namespace": "libtv-user-generated",
+  "description": "上传一张建筑或空间图片，自动生成电影感建筑漫游动画",
+  "author": "SYN",
+  "ownerId": 1162004,
+  "tags": [],
+  "likeCount": 24,
+  "usePv": 29,
+  "useUv": 20,
+  "publishAt": "2026-07-15 08:58:46",
+  "snapshotId": 27173,
+  "useScenario": "适用于建筑设计师、景观设计师、室内设计师、地产营销、建筑摄影爱好者等，需要把静态建筑图快速转为动态漫游展示视频的场景。例如：方案汇报前生成立面动态展示、项目宣传短视频、社交媒体建筑内容、设计概念动态呈现等",
+  "inputType": "1. 确保本机已安装并登录 libtv CLI（v1.1.1）。\n2. 首次使用需创建/绑定 LibTV 工作区与画布。\n3. ",
+  "outputContent": "输出一段 16:9 横屏建筑漫游动画视频（默认 6 秒，720p），视频链接可直接播放或下载。同时提供 LibTV 画布网页链接，方便在浏览器里查看、调整或再次生成。",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/170c9c2ceba441599a085a565ba83325/07c12d5eb11f4533fecd8a3a13ae3d70397981a4.jpg",
+  "resultType": 2,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=4b2404773145456ba8c11809e6d3a9ae",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/170c9c2ceba441599a085a565ba83325/07c12d5eb11f4533fecd8a3a13ae3d70397981a4.jpg"
+  ],
+  "hasPublicSkillContent": true
+}

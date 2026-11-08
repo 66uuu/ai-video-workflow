@@ -1,0 +1,32 @@
+{
+  "name": "场景四视图架构师",
+  "templateUuid": "37a7929ce131454daa668f75ceb757d0",
+  "skillUuid": "3aeca6b3fef74077b3383fa7d921cad4",
+  "skillKey": "scene-quad-view-architect-4eecfb2924b1454ca7da6e56137969b9",
+  "version": "1.0.2",
+  "namespace": "libtv-user-generated",
+  "description": "上传图片或输入文字，直接生成一张含正面/俯视/左侧/右侧的1",
+  "author": "枕星河",
+  "ownerId": 8685082,
+  "tags": [],
+  "likeCount": 29,
+  "usePv": 81,
+  "useUv": 55,
+  "publishAt": "2026-08-21 16:12:39",
+  "snapshotId": 39403,
+  "useScenario": "概念设计师、3D 建模师、插画师等，需要将手头的参考图或文字灵感，快速转化为一张标准四视图设计图，直接用于建模参考、分镜或客户提案。特别适合需要快速出图、不希望手动拼图的场景。",
+  "inputType": "用户只需做以下任一操作：\n① 上传一张参考图（JPG/PNG），可选附加文字微调指令；\n② 直接输入场景文字描述（50-200 字，含风格、主体、环境）；\n③ 两者都提供（系统以图片为主，文字作为微调）。\n系统自动识别输入类型，直接生成一张 16:9 的四视图合成图，无需手动拼接。",
+  "outputContent": "一张 16:9 画幅的四宫格合成图（PNG），四个象限分别展示正面/俯视/左侧/右侧视角。若为文字模式，额外输出生成的源图。",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/4eecfb2924b1454ca7da6e56137969b9/d5b2b67113835fae1b73d5b91bc95ad1dd79b78e.png",
+  "resultType": 2,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=37a7929ce131454daa668f75ceb757d0",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/4eecfb2924b1454ca7da6e56137969b9/d5b2b67113835fae1b73d5b91bc95ad1dd79b78e.png"
+  ],
+  "hasPublicSkillContent": true
+}

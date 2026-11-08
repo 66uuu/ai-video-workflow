@@ -1,0 +1,35 @@
+{
+  "name": "电商主图的批量复刻",
+  "templateUuid": "2e1f466c7b164a0c9ba5f1f966cd25e9",
+  "skillUuid": "370720f4a354431593ad16721a0204be",
+  "skillKey": "ecom-image-batch-replicator-a0910971403d4abda357b70edc1277ec",
+  "version": "1.0.1",
+  "namespace": "libtv-user-generated",
+  "description": "用于洗护类目（洗发水、沐浴露、身体乳等）电商主图的批量复刻",
+  "author": "陌上花开",
+  "ownerId": 2968134,
+  "tags": [],
+  "likeCount": 35,
+  "usePv": 21,
+  "useUv": 18,
+  "publishAt": "2026-07-24 17:20:06",
+  "snapshotId": 30456,
+  "useScenario": "批量复刻主图的情况",
+  "inputType": "输入参考图和白底产品图",
+  "outputContent": "输出符合产品图的复刻主图",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/a0910971403d4abda357b70edc1277ec/7290888089f817a8ebdf53188aadce0827295251.png",
+  "resultType": 2,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=2e1f466c7b164a0c9ba5f1f966cd25e9",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/a0910971403d4abda357b70edc1277ec/4ef9934798844402a674b9a1acc48470c0fa4d55.png",
+    "https://libtv-res.liblib.art/upload-images/a0910971403d4abda357b70edc1277ec/95d2cae557a9e252ade095d01173007cd4e2d6ba.png",
+    "https://libtv-res.liblib.art/upload-images/a0910971403d4abda357b70edc1277ec/8bec61ff59bebafc2dcee18bf9fdb1e352d7f628.png",
+    "https://libtv-res.liblib.art/upload-images/a0910971403d4abda357b70edc1277ec/c6c4fd8df75e5cff28805f4f41a349b2ef2ba27d.png"
+  ],
+  "hasPublicSkillContent": true
+}

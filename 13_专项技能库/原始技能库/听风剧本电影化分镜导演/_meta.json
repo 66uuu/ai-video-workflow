@@ -1,0 +1,32 @@
+{
+  "name": "听风剧本电影化分镜导演",
+  "templateUuid": "edf9c1dd595340c3aaf848023e013f1a",
+  "skillUuid": "deb751a7b0dd43b68ff20aaed08a9c8f",
+  "skillKey": "cinematic-storyboard-director-bc95c28a318c475096e6fd2c3306f9d5",
+  "version": "1.0.1",
+  "namespace": "libtv-user-generated",
+  "description": "将小说/剧本片段转化为可直接用于AI视频生成的完整电影化分镜",
+  "author": "听风",
+  "ownerId": 104001,
+  "tags": [],
+  "likeCount": 275,
+  "usePv": 580,
+  "useUv": 297,
+  "publishAt": "2026-07-14 23:20:49",
+  "snapshotId": 27117,
+  "useScenario": "用户提供小说章节、剧本片段或故事文案，需要将其拆解为电影级分镜并批量生成AI视频节点，最终可合成完整成片。适用于小说影视化、剧本预可视化、分镜板制作等场景。",
+  "inputType": "小说/剧本文本片段（支持完整章节或段落），可附带角色参考图、场景参考图等锚点素材",
+  "outputContent": "1. 分段总表（段落编号/预计时长/核心戏剧动作/段尾钩子）\n2. 每段完整分镜详情（承接连续性/镜号/时间区间/景别/运镜/画面描述/台词/音效）\n3. 对应视频节点（prompt完整复刻分镜内容，一字不差）\n4. 分镜表文件（/story_boards/）与任务进度记录",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/bc95c28a318c475096e6fd2c3306f9d5/1a3b72f6b26fc7fba11c59941d166b38c5ac9113.png",
+  "resultType": 3,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=edf9c1dd595340c3aaf848023e013f1a",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/bc95c28a318c475096e6fd2c3306f9d5/d42a590e30711d20b97f04a79108f31a4ef8f924.mp4"
+  ],
+  "hasPublicSkillContent": true
+}

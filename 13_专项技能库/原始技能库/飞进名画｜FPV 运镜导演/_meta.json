@@ -1,0 +1,32 @@
+{
+  "name": "飞进名画｜FPV 运镜导演",
+  "templateUuid": "d22a9a6075014bde957f1506978464f1",
+  "skillUuid": "b7b2ad7649eb44a798a6ea833f8bce0d",
+  "skillKey": "fpv-painting-director-622b49a745b0421b950ec4a2db34f244",
+  "version": "1.0.3",
+  "namespace": "libtv-user-generated",
+  "description": "将二维名画、插画或照片重建成可穿行的三维空间，通过路线、距离",
+  "author": "杰瑞Chang",
+  "ownerId": 8353555,
+  "tags": [],
+  "likeCount": 38,
+  "usePv": 30,
+  "useUv": 23,
+  "publishAt": "2026-08-25 23:54:13",
+  "snapshotId": 40709,
+  "useScenario": "适用于让镜头沿自定义路线“飞进”名画、插画或照片，例如绕人物飞行、穿越桌面、爬升桥面、越过栏杆俯冲河面、贴地或贴水飞行。尤其适合解决二维推拉、终点忽远忽近、镜头高度错误、红线进入成片、俯冲变下坡、跳切和场景变形等问题。不适用于只需要普通推拉、缩放或无明确路线的简单图片动效。",
+  "inputType": "上传二维原图，并说明起点、终点、时长、画幅、主要动作，以及终点距离和镜头高度。若已有三维场景图或路线图，也可一并上传。用户手动画线并标记节点后，Skill 会补全各节点的位置、高度、距离、方向和可见检查点，生成完整视频提示词并验收结果。",
+  "outputContent": "默认输出一套可在 LibTV 中继续生成和修改的 FPV 工作流，包括：\n- 干净三维母图及其图片提示词\n- 必要时生成的俯视路线规划底图\n- 逐节点路径表\n- 可直接用于 Seedance 2.5「全能参考」的完整中文提示词\n- 默认 16:9、15 秒的 FPV 一镜到底视频节点\n- 逐节点验收结论\n- 失败时最需要修改的一个变量及重跑方案",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/622b49a745b0421b950ec4a2db34f244/67d4d6fa486ac73b254a8da1498185a0497f13de.png",
+  "resultType": 3,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=d22a9a6075014bde957f1506978464f1",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/622b49a745b0421b950ec4a2db34f244/b7cd7c3a6719f57769324d48a615454b8d189437.mp4"
+  ],
+  "hasPublicSkillContent": true
+}

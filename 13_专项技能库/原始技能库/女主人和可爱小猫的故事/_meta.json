@@ -1,0 +1,33 @@
+{
+  "name": "女主人和可爱小猫的故事",
+  "templateUuid": "c967619e37ab4adf99fec55dabe27b44",
+  "skillUuid": "3a6798ddcb8540b59e74c8a0f1c29662",
+  "skillKey": "mistress-cat-comedy-story-0ccf7a709f3a4ba9bb34f041512b14f9",
+  "version": "1.0.6",
+  "namespace": "libtv-user-generated",
+  "description": "邵氏喜剧-女主人和可爱小猫的故事",
+  "author": "jasper",
+  "ownerId": 10426075,
+  "tags": [],
+  "likeCount": 59,
+  "usePv": 31,
+  "useUv": 24,
+  "publishAt": "2026-07-15 17:51:47",
+  "snapshotId": 27409,
+  "useScenario": "创作邵氏风格喜剧短片，主角为小花猫和可爱俏皮女生",
+  "inputType": "给出创作要求后自动化执行",
+  "outputContent": "输出15秒+视频",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/0ccf7a709f3a4ba9bb34f041512b14f9/e10945082f100650b1a5a201330d7b1be8192c41.png",
+  "resultType": 3,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=c967619e37ab4adf99fec55dabe27b44",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/0ccf7a709f3a4ba9bb34f041512b14f9/c7dba2ca7d50fb22925545a7fdedfb94547cebef.mp4",
+    "https://www.liblib.tv/canvas/share?spaceId=2869910&projectId=c35e2ccadf434618b713e<手机号-已脱敏>"
+  ],
+  "hasPublicSkillContent": true
+}

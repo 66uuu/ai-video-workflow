@@ -1,0 +1,38 @@
+{
+  "name": "MJ专用东方美学电影场景",
+  "templateUuid": "166ad776fdf8433aa8618b75526fa8ac",
+  "skillUuid": "d4a6817b44fe451a9e207b123c9f590b",
+  "skillKey": "oriental-cinematic-aesthetic-b85befd035a84c7d99b6927cfa3fa3c5",
+  "version": "1.0.1",
+  "namespace": "libtv-user-generated",
+  "description": "东方美学电影场景",
+  "author": "星球的AI畅想",
+  "ownerId": 1619666,
+  "tags": [],
+  "likeCount": 53,
+  "usePv": 91,
+  "useUv": 58,
+  "publishAt": "2026-09-11 20:39:05",
+  "snapshotId": 45524,
+  "useScenario": "东方美学电影场景\n如果用MJ模型一定要给Agent+一句话：全部提示词需要在1000个字符数（计空格）以内。",
+  "inputType": "【主体人物】+【环境描述】+【光影特点】",
+  "outputContent": "MJ专用东方美学图片",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/b85befd035a84c7d99b6927cfa3fa3c5/a7fb970f81ec92f1a0834900e44ac2d88319f160.png",
+  "resultType": 2,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=166ad776fdf8433aa8618b75526fa8ac",
+  "files": [
+    "SKILL.md",
+    "anti-patterns.md",
+    "evaluation.md",
+    "scene-workflow.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/b85befd035a84c7d99b6927cfa3fa3c5/73ef1dab5b18b3827bdb8d612848e3e112323013.png",
+    "https://libtv-res.liblib.art/upload-images/b85befd035a84c7d99b6927cfa3fa3c5/39125f82e8bfa8d2231c831089ab09230ffe1011.png",
+    "https://libtv-res.liblib.art/upload-images/b85befd035a84c7d99b6927cfa3fa3c5/a7fb970f81ec92f1a0834900e44ac2d88319f160.png",
+    "https://libtv-res.liblib.art/upload-images/b85befd035a84c7d99b6927cfa3fa3c5/9a2f4b3e3613b31495cc274c53fbe0d0ed2f11f9.png"
+  ],
+  "hasPublicSkillContent": true
+}

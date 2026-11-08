@@ -1,0 +1,32 @@
+{
+  "name": "高能带货短剧",
+  "templateUuid": "c4521b3eb25d4f17ac68b87485bd0379",
+  "skillUuid": "840d138e9e0c4ec9ae400b5a244143ab",
+  "skillKey": "ecommerce-short-drama-generator-50a7a948314f8c9f8d161fe8cb8e2780",
+  "version": "1.0.2",
+  "namespace": "libtv-user-generated",
+  "description": "上传实拍商品图，即可生成30秒高能带货短剧。",
+  "author": "辉哥的AI世界",
+  "ownerId": 7392,
+  "tags": [],
+  "likeCount": 83,
+  "usePv": 50,
+  "useUv": 37,
+  "publishAt": "2026-07-14 09:50:53",
+  "snapshotId": 26761,
+  "useScenario": "带货视频、产品宣发。",
+  "inputType": "上传商品图，并提供商品信息、故事梗概。",
+  "outputContent": "角色多视图、产品多视图、场景图，短剧快节奏配乐，30秒完整成片。",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/50a7a948314f8c9f8d161fe8cb8e2780/7b4c2836ef6ed3f25e57f0054a11857ac8b171a6.png",
+  "resultType": 3,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=c4521b3eb25d4f17ac68b87485bd0379",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/50a7a948314f8c9f8d161fe8cb8e2780/156a3972dcf29ce6dee2c2e8bb3a2f91c6f19b3c.mp4"
+  ],
+  "hasPublicSkillContent": true
+}

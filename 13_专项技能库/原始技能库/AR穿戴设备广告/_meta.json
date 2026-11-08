@@ -1,0 +1,32 @@
+{
+  "name": "AR穿戴设备广告",
+  "templateUuid": "ff31e354f158449b975a7c23352d1d83",
+  "skillUuid": "199d6cca2eec43529ba9098ad2fcd1d6",
+  "skillKey": "fashion-eyewear-commercial-e5c05143074646b7ae70a88b81ec6c2a",
+  "version": "1.0.3",
+  "namespace": "libtv-user-generated",
+  "description": "生成竖屏9:16高级时尚眼镜广告片，极简白棚风格，模特T台",
+  "author": "星美Fine",
+  "ownerId": 773892,
+  "tags": [],
+  "likeCount": 3,
+  "usePv": 2,
+  "useUv": 2,
+  "publishAt": "2026-08-12 15:42:25",
+  "snapshotId": 36222,
+  "useScenario": "品牌穿戴设备/眼镜/3C/配饰服装/广告片制作，时尚科技大片风格视频生成，通用竖屏&横屏社媒广告内容创作",
+  "inputType": "上传白底产品图、模特形象描述或参考图、场景图，加入品牌文案/宣传语",
+  "outputContent": "基于产品图，人物素材，场景图，生成一支15秒横&竖屏时尚广告视频,包含模特走秀、产品特写和文字排版穿插效果。模特描述:\n亚洲女模,黑色直发,健康肤色,黑色紧身服装\n\n文案内容:\nVISION FUTURE / SS26 COLLECTION / THE FUTURE IS NOW\n\n视觉要求:\n极简白棚背景,品牌文案密集重复铺满画面作为动态背景,关键文案大字依次出现,文字覆盖画面30-60%",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/e5c05143074646b7ae70a88b81ec6c2a/4cab236796b40df4bb9b8eff14b9156f3f24925f.png",
+  "resultType": 3,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=ff31e354f158449b975a7c23352d1d83",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/e5c05143074646b7ae70a88b81ec6c2a/0511c7c243dc2acea21ecb58e0f1e92463b2997a.mp4"
+  ],
+  "hasPublicSkillContent": true
+}

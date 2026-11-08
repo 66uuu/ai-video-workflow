@@ -1,0 +1,38 @@
+{
+  "name": "8K影视级超写实渲染",
+  "templateUuid": "e9c6d4ccbfa34949850c8d2ae01e90ba",
+  "skillUuid": "40c566abdd674dbead8f719c88c3ada2",
+  "skillKey": "cinematic-8k-photorealistic-render-917859912abd4e82a7aeebf4bde91c58",
+  "version": "1.0.0",
+  "namespace": "libtv-user-generated",
+  "description": "专业生成8K物理光学超写实实景图像，1:1 还原真实材质",
+  "author": "基里安",
+  "ownerId": 10718059,
+  "tags": [],
+  "likeCount": 54,
+  "usePv": 87,
+  "useUv": 40,
+  "publishAt": "2026-07-15 00:51:23",
+  "snapshotId": 27146,
+  "useScenario": "适用于商业广告摄影、电商商品实拍图、真人写实写真、室内建筑效果图、城市风光大片、影视写实分镜、静物海报制作；面向美工、室内设计师、影视前期、电商运营、摄影创作者，无需实景场地与专业相机，快速产出可商用高清实景素材，可用于印刷海报、商品详情页、室内方案展示、短视频封面、影视概念参考图。",
+  "inputType": "输入画面主体核心描述即可生成；可补充环境、光影时段、相机焦段、构图、细分赛道（人像 / 产品 / 建筑 / 风光）；支持上传实景",
+  "outputContent": "主产物：8K 7680×4320 HDR 物理级超写实实景高清图，仿单反 RAW 原生成像质感，无过度滤镜失真；配套附属：本次渲染完整摄影参数说明文档（焦段、光圈、布光、材质设定）；按需可同步输出 4K 写实静态分镜素材。",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/917859912abd4e82a7aeebf4bde91c58/b3b6563ff45c99cb8072197bee92d7150dd209e6.png",
+  "resultType": 2,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=e9c6d4ccbfa34949850c8d2ae01e90ba",
+  "files": [
+    "SKILL.md",
+    "负面屏蔽词.md",
+    "摄影参数模板.md",
+    "细分场景规则.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/917859912abd4e82a7aeebf4bde91c58/081a04561eff8e617d196ad8b597351ec47ad632.png",
+    "https://libtv-res.liblib.art/upload-images/917859912abd4e82a7aeebf4bde91c58/913dd49106f87f4f08f283cfa4e24b42c152aa51.png",
+    "https://libtv-res.liblib.art/upload-images/917859912abd4e82a7aeebf4bde91c58/855cada862c890774ba788d36908cbf625d83c72.png",
+    "https://libtv-res.liblib.art/upload-images/917859912abd4e82a7aeebf4bde91c58/b3b6563ff45c99cb8072197bee92d7150dd209e6.png"
+  ],
+  "hasPublicSkillContent": true
+}

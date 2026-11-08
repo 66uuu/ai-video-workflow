@@ -1,0 +1,35 @@
+{
+  "name": "东方异境视觉",
+  "templateUuid": "fc0fb53f1d5b40a885fbb6b68bb86bb1",
+  "skillUuid": "e5a0a3b4a98840258c8e8b158a035d7c",
+  "skillKey": "oriental-mythic-landscapes-3d776a2ef18c4c1287eacdf8dc9ad747",
+  "version": "1.0.1",
+  "namespace": "libtv-user-generated",
+  "description": "把中国传统纹样变成山河、云海与天地异象，一句话生成电影级东方",
+  "author": "超然物外",
+  "ownerId": 2913877,
+  "tags": [],
+  "likeCount": 12,
+  "usePv": 16,
+  "useUv": 10,
+  "publishAt": "2026-08-21 15:51:01",
+  "snapshotId": 39397,
+  "useScenario": "适合东方美学、传统文化、中国神话、山海经、历史朝代、传统纹样、古风人物等视觉创作。\n可用于 AI 生图主视觉、东方神话概念图、传统文化短片前期视觉、古风 MV、品牌视觉、海报、视频首尾帧、系列组图等。\nSkill 会根据命题自动匹配上古、秦汉、隋唐、宋元、明清等文化语汇，并从云纹、水纹、火焰纹、宝相花、莲花纹、缠枝纹、神兽纹、几何纹等传统纹样中选择合适的视觉基因。纹样不会简单贴在服装或背景上，",
+  "inputType": "直接输入一个简单命题即可，无需自己编写专业提示词。\n\n例如输入：\n「桂花」\n「宝相花」\n「玄武、仙宫、北海」\n「九尾狐、山海经、仙宫」\n「宋代、纹样、美女、特写、中国面容」\n「女娲、补天、仙宫」\n\nSkill 会自动完成东方母题提取、时代匹配、传统纹样选择、纹样显化、超现实异变、人物关系、构图、材质、色彩与光线设计。\n\n默认提供 A / B / C 三个视觉方向，并直接执行最推荐的 A 方案；当",
+  "outputContent": "输出一套可直接执行的东方异境视觉方案，包括：A / B / C 创意方向、推荐方案、视觉核心、文化与传统纹样逻辑、完整画面设计、MJ 8.2 中文精简提示词、MJ 8.2 English Prompt 主执行版、模型参数与针对当前画面的负面约束。\n\n输出自动继承统一 Style Lock：真实电影人物 × 绘画化东方异境，大块绘画形体、厚重黏稠空气、湿润矿物与半液态材质、古金神性光、柔化边缘、古典",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/3d776a2ef18c4c1287eacdf8dc9ad747/f8920008eff8c0713cadeab01755c9763db61376.png",
+  "resultType": 2,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=fc0fb53f1d5b40a885fbb6b68bb86bb1",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/3d776a2ef18c4c1287eacdf8dc9ad747/01f4504e3fc512191914bc0a317cf44cb5c45556.png",
+    "https://libtv-res.liblib.art/upload-images/3d776a2ef18c4c1287eacdf8dc9ad747/15af9198f39c3b880998e0451972ac9e9547392f.png",
+    "https://libtv-res.liblib.art/upload-images/3d776a2ef18c4c1287eacdf8dc9ad747/71968e51fe5f0a21cd5e1453445177f73ce69509.png",
+    "https://libtv-res.liblib.art/upload-images/3d776a2ef18c4c1287eacdf8dc9ad747/a5ade88e6eeb1f7c38e9dfbd2fdcc82c87785ebe.png"
+  ],
+  "hasPublicSkillContent": true
+}

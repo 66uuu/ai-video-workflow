@@ -1,0 +1,32 @@
+{
+  "name": "视觉官网ui动效",
+  "templateUuid": "ffac0170924a4cba8629666aee89e61d",
+  "skillUuid": "d04bf863cfc14959bb0ca234b3017d6c",
+  "skillKey": "website-scroll-unfold-e5c05143074646b7ae70a88b81ec6c2a",
+  "version": "1.0.1",
+  "namespace": "libtv-user-generated",
+  "description": "输入一张产品官网截图或产品图，自动生成5秒以上品牌官网动态视",
+  "author": "星美Fine",
+  "ownerId": 773892,
+  "tags": [],
+  "likeCount": 15,
+  "usePv": 17,
+  "useUv": 9,
+  "publishAt": "2026-08-03 23:27:14",
+  "snapshotId": 33045,
+  "useScenario": "品牌官网产品展示视频、电商产品动态海报、社媒广告素材、产品发布会动态物料",
+  "inputType": "上传网页ui图片生成视频",
+  "outputContent": "以第一帧起始构图,生成4秒动态展示视频。动画时间轴:顶部导航文字0.0s从上方滑入,中部主标题0.1s延迟从上方滑入",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/e5c05143074646b7ae70a88b81ec6c2a/ba797996b8a2351dba86f48c22ae0ea863811439.jpg",
+  "resultType": 3,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=ffac0170924a4cba8629666aee89e61d",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/e5c05143074646b7ae70a88b81ec6c2a/3460667ceaffb8a7ce6f357fc23e58f0b5ca53e7.mp4"
+  ],
+  "hasPublicSkillContent": true
+}

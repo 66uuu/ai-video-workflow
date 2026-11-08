@@ -1,0 +1,32 @@
+{
+  "name": "商品制造讲解视频生成器",
+  "templateUuid": "ec27095b4c144af5a8a3c846ad2fe5df",
+  "skillUuid": "6a70b9d993b143b097adbe61dcfa0bb3",
+  "skillKey": "product-manufacturing-explainer-10f43772ef194fbda818c96f85af92b8",
+  "version": "1.0.1",
+  "namespace": "libtv-user-generated",
+  "description": "商品制造讲解视频生成器",
+  "author": "bkz不可知",
+  "ownerId": 60705,
+  "tags": [],
+  "likeCount": null,
+  "usePv": 1,
+  "useUv": 1,
+  "publishAt": "2026-08-23 19:02:17",
+  "snapshotId": 39951,
+  "useScenario": "说出任意商品，自动生成\"它是怎么被造出来的\"30 秒/60 秒视频全案——口播稿、分镜、AI 提示词一步到位。",
+  "inputType": "科普短视频：抖音 / 视频号 / B站\"XX 是怎么造的\"爆款选题，批量出稿\n电商种草：商品详情页视频、卖点可视化，提升转化\n品牌宣传：用工艺故事包装产品，增强信任感\n企业介绍：工厂 / 制造能力数字化呈现\n教育内容：制造业科普、职业启蒙类内容",
+  "outputContent": "输入任意商品，即可获得一套可直接投产的\"商品制造\"短视频方案：30 秒 / 60 秒双版本，含口播稿、分镜表、AI 生成提示词与事实核查清单。",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/10f43772ef194fbda818c96f85af92b8/696e2635f4c99e7a7d2b2785fd51c28c908559d9.png",
+  "resultType": 3,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=ec27095b4c144af5a8a3c846ad2fe5df",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/10f43772ef194fbda818c96f85af92b8/b9346b8a889758f199459caa1f61e4098d735cce.mp4"
+  ],
+  "hasPublicSkillContent": true
+}

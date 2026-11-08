@@ -1,0 +1,39 @@
+{
+  "name": "真实质感角色生成SKIL",
+  "templateUuid": "69ece673182e4b6eb87e68c144329597",
+  "skillUuid": "6c4a1bf20de5484bb1b477bd717ddd82",
+  "skillKey": "realistic-textured-character-three-view-9f8ed6ffb60e4997b1c419b62349c607",
+  "version": "1.0.1",
+  "namespace": "libtv-user-generated",
+  "description": "为每个角色生成真实肌理感的三视图角色设计图",
+  "author": "Nononon",
+  "ownerId": 9253906,
+  "tags": [],
+  "likeCount": 62,
+  "usePv": 67,
+  "useUv": 50,
+  "publishAt": "2026-07-25 20:57:58",
+  "snapshotId": 30709,
+  "useScenario": "去除AI塑料感，让生成角色具备现实肌理质感",
+  "inputType": ">输入剧本 → 自动提取角色 → 为每个角色生成真实肌理感的六视图角色设计提示词（全身三视图 + 大头三视图）",
+  "outputContent": "完",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/9f8ed6ffb60e4997b1c419b62349c607/525a8a7896d56ba3d4b1ced46df0903dac0f65d2.png",
+  "resultType": 2,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=69ece673182e4b6eb87e68c144329597",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/9f8ed6ffb60e4997b1c419b62349c607/d6a807c8c2d3bb6c95a078763d8b6c4120d759f7.png",
+    "https://www.liblib.tv/canvas/chat-share?shareId=8D6azMARKd",
+    "https://libtv-res.liblib.art/upload-images/9f8ed6ffb60e4997b1c419b62349c607/20d9c86d4ba6ce1eebe92041d34e42bb2e0598de.png",
+    "https://www.liblib.tv/canvas/chat-share?shareId=8D6azMARKd",
+    "https://libtv-res.liblib.art/upload-images/9f8ed6ffb60e4997b1c419b62349c607/6d4ffe7d6c447ad48e2f732400099e1128d23b24.png",
+    "https://www.liblib.tv/canvas/chat-share?shareId=5lJUc4Tlpv",
+    "https://libtv-res.liblib.art/upload-images/9f8ed6ffb60e4997b1c419b62349c607/ef63da5199027aa6cad4ad059c57b6ed109808b1.png",
+    "https://www.liblib.tv/canvas/chat-share?shareId=5lJUc4Tlpv"
+  ],
+  "hasPublicSkillContent": true
+}

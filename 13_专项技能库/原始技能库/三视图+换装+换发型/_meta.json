@@ -1,0 +1,32 @@
+{
+  "name": "三视图+换装+换发型",
+  "templateUuid": "7efd8f0969b04bf391dc3589f8aebdc9",
+  "skillUuid": "214277909d904194bdf01e7b664a2644",
+  "skillKey": "three-view-outfit-swapper-d0ba79af1a52449dbb44497c9ce5c92a-21427790",
+  "version": "1.0.1",
+  "namespace": "libtv-user-generated",
+  "description": "输入衣服参考图、人物参考图（写实风格）和可选发型参考图，自动",
+  "author": "微信用户836c5f",
+  "ownerId": 7482838,
+  "tags": [],
+  "likeCount": 34,
+  "usePv": 67,
+  "useUv": 47,
+  "publishAt": "2026-08-18 14:16:33",
+  "snapshotId": 38080,
+  "useScenario": "服装设计展示、角色换装、发型换装组合预览、电商试衣效果展示。",
+  "inputType": "image",
+  "outputContent": "1张4:3横版图片，四格并排：正面全身 / 侧面全身 / 背面全身 / 头部特写，发型、服装、人物三者融合一致。",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/d0ba79af1a52449dbb44497c9ce5c92a/4497838966d205cd1c9fd6058e810c17b44dcc0b.png",
+  "resultType": 2,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=7efd8f0969b04bf391dc3589f8aebdc9",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/d0ba79af1a52449dbb44497c9ce5c92a/4497838966d205cd1c9fd6058e810c17b44dcc0b.png"
+  ],
+  "hasPublicSkillContent": true
+}

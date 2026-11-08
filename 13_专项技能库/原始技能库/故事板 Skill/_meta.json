@@ -1,0 +1,35 @@
+{
+  "name": "故事板 Skill",
+  "templateUuid": "560b043ea407476c870e64fdf2b0a0a7",
+  "skillUuid": "ec1913b9a1a245b5974f8eb91892739a",
+  "skillKey": "storyboard-generator-11b8ad4cf03949708292460ef28a987c",
+  "version": "1.0.12",
+  "namespace": "libtv-user-generated",
+  "description": "剧本一键生成故事板全流程",
+  "author": "灿烂的阳光",
+  "ownerId": 7202221,
+  "tags": [],
+  "likeCount": 9,
+  "usePv": 44,
+  "useUv": 15,
+  "publishAt": "2026-09-01 16:21:17",
+  "snapshotId": 42621,
+  "useScenario": "需要将剧本/故事内容拆解为多条视频故事板，并保持全剧本人物与色彩调性一致时使用",
+  "inputType": "剧本文档 / 故事 / 要求 / 一句话（任意形式均可）",
+  "outputContent": "锚点清单 + 每条视频的建议时长、故事板图、视频提示词",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/11b8ad4cf03949708292460ef28a987c/03f9035995de630123b8283caa0dc1921e16897f.png",
+  "resultType": 2,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=560b043ea407476c870e64fdf2b0a0a7",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/11b8ad4cf03949708292460ef28a987c/afb9c9b1f68637c4acbf5b7a50018f30b27c5c8c.png",
+    "https://libtv-res.liblib.art/upload-images/11b8ad4cf03949708292460ef28a987c/df976a527032e5a8086fcf605ffdbb6900c6f91c.png",
+    "https://libtv-res.liblib.art/upload-images/11b8ad4cf03949708292460ef28a987c/6160f88487176471991bded6890be305813774d7.png",
+    "https://libtv-res.liblib.art/upload-images/11b8ad4cf03949708292460ef28a987c/3f6b0bfde5d6d4f90cbe3fe6411281b5a0aaf56e.png"
+  ],
+  "hasPublicSkillContent": true
+}

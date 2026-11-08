@@ -1,0 +1,32 @@
+{
+  "name": "人物出场skill",
+  "templateUuid": "d80bf568fbad4c3799b08270d9fa31ec",
+  "skillUuid": "18fa53e5c9d24032b032f68da6150764",
+  "skillKey": "character-debut-prompt-e0810ab1b5cb45f484847236d4606804",
+  "version": "1.0.6",
+  "namespace": "libtv-user-generated",
+  "description": "将角色首次亮相、登场、揭示或人物预告，转换为的 AI提示词",
+  "author": "宫尝君",
+  "ownerId": 252043,
+  "tags": [],
+  "likeCount": 55,
+  "usePv": 46,
+  "useUv": 29,
+  "publishAt": "2026-07-28 13:16:28",
+  "snapshotId": 31340,
+  "useScenario": "用于角色的首次登场、人物预告、角色PV、Hero Shot、身份揭示或短视频开场。适合将角色设定、参考图或一句出场想法，快速转成有明确镜头、可见表演、台词和音效的短视频提示词；不用于完整剧情、连续战斗或终极招式展示。",
+  "inputType": "提供角色设定、出场场景或一句出场想法；可补充参考图/首帧、总时长、角色数量、画风、动作、道具、台词和音效。示例：\"一位雨夜巡逻的机械警探首次登场，10秒，写实电影感，无台词。\" 多角色时请提供整支视频总时长。",
+  "outputContent": "一份可直接用于 AI 视频生成的多镜头中文提示词，包含人物、场景、逐镜头画面与动作、可选台词、音效、片段衔接方式和执行要求。默认无字幕、无BGM、无水印，强调角色在短时间内建立身份、气质和记忆点。",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/e0810ab1b5cb45f484847236d4606804/88484e25fef2683ba2dcb0c510112a4cba408335.png",
+  "resultType": 3,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=d80bf568fbad4c3799b08270d9fa31ec",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/e0810ab1b5cb45f484847236d4606804/db130029d48335b42786faf2627a1a817d275a29.mp4"
+  ],
+  "hasPublicSkillContent": true
+}

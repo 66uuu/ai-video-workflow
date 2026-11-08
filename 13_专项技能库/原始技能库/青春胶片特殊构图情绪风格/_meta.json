@@ -1,0 +1,33 @@
+{
+  "name": "青春胶片特殊构图情绪风格",
+  "templateUuid": "a18ca9ba601741df8c33b592256389a6",
+  "skillUuid": "18525286e86e49d6aedb29634f0e5006",
+  "skillKey": "style-anchor-composition-f574471b318b491695503813e0f553cf",
+  "version": "1.0.1",
+  "namespace": "libtv-user-generated",
+  "description": "青春胶片特殊构图情绪风格skill",
+  "author": "迈克的AiGC世界",
+  "ownerId": 381175,
+  "tags": [],
+  "likeCount": 8,
+  "usePv": 7,
+  "useUv": 7,
+  "publishAt": "2026-07-29 11:32:31",
+  "snapshotId": 31643,
+  "useScenario": "适用于制作情绪向/氛围向短片（如青春恋爱、纪实感小片等）：1)用户看中画布上若干张图片的风格，要求保存复用；2)基于该风格创作人物/剧情短片，需要人物形象先行确认再拍摄；3)成片混剪后想追加更多有创意的特殊镜头构图，要求先看图片效果再决定是否生成视频，避免直接出视频造成浪费。",
+  "inputType": "输入简单剧情即可，后面风格构图交给此skill",
+  "outputContent": "1. 先生成人物形象锚点图供确认\n2. 分批创作分镜(先常规构图打底,再补充特殊构图)\n3. 所有特殊构图先出图确认再转视频\n4. 无对白,只有环境音效",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/f574471b318b491695503813e0f553cf/1a9cfd5d5ca25012e9076fdd7da6b3846abd9db1.png",
+  "resultType": 3,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=a18ca9ba601741df8c33b592256389a6",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/f574471b318b491695503813e0f553cf/85f689560e45eadb70643fba6ff2f6f4d75ddea0.mp4",
+    "https://www.liblib.tv/canvas/chat-share?shareId=BW44mpbrra"
+  ],
+  "hasPublicSkillContent": true
+}

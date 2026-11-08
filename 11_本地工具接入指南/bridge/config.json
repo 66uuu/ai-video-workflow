@@ -1,0 +1,52 @@
+{
+  "_说明": "本地工具接入配置。换电脑只改这一个文件，其它代码一行都不用动。值为 \"auto\" 表示自动探测。",
+  "_字段": {
+    "comfy.host": "ComfyUI 服务地址。默认 127.0.0.1:8188",
+    "comfy.root": "ComfyUI 安装目录。auto = 自动探测（从本文件位置向上找 / 常见路径）",
+    "comfy.python": "跑 ComfyUI 的 python 解释器。auto = 优先用 <root>/venv/Scripts/python.exe",
+    "comfy.startup": "启动脚本。auto = 找 <root>/启动.bat 或 <root>/run_nvidia_gpu.bat",
+    "comfy.input_subdir": "上传首帧图时用的 input 子目录名（英文，勿改中文）",
+    "comfy.timeout_wait": "单任务最长等待秒数。121 帧 I2V 约 572 秒，留足余量",
+    "ffmpeg": "ffmpeg 可执行文件。auto = 依次找 <root>/ffmpeg.exe、PATH、常见安装位置",
+    "output_dir": "所有生成物的落地目录。已固定为 D 盘成果区，不再用 auto 落回仓库（落盘铁律）"
+  },
+
+  "comfy": {
+    "host": "http://127.0.0.1:8188",
+    "root": "<D盘>\\ComfyUI",
+    "python": "auto",
+    "startup": "auto",
+    "input_subdir": "NR_I2V",
+    "timeout_connect": 10,
+    "timeout_submit": 60,
+    "timeout_wait": 1800,
+    "poll_interval": 3
+  },
+
+  "ffmpeg": "auto",
+  "output_dir": "<D盘>\\UserFiles\\Desktop\\AI产物\\_默认输出",
+
+  "models": {
+    "_说明": "自检时按这些文件名检查存在性。换模型只改这里。",
+    "checkpoint_sd15": "majicmixRealistic_v7.safetensors",
+    "clip_vision": "CLIP-ViT-H-14-laion2B-s32B-b79K.safetensors",
+    "ipadapter": "ip-adapter-plus_sd15.safetensors",
+    "ipadapter_face": "ip-adapter-plus-face_sd15.safetensors",
+    "wan_unet": "Wan2.2-TI2V-5B-Q5_K_M.gguf",
+    "wan_clip": "umt5-xxl-encoder-Q4_K_M.gguf",
+    "wan_vae": "wan2.2_vae.safetensors"
+  },
+
+  "required_nodes": {
+    "_说明": "自检时检查这些节点类是否存在。缺了就说明插件没装好。",
+    "生图基础": ["CheckpointLoaderSimple", "CLIPTextEncode", "EmptyLatentImage", "KSampler", "VAEDecode", "SaveImage"],
+    "参考图保脸": ["IPAdapterModelLoader", "CLIPVisionLoader", "IPAdapterAdvanced"],
+    "视频基础": ["Wan22ImageToVideoLatent", "CreateVideo", "SaveVideo"],
+    "GGUF加载": ["UnetLoaderGGUF", "CLIPLoaderGGUF"],
+    "自研节点": []
+  },
+  "optional_nodes": {
+    "自研节点": ["NR_KenBurns", "NR_Still", "NR_ShotInfo", "NR_SaveMP4"],
+    "放大与补帧": ["ImageUpscaleWithModel", "RIFE VFI"]
+  }
+}

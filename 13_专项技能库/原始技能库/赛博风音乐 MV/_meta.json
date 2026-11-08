@@ -1,0 +1,32 @@
+{
+  "name": "赛博风音乐 MV",
+  "templateUuid": "c1325e4d750446ea86d288eefff435f7",
+  "skillUuid": "a2d3c0172e634a68a6ee1dc81e8cd586",
+  "skillKey": "cyberpunk-mv-planner-3c3fe71870fc4abca9d3fa62853f0300",
+  "version": "1.0.1",
+  "namespace": "libtv-user-generated",
+  "description": "生成赛博音乐MV脚本、分镜与工作流",
+  "author": "ZGchun",
+  "ownerId": 10656842,
+  "tags": [],
+  "likeCount": 12,
+  "usePv": 11,
+  "useUv": 9,
+  "publishAt": "2026-07-16 23:40:49",
+  "snapshotId": 27922,
+  "useScenario": "适合制作赛博朋克、霓虹夜景、未来城市、虚拟歌手、POP Rapper、电子音乐等风格的音乐 MV。用户可以输入一句创意，也可以上传音乐、人物图、参考视频，让 Skill 输出可放进 LibTV 画布执行的 MV 脚本、分镜、提示词、对口型、剪辑和字幕方案。",
+  "inputType": "输入一句你想做的 MV 创意，并尽量补充音乐风格、主角设定、场景风格、视频时长和是否需要对口型。\n\n示例：\n\n我要做一支 POP",
+  "outputContent": "输出一套可直接用于 LibTV 创作的赛博风音乐 MV 工作流方案，包括 MV 核心概念、主角统一设定、视觉关键词、逐镜头分镜、图片提示词、视频提示词、音乐卡点、对口型建议、剪辑节奏、字幕方案和故事板修改建议。",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/3c3fe71870fc4abca9d3fa62853f0300/bc035ee8db5d1283ebd10e5f8eff677382a12169.png",
+  "resultType": 3,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=c1325e4d750446ea86d288eefff435f7",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/3c3fe71870fc4abca9d3fa62853f0300/d45e60fcd8ea475c2698f80244af5512489417fd.mp4"
+  ],
+  "hasPublicSkillContent": true
+}

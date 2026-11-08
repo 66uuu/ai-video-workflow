@@ -1,0 +1,33 @@
+{
+  "name": "VI应用的提案mockup",
+  "templateUuid": "269b70692f03460b9a33285f44544e6d",
+  "skillUuid": "6c0f8356bdff43ff991afea395d1418a",
+  "skillKey": "vi-proposal-mockup-e20ffb9f022d4ac5bf7b5494a9c4fb38",
+  "version": "1.0.1",
+  "namespace": "libtv-user-generated",
+  "description": "一页纸平铺多个VI样机，国际提案风格",
+  "author": "JARVA_AI",
+  "ownerId": 275361,
+  "tags": [],
+  "likeCount": 2,
+  "usePv": 2,
+  "useUv": 2,
+  "publishAt": "2026-08-28 02:25:47",
+  "snapshotId": 41509,
+  "useScenario": "品牌方或设计师需要生成一张完整的 VI 提案展示图，用于向客户汇报或提案演示时使用",
+  "inputType": "上传 LOGO 图片（必填），可选补充品牌风格关键词和主色调偏好",
+  "outputContent": "一张国际化提案风格的 VI 应用全览图，平铺展示多个常见 VI 样机场景",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/e20ffb9f022d4ac5bf7b5494a9c4fb38/10faab537c5bb499f0aa67e65bf2990dbe873c1d.png",
+  "resultType": 2,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=269b70692f03460b9a33285f44544e6d",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/e20ffb9f022d4ac5bf7b5494a9c4fb38/f8a925be5dfa12290dfc052fd8234ff75d405338.png",
+    "https://libtv-res.liblib.art/upload-images/e20ffb9f022d4ac5bf7b5494a9c4fb38/cf4017bfde12925faf5729b22d07e64324922269.png"
+  ],
+  "hasPublicSkillContent": true
+}

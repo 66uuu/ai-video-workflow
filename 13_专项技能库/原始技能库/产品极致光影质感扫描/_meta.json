@@ -1,0 +1,33 @@
+{
+  "name": "产品极致光影质感扫描",
+  "templateUuid": "65b804bb8e5e4c65918ab5fb9d4e877f",
+  "skillUuid": "1decf6a13a764b6e95200ab593de8d17",
+  "skillKey": "product-lighting-texture-scanner-c18414452f144fb4b49219aa1dee2a30",
+  "version": "1.0.2",
+  "namespace": "libtv-user-generated",
+  "description": "产品光影质感的提升，多段式的产品全景和各种细节特写的光影质感",
+  "author": "青木家",
+  "ownerId": 3435944,
+  "tags": [],
+  "likeCount": 90,
+  "usePv": 62,
+  "useUv": 57,
+  "publishAt": "2026-07-14 13:38:09",
+  "snapshotId": 26844,
+  "useScenario": "用于关于产品细节光影扫描的视频skill",
+  "inputType": "上传产品图片，最好是三视图",
+  "outputContent": "12秒视频，超写实，4K，电影级布光，光线追踪，体积光，景深，整体优雅，效果强烈，产品的光影质感视频，从产品局部到产品特写的光影质感扫描",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/c18414452f144fb4b49219aa1dee2a30/c8f473d84d7519ea6e5031d83b078845a6e19503.jpg",
+  "resultType": 3,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=65b804bb8e5e4c65918ab5fb9d4e877f",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/c18414452f144fb4b49219aa1dee2a30/2e89f68fcabc5fb3c70fb3a00348d5b7ba93c7a2.mp4",
+    "https://libtv-res.liblib.art/upload-images/c18414452f144fb4b49219aa1dee2a30/f4abc335d0dd05fe93fe4bc7a1201c61c44e43e4.mp4"
+  ],
+  "hasPublicSkillContent": true
+}

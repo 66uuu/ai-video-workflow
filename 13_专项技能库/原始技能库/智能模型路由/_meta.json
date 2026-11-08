@@ -1,0 +1,32 @@
+{
+  "name": "智能模型路由",
+  "templateUuid": "8f1e7bf7e3d640378c671b85e3de3139",
+  "skillUuid": "758a9fd840734c0fa3656ddca3e48cae",
+  "skillKey": "smart-model-router-f1cd68423b354abba991fe16eb70fb0a",
+  "version": "1.0.1",
+  "namespace": "libtv-user-generated",
+  "description": "根据任务自动选最合适的模型执行",
+  "author": "Devilworld",
+  "ownerId": 610387,
+  "tags": [],
+  "likeCount": 2,
+  "usePv": 1,
+  "useUv": 1,
+  "publishAt": "2026-09-11 15:07:26",
+  "snapshotId": 45401,
+  "useScenario": "用户有任务需求但不想手动选择模型时；希望 Agent 自动匹配最合适的模型来完成任务时",
+  "inputType": "任意任务需求描述，例如：写一段文案、生成一张写实风格的图片、制作一段视频等",
+  "outputContent": "由 Agent 自动选定的最合适模型完成的任务结果，结果末尾注明使用了哪个模型",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/f1cd68423b354abba991fe16eb70fb0a/ebde45fb93dafffe1732135c7c228bea2f6d572c.png",
+  "resultType": 2,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=8f1e7bf7e3d640378c671b85e3de3139",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/f1cd68423b354abba991fe16eb70fb0a/ebde45fb93dafffe1732135c7c228bea2f6d572c.png"
+  ],
+  "hasPublicSkillContent": true
+}

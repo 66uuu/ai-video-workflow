@@ -1,0 +1,35 @@
+{
+  "name": "慕夏风格神明角色设计",
+  "templateUuid": "99a6b6f446e94d92bb0e690e179377be",
+  "skillUuid": "d61d51a68418488e890e0e874572797a",
+  "skillKey": "mucha-deity-character-designer-39e7cc4b1d6f4e40978f80efc4cc5b63",
+  "version": "1.0.2",
+  "namespace": "libtv-user-generated",
+  "description": "将角色身份设定（如星座、神格、职业原型等）转化为慕夏新艺术风",
+  "author": "S先生",
+  "ownerId": 10780281,
+  "tags": [],
+  "likeCount": 12,
+  "usePv": 5,
+  "useUv": 1,
+  "publishAt": "2026-08-04 16:49:04",
+  "snapshotId": 33277,
+  "useScenario": "- 系列角色设计前期（游戏角色图鉴、卡牌插画、IP角色集）\n- 需要视觉基调统一的多角色内容（十二星座/十二生肖/多神系设定等成组角色）\n- 社交媒体\"选择你的XX\"互动向短视频的前置角色素材准备",
+  "inputType": "你需要輸入你想設計的角色的設定：\n\n角色身份：\n[元素/職能/星座] → [抽象概念] → [性别] → [主色调]\n例如：\n- 白羊座 → 初始/破晓 → 男性 → 赤金色\n\n風格：\n- 人物本体 [寫實3D/手繪插畫/其他]\n- 背景裝飾 [慕夏風格/其他風格]\n- 构圖規剛 [人物居中/全身/半身/其他]\n\n輸出格式：\n- 比例 [16:9/4:3/其他]\n- 是否需要三視圖 [是/否]",
+  "outputContent": "- N张角色概念图，风格/构图/光影统一，人物写实3D+慕夏风格装饰背景\n- 每个角色主色调、法器、纹样与其身份寓意绑定，全系列无撞色\n- 可选的三视图细节参考图（用于复杂服饰角色）\n- 可选的多画幅封面变体（横版/竖版）",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/39e7cc4b1d6f4e40978f80efc4cc5b63/79d6ee352869f000f2700b2a5816489354cea851.png",
+  "resultType": 2,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=99a6b6f446e94d92bb0e690e179377be",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/39e7cc4b1d6f4e40978f80efc4cc5b63/79d6ee352869f000f2700b2a5816489354cea851.png",
+    "https://libtv-res.liblib.art/upload-images/39e7cc4b1d6f4e40978f80efc4cc5b63/a39147f44cc98fce2c4b107026d2cdf214ddf6f8.png",
+    "https://libtv-res.liblib.art/upload-images/39e7cc4b1d6f4e40978f80efc4cc5b63/e8fb4df05dd0246fb497b2a17618a87d09543303.png",
+    "https://libtv-res.liblib.art/upload-images/39e7cc4b1d6f4e40978f80efc4cc5b63/556ad89c8d1afc53a972b003a43d4e77614564c1.png"
+  ],
+  "hasPublicSkillContent": true
+}

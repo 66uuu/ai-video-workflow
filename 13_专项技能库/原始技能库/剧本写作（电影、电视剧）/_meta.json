@@ -1,0 +1,40 @@
+{
+  "name": "剧本写作（电影、电视剧）",
+  "templateUuid": "70fc39b9fab2474d9b2597fc91f1a10c",
+  "skillUuid": "f4640d13a9384e7c917b1233fdfe5fe6",
+  "skillKey": "screenplay-writer-50fa3f428acc428b9aa805484a9d76b6",
+  "version": "1.0.0",
+  "namespace": "libtv-user-generated",
+  "description": "专业电影剧本写作技能。",
+  "author": "陈钊v守望者",
+  "ownerId": 5511682,
+  "tags": [],
+  "likeCount": 64,
+  "usePv": 130,
+  "useUv": 71,
+  "publishAt": "2026-07-27 08:13:57",
+  "snapshotId": 30909,
+  "useScenario": "## 专业电影剧本写作技能。当用户需要创作、编写、修改电影剧本时触发此技能。 适用于以下场景：用户想要写一个完整的电影剧本；用户有故事创意需要发展成剧本； 用户需要完善剧本结构、人物、对话；用户需要诊断和修复剧本问题； 用户要求分析或拆解某部电影的剧本结构。此技能基于悉德·菲尔德三幕结构理论、 罗伯特·麦基故事设计原理、布莱克·斯奈德救猫咪方法论、瓦尔戈英雄之旅模型、 埃克斯100条常见错误清单等",
+  "inputType": "### 第一步：创意孵化\n### 第二步：人物创造\n### 第三步：结构设计\n### 第四步：分场大纲\n### 第五步：初稿写作\n### 第六步：自检与修改\n按照六步设计应用，skill会自我修正",
+  "outputContent": "完整的一篇电影剧本（非无脑向，需要有一定的设计能里，或者跟着skill互动来写作）",
+  "coverUrl": null,
+  "resultType": 1,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=70fc39b9fab2474d9b2597fc91f1a10c",
+  "files": [
+    "SKILL.md",
+    "references/01-三幕结构理论.md",
+    "references/02-故事设计原理.md",
+    "references/03-救猫咪方法论.md",
+    "references/04-中文剧本格式规范.md",
+    "references/04-问题诊断修复体系.md",
+    "references/05-英雄之旅模型.md",
+    "references/06-救猫咪体系深化补充.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/50fa3f428acc428b9aa805484a9d76b6/9b284d12cad9f907186e1c1fce3fe8ba7e0d95e7.md",
+    "https://libtv-res.liblib.art/upload-images/50fa3f428acc428b9aa805484a9d76b6/3c83977131db3d6028b734a97b1833b45ec8ca00.md"
+  ],
+  "hasPublicSkillContent": true
+}

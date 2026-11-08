@@ -1,0 +1,35 @@
+{
+  "name": "甜美古装少女群像氛围导演",
+  "templateUuid": "f6c831659eba406cab0b2753da0ded8e",
+  "skillUuid": "43266fe52aba462881465aa58f00e78e",
+  "skillKey": "sweet-ancient-costume-visual-director-f574471b318b491695503813e0f553cf",
+  "version": "1.0.0",
+  "namespace": "libtv-user-generated",
+  "description": "为清甜古装慢生活群像设计图片视觉方案，并根据确认成图生成5秒",
+  "author": "迈克的AiGC世界",
+  "ownerId": 381175,
+  "tags": [],
+  "likeCount": 5,
+  "usePv": 9,
+  "useUv": 9,
+  "publishAt": "2026-09-21 14:42:27",
+  "snapshotId": 48754,
+  "useScenario": "用于创作清甜明亮的中式古装慢生活群像，包括主题策划、镜头组合、********** V8.2图片提示词，以及根据确认后的成图生成对应的5秒Seedance 2.5视频提示词。适合古装少女结伴出游、树下闲谈、水乡乘船、溪边嬉水、庭院休憩、共读分享等场景；不适用于战斗、舞蹈、宫廷仪式、现代题材或强剧情短剧",
+  "inputType": "图片创作阶段，输入主题、季节、场景、人物数量或想要的氛围，Skill会提供多景别视觉方案及可直接用于********** V8.2的英文提示词。图片生成并筛选完成后，逐张上传并确认成图；Skill会引用当前图片，调用CVLM 5.5分析图中真实可见的人物、古装妆造、场景、道具、人物关系、光线和生活事件，再为每张图编写一条5秒Seedance 2.5视频提示词。可以补充对白、运镜或时长要求；未补充时",
+  "outputContent": "图片阶段输出中文场景标题、镜头与构图方案，以及1024字符以内的********** V8.2英文提示词，保持甜美古装少女、自然群像、明亮通透光线和同行抓拍感。视频阶段按每张确认图输出【参考调用】【Seedance 2.5视频提示词】【稳定性限制】三部分，包含三个连续动作节拍、人物先后反应、衣物与环境动态及一种克制的手持运镜。根据画面判断是否加入一句简短自然的中文对白，不适合时不硬加；不生成BGM",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/f574471b318b491695503813e0f553cf/acb4fbbf8da507eb8f6b6d3be3d2ccecbdeec454.png",
+  "resultType": 3,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=f6c831659eba406cab0b2753da0ded8e",
+  "files": [
+    "SKILL.md",
+    "references/cvlm55-video-system-prompt.md",
+    "references/image-workflow.md",
+    "references/visual-bible.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/f574471b318b491695503813e0f553cf/059c363bdec6e2ae84a9451c750d2a2fe8bdee02.mp4"
+  ],
+  "hasPublicSkillContent": true
+}

@@ -1,0 +1,33 @@
+{
+  "name": "红果爆款短剧封面生成",
+  "templateUuid": "4565677ea43445e5a6a4d4d587084edb",
+  "skillUuid": "9762f005da2347f98f42308ebb830472",
+  "skillKey": "viral-short-drama-cover-cf2530f2bf0f425590a22521ac0afb4d",
+  "version": "1.0.0",
+  "namespace": "libtv-user-generated",
+  "description": "自动分析短剧题材、爽点、生成适合红果 番茄的爆款短剧封面",
+  "author": "黎卡黎卡",
+  "ownerId": 8075849,
+  "tags": [],
+  "likeCount": 44,
+  "usePv": 67,
+  "useUv": 42,
+  "publishAt": "2026-07-23 23:32:03",
+  "snapshotId": 30215,
+  "useScenario": "据短剧剧名、故事简介、人物设定、角色图片、题材或重点剧情，自动分析短剧题材、爽点、点击点，并生成适合抖音、红果、番茄、TikTok、ReelShort、DramaBox、ShortMax 等平台的爆款短剧封面策略、电影瞬间封面 Prompt 和最终封面。",
+  "inputType": "必填输入：剧名；故事简介\n可选输入：\n- 人物设定\n- 角色图片\n- 世界观\n- 想强调的剧情\n- 指定题材，例如古风、现代、霸总、甜宠、悬疑、重生、宫斗\n- 上一张封面的风格，用于避免重复",
+  "outputContent": "生成短剧封面图片\n默认 3:4 竖版（可指定格式）\n默认真人电影感、短剧平台爆款封面风（可指定风格）",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/cf2530f2bf0f425590a22521ac0afb4d/4ab44ca4996bf2e194d8b9b83ae0f825613bfff3.png",
+  "resultType": 2,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=4565677ea43445e5a6a4d4d587084edb",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/cf2530f2bf0f425590a22521ac0afb4d/9935c16826689fca019314826c596f9dab9cc684.png",
+    "https://libtv-res.liblib.art/upload-images/cf2530f2bf0f425590a22521ac0afb4d/d048d6d9ff846eafc283c07e592fa73d07777d74.png"
+  ],
+  "hasPublicSkillContent": true
+}

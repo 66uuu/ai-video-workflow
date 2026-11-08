@@ -1,0 +1,32 @@
+{
+  "name": "导演风格",
+  "templateUuid": "688432191dc74d47b17d2d7f8d1013d9",
+  "skillUuid": "6dd5e054b6944059a487d73a462d006d",
+  "skillKey": "director-style-sync-3c6c325ea3954bab9367496b2db09444",
+  "version": "1.0.0",
+  "namespace": "libtv-user-generated",
+  "description": "输入导演名字即可同步出导演的风格",
+  "author": "132****7505",
+  "ownerId": 6290537,
+  "tags": [],
+  "likeCount": 10,
+  "usePv": 26,
+  "useUv": 1,
+  "publishAt": "2026-07-18 18:23:16",
+  "snapshotId": 28470,
+  "useScenario": "当用户需要生成某位导演的 AI 绘图风格提示词时使用。适用于 香蕉等文生图工具的创作场景，包括：影视爱好者想复刻某导演的画面质感、设计师需要参考特定导演的视觉语言做海报或分镜、AI 创作者想生成具有电影感的图像素材、自媒体作者做导演风格分析内容等。触发方式为用户输入\"生成 [导演名字] 风格\"或类似表达。",
+  "inputType": "用户只需输入导演名字即可，例如：\"生成 诺兰 风格\"或\"生成 王家卫 风格\"。Skill 会自动识别导演并基于其代表作品的视觉特",
+  "outputContent": "输出包含四个部分的结构化内容：1) 风格关键词总表（色彩/光影/质感/构图/氛围/标志性元素六个维度的中英对照关键词表格）；2) 纯风格提示词（可直接复制用于 AI 绘图的英文提示词，含 --ar 画幅比例和 --s 风格化数值参数）；3) 生图提示词范例（3 个不同通用场景的完整提示词示例，如室内人像、城市街景、自然空镜）；4) 自定义填空公式（供用户自行替换场景描述的组合模板）。",
+  "coverUrl": null,
+  "resultType": 1,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=688432191dc74d47b17d2d7f8d1013d9",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/3c6c325ea3954bab9367496b2db09444/c125d4e0bbce8cdf48e3bd3a782402c6d191fb87.md"
+  ],
+  "hasPublicSkillContent": true
+}

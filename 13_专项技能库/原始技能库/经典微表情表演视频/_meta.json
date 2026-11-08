@@ -1,0 +1,35 @@
+{
+  "name": "经典微表情表演视频",
+  "templateUuid": "85f9b5761bdd48aaa2e78d91078efc43",
+  "skillUuid": "21a3875168e749bb80f55106ff5220b5",
+  "skillKey": "micro-expression-animator-e5c05143074646b7ae70a88b81ec6c2a",
+  "version": "1.0.1",
+  "namespace": "libtv-user-generated",
+  "description": "角色图片+情绪→微表情视频",
+  "author": "星美Fine",
+  "ownerId": 773892,
+  "tags": [],
+  "likeCount": 5,
+  "usePv": 22,
+  "useUv": 6,
+  "publishAt": "2026-09-09 10:05:08",
+  "snapshotId": 44524,
+  "useScenario": "需要为角色生成克制、破防、心动、尬笑、含泪强撑等复杂情绪表演视频时使用",
+  "inputType": "角色图片 + 情绪描述（如\"爱而不得\"、\"心动瞬间\"、\"强颜欢笑\"等短语或台词）",
+  "outputContent": "一段 9:16 & 16:9 & 3:4竖版或者横版表演视频（不少于6秒），包含眼神、眉眼、口周、手部等微表情细节",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/e5c05143074646b7ae70a88b81ec6c2a/f9df7a51b1eb35628b55e2dbc2039a6eeaf2d8f9.png",
+  "resultType": 3,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=85f9b5761bdd48aaa2e78d91078efc43",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/e5c05143074646b7ae70a88b81ec6c2a/cbdbabc2634f719a15a38c2bfc20733fa75724fc.mp4",
+    "https://libtv-res.liblib.art/upload-images/e5c05143074646b7ae70a88b81ec6c2a/c29f32c4b7dd337322ed3b3c8ba8a479165422f5.mp4",
+    "https://libtv-res.liblib.art/upload-images/e5c05143074646b7ae70a88b81ec6c2a/2ab5914211a87b58507910e0bef19a7d4cd2544c.mp4",
+    "https://libtv-res.liblib.art/upload-images/e5c05143074646b7ae70a88b81ec6c2a/0073df12a631fd00090dc8c0d41e73c7f14ea79a.mp4"
+  ],
+  "hasPublicSkillContent": true
+}

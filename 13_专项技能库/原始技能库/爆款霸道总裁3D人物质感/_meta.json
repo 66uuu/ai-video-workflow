@@ -1,0 +1,32 @@
+{
+  "name": "爆款霸道总裁3D人物质感",
+  "templateUuid": "3f59e2570dee402d93ebf663f0abadbe",
+  "skillUuid": "576e94964a7745be88e80d0156eb5a7d",
+  "skillKey": "viral-ceo-drama-c18414452f144fb4b49219aa1dee2a30",
+  "version": "1.0.1",
+  "namespace": "libtv-user-generated",
+  "description": "生成爆款风格的都市霸道总裁剧",
+  "author": "青木家",
+  "ownerId": 3435944,
+  "tags": [],
+  "likeCount": 8,
+  "usePv": 15,
+  "useUv": 11,
+  "publishAt": "2026-07-21 11:43:33",
+  "snapshotId": 29464,
+  "useScenario": "内容创作者 营销/品牌方 教育/文化机构 个人爱好者",
+  "inputType": "直接输入剧本即可生成，也可上传人物设定故事或设定图来完善。",
+  "outputContent": "1分钟左右的生成爆款风格的都市霸道总裁剧完整视频",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/c18414452f144fb4b49219aa1dee2a30/39c6c2f78750b6409f095ec63650d93ab920a46e.png",
+  "resultType": 3,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=3f59e2570dee402d93ebf663f0abadbe",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/c18414452f144fb4b49219aa1dee2a30/a08dcdf62942d35544fbe94e7808fb854a8a1659.mp4"
+  ],
+  "hasPublicSkillContent": true
+}

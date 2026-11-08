@@ -1,0 +1,32 @@
+{
+  "name": "AI Beauty Mo",
+  "templateUuid": "1df0e7955eba465e8afb5858a3a8cd86",
+  "skillUuid": "a9ad4f6e4a1845678531c4934807a48f",
+  "skillKey": "k-beauty-commercial-model-3a14b9edf2db49b5ba1cc63d33d547fe",
+  "version": "1.0.1",
+  "namespace": "libtv-user-generated",
+  "description": "为美容饮品设计团队生成韩系一线美妆大牌级别的商业广告女性模特",
+  "author": "Yep组",
+  "ownerId": 6446325,
+  "tags": [],
+  "likeCount": 4,
+  "usePv": 6,
+  "useUv": 1,
+  "publishAt": "2026-08-12 14:38:55",
+  "snapshotId": 36202,
+  "useScenario": "美容饮品品牌广告视觉，产品主图、Banner、KV、电商详情页等商业场景，对标雪花秀、兰芝、爱茉莉太平洋等韩系一线美妆大牌广告视觉标准",
+  "inputType": "10项设计师参数：年龄段、年龄状态、气质、发型、妆容、服装、表情、动作、场景、构图留白",
+  "outputContent": "4:5竖版商业广告模特图片，韩系一线美妆大牌视觉标准，全新独立面孔，适合Photoshop排版",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/3a14b9edf2db49b5ba1cc63d33d547fe/22defe3216aeda25f7bb3de97160f2b4820fe00f.png",
+  "resultType": 2,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=1df0e7955eba465e8afb5858a3a8cd86",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/3a14b9edf2db49b5ba1cc63d33d547fe/22defe3216aeda25f7bb3de97160f2b4820fe00f.png"
+  ],
+  "hasPublicSkillContent": true
+}

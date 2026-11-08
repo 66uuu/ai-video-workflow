@@ -1,0 +1,32 @@
+{
+  "name": "治愈系音乐MV",
+  "templateUuid": "57ebadea5c374de6be462bd9f2a87069",
+  "skillUuid": "bd21a5166365498683157fee7f5d0a6b",
+  "skillKey": "healing-music-video-producer-1880886b42cc43ddb951847092928422",
+  "version": "1.0.0",
+  "namespace": "libtv-user-generated",
+  "description": "一键生成工业级音乐MV、男女idol、叙事型音乐短片",
+  "author": "TTyears万年",
+  "ownerId": 224634,
+  "tags": [],
+  "likeCount": 60,
+  "usePv": 58,
+  "useUv": 47,
+  "publishAt": "2026-08-31 13:55:55",
+  "snapshotId": 42247,
+  "useScenario": "音乐MV、故事短片配乐、自媒体、品牌公司品宣配乐、人物情绪配乐、治愈系内容配乐",
+  "inputType": "输入音频或一句歌词、音乐概要、简要故事梗概或任何治愈系主题素材。",
+  "outputContent": "输出完美卡点音频的专业MV视频文件，工业级画质内容输出，专业音频解析，完美的成片展示",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/1880886b42cc43ddb951847092928422/4eefa3c146d71ac170fa70322c3dfef728967330.jpg",
+  "resultType": 3,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=57ebadea5c374de6be462bd9f2a87069",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/1880886b42cc43ddb951847092928422/508fab63714d5dd7c225ae59a692d72c751aaf94.mp4"
+  ],
+  "hasPublicSkillContent": true
+}

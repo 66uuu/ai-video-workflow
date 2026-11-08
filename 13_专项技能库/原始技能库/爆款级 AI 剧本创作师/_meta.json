@@ -1,0 +1,32 @@
+{
+  "name": "爆款级 AI 剧本创作师",
+  "templateUuid": "ea758e93bbf3490c9de4e8bacd43db43",
+  "skillUuid": "6cae7206476e4626bfc7abf03d46135d",
+  "skillKey": "viral-script-architect-8202932176ac485b9572011074a9f39c",
+  "version": "1.0.2",
+  "namespace": "libtv-user-generated",
+  "description": "没灵感不会写？AI帮你从爆款创意到完整剧本",
+  "author": "LibTV",
+  "ownerId": 5924079,
+  "tags": [],
+  "likeCount": 70,
+  "usePv": 200,
+  "useUv": 113,
+  "publishAt": "2026-08-13 10:03:24",
+  "snapshotId": 36471,
+  "useScenario": "适合没有创作方向、想制作AI短剧、微电影、剧情视频、小说推文、广告故事的创作者。通过爆款趋势分析、创意开发、故事结构设计和专业剧本创作，帮助用户从“没有想法”开始，逐步打造具有吸引力和传播潜力的视频故事。",
+  "inputType": "无需提供完整剧本，只需选择感兴趣的题材方向，或让AI推荐创作方向。Skill会通过爆款趋势分析、逆向创意、高概念设计、故事结构规划、人物塑造和导演级审核，逐步生成完整剧本。完成后可继续使用《爆款级 AI 剧本改造师》优化，或进入《电影级 AI 分镜导演》制作视频。",
+  "outputContent": "输出爆款题材方向、创意方案、高概念设计、故事大纲、人物关系与弧光、情绪节奏规划、专业影视剧本以及质量审核报告。支持导演开发版、纯剧本版、视频制作版三种输出模式。完成创作后，可进入《爆款级 AI 剧本改造师》优化文本，或进入《电影级 AI 分镜导演》继续制作。",
+  "coverUrl": null,
+  "resultType": 1,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=ea758e93bbf3490c9de4e8bacd43db43",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/8202932176ac485b9572011074a9f39c/7e58aa5fdd380ff169f64832591065de3dabdf30.md"
+  ],
+  "hasPublicSkillContent": true
+}

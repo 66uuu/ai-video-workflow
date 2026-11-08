@@ -1,0 +1,32 @@
+{
+  "name": "文物社媒视频视频",
+  "templateUuid": "ee68383d5bfb487ca8626f966a9c57b3",
+  "skillUuid": "5e0e64af3f6b4d819a26027ec403de1a",
+  "skillKey": "artifact-video-orchestrator-6fe77fcad9614c799944a901d1cc568a",
+  "version": "1.0.3",
+  "namespace": "libtv-user-generated",
+  "description": "文物叙事视频全流程生成",
+  "author": "JACKPOORS",
+  "ownerId": 1010805,
+  "tags": [],
+  "likeCount": 6,
+  "usePv": 2,
+  "useUv": 2,
+  "publishAt": "2026-09-05 21:58:00",
+  "snapshotId": 43723,
+  "useScenario": "需要为文物/历史主题制作社媒介绍视频，要求多分镜叙事、旁白文案、AI生图提示词和配乐方案一体化输出时",
+  "inputType": "文物名称（必填）、文物参考图片（强烈建议）、视频时长（默认1分15秒）、画面比例（默认16:9横屏）",
+  "outputContent": "分镜脚本 → 三视图提示词 → 历史讲解文案 → 古典背景音乐提示词，逐步确认输出",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/6fe77fcad9614c799944a901d1cc568a/0c68cd12db8335090f3d1a0906d1e8141bef44a9.png",
+  "resultType": 3,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=ee68383d5bfb487ca8626f966a9c57b3",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/6fe77fcad9614c799944a901d1cc568a/bd9f6b58a638239e490c64c35844b14f0009b45b.mp4"
+  ],
+  "hasPublicSkillContent": true
+}

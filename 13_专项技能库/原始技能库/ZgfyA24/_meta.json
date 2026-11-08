@@ -1,0 +1,35 @@
+{
+  "name": "ZgfyA24",
+  "templateUuid": "ec09e45d72f74c2aac3c92863a7f93eb",
+  "skillUuid": "dcf4cc246902492badb9cb4e2ff02a08",
+  "skillKey": "a24-historical-storyboarder-9cbd5bd7fae443bba28c4f0180adb9db",
+  "version": "1.0.0",
+  "namespace": "libtv-user-generated",
+  "description": "将原始短剧或剧集剧本优化为分镜， A24风格，历史剧，横屏",
+  "author": "微信用户6738d3",
+  "ownerId": 10467941,
+  "tags": [],
+  "likeCount": 4,
+  "usePv": 2,
+  "useUv": 2,
+  "publishAt": "2026-07-25 18:56:55",
+  "snapshotId": 30681,
+  "useScenario": "剧本转 Seedance 分镜",
+  "inputType": "完整流程：原始剧本 → 优化剧本 → Seedance 分镜\n附上原始剧本，然后输入：\n使用 $script-to-seedance 处理这份原始剧本。\n\n依次完成：\n1. 优化剧本并生成镜头规划；\n2. 根据优化结果生成最终 Seedance 分镜；\n3. 将两个结果分别保存为 Markdown 文件。\n默认生成：\n01-优化后剧本-[集名].md\n02-Seedance最终分镜-[集名].md",
+  "outputContent": "- `01-优化后剧本-[集名].md`\n- `02-Seedance最终分镜-[集名].md`",
+  "coverUrl": null,
+  "resultType": 1,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=ec09e45d72f74c2aac3c92863a7f93eb",
+  "files": [
+    "SKILL.md",
+    "references/stage1-script-optimization.md",
+    "references/stage2-seedance-storyboard.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/9cbd5bd7fae443bba28c4f0180adb9db/c2ed1137c52df882b964f5625b3554e01f8c3b72.md",
+    "https://libtv-res.liblib.art/upload-images/9cbd5bd7fae443bba28c4f0180adb9db/3777ef4366ee360d373ee59642d033e89e2ddc26.md"
+  ],
+  "hasPublicSkillContent": true
+}

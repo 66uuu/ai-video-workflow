@@ -1,0 +1,33 @@
+{
+  "name": "赛博朋克风格导演",
+  "templateUuid": "a3445724109a4421bb638895cd7fc645",
+  "skillUuid": "2c32f4f24e154f638f6e36507efdf76b",
+  "skillKey": "cyberpunk-motion-comic-director-a18f080adfda4b008d2b388158077d1c",
+  "version": "1.0.3",
+  "namespace": "libtv-user-generated",
+  "description": "将任意剧本自动转化为赛博朋克风格的动态漫画短片",
+  "author": "烟墨鱼",
+  "ownerId": 2394275,
+  "tags": [],
+  "likeCount": 8,
+  "usePv": 14,
+  "useUv": 8,
+  "publishAt": "2026-08-20 10:40:00",
+  "snapshotId": 38919,
+  "useScenario": "适合自媒体创作者、短视频博主、独立动画人。当你想制作赛博朋克风格的叙事短片、动态漫画、概念预告片，但缺乏专业美术和运镜知识时使用。无论你是想讲一个黑客潜入的故事、霓虹街头的追逐、还是未来都市的日常，只需提供剧本素材，系统自动完成分镜设计、角色场景生成、对口型台词、音画混剪的全流程。",
+  "inputType": "输入你的剧本内容——可以是完整剧本、故事梗概、一段场景描述、甚至一句话概念（如\"一个赏金猎人在雨夜追捕叛逃AI\"）。选择自动模式",
+  "outputContent": "一部完整的赛博朋克风格动态漫短片，包含：全中文提示词生成的角色设定图、多场景图、道具图；逐镜头生成的视频片段（默认480p省流，可指定更高分辨率）；对口型台词驱动的角色表演；合成器浪潮BGM+场景环境音+音效的分轨混音；按叙事节奏剪辑的成片。总时长根据剧本自动适配，通常45-120秒。",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/a18f080adfda4b008d2b388158077d1c/9d69264ab4668f4ed721b0546dc1a24044e5f3fc.png",
+  "resultType": 3,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=a3445724109a4421bb638895cd7fc645",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/a18f080adfda4b008d2b388158077d1c/4c22b966c33a146649a80a676fe1a6a2f448de8d.mp4",
+    "https://libtv-res.liblib.art/upload-images/a18f080adfda4b008d2b388158077d1c/2a3d4c9570ec9605bd1db03505a1186023c5a0fd.mp4"
+  ],
+  "hasPublicSkillContent": true
+}

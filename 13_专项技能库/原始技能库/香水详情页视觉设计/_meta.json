@@ -1,0 +1,34 @@
+{
+  "name": "香水详情页视觉设计",
+  "templateUuid": "b0f758e70c3f4fdaa9e2384a5ae2d6ae",
+  "skillUuid": "28d0c59e25ef44828e745bec80c73134",
+  "skillKey": "perfume-detail-visual-card-e5c05143074646b7ae70a88b81ec6c2a",
+  "version": "1.0.1",
+  "namespace": "libtv-user-generated",
+  "description": "香水详情页8大卖点视觉卡片生成",
+  "author": "星美Fine",
+  "ownerId": 773892,
+  "tags": [],
+  "likeCount": 1,
+  "usePv": 1,
+  "useUv": 1,
+  "publishAt": "2026-09-13 22:42:16",
+  "snapshotId": 45971,
+  "useScenario": "需要为香水产品设计完整详情页视觉内容，包含品牌风格分析、卖点规划和视觉卡片生成",
+  "inputType": "1张品牌参考图（单图模式）或2-4张参考图（多图融合模式），以及香水产品基本信息",
+  "outputContent": "8张详情页视觉卡片，覆盖品牌首屏、香调成分、天然溯源、瓶身工艺、使用体验、生活方式、环保理念、系列收尾8大卖点",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/e5c05143074646b7ae70a88b81ec6c2a/a7b0767ee435b8f8650463be3d31e9f73fa18ba9.png",
+  "resultType": 2,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=b0f758e70c3f4fdaa9e2384a5ae2d6ae",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/e5c05143074646b7ae70a88b81ec6c2a/a7b0767ee435b8f8650463be3d31e9f73fa18ba9.png",
+    "https://libtv-res.liblib.art/upload-images/e5c05143074646b7ae70a88b81ec6c2a/57c531d3a9e41e5d64b31c56c59681723440f612.png",
+    "https://libtv-res.liblib.art/upload-images/e5c05143074646b7ae70a88b81ec6c2a/08407508a1d8e1a220a0c35b665741f6d592ecdb.png"
+  ],
+  "hasPublicSkillContent": true
+}

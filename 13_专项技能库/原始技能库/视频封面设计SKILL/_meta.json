@@ -1,0 +1,35 @@
+{
+  "name": "视频封面设计SKILL",
+  "templateUuid": "c80359769fa34a48b77b40ef5d592d1b",
+  "skillUuid": "23235999abd3426aa641f750b7a0ba52",
+  "skillKey": "video-cover-designer-e20ffb9f022d4ac5bf7b5494a9c4fb38",
+  "version": "1.0.2",
+  "namespace": "libtv-user-generated",
+  "description": "上传参考图片，自动生成视频封面设计",
+  "author": "JARVA_AI",
+  "ownerId": 275361,
+  "tags": [],
+  "likeCount": 54,
+  "usePv": 82,
+  "useUv": 41,
+  "publishAt": "2026-07-26 00:39:09",
+  "snapshotId": 30739,
+  "useScenario": "短视频封面、TVC 宣传海报、影片主视觉、活动视频首帧图制作。",
+  "inputType": "1. 上传风格参考图片；2. 可选填写封面标题；3. 选择画面比例；4. 选定 LIB IMAGE 标准画质 2K 模型后执行生成。",
+  "outputContent": "1 张高清的海报封面设计",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/e20ffb9f022d4ac5bf7b5494a9c4fb38/4db85349776920d0a9267927f3ab66b15ad84567.png",
+  "resultType": 2,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=c80359769fa34a48b77b40ef5d592d1b",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/e20ffb9f022d4ac5bf7b5494a9c4fb38/0a6bed666fd83513052adaedb25040508e8ee909.png",
+    "https://libtv-res.liblib.art/upload-images/e20ffb9f022d4ac5bf7b5494a9c4fb38/7302874c8b08526a233d6d17208e52ba4f02367b.png",
+    "https://libtv-res.liblib.art/upload-images/e20ffb9f022d4ac5bf7b5494a9c4fb38/02cad5e4b8bedcc609496e948992042797af144e.png",
+    "https://libtv-res.liblib.art/upload-images/e20ffb9f022d4ac5bf7b5494a9c4fb38/7fb8d7f62f691acd6fafdb24ed2513ec91478ecf.png"
+  ],
+  "hasPublicSkillContent": true
+}

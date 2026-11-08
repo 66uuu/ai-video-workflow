@@ -1,0 +1,32 @@
+{
+  "name": "超哥匠心导演",
+  "templateUuid": "64a3f13631b74a96a8ed1c5750c4f1ba",
+  "skillUuid": "8275d3132f4f4b98a07fb111b7091e1f",
+  "skillKey": "cinematic-shot-planner-777c608eca33462a9f7be61c7745b41c-8275d313",
+  "version": "1.0.0",
+  "namespace": "libtv-user-generated",
+  "description": "把定稿剧本转化为可确认、可生成、可复盘的影视级逐镜制作方案。",
+  "author": "微信用户bd786b",
+  "ownerId": 5707937,
+  "tags": [],
+  "likeCount": null,
+  "usePv": 4,
+  "useUv": 1,
+  "publishAt": "2026-09-13 18:33:15",
+  "snapshotId": 45908,
+  "useScenario": "当用户提供定稿剧本，要求逐镜AI导演、Seedance 2.0/2.5视频制作、30秒视频提示词、逐段导演预演、首帧分镜、已有资产直接制作视频、连续性管理或成片复盘时使用。仅支持真人实拍质感影视。",
+  "inputType": "输入剧本",
+  "outputContent": "真人现实版电影",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/777c608eca33462a9f7be61c7745b41c/5924494bf8fe3fd096470693b1c04e1b69ce73d9.png",
+  "resultType": 3,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=64a3f13631b74a96a8ed1c5750c4f1ba",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/777c608eca33462a9f7be61c7745b41c/9c99da100f93ab8c7b6dd3eac41e38720d2a64a1.mp4"
+  ],
+  "hasPublicSkillContent": true
+}

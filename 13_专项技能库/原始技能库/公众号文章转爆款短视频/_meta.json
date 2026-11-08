@@ -1,0 +1,38 @@
+{
+  "name": "公众号文章转爆款短视频",
+  "templateUuid": "9b7af9780e3b49dcbd92a1cd26c43805",
+  "skillUuid": "0d50847d9fae442fbc15dcf0e305de37",
+  "skillKey": "article-to-viral-video-fd017929c7da4c9293fe46362fa1c745",
+  "version": "1.0.4",
+  "namespace": "libtv-user-generated",
+  "description": "将公众号文章一键转爆款短视频",
+  "author": "苍何",
+  "ownerId": 5586818,
+  "tags": [],
+  "likeCount": 140,
+  "usePv": 168,
+  "useUv": 141,
+  "publishAt": "2026-07-13 20:07:25",
+  "snapshotId": 26661,
+  "useScenario": "将公众号文章一键转为短视频",
+  "inputType": "将微信公众号文章、文章链接、粘贴正文或用户提供的图文素材直接发送即可",
+  "outputContent": "可直接发布的视频文件",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/fd017929c7da4c9293fe46362fa1c745/e8cfd4ae47702e1d5ac06153eed1e1b33ce7fe75.png",
+  "resultType": 3,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=9b7af9780e3b49dcbd92a1cd26c43805",
+  "files": [
+    "SKILL.md",
+    "references/storyboard-and-quality.md",
+    "references/adaptation-playbook.md",
+    "references/video-style-options.md",
+    "references/cover-style-options.md",
+    "references/markdown-image-handling.md",
+    "references/configuration-options.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/fd017929c7da4c9293fe46362fa1c745/c339f30abe4e9a08cd30ded921b02b88e12930e1.mp4"
+  ],
+  "hasPublicSkillContent": true
+}

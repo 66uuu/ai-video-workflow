@@ -1,0 +1,40 @@
+{
+  "name": "真人闯关综艺视频",
+  "templateUuid": "c03a5e7b223848e3959da2d6dee1f0a7",
+  "skillUuid": "7b560b8cb86f46f3b8565915129a6397",
+  "skillKey": "reality-game-show-video-5e17f63c20b64ca1a5571efe67cc2d04",
+  "version": "1.0.5",
+  "namespace": "libtv-user-generated",
+  "description": "从角色图开始，自动生成真人闯关综艺短片，支持产品植入。",
+  "author": "刘不住Wander",
+  "ownerId": 759898,
+  "tags": [],
+  "likeCount": 14,
+  "usePv": 6,
+  "useUv": 5,
+  "publishAt": "2026-07-18 08:29:53",
+  "snapshotId": 28332,
+  "useScenario": "适合把原创角色、真人角色设定图快速变成高燃竞技闯关综艺短片。可用于角色展示、运动主题内容、综艺感社媒视频、游戏角色宣传和创意挑战素材。",
+  "inputType": "上传一张清晰、单人、成年角色卡即可开始。选择水上闯关、充气城堡淘汰赛、室内速度赛、森林绳网赛，或随机抽取；系统自动处理角色资产并",
+  "outputContent": "输出角色资产处理结果、随机或选定的游戏赛道预览图、六段镜头脚本、计时器和现场音效方案，以及可直接生成的 15 秒真人闯关综艺视频提示词。默认同步生成快节奏综艺 BGM。",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/5e17f63c20b64ca1a5571efe67cc2d04/1d27dafe4e3b57235a165b805191e3bdfe35ab83.png",
+  "resultType": 3,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=c03a5e7b223848e3959da2d6dee1f0a7",
+  "files": [
+    "SKILL.md",
+    "references/character-asset-policy.md",
+    "references/image-generation-fallback-policy.md",
+    "references/obstacle-course-action-engine.md",
+    "references/obstacle-game-library.md",
+    "references/video-reference-policy.md",
+    "references/prize-asset-policy.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/5e17f63c20b64ca1a5571efe67cc2d04/2bb60df569e0487f0ea13040dd120dbfd29b1a93.mp4",
+    "https://libtv-res.liblib.art/upload-images/5e17f63c20b64ca1a5571efe67cc2d04/e81f7f6e28f94bf87a819e289a88593434bf9daa.mp4",
+    "https://libtv-res.liblib.art/upload-images/5e17f63c20b64ca1a5571efe67cc2d04/595d849a3c19d2835b68bb29408e55a8b74c5a0d.mp4"
+  ],
+  "hasPublicSkillContent": true
+}

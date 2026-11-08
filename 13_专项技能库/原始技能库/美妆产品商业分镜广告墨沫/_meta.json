@@ -1,0 +1,34 @@
+{
+  "name": "美妆产品商业分镜广告墨沫",
+  "templateUuid": "d72ef2d3dbd043d286ede75db24c4d45",
+  "skillUuid": "62dd0119d01740c8a02a210dae29ec04",
+  "skillKey": "beauty-product-storyboard-eae344d03ae6440cb34c5471de6bb287",
+  "version": "1.0.4",
+  "namespace": "libtv-user-generated",
+  "description": "一键上传产品图片+产品名称+横版/竖版，生成视频不限制产品",
+  "author": "墨沫",
+  "ownerId": 277872,
+  "tags": [],
+  "likeCount": 7,
+  "usePv": 3,
+  "useUv": 3,
+  "publishAt": "2026-07-24 08:46:27",
+  "snapshotId": 30237,
+  "useScenario": "用户有美妆/护肤产品图片，希望生成一套商业广告分镜视频，包含人物故事线、产品展示、情绪转变等完整广告叙事结构。",
+  "inputType": "产品图片+产品名称+横版/竖版，生成视频不限制产品默认720p（可选）1080P\n例如：上传产品图（建议上传多较多三视图或多张产品拼接角度的）+产品名称（可选增加产品卖点等）+横版/竖版（视频720P/1080P），生成视频不限制产品",
+  "outputContent": "人设面板图、场景锚点图、产品锚点图、7张分镜关键帧图、两组四宫格展示图（4K竖版）、两段分组视频（720p 15s 竖版9:16/横版）、最终合成成片",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/eae344d03ae6440cb34c5471de6bb287/18edd164a9cd578632a5451c417e2d43096d5b2c.png",
+  "resultType": 3,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=d72ef2d3dbd043d286ede75db24c4d45",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/eae344d03ae6440cb34c5471de6bb287/18edd164a9cd578632a5451c417e2d43096d5b2c.png",
+    "https://libtv-res.liblib.art/upload-images/eae344d03ae6440cb34c5471de6bb287/c7c395d78887ce37841568445fb55c9df0c4c5ca.mp4",
+    "https://libtv-res.liblib.art/upload-images/eae344d03ae6440cb34c5471de6bb287/6273a05a69aa6629c7b4d593ea8a5a3fd3dea4ae.mp4"
+  ],
+  "hasPublicSkillContent": true
+}

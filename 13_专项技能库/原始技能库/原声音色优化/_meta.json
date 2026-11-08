@@ -1,0 +1,35 @@
+{
+  "name": "原声音色优化",
+  "templateUuid": "02f5e7964eeb415bab01d42484c26a9a",
+  "skillUuid": "859e108504114a21807ca0c3e570ff52",
+  "skillKey": "voice-pro-optimizer-ef77fa37cc044640a7aadddfe3022cb9",
+  "version": "1.0.13",
+  "namespace": "libtv-user-generated",
+  "description": "升级个人声音，让普通声音更清晰、更好听。",
+  "author": "视觉新青年",
+  "ownerId": 4364112,
+  "tags": [],
+  "likeCount": 23,
+  "usePv": 40,
+  "useUv": 28,
+  "publishAt": "2026-07-29 09:24:03",
+  "snapshotId": 31578,
+  "useScenario": "优化个人声音，让音色更好听，更专业\n通过分析用户真实声音特征，建立专属声音模型，并对录制后的声音进行智能优化。在保留用户原始音色、声纹特点和个人辨识度的基础上，改善声音表现力，让普通人的声音更清晰、更自然、更具专业质感。",
+  "inputType": "上传你的声音样本、选择声音风格，调整清晰度、质感和情绪。输入文字或上传录音，AI自动优化生成。\n获得更清晰、更自然、更专业的个人",
+  "outputContent": "已在保留原始音色、声线和说话习惯的基础上，对音量、清晰度、稳定性和声音层次进行了优化。",
+  "coverUrl": null,
+  "resultType": 4,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=02f5e7964eeb415bab01d42484c26a9a",
+  "files": [
+    "SKILL.md",
+    "内容.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/ef77fa37cc044640a7aadddfe3022cb9/fad5c125b3fa4a0aa046c06e9d92cace3525effc.mp3",
+    "https://libtv-res.liblib.art/upload-images/ef77fa37cc044640a7aadddfe3022cb9/a47c5589fccfae4d0179a9152108d226dbb17df2.mp3",
+    "https://libtv-res.liblib.art/upload-images/ef77fa37cc044640a7aadddfe3022cb9/7774b2dd4fc3b14c0b355eca860691ce5790c4ad.mp3"
+  ],
+  "hasPublicSkillContent": true
+}

@@ -1,0 +1,32 @@
+{
+  "name": "赛博ui海报动效",
+  "templateUuid": "d0df3e74ca4642009178dfa94048f40c",
+  "skillUuid": "2b4040f868524b1f808b685730da2dfa",
+  "skillKey": "cyberpunk-ui-startup-e5c05143074646b7ae70a88b81ec6c2a",
+  "version": "1.0.1",
+  "namespace": "libtv-user-generated",
+  "description": "制作赛博朋克风格UI动画启动片。支持自定义视觉风格",
+  "author": "星美Fine",
+  "ownerId": 773892,
+  "tags": [],
+  "likeCount": null,
+  "usePv": 3,
+  "useUv": 2,
+  "publishAt": "2026-08-11 14:18:18",
+  "snapshotId": 35791,
+  "useScenario": "用户想要制作赛博朋克/科技感UI动画启动片，可提供风格参考图或文字描述，生成包含HUD界面、数据流、扫描线、霓虹文字的完整启动片视频。",
+  "inputType": "风格参考图（可选）+ 文字风格描述 + 片尾口号文字（如 NEON SYSTEM / FUTURE RIOT）",
+  "outputContent": "15秒赛博朋克UI动画启动片视频，含BGM，四幕结构：系统唤醒→HUD展开与交互→数据爆发与穿越→终幕文字定格",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/e5c05143074646b7ae70a88b81ec6c2a/6949fbb4f6c56e380664efeb9d741f208796f999.png",
+  "resultType": 3,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=d0df3e74ca4642009178dfa94048f40c",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/e5c05143074646b7ae70a88b81ec6c2a/4ffb46336dc50f5b1e4715b8b835e494f5a800e7.mp4"
+  ],
+  "hasPublicSkillContent": true
+}

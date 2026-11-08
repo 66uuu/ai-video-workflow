@@ -1,0 +1,32 @@
+{
+  "name": "历史战争剧-丫一吧",
+  "templateUuid": "90a8d23a758842e3865083f550c33f71",
+  "skillUuid": "2aea1cae087c4b19ad59608e00ba47af",
+  "skillKey": "historical-war-epic-director-97732afae5b94b01974016375995e488",
+  "version": "1.0.1",
+  "namespace": "libtv-user-generated",
+  "description": "历史史诗影视动画导演 Skill",
+  "author": "丫一吧",
+  "ownerId": 51974,
+  "tags": [],
+  "likeCount": 12,
+  "usePv": 40,
+  "useUv": 18,
+  "publishAt": "2026-09-07 11:35:14",
+  "snapshotId": 44010,
+  "useScenario": "本 Skill 适用于以真实历史、历史小说、战争故事、历史人物传记、原创历史剧本为基础，进行影视动画、CG动画、AI视频及电影化视觉开发的创作场景。",
+  "inputType": "用户只需要提供剧本、故事梗概、小说片段、人物设定或已有视觉素材中的任意一种，并说明希望完成的制作任务，Skill即可根据内容自动进入对应的影视视觉开发流程。",
+  "outputContent": "写实历史战争剧",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/97732afae5b94b01974016375995e488/f81c38104efa1f5155c5b364503485b7752338d5.png",
+  "resultType": 2,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=90a8d23a758842e3865083f550c33f71",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/97732afae5b94b01974016375995e488/f81c38104efa1f5155c5b364503485b7752338d5.png"
+  ],
+  "hasPublicSkillContent": true
+}

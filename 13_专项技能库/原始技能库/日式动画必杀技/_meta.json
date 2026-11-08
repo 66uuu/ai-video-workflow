@@ -1,0 +1,32 @@
+{
+  "name": "日式动画必杀技",
+  "templateUuid": "14e7bc90e0fa4489ac2776a24846bb85",
+  "skillUuid": "f298ca65efdb43959cf60c734f9237bf",
+  "skillKey": "jujutsu-domain-expansion-6b89c9d97f9c442f8b990c673f7d42db",
+  "version": "1.0.1",
+  "namespace": "libtv-user-generated",
+  "description": "根据用户提供的角色参考图，生成日式动画必杀技能展示",
+  "author": "小炫龙",
+  "ownerId": 8658731,
+  "tags": [],
+  "likeCount": 10,
+  "usePv": 4,
+  "useUv": 4,
+  "publishAt": "2026-07-22 21:24:19",
+  "snapshotId": 29912,
+  "useScenario": "用户上传动漫角色设定图，希望为该角色生成一段大招技能展示的动画视频，可以通过提示词限定台词/日语/汉语等等",
+  "inputType": "角色参考图（动漫角色设定图/三视图）",
+  "outputContent": "15秒日式动画必杀技展示视频，16:9，720p，日式动画风格，包含完整的0秒-15秒时间轴分镜脚本。",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/6b89c9d97f9c442f8b990c673f7d42db/ee546757f9a6a296a1fadf68ca1486efcd6f550b.png",
+  "resultType": 3,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=14e7bc90e0fa4489ac2776a24846bb85",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/6b89c9d97f9c442f8b990c673f7d42db/9b0e83d062960eda5472fa7d95bad0331d643781.mp4"
+  ],
+  "hasPublicSkillContent": true
+}

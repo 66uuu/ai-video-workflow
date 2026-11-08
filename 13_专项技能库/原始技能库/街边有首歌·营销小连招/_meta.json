@@ -1,0 +1,33 @@
+{
+  "name": "街边有首歌·营销小连招",
+  "templateUuid": "d20fe35a62fd4f55a3a1cc9783aaf8d8",
+  "skillUuid": "ed666d8b243c4304b22f99d795f2de3a",
+  "skillKey": "street-marketing-combo-d54343a5d88c471899f6f611cbcce16c",
+  "version": "1.0.3",
+  "namespace": "libtv-user-generated",
+  "description": "为街边小店和手艺人生成 slogan、两版广告歌、30秒广告",
+  "author": "刀可刀非常刀",
+  "ownerId": 3527513,
+  "tags": [],
+  "likeCount": 11,
+  "usePv": 2,
+  "useUv": 2,
+  "publishAt": "2026-08-11 13:46:24",
+  "snapshotId": 35751,
+  "useScenario": "适合煎饼摊、修鞋摊、电动车快修、花店、蜂农、海鲜店等小业态，完成品牌记忆、广告歌、短视频、线下物料和私域复购设计。",
+  "inputType": "输入店名、业态、核心产品、最大特点和营销目标；可上传主理人、店面、产品、菜单及二维码照片。资料不足时先补信息卡，确认核心创意后再",
+  "outputContent": "主 slogan、15秒循环广告歌、30秒完整广告歌、A/B两段15秒广告片或30秒成片、竖版海报、发布文案、私域入口与复购建议。",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/d54343a5d88c471899f6f611cbcce16c/24235e416bb20bdc5e85290f869d247e9b1f70d6.png",
+  "resultType": 3,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=d20fe35a62fd4f55a3a1cc9783aaf8d8",
+  "files": [
+    "SKILL.md",
+    "街边有首歌_营销小连招_LibTV首测版_SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/d54343a5d88c471899f6f611cbcce16c/054134b956a0c320dd098ee876bdd155473e8177.mp4"
+  ],
+  "hasPublicSkillContent": true
+}

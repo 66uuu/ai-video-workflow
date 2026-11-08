@@ -1,0 +1,32 @@
+{
+  "name": "2D传统手绘美术志怪灵异",
+  "templateUuid": "149bca2c2e6446ccab55478f820bc8c1",
+  "skillUuid": "8f80d23c4aca4b0fb8aa925af4b05e62",
+  "skillKey": "traditional-chinese-supernatural-art-42a98d5f83a242568e1adfecc620ed3e",
+  "version": "1.0.0",
+  "namespace": "libtv-user-generated",
+  "description": "以传统中式动画手绘美术为基础，适合民间志怪、聊斋灵异等风格",
+  "author": "赛赛_Cecilia",
+  "ownerId": 4351068,
+  "tags": [],
+  "likeCount": 17,
+  "usePv": 9,
+  "useUv": 5,
+  "publishAt": "2026-07-29 11:37:24",
+  "snapshotId": 31645,
+  "useScenario": "2D美术个人风格创作，表现民间传说、志怪传奇，色彩柔和，饱和度高的手绘场景",
+  "inputType": "上传一句话剧本梗概，或想要的志怪风格",
+  "outputContent": "40秒怪诞中式悬疑动画",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/42a98d5f83a242568e1adfecc620ed3e/a19f7d0a310c50ee27ca87e2db3d5c6902ac98b6.png",
+  "resultType": 3,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=149bca2c2e6446ccab55478f820bc8c1",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/42a98d5f83a242568e1adfecc620ed3e/686a5b67a3eb632478350060677724717e895a57.mp4"
+  ],
+  "hasPublicSkillContent": true
+}

@@ -1,0 +1,32 @@
+{
+  "name": "多镜头一致性导演",
+  "templateUuid": "0da86f07472242849e090a2215260606",
+  "skillUuid": "09f3674081fe4298b693809b4faa6bd9",
+  "skillKey": "multi-shot-consistency-director-fc90127e45224b3dbc353ef70178b69b",
+  "version": "1.0.1",
+  "namespace": "libtv-user-generated",
+  "description": "先锁定角色、场景、道具与光影，再生成真正连续的多镜头成片。",
+  "author": "小葵小丹",
+  "ownerId": 596837,
+  "tags": [],
+  "likeCount": 29,
+  "usePv": 40,
+  "useUv": 24,
+  "publishAt": "2026-07-15 17:14:19",
+  "snapshotId": 27379,
+  "useScenario": "适合30秒至5分钟的剧情短片、商业广告、MV、漫剧和AI电影。尤其适合解决人物变脸、服装跳变、空间漂移、道具消失、轴线混乱和跨镜光线不统一。",
+  "inputType": "输入一句故事、剧情梗概或完整剧本；可附人物、场景、服装、画风参考，并指定时长、画幅、字幕和发布平台。",
+  "outputContent": "连续性圣经、角色与场景锚点、节拍表、分镜表、逐镜提示、分镜视频、配乐字幕、最终成片和质检记录。",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/fc90127e45224b3dbc353ef70178b69b/fb203782feea7133e2119690b67ee045d1dcaeaa.png",
+  "resultType": 3,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=0da86f07472242849e090a2215260606",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/fc90127e45224b3dbc353ef70178b69b/fb203782feea7133e2119690b67ee045d1dcaeaa.png"
+  ],
+  "hasPublicSkillContent": true
+}

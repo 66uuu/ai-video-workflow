@@ -1,0 +1,32 @@
+{
+  "name": "动态视觉四母版",
+  "templateUuid": "75d89ccfae354638a40cbad5a477a810",
+  "skillUuid": "40fec1b6ec684fb79031e4e3b7261261",
+  "skillKey": "dynamic-visual-master-reference-4548f971331e4a0981a8258bae53cce6",
+  "version": "1.0.1",
+  "namespace": "libtv-user-generated",
+  "description": "动态判断这个剧本项目最适合的视觉语言并拆成4张视觉母参考。",
+  "author": "人间留物",
+  "ownerId": 360438,
+  "tags": [],
+  "likeCount": 2,
+  "usePv": 2,
+  "useUv": 2,
+  "publishAt": "2026-09-16 23:40:14",
+  "snapshotId": 47024,
+  "useScenario": "根据每一个新项目自身的剧本、世界观、情绪、时代、场景、人物关系、已有资产和用户参考，动态判断这个项目最适合的视觉语言，并将其拆成四张“单图单职责”的视觉母参考",
+  "inputType": "输出剧本，帮你拆符合他的世界观情绪时代场景作为参考动态判断最适合的视觉语言\n输出4张\n**ART MASTER｜美术风格**\n2. **LIGHT MASTER｜光影质感**\n3. **IMAGE MASTER｜画面质感**\n4. **COLOR MASTER｜调色风格**\n四张图不是固定模板风格的参考图提示词",
+  "outputContent": "## 01\n\n`ART MASTER`\n\n定义： 世界长什么样。\n\n## 02\n\n`LIGHT MASTER`\n\n定义： 这个世界怎样被照亮。\n\n## 03\n\n`IMAGE MASTER`\n\n定义： 摄影机怎样记录它。\n\n## 04\n\n`COLOR MASTER`\n\n定义： 最后综合色彩是什么。\n\n---\n\n可选：\n\n`STATE_DAY`\n\n`STATE_NIGHT`",
+  "coverUrl": null,
+  "resultType": 1,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=75d89ccfae354638a40cbad5a477a810",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/4548f971331e4a0981a8258bae53cce6/e3326368b5159454982f42fec4932d1ea7df756a.md"
+  ],
+  "hasPublicSkillContent": true
+}

@@ -1,0 +1,32 @@
+{
+  "name": "剧本转Seedance提示词",
+  "templateUuid": "47024db07fe441dc9f20f3748d90ddac",
+  "skillUuid": "333c86cccb2c4a0db3eb0335c209f805",
+  "skillKey": "script-to-seedance-prompt-5a25cc387c914da5b39a832c204aef20",
+  "version": "1.0.5",
+  "namespace": "libtv-user-generated",
+  "description": "剧本分镜转Seedance-2.0提示词",
+  "author": "152****2151",
+  "ownerId": 11429673,
+  "tags": [],
+  "likeCount": 4,
+  "usePv": 16,
+  "useUv": 6,
+  "publishAt": "2026-09-02 16:31:27",
+  "snapshotId": 42870,
+  "useScenario": "用户已完成剧本分镜，需要将分镜内容转化为适配 Seedance-2.0 的视频生成提示词时使用",
+  "inputType": "已完成分镜的剧本文本（包含导演指令、分镜描述、音效说明等）",
+  "outputContent": "结构化中文提示词，每条含导演指令、分镜描述（含镜头运动/光线/氛围）、音效说明，按分镜顺序输出",
+  "coverUrl": null,
+  "resultType": 1,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=47024db07fe441dc9f20f3748d90ddac",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/5a25cc387c914da5b39a832c204aef20/d34319288e51f4b9afff57982b5d1fe70cb16d72.md"
+  ],
+  "hasPublicSkillContent": true
+}

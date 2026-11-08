@@ -1,0 +1,35 @@
+{
+  "name": "固定风格提示词优化",
+  "templateUuid": "cae27be6d8d04763bdb533766506a6a2",
+  "skillUuid": "2c1c6ffd30b142f190187576d694a8f0",
+  "skillKey": "style-transfer-prompt-refiner-cfcadde57ef04b318a9feaf8da2f16ca",
+  "version": "1.0.3",
+  "namespace": "libtv-user-generated",
+  "description": "输入风格关键词，自动拆解为7维AI绘画/视频生成提示词",
+  "author": "电子厨厨",
+  "ownerId": 11030344,
+  "tags": [],
+  "likeCount": 5,
+  "usePv": 1,
+  "useUv": 1,
+  "publishAt": "2026-08-13 17:57:53",
+  "snapshotId": 36698,
+  "useScenario": "面向AI绘画与视频创作者，帮助用户将模糊的风格概念快速转化为可执行的7维专业提示词。适用于：LibTV生图/生视频前的风格预设定、导演美学研究、视觉风格拆解学习、组合风格实验创作。尤其适合不熟悉提示词工程的新手用户，以及需要快速统一多图/多镜头风格的专业创作者。",
+  "inputType": "在对话框输入一个风格关键词（如\"王家卫\"\"赛博朋克\"\"新海诚\"），或组合风格（如\"王家卫+黑色电影\"\"新海诚+蒸汽波\"）。支持中英文混合输入。系统将自动识别风格，拆解为媒介画风、光效、色彩、构图、质感、镜头、情绪7个维度，并输出可直接复制到LibTV生图/生视频节点的英文Master Prompt、负向提示词及参数建议。",
+  "outputContent": "结构化风格报告输出，包含：①英文Master Prompt（置顶代码块，可直接复制到LibTV生图/生视频节点）；②英文Negative Prompt（排除元素建议）；③7维风格拆解表格（媒介与画风、光效设计、色彩配方、构图法则、质感纹理、镜头与景深、情绪氛围）；④参数建议（CFG Scale、采样器、步数等）。组合风格自动融合各维度特征，未知风格基于专业知识推理生成。",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/cfcadde57ef04b318a9feaf8da2f16ca/ab6faa75a8e8def119d7173383ef956b02974703.png",
+  "resultType": 2,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=cae27be6d8d04763bdb533766506a6a2",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/cfcadde57ef04b318a9feaf8da2f16ca/367ab8a46ec0081e278b2aa62e321ad3d163e2da.png",
+    "https://www.liblib.tv/canvas/chat-share?shareId=PBIQwhLz4i",
+    "https://libtv-res.liblib.art/upload-images/cfcadde57ef04b318a9feaf8da2f16ca/5b2f97aecd693d6794dd3c19a421df721d47e2b0.png",
+    "https://www.liblib.tv/canvas/chat-share?shareId=W7Ypg7YVQS"
+  ],
+  "hasPublicSkillContent": true
+}

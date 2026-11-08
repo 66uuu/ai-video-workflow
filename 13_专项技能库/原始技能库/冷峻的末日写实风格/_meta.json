@@ -1,0 +1,34 @@
+{
+  "name": "冷峻的末日写实风格",
+  "templateUuid": "cace56ca693446588664a9622cd83a54",
+  "skillUuid": "0f23957d0e5f4e3fa43ef38c634406dd",
+  "skillKey": "grim-apocalyptic-realism-baf2e419ce1cb06812314957efd2e067",
+  "version": "1.0.1",
+  "namespace": "libtv-user-generated",
+  "description": "生成短片自带惊悚风格，保留冷色调滤镜的同时，带有末日氛围",
+  "author": "Mango",
+  "ownerId": 15034,
+  "tags": [],
+  "likeCount": 25,
+  "usePv": 30,
+  "useUv": 23,
+  "publishAt": "2026-07-15 16:44:39",
+  "snapshotId": 27370,
+  "useScenario": "末日惊悚题材文案创作、短篇故事撰写、环境旁白与剧情台词生成，适配废墟废土、寂静空城、异变危机等阴冷末世世界观，主打冷色调压抑惊悚氛围，可用于故事构思、短视频文案、世界观细节和恐怖叙事内容创作。",
+  "inputType": "输入末世背景设定、故事梗概、角色信息、核心惊悚主题或关键剧情线索，可额外添加冷色调、灰暗阴冷、寂静荒芜、压抑悬疑等风格关键词，也",
+  "outputContent": "整体冷色调阴冷压抑基调的末日惊悚文本，包含短篇故事、环境描写、剧情台词、氛围感旁白，细节突出荒凉破败、未知恐惧的末世氛围，保持阴冷寂静的整体叙事质感。",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/baf2e419ce1cb06812314957efd2e067/51899799ce400be5d756bce439872e372b429f41.png",
+  "resultType": 3,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=cace56ca693446588664a9622cd83a54",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/baf2e419ce1cb06812314957efd2e067/0aa0bb63cbf4590a9eb74045222e16eeed069299.mp4",
+    "https://libtv-res.liblib.art/upload-images/baf2e419ce1cb06812314957efd2e067/262c5289769303f9974f377a5abef9d2da9a696b.mp4",
+    "https://libtv-res.liblib.art/upload-images/baf2e419ce1cb06812314957efd2e067/5bf75467767402cb1ea75510f52fd9a27bdb7736.mp4"
+  ],
+  "hasPublicSkillContent": true
+}

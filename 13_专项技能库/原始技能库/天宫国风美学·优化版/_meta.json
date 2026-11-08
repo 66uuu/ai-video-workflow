@@ -1,0 +1,37 @@
+{
+  "name": "天宫国风美学·优化版",
+  "templateUuid": "a5719593944c422f9c69b6de3ecde1d3",
+  "skillUuid": "6e4c8aa544c140358d95a4028eedcbde",
+  "skillKey": "tiangong-myth-aesthetic-7a936396e1d940aa8e0460a8d5f459f3",
+  "version": "1.0.3",
+  "namespace": "libtv-user-generated",
+  "description": "东方神话天宫美学的图片、视频与音乐提示词创作工具",
+  "author": "清凉兔",
+  "ownerId": 976456,
+  "tags": [
+    "自媒体创作"
+  ],
+  "likeCount": 197,
+  "usePv": 198,
+  "useUv": 139,
+  "publishAt": "2026-08-18 15:08:56",
+  "snapshotId": 38100,
+  "useScenario": "用户输入东方神话天宫主题，生成电影级超写实图片、图生视频提示词、国风音乐提示词，适用于天宫、月宫、云海、天阶、孤殿等场景创作。",
+  "inputType": "用户可输入一个主题、核心奇观、构图方向或参考图片，例如“云海天宫”“镜湖倒映整座天宫”“月宫长廊巨月压境”“断崖天宫配鲲”等，也可以直接提供对人物数量、神兽类型、镜头方式、氛围光影的要求。Skill 会自动按照六段式结构（整体描述、构图形式、主体场景描述、氛围描述、人物描述、画面美感控制）组织提示词，并根据主题匹配合适的构图、空间层级、光影语言和神兽搭配；如需视频或音乐，也会进一步输出对应的运镜提",
+  "outputContent": "天宫美学 Skill：面向东方神话天宫题材，默认使用 Lib Image，生成前先展示六段式提示词：整体描述、构图、主体、氛围、人物、美感控制；默认16:9、单张稳定版。强调前中远景、低饱和侧逆光、小人物、大留白与真实古建；一图仅一种神兽。支持图片生成、参考图反推、视频运镜提示词及国风音乐提示词。",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/7a936396e1d940aa8e0460a8d5f459f3/9cea8e206d704ef8db80db9e1ae0630b60a6862e.png",
+  "resultType": 2,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=a5719593944c422f9c69b6de3ecde1d3",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/7a936396e1d940aa8e0460a8d5f459f3/3aaec5b83d2fbb1a842bdc2e61d92610bd35cbb4.png",
+    "https://libtv-res.liblib.art/upload-images/7a936396e1d940aa8e0460a8d5f459f3/9cea8e206d704ef8db80db9e1ae0630b60a6862e.png",
+    "https://libtv-res.liblib.art/upload-images/7a936396e1d940aa8e0460a8d5f459f3/4ae48d1ad4d232034a6db933eb859f943bda37da.png",
+    "https://libtv-res.liblib.art/upload-images/7a936396e1d940aa8e0460a8d5f459f3/47d5f06bea039fc235bc33f84e7f13e7ede232c5.png"
+  ],
+  "hasPublicSkillContent": true
+}

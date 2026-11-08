@@ -1,0 +1,32 @@
+{
+  "name": "IP-pv分镜",
+  "templateUuid": "51614a9dd1f8448197905547909531c8",
+  "skillUuid": "63c57cf9c959479e824ce616591cd55d",
+  "skillKey": "ip-pv-storyboard-generator-839cfbc23c6d4840895fb02c398ccacf",
+  "version": "1.0.2",
+  "namespace": "libtv-user-generated",
+  "description": "根据需求想法生成ip角色的pv分镜图",
+  "author": "微信用户5e6b4c",
+  "ownerId": 9417008,
+  "tags": [],
+  "likeCount": 1,
+  "usePv": 4,
+  "useUv": 3,
+  "publishAt": "2026-08-05 18:00:01",
+  "snapshotId": 33657,
+  "useScenario": "本 Skill 是策划案驱动的 PV 分镜转译工具，把文字版 PV 策划，输出可视化分镜故事板。",
+  "inputType": "用户把素材粘贴输入，支持三种输入形式：\n1）完整 PV 策划文案 + 角色设定 + 风格镜头要求（文本直接粘贴）\n2）上传策划文档，同时附上角色人设描述\n3）精简版：策划要点清单（主题、段落、时长、高光镜头列表）+ 角色设定",
+  "outputContent": "成套高清分镜图集/标准化 IP 分镜脚本（表格化 / 条目式）/成片优化方案/IP 视觉固化参数",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/839cfbc23c6d4840895fb02c398ccacf/9162dd6f4b6e038d035c16c7dc4cb6a6debcf628.png",
+  "resultType": 2,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=51614a9dd1f8448197905547909531c8",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/839cfbc23c6d4840895fb02c398ccacf/9162dd6f4b6e038d035c16c7dc4cb6a6debcf628.png"
+  ],
+  "hasPublicSkillContent": true
+}

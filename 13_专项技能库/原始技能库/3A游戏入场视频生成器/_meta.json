@@ -1,0 +1,32 @@
+{
+  "name": "3A游戏入场视频生成器",
+  "templateUuid": "8bc31a07f38447e6ac3c1cff1532f82e",
+  "skillUuid": "c62552e1452347eab1c734d17aaa4bb2",
+  "skillKey": "aaa-game-intro-video-10f43772ef194fbda818c96f85af92b8",
+  "version": "1.0.6",
+  "namespace": "libtv-user-generated",
+  "description": "通用3A游戏入场15秒成片生成",
+  "author": "bkz不可知",
+  "ownerId": 60705,
+  "tags": [],
+  "likeCount": null,
+  "usePv": 0,
+  "useUv": 0,
+  "publishAt": "2026-09-14 08:47:18",
+  "snapshotId": 46013,
+  "useScenario": "用户有自定义游戏主题、角色、场景，想快速生成一条3A级品质的游戏入场宣传视频成片",
+  "inputType": "游戏主题/世界观、角色外形与装备描述、场景环境描述、视觉风格与配色描述",
+  "outputContent": "一条约15秒的3A游戏入场视频成片，含单镜头画面与史诗配乐，情绪从神秘到觉醒到恢弘展开",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/10f43772ef194fbda818c96f85af92b8/7efb6f2ea941972dc6506840c8d771e4ed7c21aa.png",
+  "resultType": 3,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=8bc31a07f38447e6ac3c1cff1532f82e",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/10f43772ef194fbda818c96f85af92b8/e1d4b619993e693e7da7c737d4d9f8f42e07e27d.mp4"
+  ],
+  "hasPublicSkillContent": true
+}

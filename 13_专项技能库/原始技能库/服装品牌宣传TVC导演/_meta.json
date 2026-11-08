@@ -1,0 +1,33 @@
+{
+  "name": "服装品牌宣传TVC导演",
+  "templateUuid": "4e732b66e4034c5c95f30dcb5d526323",
+  "skillUuid": "257939d9fcbe414d94f6fa1a907bd1d8",
+  "skillKey": "fashion-brand-tvc-director-ef77fa37cc044640a7aadddfe3022cb9",
+  "version": "1.0.3",
+  "namespace": "libtv-user-generated",
+  "description": "上传模特图和服装图，自动生成具有品牌宣传效果的TVC大片",
+  "author": "视觉新青年",
+  "ownerId": 4364112,
+  "tags": [],
+  "likeCount": 98,
+  "usePv": 131,
+  "useUv": 93,
+  "publishAt": "2026-07-16 20:28:15",
+  "snapshotId": 27849,
+  "useScenario": "适用于服装品牌、电商品牌、设计师品牌、时尚博主、模特作品集、服装新品发布和社交媒体宣传。 用户无需组织专业摄影团队，也不需要自行编写镜头脚本。只需要提供模特参考图和服装参考图，即可将普通人像素材和服装素材制作成具有真实人物质感、细腻面部微表情、电影光影和高级时尚广告氛围的短片。\n可用于：服装新品展示、品牌形象短片、时尚氛围大片、模特作品集、服装Lookbook、抖音和小红书宣传视频、电商详情",
+  "inputType": "第一步：上传一张清晰的模特参考图。第二步：上传一张清晰的服装参考图。第三步：直接开始生成。未填写时默认生成16:9横版、20秒、",
+  "outputContent": "输出一条约20秒的高级真人时装氛围短片。\n成片包含环境氛围、模特全身造型、服装中景、面料细节、人物动作、面部近景、眼神及嘴唇特写和最终服装展示镜头。",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/ef77fa37cc044640a7aadddfe3022cb9/a0026c8e9b56db07fb993ccb0c6bbae7f2b43137.png",
+  "resultType": 3,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=4e732b66e4034c5c95f30dcb5d526323",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/ef77fa37cc044640a7aadddfe3022cb9/b31a7ad9e0fd3b8f5949d4472790af3d3360d33e.mp4",
+    "https://libtv-res.liblib.art/upload-images/ef77fa37cc044640a7aadddfe3022cb9/842c688cea3942d1c6cef1c9924cd71de492eafa.mp4"
+  ],
+  "hasPublicSkillContent": true
+}

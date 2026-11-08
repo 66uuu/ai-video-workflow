@@ -1,0 +1,35 @@
+{
+  "name": "电商产品展示",
+  "templateUuid": "ead6f65b349e422591ea9848981949b6",
+  "skillUuid": "876590e00c2d443e8eca98687b42faef",
+  "skillKey": "ecommerce-video-generator-99f2b3d448e04efe8dc33dd3d58e9c5f",
+  "version": "1.0.1",
+  "namespace": "libtv-user-generated",
+  "description": "上传产品图，一键生成高转化15秒带货短视频",
+  "author": "BaoBao_",
+  "ownerId": 6097813,
+  "tags": [],
+  "likeCount": 84,
+  "usePv": 129,
+  "useUv": 103,
+  "publishAt": "2026-07-15 11:35:19",
+  "snapshotId": 27239,
+  "useScenario": "电商卖家/短视频创作者为单个产品制作抖音/快手/视频号信息流广告视频，支持美妆护肤、3C数码、食品饮料、家居日用、服饰鞋包、母婴玩具等主流品类",
+  "inputType": "上传1张产品主图（建议白底图），填写产品名、品类、1-3个核心卖点（选填价格/人群/风格），自动输出15-30秒产品展示短视频分",
+  "outputContent": "完整分镜表（含每镜景别/运镜/画面/字幕/英文提示词/音效BGM建议）+ CT**尾设计，提示词可直接用于视频生成",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/99f2b3d448e04efe8dc33dd3d58e9c5f/9aec0934d7fdd280d4092042650f60ca783f2c1f.jpg",
+  "resultType": 3,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=ead6f65b349e422591ea9848981949b6",
+  "files": [
+    "SKILL.md",
+    "品类适配参考.md",
+    "提示词规范参考.md",
+    "镜头库参考.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/99f2b3d448e04efe8dc33dd3d58e9c5f/cf275ab3b73b25f7eaa73eeea0dcad313fe3c3aa.mp4"
+  ],
+  "hasPublicSkillContent": true
+}

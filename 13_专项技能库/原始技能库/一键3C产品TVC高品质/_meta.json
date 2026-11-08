@@ -1,0 +1,32 @@
+{
+  "name": "一键3C产品TVC高品质",
+  "templateUuid": "f2f0824cd8134743b6a12ff8fb5d9ec3",
+  "skillUuid": "b36b7b86afa949fabbe463a04b3f4701",
+  "skillKey": "3c-electronics-tvc-generator-c18414452f144fb4b49219aa1dee2a30",
+  "version": "1.0.1",
+  "namespace": "libtv-user-generated",
+  "description": "3C产品TVC短视频自动生成器，一分钟左右时长",
+  "author": "青木家",
+  "ownerId": 3435944,
+  "tags": [],
+  "likeCount": 26,
+  "usePv": 5,
+  "useUv": 5,
+  "publishAt": "2026-07-21 10:15:40",
+  "snapshotId": 29418,
+  "useScenario": "有3C产品的三视图和一段剧情文案或卖点，想快速生成一条可直接用于AI制作或剪辑的TVC广告视频完整方案时使用，适用于电商详情页视频、社交媒体品牌短片、众筹产品宣传、发布会预热等营销场景。",
+  "inputType": "给到产品的三视图，可以给到产品卖点，如果有详细的需求和定向的想法，可以提及。\n注意尽量给到视频尺寸要求和分辨率要求例（横屏16：",
+  "outputContent": "一段60秒左右的高品质3C产品的TVC成片，包含配音和剪辑内容，可以直接发布使用。",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/c18414452f144fb4b49219aa1dee2a30/960b8641ae7780c698c14428a7580412cf538de0.png",
+  "resultType": 3,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=f2f0824cd8134743b6a12ff8fb5d9ec3",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/c18414452f144fb4b49219aa1dee2a30/16ec60434c5d22574d1617ef5280095d36bca61c.mp4"
+  ],
+  "hasPublicSkillContent": true
+}

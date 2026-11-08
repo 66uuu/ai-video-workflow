@@ -1,0 +1,32 @@
+{
+  "name": "康拉德霍尔逆光",
+  "templateUuid": "253f71ea4d9f48f59e7e86ce34a95f7b",
+  "skillUuid": "75d0a4a06a1a4e04906aca207545ddd2",
+  "skillKey": "conrad-hall-backlight-fc90127e45224b3dbc353ef70178b69b",
+  "version": "1.0.0",
+  "namespace": "libtv-user-generated",
+  "description": "用可信逆光、轮廓缺口与负空间，让暗部保留悬念也保留必要信息。",
+  "author": "小葵小丹",
+  "ownerId": 596837,
+  "tags": [],
+  "likeCount": 6,
+  "usePv": 1,
+  "useUv": 1,
+  "publishAt": "2026-07-17 11:33:07",
+  "snapshotId": 28041,
+  "useScenario": "适合亲密剧情、人物进出、道德暧昧、克制悬疑和AI视频，重点解决轮廓光像贴纸、暗部死堵、雾化过量、负空间没有叙事用途与镜间光向跳变。",
+  "inputType": "输入场景目标、人物关系、必须显示或隐藏的信息、场地门窗与实景灯、时间天气、演员走位、服装背景明度和相邻镜头；说明画幅、终端与可用",
+  "outputContent": "明暗命题、动机光源图、轮廓与负空间草图、节拍调度表、暗部信息预算、曝光方案、拍摄或生成提示词，以及镜间连续性质检清单。",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/fc90127e45224b3dbc353ef70178b69b/5b0fbe94aa263f751663d1e5c9c3ed01ff31633b.png",
+  "resultType": 3,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=253f71ea4d9f48f59e7e86ce34a95f7b",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/fc90127e45224b3dbc353ef70178b69b/3c629ce437d9e117628fbbd0783fad19b28b0556.mp4"
+  ],
+  "hasPublicSkillContent": true
+}

@@ -1,0 +1,37 @@
+{
+  "name": "专业编剧思维剧本创作",
+  "templateUuid": "16eaa0b1bc37413892d4c0ca33688fea",
+  "skillUuid": "773d241f82364a13a70da3dfad1e7fed",
+  "skillKey": "professional-screenplay-architect-d9b088ca036a477c838c18be243c1c04",
+  "version": "1.0.2",
+  "namespace": "libtv-user-generated",
+  "description": "像资深编剧一样从主题内核出发，逐层构建结构、人物、场景与对白",
+  "author": "飞哥",
+  "ownerId": 6248656,
+  "tags": [],
+  "likeCount": 14,
+  "usePv": 60,
+  "useUv": 47,
+  "publishAt": "2026-08-17 14:09:39",
+  "snapshotId": 37725,
+  "useScenario": "支持\"电影长片（三幕弧光）\"与\"短剧爽剧（三秒钩子）\"双模式。当用户说\"帮我写剧本\"\"这个创意能怎么讲\"\"写个短剧\"\"搭个三幕结构\"\"帮我构思故事\"时使用。",
+  "inputType": "当用户说以下内容时激活：\n\n- \"帮我写个剧本 / 短剧 / 微电影\"\n- \"这个创意能怎么讲成故事\"\n- \"帮我搭个三幕结构 / 节拍表\"\n- \"这段对白怎么改有味道 / 有潜台词\"\n- \"帮我检查一下剧情逻辑 / 有没有漏洞\"",
+  "outputContent": "输出专业剧本",
+  "coverUrl": null,
+  "resultType": 1,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=16eaa0b1bc37413892d4c0ca33688fea",
+  "files": [
+    "SKILL.md",
+    "references/dialogue.md",
+    "references/structure.md",
+    "references/character.md",
+    "references/genre.md",
+    "references/format.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/d9b088ca036a477c838c18be243c1c04/1b46ac7df0292ca2672f8a35a26ceaea63e6752e.md"
+  ],
+  "hasPublicSkillContent": true
+}

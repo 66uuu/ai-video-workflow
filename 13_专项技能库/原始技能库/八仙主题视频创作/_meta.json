@@ -1,0 +1,34 @@
+{
+  "name": "八仙主题视频创作",
+  "templateUuid": "81f41c7cd59b45e3b6b8c896e8776a9d",
+  "skillUuid": "0b21dca84bbb4da4b9b0d943f38ab74d",
+  "skillKey": "eight-immortals-character-visualizer-b4738ae4b7cb47d2a53123130bbbfda3",
+  "version": "1.0.1",
+  "namespace": "libtv-user-generated",
+  "description": "基于中国道教八仙题材，生成3D真人写实+奇幻光影风格的人物图",
+  "author": "AI大大",
+  "ownerId": 7127720,
+  "tags": [
+    "短剧漫剧"
+  ],
+  "likeCount": 8,
+  "usePv": 0,
+  "useUv": 0,
+  "publishAt": "2026-08-12 22:50:26",
+  "snapshotId": 36386,
+  "useScenario": "用户希望制作八仙主题的图片或视频内容，包括单人物形象图、八仙过海场景视频、各显神通分镜叙事、以及带有法器光效汇字的史诗收尾。",
+  "inputType": "用户提供主题方向（如八仙过海）、风格要求（如3D真实+奇幻光影）、可选参考图",
+  "outputContent": "八位仙人3D写实人物图（3:4竖版）+ 八仙过海主题视频成片（16:9，约60秒，含10个分镜+收尾汇字镜头）",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/b4738ae4b7cb47d2a53123130bbbfda3/5a3831d39cdf494e135797442c1d3bdcfa9a6bc8.png",
+  "resultType": 3,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=81f41c7cd59b45e3b6b8c896e8776a9d",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/b4738ae4b7cb47d2a53123130bbbfda3/bcb01bac09a54789c0c3209e0db18e301fbf4733.mp4"
+  ],
+  "hasPublicSkillContent": true
+}

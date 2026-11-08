@@ -1,0 +1,32 @@
+{
+  "name": "日系治愈-小森林风",
+  "templateUuid": "60305759522c40bb8086c86fd5bb0493",
+  "skillUuid": "88b5edd482144814ab7e9c891a70c055",
+  "skillKey": "little-forest-audiovisual-analyzer-abb1b4cefb5d4c2cab270d66aef15544",
+  "version": "1.0.3",
+  "namespace": "libtv-user-generated",
+  "description": "深度拆解日本电影《小森林》的视听语言",
+  "author": "柿子AICG",
+  "ownerId": 9163240,
+  "tags": [],
+  "likeCount": 23,
+  "usePv": 10,
+  "useUv": 9,
+  "publishAt": "2026-07-21 10:41:47",
+  "snapshotId": 29437,
+  "useScenario": "AI视频提示词、短剧拍摄、美食/田园/治愈系视频、广告/宣传片",
+  "inputType": "对话即可使用",
+  "outputContent": "把《小森林》的美学拆成可操作的参数，拿来就能用。",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/abb1b4cefb5d4c2cab270d66aef15544/1ae9a019c7d75bc5457651af206d4bf6bfc22573.png",
+  "resultType": 3,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=60305759522c40bb8086c86fd5bb0493",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/abb1b4cefb5d4c2cab270d66aef15544/66eb7359090554b42fcf498e9ae963386fccb334.mp4"
+  ],
+  "hasPublicSkillContent": true
+}

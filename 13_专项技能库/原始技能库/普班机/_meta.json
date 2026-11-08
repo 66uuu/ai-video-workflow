@@ -1,0 +1,33 @@
+{
+  "name": "普班机",
+  "templateUuid": "d4d94b30e6544cd09aaf502476390061",
+  "skillUuid": "ea40afa81e4541349d6a728a8adb6f77",
+  "skillKey": "robot-labor-automator-a18f080adfda4b008d2b388158077d1c",
+  "version": "1.0.9",
+  "namespace": "libtv-user-generated",
+  "description": "普通人都上班了，那机器人做什么",
+  "author": "烟墨鱼",
+  "ownerId": 2394275,
+  "tags": [],
+  "likeCount": 5,
+  "usePv": 4,
+  "useUv": 1,
+  "publishAt": "2026-08-20 10:39:50",
+  "snapshotId": 38918,
+  "useScenario": "专为制作“赛博反差喜剧”短视频的创作者设计。本 Skill 能快速产出统一世界观（人类娱乐即生产，机器人负责运转）的连载型纯视觉60-90秒短视频。",
+  "inputType": "只需提供主角设定（外貌、性格、原职业）、游戏事件（全息舱体验内容）及现实对比意向（是否需要同构对比）。AI 将自动补全细节，生成",
+  "outputContent": "产出 60-90 秒导演级纯视觉分镜，包含动态运镜、音效设计及角色提示词包，以及合成短片。",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/a18f080adfda4b008d2b388158077d1c/cdb0a3b50ccbc9b40049cbe18ac26881a0f40535.png",
+  "resultType": 3,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=d4d94b30e6544cd09aaf502476390061",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/a18f080adfda4b008d2b388158077d1c/fc9a4a335c1fe069811a9bddef79f266db086a09.mp4",
+    "https://libtv-res.liblib.art/upload-images/a18f080adfda4b008d2b388158077d1c/cd586330a228c128a9991d64195dc797bdc5281e.mp4"
+  ],
+  "hasPublicSkillContent": true
+}

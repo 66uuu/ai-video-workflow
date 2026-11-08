@@ -1,0 +1,34 @@
+{
+  "name": "采访类带货短视频",
+  "templateUuid": "f713f2d3f9854b02bb76c7c412c8f113",
+  "skillUuid": "94ba9ad19cd04631bc4417cdee888273",
+  "skillKey": "interview-ecom-video-c975deeca3624f1287d9b884e5397fb2",
+  "version": "1.0.0",
+  "namespace": "libtv-user-generated",
+  "description": "根据采访脚本、人物、场景、产品与参考素材，生成真人采访视频。",
+  "author": "万万",
+  "ownerId": 1375570,
+  "tags": [],
+  "likeCount": 20,
+  "usePv": 11,
+  "useUv": 6,
+  "publishAt": "2026-08-10 16:40:12",
+  "snapshotId": 35525,
+  "useScenario": "适用于街采、小区、居家、车内、工位、宝妈、夫妻、用户证言及产品体验等真人采访视频。支持脚本直出和采访视频还原，并可按需生成人物四宫格、纯场景、产品三视图及 Seedance 2.5 完整视频提示词。",
+  "inputType": "提供采访口播，建议补充人物、场景、季节、服饰和时长。指定人物时可要求人物四宫格；需要固定场景时可要求纯场景；产品入镜时上传产品图并说明谁拿、是否展示。提供参考视频时说明1:1还原或仅参考构图、情绪、镜头。",
+  "outputContent": "按任务自动输出人物四宫格、纯场景、产品三视图和完整 Seedance 2.5 采访提示词。未触发的资产自动跳过。已建立的人物、场景、产品统一用@简称调用；视频提示词包含生成设置、时间轴、逐句微表情、声音及负面限制。",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/c975deeca3624f1287d9b884e5397fb2/19a3969fdcb72c5e5044edc3e9b2835be979a8a7.png",
+  "resultType": 3,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=f713f2d3f9854b02bb76c7c412c8f113",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/c975deeca3624f1287d9b884e5397fb2/1ec0a2e46ef2af6c8b890b9e3cc13615ff9c4035.mp4",
+    "https://libtv-res.liblib.art/upload-images/c975deeca3624f1287d9b884e5397fb2/9f2797f0653a0f1e5882c1fe04a50bd9625d1e27.mp4",
+    "https://libtv-res.liblib.art/upload-images/c975deeca3624f1287d9b884e5397fb2/e47e7e6b429d968fb0a811475329ae8a305e3105.mp4"
+  ],
+  "hasPublicSkillContent": true
+}

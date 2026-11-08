@@ -1,0 +1,33 @@
+{
+  "name": "钩子公式生成器",
+  "templateUuid": "b96cf7b099354ad18b7a5ba254127782",
+  "skillUuid": "2d78133640974a40b5f702a0e1a15a21",
+  "skillKey": "video-hook-formula-d711f42ff4e248abb509c1ff3bc6f644",
+  "version": "1.0.1",
+  "namespace": "libtv-user-generated",
+  "description": "输入平台+内容类型，输出5个前3秒钩子方案",
+  "author": "Liana",
+  "ownerId": 10889281,
+  "tags": [],
+  "likeCount": 15,
+  "usePv": 11,
+  "useUv": 2,
+  "publishAt": "2026-08-01 23:56:07",
+  "snapshotId": 32661,
+  "useScenario": "短视频前3秒留不住人、不知道怎么开头吸引注意力的创作者；适配游戏PV、产品广告、知识科普、剧情等多类型",
+  "inputType": "对话框输入：平台 / 内容类型 / 目标受众，如\"抖音 / 游戏PV / Z世代玩家\"",
+  "outputContent": "5个钩子方案（每个含画面描述+文案+音效+适用理由）+ 末尾钩子公式库速查",
+  "coverUrl": null,
+  "resultType": 1,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=b96cf7b099354ad18b7a5ba254127782",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/d711f42ff4e248abb509c1ff3bc6f644/6cbe9d51b468c789c8fbd0df299840c7b7b05c51.md",
+    "https://libtv-res.liblib.art/upload-images/d711f42ff4e248abb509c1ff3bc6f644/d044baded55f479506e78961093309cb028480f0.md"
+  ],
+  "hasPublicSkillContent": true
+}

@@ -1,0 +1,32 @@
+{
+  "name": "黑白单色调炸裂动作漫画",
+  "templateUuid": "359337a152404d1d9119b1b54a37cfff",
+  "skillUuid": "ab6242187af145aa870225d2db002459",
+  "skillKey": "monochrome-action-comic-42a98d5f83a242568e1adfecc620ed3e",
+  "version": "1.0.0",
+  "namespace": "libtv-user-generated",
+  "description": "美漫风格黑白动作炸裂大片，一张图、一句梗概即可生成",
+  "author": "赛赛_Cecilia",
+  "ownerId": 4351068,
+  "tags": [],
+  "likeCount": 7,
+  "usePv": 7,
+  "useUv": 7,
+  "publishAt": "2026-07-23 16:23:43",
+  "snapshotId": 30102,
+  "useScenario": "适合制作英雄救援、城市追逐、极限战斗、科幻冒险等黑白动态漫画。可用于短视频平台、故事预告、原创角色展示、小说可视化、漫画分镜演示及创意广告，让一句灵感快速变成电影感漫画视频。",
+  "inputType": "输入一句话故事梗概，并上传一张人物、角色或场景参考图。Skill 会自动扩展剧情、设计动作锚点、统一角色形象并生成连贯分镜。建议图片主体清晰、无遮挡；请勿上传无权使用的角色、商标或影视画面。",
+  "outputContent": "用户将获得一支完整的黑白网格动作漫画视频，包含原创角色设定、连续动作分镜、漫画字幕、镜头推拉、网格转场与原创音效；同时提供角色连续性图、分镜图片及结构化故事板，方便继续修改和发布。",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/42a98d5f83a242568e1adfecc620ed3e/25af8995a7771d15bb7b0e178cfedd39fc574f57.png",
+  "resultType": 3,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=359337a152404d1d9119b1b54a37cfff",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/42a98d5f83a242568e1adfecc620ed3e/bf5523cec1a7dad18f6f6e97e55ae5636dfa39d3.mp4"
+  ],
+  "hasPublicSkillContent": true
+}

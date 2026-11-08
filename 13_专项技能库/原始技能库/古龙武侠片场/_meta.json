@@ -1,0 +1,35 @@
+{
+  "name": "古龙武侠片场",
+  "templateUuid": "46d7abbca3f14894b056dee49ae380a2",
+  "skillUuid": "dbbc4d3f4ed145a29ceaea431c5ede4d",
+  "skillKey": "gu-long-wuxia-film-creator-83f35cf0d0c14e749dbb1546e18af8be",
+  "version": "1.0.1",
+  "namespace": "libtv-user-generated",
+  "description": "输入主题，生成古龙武侠风格短片",
+  "author": "czh",
+  "ownerId": 2772595,
+  "tags": [],
+  "likeCount": 17,
+  "usePv": 10,
+  "useUv": 9,
+  "publishAt": "2026-07-14 13:18:09",
+  "snapshotId": 26836,
+  "useScenario": "适合想快速创作武侠风短视频的场景：个人创意表达、自媒体内容生产、武侠文化推广、短视频账号素材制作。输入任意主题即可自动生成具有1970年代邵氏电影质感的武侠短片，无需影视制作经验",
+  "inputType": "用户输入一个主题或故事梗概即可（如\"雨夜客栈重逢\"\"黄沙古道决斗\"）。可选提供：时长偏好（60s/90s/180s）、情绪基调（",
+  "outputContent": "自动生成一部完整的古龙武侠风格短片（1-3分钟），包含片头标题、邵氏复古风格分镜画面、古龙式旁白字幕、经典转场过渡和片尾，整体呈现1970年代港产武侠电影的胶片质感。",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/83f35cf0d0c14e749dbb1546e18af8be/8df02f56ba3765e460734308aafcbd202161692e.png",
+  "resultType": 3,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=46d7abbca3f14894b056dee49ae380a2",
+  "files": [
+    "SKILL.md",
+    "narrative-guide.md",
+    "shot-language.md",
+    "visual-style-guide.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/83f35cf0d0c14e749dbb1546e18af8be/8df02f56ba3765e460734308aafcbd202161692e.png"
+  ],
+  "hasPublicSkillContent": true
+}

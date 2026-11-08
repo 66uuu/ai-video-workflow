@@ -1,0 +1,32 @@
+{
+  "name": "Y2K风格换装视频",
+  "templateUuid": "719dfabf54914213a13483ba055cd284",
+  "skillUuid": "c090b3aa5cee411bb44a0d3f88ab2fde",
+  "skillKey": "y2k-high-angle-outfit-video-e5c05143074646b7ae70a88b81ec6c2a",
+  "version": "1.0.1",
+  "namespace": "libtv-user-generated",
+  "description": "上传角色五官图或穿搭图，自动生成15秒视频",
+  "author": "星美Fine",
+  "ownerId": 773892,
+  "tags": [],
+  "likeCount": 9,
+  "usePv": 5,
+  "useUv": 4,
+  "publishAt": "2026-08-05 14:14:12",
+  "snapshotId": 33541,
+  "useScenario": "用户上传1张五官图（模式B）或2-6张穿搭图（模式A），自动判断模式，生成带统一旋转转场和BGM的15秒Y2K换装视频。适用于小红书、抖音等短视频平台的换装内容创作。",
+  "inputType": "图片（1张角色五官图 或 2-6张穿搭图）+ 可选：穿搭名称、风格方向、配色方案、片尾文案、BGM风格",
+  "outputContent": "15秒9:16竖版Y2K俯视换装视频，5套造型切换，全程统一360°顺时针旋转转场+同色系霓虹光效，各场景镜头内有推拉/环绕/俯压等运动，片尾像素文案定格，合成Y2K风格BGM。",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/e5c05143074646b7ae70a88b81ec6c2a/1a7c93a3c083e04bb8f210e5c68d6b49fb2a4ccf.png",
+  "resultType": 3,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=719dfabf54914213a13483ba055cd284",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/e5c05143074646b7ae70a88b81ec6c2a/3084f103cd028a8f38f1249a1f7687c133007c97.mp4"
+  ],
+  "hasPublicSkillContent": true
+}

@@ -1,0 +1,33 @@
+{
+  "name": "语音厅登场转场",
+  "templateUuid": "a4255b5d9c7d409fb437f98be365b1cc",
+  "skillUuid": "b7fd7a50a1604e859d0dc758ddc5a98b",
+  "skillKey": "voice-room-entrance-transition-f671413d592f482381c81d6955c8e873",
+  "version": "1.0.2",
+  "namespace": "libtv-user-generated",
+  "description": "生成语音厅/直播厅人物华丽登场转场视频，可定制场景风格、性别",
+  "author": "蒜苗",
+  "ownerId": 3067024,
+  "tags": [],
+  "likeCount": 1,
+  "usePv": 1,
+  "useUv": 1,
+  "publishAt": "2026-09-05 22:49:18",
+  "snapshotId": 43733,
+  "useScenario": "语音厅/直播厅开场环节，每位主播或嘉宾以仪式转场方式逐一登场亮相，配合专属台词与场景氛围，营造沉浸式、高质感的厅内开场体验。适用于男厅、女厅及混合厅。",
+  "inputType": "确认场景风格（赛博古风/华丽宫殿/现代红毯/暗黑哥特/梦幻水晶/赛博霓虹）\n\n确认角色性别（全男/全女/男女混合）\n\n填写嘉宾名单：昵称、性别、气质（女：御姐/可爱/温柔/大女主/霸气/妩媚；男：帅气/不羁/阳光痞帅/高冷/成熟稳重）、专属台词、视觉关键词1-2个\n\n按Skill流程生成：开场空镜→单人转场循环→群体亮相",
+  "outputContent": "一条完整的60秒语音厅开场视频，含开场空镜+每人约6秒的单人转场+全员群像亮相收尾。附每位角色的视觉资产方案（服装、触发物、姿态描述）及全套可复用图片提示词。",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/f671413d592f482381c81d6955c8e873/72f9f7ad68d8d60203e78f3ab868202b03fae307.png",
+  "resultType": 3,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=a4255b5d9c7d409fb437f98be365b1cc",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/f671413d592f482381c81d6955c8e873/49c5cd8337e6b9da38f3b12a21745a1407299a53.mp4",
+    "https://libtv-res.liblib.art/upload-images/f671413d592f482381c81d6955c8e873/4ded518d5cca63df8f18da4f7c21cd3a2d295448.mp4"
+  ],
+  "hasPublicSkillContent": true
+}

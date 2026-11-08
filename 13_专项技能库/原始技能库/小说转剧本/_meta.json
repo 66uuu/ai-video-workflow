@@ -1,0 +1,33 @@
+{
+  "name": "小说转剧本",
+  "templateUuid": "8ae43f07d0e145898791a60c1d05ca50",
+  "skillUuid": "447c45405ad342049428d0733a5c383c",
+  "skillKey": "novel-to-script-converter-a8d58ff58d4d491ab888b6f941fea28a",
+  "version": "1.0.0",
+  "namespace": "libtv-user-generated",
+  "description": "小说转剧本 ，漫剧必备",
+  "author": "157****3933",
+  "ownerId": 10484263,
+  "tags": [],
+  "likeCount": 2,
+  "usePv": 8,
+  "useUv": 7,
+  "publishAt": "2026-09-11 00:12:50",
+  "snapshotId": 45213,
+  "useScenario": "用于小说转剧本",
+  "inputType": ".只做影视化格式转换，不进行二次创作。\n2.不得新增、删除、合并、调换或提前任何原剧情。\n3.人物姓名、身份、关系、动机、事件顺序和事件结果必须与原文一致。\n4.原著人物台词必须原句保留，不得缩写、润色、改字、换说话人或自行补充台词。\n5.心理描写可以转换成旁白、表情、动作和镜头，但不得改变原意。\n6.不得为了制造钩子，提前泄露后文剧情。\n7.不得为了限制时长删除内容。单集90秒装不下时，按照原文",
+  "outputContent": ".只做影视化格式转换，不进行二次创作。\n2.不得新增、删除、合并、调换或提前任何原剧情。\n3.人物姓名、身份、关系、动机、事件顺序和事件结果必须与原文一致。\n4.原著人物台词必须原句保留，不得缩写、润色、改字、换说话人或自行补充台词。\n5.心理描写可以转换成旁白、表情、动作和镜头，但不得改变原意。\n6.不得为了制造钩子，提前泄露后文剧情。\n7.不得为了限制时长删除内容。单集90秒装不下时，按照原文",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/a8d58ff58d4d491ab888b6f941fea28a/6ccd03315e89b65b4ea293684cacc646caf39ba2.png",
+  "resultType": 2,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=8ae43f07d0e145898791a60c1d05ca50",
+  "files": [
+    "SKILL.md",
+    "心流-小说转剧本V1.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/a8d58ff58d4d491ab888b6f941fea28a/6ccd03315e89b65b4ea293684cacc646caf39ba2.png"
+  ],
+  "hasPublicSkillContent": true
+}

@@ -1,0 +1,32 @@
+{
+  "name": "白模故事板",
+  "templateUuid": "f179ddc5cca249ca9d31e0446b6fdd75",
+  "skillUuid": "d01f24f34181437c8e08ebab90199f44",
+  "skillKey": "white-model-storyboard-d17deeda40324706a831efc453a02bed",
+  "version": "1.0.3",
+  "namespace": "libtv-user-generated",
+  "description": "根据需求生成白模故事板，适合3D和真实风格",
+  "author": "微信用户9dcf33",
+  "ownerId": 3839297,
+  "tags": [],
+  "likeCount": 15,
+  "usePv": 15,
+  "useUv": 13,
+  "publishAt": "2026-09-16 16:57:14",
+  "snapshotId": 46904,
+  "useScenario": "适合3D和真实风格",
+  "inputType": "上传资产图，告诉AI你的画面内容需求",
+  "outputContent": "白模故事板提示词以及视频提示词",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/d17deeda40324706a831efc453a02bed/0d9be945754fda7dec2c8e31e77f0ac937aaf22f.png",
+  "resultType": 2,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=f179ddc5cca249ca9d31e0446b6fdd75",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/d17deeda40324706a831efc453a02bed/0d9be945754fda7dec2c8e31e77f0ac937aaf22f.png"
+  ],
+  "hasPublicSkillContent": true
+}

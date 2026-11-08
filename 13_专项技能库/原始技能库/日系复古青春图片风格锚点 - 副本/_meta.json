@@ -1,0 +1,32 @@
+{
+  "name": "日系复古青春图片风格锚点 - 副本",
+  "templateUuid": "2a48bce0dab64d97b2465df8bd28ce51",
+  "skillUuid": "3ae1722ef30e46baadbd7f8c8345d8c4",
+  "skillKey": "japanese-retro-film-stylizer-3083b02322ff4f16870acb76944f195c",
+  "version": "1.0.1",
+  "namespace": "libtv-user-generated",
+  "description": "日系胶片风格图片生成指南",
+  "author": "小池Kstar",
+  "ownerId": 11471082,
+  "tags": [],
+  "likeCount": 2,
+  "usePv": 3,
+  "useUv": 3,
+  "publishAt": "2026-09-16 09:09:24",
+  "snapshotId": 46732,
+  "useScenario": "需要生成具有日系胶片感、复古青春电影氛围的图片时使用",
+  "inputType": "用户描述想要生成的场景、主题或人物状态（如\"两个女孩在海边骑自行车\"）",
+  "outputContent": "符合日系复古青春电影风格的图片，含完整的生成提示词",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/3083b02322ff4f16870acb76944f195c/5be1d4ce2672924efba284099fb4268260690131.png",
+  "resultType": 2,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=2a48bce0dab64d97b2465df8bd28ce51",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/3083b02322ff4f16870acb76944f195c/c0c99ce8e46243fdff94caedf9e8ef2f319ac22c.png"
+  ],
+  "hasPublicSkillContent": true
+}

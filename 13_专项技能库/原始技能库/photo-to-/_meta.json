@@ -1,0 +1,33 @@
+{
+  "name": "photo-to-",
+  "templateUuid": "92c9c849847c4a5dae7596bfd2def6e7",
+  "skillUuid": "b541b093e0aa47699e261ebf4e687919",
+  "skillKey": "photo-to-line-art-eb2fd414fecf4125a6773286b9ac2a9d",
+  "version": "1.0.3",
+  "namespace": "libtv-user-generated",
+  "description": "photo-to-line-art",
+  "author": "wangjuan",
+  "ownerId": 9369509,
+  "tags": [],
+  "likeCount": 3,
+  "usePv": 1,
+  "useUv": 1,
+  "publishAt": "2026-07-23 17:49:25",
+  "snapshotId": 30145,
+  "useScenario": "生图 875",
+  "inputType": "输入任意图片",
+  "outputContent": "线稿图",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/eb2fd414fecf4125a6773286b9ac2a9d/07d62348354ea0d2ae4ae25928251024007c31cb.png",
+  "resultType": 2,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=92c9c849847c4a5dae7596bfd2def6e7",
+  "files": [
+    "SKILL.md",
+    "references/style-guide.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/eb2fd414fecf4125a6773286b9ac2a9d/07d62348354ea0d2ae4ae25928251024007c31cb.png"
+  ],
+  "hasPublicSkillContent": true
+}

@@ -1,0 +1,32 @@
+{
+  "name": "电影级 AI 视觉资产导演",
+  "templateUuid": "200f3f26eb614f4d9ea237993c172495",
+  "skillUuid": "479b95338687463495c90f6797cdc1b2",
+  "skillKey": "cinematic-visual-asset-decomposer-8202932176ac485b9572011074a9f39c",
+  "version": "1.0.1",
+  "namespace": "libtv-user-generated",
+  "description": "剧本不会做参考图？一键拆解角色、场景、道具和关键帧资产。",
+  "author": "LibTV",
+  "ownerId": 5924079,
+  "tags": [],
+  "likeCount": 48,
+  "usePv": 106,
+  "useUv": 58,
+  "publishAt": "2026-09-07 17:36:26",
+  "snapshotId": 44133,
+  "useScenario": "适合已有剧本、分镜或角色设定，准备进入 AI 视频制作的用户。自动规划人物、场景、道具、首尾帧、状态图和反打图等视频前置资产，并生成高可用参考图提示词，减少后续人物漂移、场景错乱和重复抽卡。资产准备完成后，可继续使用《电影级 AI 视频提示词导演》Skill，绑定 @参考素材 并生成可直接执行的视频提示词。",
+  "inputType": "上传剧本、分镜、角色设定或已有参考图，并说明准备制作的内容。Skill 会先解析剧情、规划必要资产和生成优先级，再为每项资产生成专业图片提示词、统一命名，并标注后续视频生成时“参考什么、不继承什么”。",
+  "outputContent": "输出视频前置资产清单、生成优先级、角色/场景/道具/关键帧图片提示词、统一资产命名，以及每张图的视频交接说明。复杂项目还会检查缺失资产，并判断哪些应先补图再进入视频生成。",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/8202932176ac485b9572011074a9f39c/39b029d707e87c287af62fb7073c8323ea29a86a.png",
+  "resultType": 2,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=200f3f26eb614f4d9ea237993c172495",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/8202932176ac485b9572011074a9f39c/39b029d707e87c287af62fb7073c8323ea29a86a.png"
+  ],
+  "hasPublicSkillContent": true
+}

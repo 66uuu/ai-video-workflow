@@ -1,0 +1,32 @@
+{
+  "name": "全能经典影视作品风格复刻",
+  "templateUuid": "ce13353671d5403c8cb6cb10b373fd48",
+  "skillUuid": "58fb2bed0d6b4febaf29f61bd0ba38d9",
+  "skillKey": "classic-cinematic-replicator-eca58478c3bf4c0098e39f3eceab5811",
+  "version": "1.0.0",
+  "namespace": "libtv-user-generated",
+  "description": "AI 影视创作中枢，自动识别意图，提供脚本、画面、空镜、反推",
+  "author": "155****1271",
+  "ownerId": 503639,
+  "tags": [],
+  "likeCount": 5,
+  "usePv": 10,
+  "useUv": 6,
+  "publishAt": "2026-08-11 23:58:43",
+  "snapshotId": 36014,
+  "useScenario": "1. 自媒体与短视频创作；2.商业广告与产品种草；3.小说推文与故事可视化；4.AI 影视与短片制作；5. AI 创作“翻车”急救。",
+  "inputType": "只需要像跟真人导演聊天一样，用大白话描述你的需求即可。全程不需要你记任何专业术语或提示词公式，它会自动识别你的意图，调用对应的专业模块，把摄影参数、光影布局、胶片质感和排他性约束全部帮你配好，最终输出一段可以直接复制使用的电影级提示词。",
+  "outputContent": "完整的分镜脚本表格、 电影级提示词、带排他性约束的空镜提示词（特色）、 可复用的风格参数卡、修复后的提示词。",
+  "coverUrl": null,
+  "resultType": 1,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=ce13353671d5403c8cb6cb10b373fd48",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/eca58478c3bf4c0098e39f3eceab5811/8af221e2b9bd5f58af6b2e9c7a218009bed03d7c.md"
+  ],
+  "hasPublicSkillContent": true
+}

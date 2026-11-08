@@ -1,0 +1,32 @@
+{
+  "name": "大师电影海报设计",
+  "templateUuid": "2792faa219f3462890195cc6685e5193",
+  "skillUuid": "698bc6c90d4a4738863df6b00313f789",
+  "skillKey": "cinematic-poster-designer-b85befd035a84c7d99b6927cfa3fa3c5",
+  "version": "1.0.0",
+  "namespace": "libtv-user-generated",
+  "description": "用于电影级电脑海报设计的SKILL",
+  "author": "星球的AI畅想",
+  "ownerId": 1619666,
+  "tags": [],
+  "likeCount": 13,
+  "usePv": 70,
+  "useUv": 31,
+  "publishAt": "2026-08-03 00:50:04",
+  "snapshotId": 32804,
+  "useScenario": "电影级影像质感的生成",
+  "inputType": "【输入意向】【期望内容】【颜色配比】【电影级参考】\n【可简单描述自动生成】【可以详细的描述去生成】",
+  "outputContent": "根据简报、视频计划、故事板或角色设计，创作电影海报概念和最终主视觉图",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/b85befd035a84c7d99b6927cfa3fa3c5/a7162dfc214af04649be8e47cb89c4ff9bb908ba.png",
+  "resultType": 2,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=2792faa219f3462890195cc6685e5193",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/b85befd035a84c7d99b6927cfa3fa3c5/c75528df19e97bf87243cd428f3fe3c2c1f69b7a.jpg"
+  ],
+  "hasPublicSkillContent": true
+}

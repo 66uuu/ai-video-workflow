@@ -1,0 +1,32 @@
+{
+  "name": "剧情连续一键出片",
+  "templateUuid": "c0e2f928c8d641dca487302852e51c87",
+  "skillUuid": "08992a1d11e6478c87e665297a7cdf6a",
+  "skillKey": "serial-drama-producer-f40723c753f14537b890fc756ff40f9d",
+  "version": "1.0.0",
+  "namespace": "libtv-user-generated",
+  "description": "连续剧制作必备",
+  "author": "微信用户78988c",
+  "ownerId": 3712815,
+  "tags": [],
+  "likeCount": 9,
+  "usePv": 18,
+  "useUv": 12,
+  "publishAt": "2026-07-21 14:39:25",
+  "snapshotId": 29523,
+  "useScenario": "```markdown\n当用户要制作有完整剧本的多集短剧、竖屏/横屏短剧、分集剧情视频、单集片段、单个镜头、角色形象、场景图、道具图、镜头视频、BGM 或剪辑导出时，使用本 Skill。\n\n用户通常会带着大量上下文进入对话，可能包含完整剧本、角色形象图、场景图、道具图或其他关键参考元素。制作不一定从第一集开始；用户可能从任意一集、任意镜头切入，也可能先从角色/场景建立阶段切入。",
+  "inputType": "```markdown\n接到用户当下任务后，按依赖关系补齐尚未就绪的前置项，再执行当前任务；不要假定用户会按固定顺序推进，也不要强行跑完整个工作流。\n```",
+  "outputContent": "- 图片分辨率：2K。\n- 镜头视频模型：Seedance2.0。\n- 视频生成方式：MultiModalToVideo。\n- 视频分辨率：720p。\n- 单镜头时长：优先 10-15 秒，绝不超过 15 秒。\n- 角色图：横向 16:9，一张图内包含半身特写与正/侧",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/f40723c753f14537b890fc756ff40f9d/85d2569132e4cc0dc79f641a4d59dc54771393d5.png",
+  "resultType": 3,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=c0e2f928c8d641dca487302852e51c87",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/f40723c753f14537b890fc756ff40f9d/2aa57cef240c607f24ebe1488c2071ae428f68a6.mp4"
+  ],
+  "hasPublicSkillContent": true
+}

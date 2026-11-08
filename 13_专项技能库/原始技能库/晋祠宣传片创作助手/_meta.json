@@ -1,0 +1,32 @@
+{
+  "name": "晋祠宣传片创作助手",
+  "templateUuid": "3590c81167224ce9a63b8bae058aa1a7",
+  "skillUuid": "a053d9debb8b4e7387c96548238494ee",
+  "skillKey": "cultural-tourism-promo-3bc4e55986484d2cbe1f6da50a91966c",
+  "version": "1.0.1",
+  "namespace": "libtv-user-generated",
+  "description": "晋祠专属文旅宣传片创作方案",
+  "author": "微信用户9d7ecf",
+  "ownerId": 5356909,
+  "tags": [],
+  "likeCount": null,
+  "usePv": 1,
+  "useUv": 1,
+  "publishAt": "2026-08-25 13:59:13",
+  "snapshotId": 40482,
+  "useScenario": "为晋祠景区内不同文物/场景制作宣传片时，每次只需指定主题标题和片头落入的核心场景，其余风格与资产全部复用固定模板",
+  "inputType": "主题标题文字、片头航拍落入的核心场景名称、生成所用AI模型选择",
+  "outputContent": "包含主题标题、片头落点场景、AI模型选择、固定资产清单、分镜图片上传规范与完整创作方案",
+  "coverUrl": null,
+  "resultType": 1,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=3590c81167224ce9a63b8bae058aa1a7",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/3bc4e55986484d2cbe1f6da50a91966c/33edc16c0ba7dc53a0aa2c3cb0888bf8e9648fca.md"
+  ],
+  "hasPublicSkillContent": true
+}

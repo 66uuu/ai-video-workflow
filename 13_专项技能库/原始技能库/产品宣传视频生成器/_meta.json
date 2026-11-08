@@ -1,0 +1,32 @@
+{
+  "name": "产品宣传视频生成器",
+  "templateUuid": "7d7c67f0a2c545859ff46ed6ef75c9e6",
+  "skillUuid": "2b1f26cb4bff4c679a9e745bd03a0c1f",
+  "skillKey": "product-promo-video-generator-3083b02322ff4f16870acb76944f195c",
+  "version": "1.0.1",
+  "namespace": "libtv-user-generated",
+  "description": "给定产品图一键生成宣传视频",
+  "author": "小池Kstar",
+  "ownerId": 11471082,
+  "tags": [],
+  "likeCount": 1,
+  "usePv": 5,
+  "useUv": 4,
+  "publishAt": "2026-09-16 09:12:42",
+  "snapshotId": 46733,
+  "useScenario": "需要为消费电子、数码配件等产品快速生成多场景宣传视频时使用",
+  "inputType": "产品实拍参考图（1张）、产品名称、风格关键词（如极简/高端/科技感）",
+  "outputContent": "6条产品分镜宣传视频，覆盖多场景背景，组成完整视频组",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/3083b02322ff4f16870acb76944f195c/f4fa008daf5636e6cd9e1dda6e95f0f188016f00.png",
+  "resultType": 3,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=7d7c67f0a2c545859ff46ed6ef75c9e6",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/3083b02322ff4f16870acb76944f195c/24db81f94a42b673e3a1eb8fc2e14422d8983b8e.mp4"
+  ],
+  "hasPublicSkillContent": true
+}

@@ -1,0 +1,32 @@
+{
+  "name": "阿桃分镜·视觉参考库",
+  "templateUuid": "35c6f27b4ea34fee82124a7c0073fc4a",
+  "skillUuid": "f2d0b0c934ea452da520949ced3129db",
+  "skillKey": "visual-storyboard-reference-guide-7618d74b46c6441ab86093323f1404f5",
+  "version": "1.0.0",
+  "namespace": "libtv-user-generated",
+  "description": "阿桃短剧分镜视觉参考规范",
+  "author": "微信用户691d0b",
+  "ownerId": 10302396,
+  "tags": [],
+  "likeCount": null,
+  "usePv": 24,
+  "useUv": 1,
+  "publishAt": "2026-09-21 04:37:53",
+  "snapshotId": 48653,
+  "useScenario": "生成阿桃短剧视频时，与工作流配合调用，覆盖视觉风格和镜头语言决策",
+  "inputType": "场景情绪、镜头需求、视觉风格问题",
+  "outputContent": "情绪-镜头决策规则、视觉风格基准、美学参考原则、光线规范、标准样板提示词",
+  "coverUrl": null,
+  "resultType": 1,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=35c6f27b4ea34fee82124a7c0073fc4a",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/7618d74b46c6441ab86093323f1404f5/a0fc48e6790f0e1bbf1a184460f3a8a896ad544a.md"
+  ],
+  "hasPublicSkillContent": true
+}

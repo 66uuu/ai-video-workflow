@@ -1,0 +1,35 @@
+{
+  "name": "次时代白女vlog风格",
+  "templateUuid": "0b6520ef296940a09652a53a6113f93d",
+  "skillUuid": "17bd722e77804d19a1188863219fb7cb",
+  "skillKey": "thatgirl-vlog-aesthetic-42a98d5f83a242568e1adfecc620ed3e",
+  "version": "1.0.1",
+  "namespace": "libtv-user-generated",
+  "description": "Thatgirl的松弛感是当下全球社交媒体最具传播力的美学。",
+  "author": "赛赛_Cecilia",
+  "ownerId": 4351068,
+  "tags": [],
+  "likeCount": 14,
+  "usePv": 6,
+  "useUv": 3,
+  "publishAt": "2026-07-23 14:22:48",
+  "snapshotId": 30066,
+  "useScenario": "「松弛感」是当下全球社交媒体最具传播力的视觉美学。本Skill复刻的是风靡TikTok/Instagram的**\"That Girl\" / \"Clean Girl Aesthetic\" / \"Effortless Vlog\"**风格——一种看似随意实则精心构建的生活美学影像，适用于商品展示、日常Vlog、商业氛围感场景或博主IP人设打造。",
+  "inputType": "\"晨间手冲咖啡\"、\"黄昏散步买花\"或\"雨天窝沙发看书\"，选择视频时长（15秒~2分钟），还可以上传一张参考图定制主角形象。AI自动搞定角色锚定、分镜规划、逐镜头生成、配乐剪辑全流程。零门槛，你的松弛感vlog从一句话开始。",
+  "outputContent": "一支可直接发布的完整松弛感vlog——暖调胶片质感、手持呼吸感运镜、治愈系生活碎片叙事，搭配lo-fi配乐与环境白噪音。每个画面都在说\"生活本该如此从容\"，看完就想保存、想转发、想成为视频里那个女孩。适用于小红书、TikTok、Instagram日更内容生产。",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/42a98d5f83a242568e1adfecc620ed3e/0b4f9e16dbd25ddadc50fd3ce34ab7a5be4d6bd9.png",
+  "resultType": 3,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=0b6520ef296940a09652a53a6113f93d",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/42a98d5f83a242568e1adfecc620ed3e/4edae9df9b127d4ff42f567ef7cab51d0a25aa5f.mp4",
+    "https://libtv-res.liblib.art/upload-images/42a98d5f83a242568e1adfecc620ed3e/f8798a8730d84431a624a46434ca98a100e7243b.mp4",
+    "https://libtv-res.liblib.art/upload-images/42a98d5f83a242568e1adfecc620ed3e/0a7cd478ea63bd4494c00f967797a4d80abbe40b.mp4",
+    "https://libtv-res.liblib.art/upload-images/42a98d5f83a242568e1adfecc620ed3e/b97d23519519ec92e82a92843e7baed0ad7312d9.mp4"
+  ],
+  "hasPublicSkillContent": true
+}

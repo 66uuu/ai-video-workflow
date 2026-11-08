@@ -1,0 +1,37 @@
+{
+  "name": "工业风家具设计SKILL",
+  "templateUuid": "09524cce59a44b39abcc46fbdafe356f",
+  "skillUuid": "8dddd5da68fa484ea1da908232a44cce",
+  "skillKey": "industrial-furniture-designer-b85befd035a84c7d99b6927cfa3fa3c5",
+  "version": "1.0.1",
+  "namespace": "libtv-user-generated",
+  "description": "工业风家具设计SKILL",
+  "author": "星球的AI畅想",
+  "ownerId": 1619666,
+  "tags": [
+    "通用技能"
+  ],
+  "likeCount": 12,
+  "usePv": 7,
+  "useUv": 6,
+  "publishAt": "2026-09-11 20:39:50",
+  "snapshotId": 45526,
+  "useScenario": "工业风家具设计\n如果用MJ模型一定要给Agent+一句话：全部提示词需要在1000个字符数（计空格）以内。",
+  "inputType": "[家具类型] + [骨架与连接材质] + [透光/软性点缀材质] + [结构逻辑细节] + [环境与光影] \n桌案（书桌/边几）、坐具（休闲椅/沙发）、储物（模块化柜体/置物架）、氛围灯具\n硬质骨架：工业T型槽铝合金型材、阳极氧化铝、弯折镀铬钢管、实木与桦木多层板\n透明/半透明介质：着色/荧光亚克力板、波纹/长虹玻璃、钢化玻璃桌面\n软性材料：粗管状立体编织布艺、模块化方块海绵坐垫、高科技",
+  "outputContent": "工业风家具",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/b85befd035a84c7d99b6927cfa3fa3c5/03ee8e6c26c165dbc063d64a9dd3087f0876173c.png",
+  "resultType": 2,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=09524cce59a44b39abcc46fbdafe356f",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/b85befd035a84c7d99b6927cfa3fa3c5/0d7298f311a7169b9fc1fce68e2d59e27135d81f.png",
+    "https://libtv-res.liblib.art/upload-images/b85befd035a84c7d99b6927cfa3fa3c5/4bba14272b20e8a6ff4a6b23db3e8740a718e51e.png",
+    "https://libtv-res.liblib.art/upload-images/b85befd035a84c7d99b6927cfa3fa3c5/212ae5280b478e3274daf775fcf44b62ee42e729.png",
+    "https://libtv-res.liblib.art/upload-images/b85befd035a84c7d99b6927cfa3fa3c5/d5cf86418223c8a4dba3a5e5f100d6dcd4888c29.png"
+  ],
+  "hasPublicSkillContent": true
+}

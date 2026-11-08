@@ -1,0 +1,37 @@
+{
+  "name": "银龄选角 Casting",
+  "templateUuid": "d634dc35cfe74554b8ba6de1560a93e6",
+  "skillUuid": "4fd1c2ce128140738602b65ee072af9d",
+  "skillKey": "senior-character-casting-ef77fa37cc044640a7aadddfe3022cb9-4fd1c2ce",
+  "version": "1.0.0",
+  "namespace": "libtv-user-generated",
+  "description": "专注于老年角色的影视级选角与人物设定。",
+  "author": "视觉新青年",
+  "ownerId": 4364112,
+  "tags": [
+    "专业影视"
+  ],
+  "likeCount": 62,
+  "usePv": 14,
+  "useUv": 13,
+  "publishAt": "2026-07-22 16:14:36",
+  "snapshotId": 29817,
+  "useScenario": "专注于老年角色的影视级选角与人物设定。120多积分，根据剧本、人物小传、年龄、职业、社会背景、性格特征与生活经历，生成真正具有岁月感、故事感与角色辨识度的银龄人物形象。",
+  "inputType": "只需要输入：\n年龄、性别、身份/职业、性格、故事背景、你想要的风格\n例如：我需要一个老年女性角色，68岁，退休教师，性格温和但内心坚韧，独自生活很多年，平时穿朴素衬衫和针织外套，气质知性、克制、有岁月感。用于家庭题材短剧。请为她做银龄选角，输出3个不同方向，并推荐最适合的一个，最后生成面部特写、全身图、表情九宫格和三视图。",
+  "outputContent": "角色分析、3套选角方向、自动评分、推荐方案、影视级面部特写、全身定妆图、表情九宫格和正侧背三视图。",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/ef77fa37cc044640a7aadddfe3022cb9/806bff4d712fef6183441265d0c298db3f7a1c39.png",
+  "resultType": 2,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=d634dc35cfe74554b8ba6de1560a93e6",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/ef77fa37cc044640a7aadddfe3022cb9/047c85ce5ae18462defa1e2c63771e0b7fd1e06e.png",
+    "https://libtv-res.liblib.art/upload-images/ef77fa37cc044640a7aadddfe3022cb9/ddf7d9a7d891e3c0305ca71d990cb98837757f70.png",
+    "https://libtv-res.liblib.art/upload-images/ef77fa37cc044640a7aadddfe3022cb9/a7c49fe994cdf1dc288aed518e76daf930c898e5.png",
+    "https://libtv-res.liblib.art/upload-images/ef77fa37cc044640a7aadddfe3022cb9/c7aceb5e6ea38e6d15623c72847ed08b678639ba.png"
+  ],
+  "hasPublicSkillContent": true
+}

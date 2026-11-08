@@ -1,0 +1,34 @@
+{
+  "name": "排版雕塑海报生成器",
+  "templateUuid": "90524362b61847c6b4d808f440bfde08",
+  "skillUuid": "c7f5b78b79914dd0b2eef77703d1d52f",
+  "skillKey": "typographic-sculpture-beverage-poster-e5c05143074646b7ae70a88b81ec6c2a-c7f5b78b",
+  "version": "1.0.3",
+  "namespace": "libtv-user-generated",
+  "description": "生成\"排版即图形\"高端平面海报提示词",
+  "author": "星美Fine",
+  "ownerId": 773892,
+  "tags": [],
+  "likeCount": 1,
+  "usePv": 6,
+  "useUv": 3,
+  "publishAt": "2026-08-31 09:36:55",
+  "snapshotId": 42158,
+  "useScenario": "需要生成\"排版即图形\"风格的高端平面海报时使用；支持上传参考图自动匹配任意物体轮廓，适合品牌海报、复古先锋风格内容创作",
+  "inputType": "可选：参考图（上传后自动匹配轮廓）、主体轮廓类型（默认奶昔杯）、背景色（默认深蓝）、配色方案（默认蓝粉白）、画幅比例（默认4:5）",
+  "outputContent": "适用所有图片提示词，含正向提示词、负向提示词及自检清单",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/e5c05143074646b7ae70a88b81ec6c2a/8ce6dff9090bcf2cc326169be8ed7875f477afce.png",
+  "resultType": 2,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=90524362b61847c6b4d808f440bfde08",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/e5c05143074646b7ae70a88b81ec6c2a/8ce6dff9090bcf2cc326169be8ed7875f477afce.png",
+    "https://libtv-res.liblib.art/upload-images/e5c05143074646b7ae70a88b81ec6c2a/fe31170219a81e3897ff977140c50d8c05c382df.png",
+    "https://libtv-res.liblib.art/upload-images/e5c05143074646b7ae70a88b81ec6c2a/c10912fd7fbdae0d2e91799f31c84b11602dc2fa.png"
+  ],
+  "hasPublicSkillContent": true
+}

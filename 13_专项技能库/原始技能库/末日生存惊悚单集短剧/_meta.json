@@ -1,0 +1,33 @@
+{
+  "name": "末日生存惊悚单集短剧",
+  "templateUuid": "fcc38fc7ad8146cab4dc3de9081ccc42",
+  "skillUuid": "a46698e84af24efb8f359e37a36713ea",
+  "skillKey": "apocalyptic-survival-thriller-bf9a7b6738134af396696e950a75c276",
+  "version": "1.0.0",
+  "namespace": "libtv-user-generated",
+  "description": "按照生成电影感末日生存惊悚短剧",
+  "author": "百陌",
+  "ownerId": 10522618,
+  "tags": [],
+  "likeCount": 23,
+  "usePv": 26,
+  "useUv": 13,
+  "publishAt": "2026-08-03 15:40:31",
+  "snapshotId": 32906,
+  "useScenario": "用于创作生物灾难、外星入侵或自然灾害题材的单集末日生存短剧。适合用户提供一句话创意、故事梗概、人物设定或现有剧本后，完成类型判断、剧本强化、分镜设计、镜头语言与视觉风格规划。",
+  "inputType": "输入一句话创意、故事梗概、人物设定或不超过千字的单集剧本；可补充灾难类型、时长、画幅、人物关系、参考影片和视觉偏好。信息不足时，Skill会先询问关键设定，再继续创作。",
+  "outputContent": "输出单集末日生存惊悚短剧创作方案，包括故事定位、世界规则、人物设计、文学剧本、分镜头脚本、镜头语言、色彩光影、画面风格及图片与视频生成指导。",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/bf9a7b6738134af396696e950a75c276/18ee77c0c59002f0e1960512017d59e32d96aabc.png",
+  "resultType": 3,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=fcc38fc7ad8146cab4dc3de9081ccc42",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/bf9a7b6738134af396696e950a75c276/87adae348b9dd760b5da5f7a3017a2a5c22f692e.mp4",
+    "https://libtv-res.liblib.art/upload-images/bf9a7b6738134af396696e950a75c276/d4a528a6d1488ab58c2f98baafe5809dcb377d86.mp4"
+  ],
+  "hasPublicSkillContent": true
+}

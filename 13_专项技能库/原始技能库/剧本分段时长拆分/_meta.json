@@ -1,0 +1,32 @@
+{
+  "name": "剧本分段时长拆分",
+  "templateUuid": "ac9d87a5930542bb84da15d295eff697",
+  "skillUuid": "4e944e0e8ab147859dc4a200e6dec740",
+  "skillKey": "script-segment-splitter-c28b613014f648aa9b2264500e7bf886",
+  "version": "1.0.3",
+  "namespace": "libtv-user-generated",
+  "description": "准确评估剧本时长，并按分镜时长上限智能拆分为多个片段",
+  "author": "安逸",
+  "ownerId": 2293215,
+  "tags": [],
+  "likeCount": 26,
+  "usePv": 15,
+  "useUv": 14,
+  "publishAt": "2026-07-14 20:12:43",
+  "snapshotId": 27046,
+  "useScenario": "你有一份 AI 漫剧剧本（含台词、动作描写、场景说明），需要在正式交给即梦生成之前，先把它按合理的时长上限（如 15 秒/段）拆成多个片段。剧本本身是连续的，直接硬切会打断台词和情绪——你需要的是在对话轮次、动作节点、情绪转折这些\"自然呼吸点\"上智能切分。这个技能就是专门做这件事：只做拆分，不修改原文。",
+  "inputType": "给出完整剧本文本，并告知分镜的时长上限（如 15 秒、20 秒、30 秒）。如果没指定上限，技能会先问你。之后全自动执行：扫描全",
+  "outputContent": "一份带秒数标记的分段剧本，格式为 【分段1-秒数15s】 + 原文内容，段落间空行分隔。所有分段合并后等于完整原文，一字不改、一字不漏。每段的秒数为估算值，会在输出时提醒用户此为参考、实际制作可能有偏差。如果某段估算短于 5 秒，也会提示是否与相邻段合并。",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/c28b613014f648aa9b2264500e7bf886/6b110db1e05f262dfff26810a18dac58c334e7f7.png",
+  "resultType": 2,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=ac9d87a5930542bb84da15d295eff697",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/c28b613014f648aa9b2264500e7bf886/6b110db1e05f262dfff26810a18dac58c334e7f7.png"
+  ],
+  "hasPublicSkillContent": true
+}

@@ -1,0 +1,33 @@
+{
+  "name": "YE-亚马逊套图",
+  "templateUuid": "592f7c771b1549adaeb965df9ce2a229",
+  "skillUuid": "f22c739aded04e69ab2ab590aa0a69e5",
+  "skillKey": "amazon-product-image-builder-51fb04ef32224298913b7d3a8dffafb3",
+  "version": "1.0.3",
+  "namespace": "libtv-user-generated",
+  "description": "制作产品主图、A+",
+  "author": "CHEN",
+  "ownerId": 4416428,
+  "tags": [],
+  "likeCount": 7,
+  "usePv": 8,
+  "useUv": 6,
+  "publishAt": "2026-09-07 18:24:35",
+  "snapshotId": 44149,
+  "useScenario": "一键产品图",
+  "inputType": "添加产品白底图（可选择是否添加产品材质及参数等信息）",
+  "outputContent": "符合亚马逊平台规则的产品套图",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/51fb04ef32224298913b7d3a8dffafb3/806e3b2609c0834807aeb50e2ee811a834b8f808.png",
+  "resultType": 2,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=592f7c771b1549adaeb965df9ce2a229",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/51fb04ef32224298913b7d3a8dffafb3/4857c9362282d8fc8ef8559db3e4aec7a13e1edc.jpg",
+    "https://libtv-res.liblib.art/upload-images/51fb04ef32224298913b7d3a8dffafb3/f22656b48b59b544781a7741c5dac60ce3e82932.jpg"
+  ],
+  "hasPublicSkillContent": true
+}

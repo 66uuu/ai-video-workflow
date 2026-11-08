@@ -1,0 +1,33 @@
+{
+  "name": "爆款封面一键复刻",
+  "templateUuid": "9be124647db54d349c778b82687b8911",
+  "skillUuid": "d38a43c196424164a5ac45810fc8f440",
+  "skillKey": "viral-cover-replicator-0184c7b0b8ee44b19fd90db02f83c4a2",
+  "version": "1.0.1",
+  "namespace": "libtv-user-generated",
+  "description": "一键生成热门同款视频封面",
+  "author": "知知乍现",
+  "ownerId": 5952018,
+  "tags": [],
+  "likeCount": 60,
+  "usePv": 116,
+  "useUv": 48,
+  "publishAt": "2026-07-16 16:06:28",
+  "snapshotId": 27742,
+  "useScenario": "自媒体封面、电商首图、海报设计",
+  "inputType": "上传一张对标参考封面和一张自己的素材图，自动拆解参考封面的版式、配色、字体层级、光影、构图与视觉节奏，并生成一张风格相似的封面图",
+  "outputContent": "高质量封面图",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/0184c7b0b8ee44b19fd90db02f83c4a2/fdc99f725104e35d245bb263b300ce3e0316f9fd.png",
+  "resultType": 2,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=9be124647db54d349c778b82687b8911",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/0184c7b0b8ee44b19fd90db02f83c4a2/12c8a702ce7b8d749979703305f5fdfcdfc48997.png",
+    "https://www.liblib.tv/canvas/chat-share?shareId=RkJk4k0Esb"
+  ],
+  "hasPublicSkillContent": true
+}

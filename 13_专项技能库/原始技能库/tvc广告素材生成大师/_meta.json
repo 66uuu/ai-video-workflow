@@ -1,0 +1,32 @@
+{
+  "name": "tvc广告素材生成大师",
+  "templateUuid": "50c4b887e3ed49829e6d4f0e360a9468",
+  "skillUuid": "2442d8cd867b447c87197a4261540acc",
+  "skillKey": "tvc-commercial-creator-797592165c1c4c478ee88ed744ce0100",
+  "version": "1.0.3",
+  "namespace": "libtv-user-generated",
+  "description": "你想要的任何tvc广告质感的视频，都可以生成出来",
+  "author": "微信用户43b321",
+  "ownerId": 3262261,
+  "tags": [],
+  "likeCount": 21,
+  "usePv": 21,
+  "useUv": 18,
+  "publishAt": "2026-07-30 16:44:03",
+  "snapshotId": 32113,
+  "useScenario": "做广告视频，宣传片视频等",
+  "inputType": "简单的描述，想生成什么素材。",
+  "outputContent": "广告视频",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/797592165c1c4c478ee88ed744ce0100/6ff84747b7f20be40080ed9bc47646cc3e769514.png",
+  "resultType": 3,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=50c4b887e3ed49829e6d4f0e360a9468",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/797592165c1c4c478ee88ed744ce0100/3b4db49ea06bf4ba76863e68d3ed4f2c6774e80c.mp4"
+  ],
+  "hasPublicSkillContent": true
+}

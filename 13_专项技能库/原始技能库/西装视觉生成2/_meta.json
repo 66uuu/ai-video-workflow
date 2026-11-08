@@ -1,0 +1,32 @@
+{
+  "name": "西装视觉生成2",
+  "templateUuid": "eed45f1ef5374db99f3794fb2118fd74",
+  "skillUuid": "7cc171694cc144d59aa82a5775a01232",
+  "skillKey": "business-suit-visualizer-34aa74386cf74587a4c004c61f5a1089",
+  "version": "1.0.19",
+  "namespace": "libtv-user-generated",
+  "description": "外贸西装套装独立站视觉生成",
+  "author": "摩尔多瓦铁匠",
+  "ownerId": 63321,
+  "tags": [],
+  "likeCount": null,
+  "usePv": 1,
+  "useUv": 1,
+  "publishAt": "2026-09-11 13:49:28",
+  "snapshotId": 45373,
+  "useScenario": "为外贸独立站生成男女西装套装商业视觉素材，包括白底图、细节图、面料图、场景图",
+  "inputType": "提供西装套装产品图片，选择出图类型（白底图/场景图/两种都要）",
+  "outputContent": "白底图6张+场景图1张，全部1:1，General Image Pro模型，2K分辨率",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/34aa74386cf74587a4c004c61f5a1089/002361e1001ac0a05a672f98be10230e7fb65a4a.jpg",
+  "resultType": 2,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=eed45f1ef5374db99f3794fb2118fd74",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/34aa74386cf74587a4c004c61f5a1089/4a107770e743e49bd0f8a4d5eef877e086424160.png"
+  ],
+  "hasPublicSkillContent": true
+}

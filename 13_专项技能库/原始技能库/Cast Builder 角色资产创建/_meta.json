@@ -1,0 +1,32 @@
+{
+  "name": "Cast Builder 角色资产创建",
+  "templateUuid": "03ffc490615c4202bdfb67edce2eb8d8",
+  "skillUuid": "8a87d99de708466db56b83baa964bcb3",
+  "skillKey": "character-consistency-assets-29f63e6f7cd3462a8ef68fadbefec885",
+  "version": "1.0.16",
+  "namespace": "libtv-user-generated",
+  "description": "三路线定脸、服装定妆、造型细节卡与无头三格角色资产工作流",
+  "author": "Rity",
+  "ownerId": 10537384,
+  "tags": [],
+  "likeCount": 245,
+  "usePv": 1078,
+  "useUv": 478,
+  "publishAt": "2026-08-27 22:59:43",
+  "snapshotId": 41486,
+  "useScenario": "适用于从零纯文字建立写实角色、复刻已有角色、服装定妆、配饰／美甲／纹身局部细节卡、无头正面＋带头背面＋唯一正脸锚点的三格角色表、高精度面部特写和双参考换装。纯文字定脸可选 Lib navo pro 直出，或先用 Lib Image／Style Image V8.2 探索候选，再由 Lib navo pro 标准化。不包含叙事场景或环境空镜。",
+  "inputType": "从零创建时，用中文提供共享身份不变量、可探索的脸部方向、肤色、头发、体型和永久标记。Skill 提供三条路线：Lib navo pro 直出，或 Lib Image／Style Image V8.2 先试脸。候选必须由用户选一张，再用 Lib navo pro 建权威身份卡；之后做服装定妆、按需细节卡和三格角色表。每步核对节点显示名；不能绑定时仅交付 Prompt。",
+  "outputContent": "输出中文确认清单和路由卡、三条纯文字定脸选择、候选图与唯一权威身份卡的资产关系、参考图职责，以及可直接复制的完整英文 Prompt。角色表只输出一张三格图；美甲、首饰、纹身等细节按区域单独输出辅助卡；换装使用双参考短 Prompt。不会留下未填参数，也不会自动发布。",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/29f63e6f7cd3462a8ef68fadbefec885/7897406938d6c32aa5e929d8643a359f779a22e5.png",
+  "resultType": 2,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=03ffc490615c4202bdfb67edce2eb8d8",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/29f63e6f7cd3462a8ef68fadbefec885/7897406938d6c32aa5e929d8643a359f779a22e5.png"
+  ],
+  "hasPublicSkillContent": true
+}

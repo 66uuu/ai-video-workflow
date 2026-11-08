@@ -1,0 +1,32 @@
+{
+  "name": "嘎蛋班长-丫一吧",
+  "templateUuid": "32de226d4ff34aa490f5ff9f70ea51c8",
+  "skillUuid": "c68bb2009bf9467785a894d3a3b97f3d",
+  "skillKey": "script-production-orchestrator-97732afae5b94b01974016375995e488",
+  "version": "1.0.1",
+  "namespace": "libtv-user-generated",
+  "description": "根据剧本、人物设定和场景设定，自动完成所有环节",
+  "author": "丫一吧",
+  "ownerId": 51974,
+  "tags": [],
+  "likeCount": 1,
+  "usePv": 0,
+  "useUv": 0,
+  "publishAt": "2026-09-10 14:13:52",
+  "snapshotId": 44959,
+  "useScenario": "适用于《嘎蛋班长》从剧本到动画画面的全流程视觉创作：\n\n剧本视觉化：将文字剧情转化为具体画面。\n角色出图：生成统一风格的人物立绘、动作、表情和三视图。\n场景设计：设计桃花吐村、桃花山、小凌河、学校、树林等场景。\n分镜制作：根据剧情设计连续、连贯的电影级分镜。\nAI动画：将静态画面转化为具有夸张表演和镜头运动的动画。\n喜剧镜头：强化追逐、摔倒、误会、表情反应等搞笑桥段。\n情感镜头：表现嘎蛋成长、伙伴",
+  "inputType": "使用时直接把剧本、人物设定、场景设定或具体需求告诉 Skill，它会自动按照《嘎蛋班长》的统一动画电影风格进行视觉设计。",
+  "outputContent": "Skill最终输出的是一套可直接用于AI动画制作的视觉方案，确保《嘎蛋班长》从剧本到画面风格统一。",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/97732afae5b94b01974016375995e488/fc6801286603ab6949f19540bade1f0455e99789.png",
+  "resultType": 2,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=32de226d4ff34aa490f5ff9f70ea51c8",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/97732afae5b94b01974016375995e488/fc6801286603ab6949f19540bade1f0455e99789.png"
+  ],
+  "hasPublicSkillContent": true
+}

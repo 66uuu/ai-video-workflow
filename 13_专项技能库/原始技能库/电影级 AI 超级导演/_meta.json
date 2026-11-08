@@ -1,0 +1,34 @@
+{
+  "name": "电影级 AI 超级导演",
+  "templateUuid": "de3d5a320add4083be40d52e7260efe4",
+  "skillUuid": "1c3d548fdb41496c88011656c14cb8aa",
+  "skillKey": "cinematic-film-director-8202932176ac485b9572011074a9f39c",
+  "version": "1.0.4",
+  "namespace": "libtv-user-generated",
+  "description": "首创五阶段审核制片管线，让粗糙剧本一键化身电影级视听方案。",
+  "author": "LibTV",
+  "ownerId": 5924079,
+  "tags": [
+    "专业影视"
+  ],
+  "likeCount": 308,
+  "usePv": 505,
+  "useUv": 268,
+  "publishAt": "2026-08-13 10:03:11",
+  "snapshotId": 36469,
+  "useScenario": "优先推荐《电影级 AI 分镜导演》skill，这个是升级优化过后的版本，会比这个1.0的好一些。\n适用于短剧导演、AI 视频创作者、广告策划和自媒体博主。当创作者手头只有粗略的文字剧本，却想通过极其严密的电影工业化标准流程，生成视觉连贯性强、不穿帮、具备高质感音画表现的专业视频分镜与后期剪辑方案时使用。",
+  "inputType": "1. 准备好你的一段文字剧本或故事点子。\n发送给该 Skill，并说出你想要的电影风格或偏好的画幅比例（如 16:9 或 9:1",
+  "outputContent": "包含【15秒时限分镜镜头卡】、【音画解耦资产库】、【静态故事板 Prompt】、【Camera+Subject 双层视频指令】以及【全局贯穿 BGM 与后期剪辑时序表】的完整多模态影视级制片策划案。",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/8202932176ac485b9572011074a9f39c/f6156f3f85b03e64f4f45a60bb49df27bdbbfe35.png",
+  "resultType": 3,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=de3d5a320add4083be40d52e7260efe4",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/8202932176ac485b9572011074a9f39c/3cb50bbb7691198b997d261e1763903bc2e40afd.mp4"
+  ],
+  "hasPublicSkillContent": true
+}

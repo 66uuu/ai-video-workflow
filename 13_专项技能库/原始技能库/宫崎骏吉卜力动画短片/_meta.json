@@ -1,0 +1,32 @@
+{
+  "name": "宫崎骏吉卜力动画短片",
+  "templateUuid": "f13054b3698047b184ae66481e5509d7",
+  "skillUuid": "a4a0b35c92d545f98f33fd353b452ee7",
+  "skillKey": "ghibli-movie-poster-9c24ff98e6154a22a44f9e087086120a",
+  "version": "1.0.1",
+  "namespace": "libtv-user-generated",
+  "description": "基于用户脚本，一键生成吉卜力动画创作工作流",
+  "author": "好事发生",
+  "ownerId": 843720,
+  "tags": [],
+  "likeCount": 8,
+  "usePv": 15,
+  "useUv": 13,
+  "publishAt": "2026-08-19 11:00:29",
+  "snapshotId": 38366,
+  "useScenario": "用户提供动画短片脚本，需要按吉卜力美学完整制作：角色设计确认→分镜故事板创作→逐段动画视频生成→BGM生成→最终合成成片。动画短片制作完成后，生成配套宣传海报。",
+  "inputType": "动画短片脚本文本节点，包含人物清单、分镜描述、时长与画幅要求",
+  "outputContent": "完整动画短片成片视频节点，含角色锚点图、详细故事板、分段动画视频、BGM音频、16:9横版吉卜力风格电影海报图片",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/9c24ff98e6154a22a44f9e087086120a/76c953b136e81db4e91195eaf6e92eae74ad4e6b.png",
+  "resultType": 3,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=f13054b3698047b184ae66481e5509d7",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/9c24ff98e6154a22a44f9e087086120a/5f64f76c66d767fb38cb982aa064a476290d476e.mp4"
+  ],
+  "hasPublicSkillContent": true
+}

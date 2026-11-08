@@ -1,0 +1,32 @@
+{
+  "name": "原子朋克风精品漫剧",
+  "templateUuid": "18a9ddd91a704f10ac3e07ad719e2de0",
+  "skillUuid": "452af059d31c4adfa77f408f0a684553",
+  "skillKey": "atomicpunk-manga-director-b35a452e51174337ad24d8c3392c950b",
+  "version": "1.0.2",
+  "namespace": "libtv-user-generated",
+  "description": "SD2.5漫剧导演，原子朋克 / 国漫厚涂 / 出海短剧",
+  "author": "刀哥聊AI",
+  "ownerId": 4962815,
+  "tags": [],
+  "likeCount": 3,
+  "usePv": 0,
+  "useUv": 0,
+  "publishAt": "2026-08-11 14:03:29",
+  "snapshotId": 35767,
+  "useScenario": "原子朋克 / 国漫厚涂 / 出海短剧 / 个人 IP 风格的 AI 漫剧全流程制作",
+  "inputType": "剧本内容，故事梗概",
+  "outputContent": "分镜剧本",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/b35a452e51174337ad24d8c3392c950b/1bde100595ec81492e7cfa6d06f7fb5e39bfe77a.png",
+  "resultType": 3,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=18a9ddd91a704f10ac3e07ad719e2de0",
+  "files": [
+    "SKILL.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/b35a452e51174337ad24d8c3392c950b/6109c1ea6d5334ecbb62a68ef1554b326d9e7d09.mp4"
+  ],
+  "hasPublicSkillContent": true
+}

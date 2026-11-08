@@ -1,0 +1,38 @@
+{
+  "name": "研乐漫剧国漫战斗爆剪母版",
+  "templateUuid": "e4c0b880a79642db8c91105faa0d17b9",
+  "skillUuid": "cd79009221d6494dadd39fb96b67b180",
+  "skillKey": "anime-battle-action-generator-46be58ee61ff40dc989a51c4f3fc775b",
+  "version": "1.0.0",
+  "namespace": "libtv-user-generated",
+  "description": "一句话输出完整10秒-60秒高燃流畅打斗无废片",
+  "author": "研乐AIGC",
+  "ownerId": 276023,
+  "tags": [
+    "动漫游戏"
+  ],
+  "likeCount": 71,
+  "usePv": 96,
+  "useUv": 57,
+  "publishAt": "2026-07-14 20:59:10",
+  "snapshotId": 27065,
+  "useScenario": "涉及漫剧战斗，高级战斗，剧烈战斗，快速战斗，打斗方向使用，高契合度的结合影视动作剪辑流程制作；",
+  "inputType": "使用自然语言或者剧本或者你的任意想法激活。举例1：给我来一段2人激战15秒的片段；举例2：输入完整的打斗剧本，自动帮你拆成每段1",
+  "outputContent": "输出一条匹配时长的（4S-15S）的高契合度的结合影视动作剪辑流程制作的完整打斗片段，减少算力成本和抽卡次数。",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/46be58ee61ff40dc989a51c4f3fc775b/d42e9c2d3d6f8cf5a23f8c7065d0a0d09cdccf41.png",
+  "resultType": 3,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=e4c0b880a79642db8c91105faa0d17b9",
+  "files": [
+    "SKILL.md",
+    "【研乐文生视频总母版｜零压缩最高调度版】.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/46be58ee61ff40dc989a51c4f3fc775b/b2807a47866ed3ddb30a871d5aa6228116682db9.mp4",
+    "https://libtv-res.liblib.art/upload-images/46be58ee61ff40dc989a51c4f3fc775b/ed53a7e735882deaa57ed1164192f01f6b9769bc.mp4",
+    "https://libtv-res.liblib.art/upload-images/46be58ee61ff40dc989a51c4f3fc775b/a4ca53a33652dbfcd17aeed04143b1e373f12c7c.mp4",
+    "https://libtv-res.liblib.art/upload-images/46be58ee61ff40dc989a51c4f3fc775b/74d44c2b59c6ca29208a0279b5e28c0d0e0c600c.mp4"
+  ],
+  "hasPublicSkillContent": true
+}

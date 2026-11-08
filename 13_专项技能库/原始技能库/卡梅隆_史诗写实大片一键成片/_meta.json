@@ -1,0 +1,36 @@
+{
+  "name": "卡梅隆|史诗写实大片一键成片",
+  "templateUuid": "86de1cb1e60b4591835b7eb04ef2510c",
+  "skillUuid": "7a2ea17ff9a84514bb8ceb47116dad2d",
+  "skillKey": "epic-cinematic-blockbuster-074be3667ece41bc8993cea11c99240e",
+  "version": "1.0.4",
+  "namespace": "libtv-user-generated",
+  "description": "输入一句话，产出卡梅隆级史诗大片，自带音效与排雷，全自动交付",
+  "author": "杭州金包银批发总部",
+  "ownerId": 10465270,
+  "tags": [],
+  "likeCount": null,
+  "usePv": 6,
+  "useUv": 5,
+  "publishAt": "2026-09-22 20:02:02",
+  "snapshotId": 49261,
+  "useScenario": "适用于城市史诗宣传片、企业形象大片、非遗/国潮主题短剧、文明交流互鉴故事，以及任何需要“电影级质感”的AI视频创作项目。一键解决普通AI工具画面塑料、穿模、缺乏电影感的痛点，并由“顶级大导演思维”引擎直接代工，保障出片即大片。",
+  "inputType": "只需要在对话框中输入一句你想表达的故事核心（例如：“一位滨江AI创始人向全球发出一封邀请函”），或直接粘贴你的剧本。点击运行，本SKILL将强制调用【顶级大导演思维】16个MD底层规则，自动完成角色/场景锚定、分镜拆解、防崩排雷与镜头生成，严格执行【卡梅隆色彩防崩禁则】（钢蓝铺底、暗金点睛），绝不穿模，绝不发银白！",
+  "outputContent": "120秒卡梅隆级史诗写实大片成片（含电影级色彩滤镜与基础音效设计），附完整分镜脚本、全套金包银专属防崩素材库，直接可用的高清视频文件。",
+  "coverUrl": "https://libtv-res.liblib.art/upload-images/074be3667ece41bc8993cea11c99240e/9ceec5b036de393e10ee6df3ccc35f2ddc674e7f.png",
+  "resultType": 3,
+  "auditStatus": 1,
+  "sourceUrl": "https://libtv.com/skill",
+  "detailApi": "https://www.liblib.tv/api/community/skill/template/detail?templateUuid=86de1cb1e60b4591835b7eb04ef2510c",
+  "files": [
+    "SKILL.md",
+    "【卡梅隆_色彩与防崩禁则.md】.md",
+    "【卡梅隆_叙事与镜头铁律.md】.md",
+    "卡梅隆_获奖级实战档案.md"
+  ],
+  "caseUrls": [
+    "https://libtv-res.liblib.art/upload-images/074be3667ece41bc8993cea11c99240e/9782b060abb80977795b8a560c00901187dfc7be.mp4",
+    "https://libtv-res.liblib.art/upload-images/074be3667ece41bc8993cea11c99240e/b67152b72c431381a19bfb0832668ae6f235573d.mp4"
+  ],
+  "hasPublicSkillContent": true
+}
